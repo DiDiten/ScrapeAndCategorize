@@ -1,2 +1,5 @@
 ss://29b198d6-25e1-4c15-9b53-feacf78ac3d0@65.109.203.8:14787?flow=&fp=chrome&pbk=---rivmiDN3OHmQHOpowqKDVft8FWrl4BqZ_gyImCR4&security=reality&serviceName=digikala.ir&sid=be31134d&sni=tgju.org&type=grpc#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.203.8:14787
+ss://53036e65-dcda-4349-92f6-c783ab837f82@s-3.yuz-service.top:2053?security=none&encryption=none&headerType=http&type=tcp#Tel+%7C+%40fastkanfig
+ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05Ub3dUMWxRT0dsVkszZFJXREZhVlUxWGNFeFFXVEYzV0ZrM04wOXVNakphU210NVdtazFZa1pTTkV4M1BRJTNEJTNEOg==@157.180.127.73:23819#🆔xixv2ray%20🔒%20SS-TCP-TLS%20🇫🇮%20FI%20120ms
 vless://29b198d6-25e1-4c15-9b53-feacf78ac3d0@65.109.203.8:14787?flow=&fp=chrome&pbk=---rivmiDN3OHmQHOpowqKDVft8FWrl4BqZ_gyImCR4&security=reality&serviceName=digikala.ir&sid=be31134d&sni=tgju.org&type=grpc#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%AB%F0%9F%87%AE%20FI-65.109.203.8:14787
+vless://53036e65-dcda-4349-92f6-c783ab837f82@s-3.yuz-service.top:2053?security=none&encryption=none&headerType=http&type=tcp#Tel+%7C+%40fastkanfig
