@@ -5,7 +5,8 @@ on:
     branches:
       - Main 
   workflow_dispatch:
-
+  schedule:
+    - cron: '20 * * * *'
 jobs:
   build-and-commit:
     runs-on: ubuntu-24.04
