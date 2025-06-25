@@ -3,10 +3,11 @@ name: Scrape V2Ray Configs
 on:
   push:
     branches:
-      - Main 
+      - main
   workflow_dispatch:
   schedule:
     - cron: '20 * * * *'
+
 jobs:
   build-and-commit:
     runs-on: ubuntu-24.04
@@ -32,6 +33,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A .  
+          git add -A .
           git diff-index --quiet HEAD || git commit -m "Automated config refresh completed at: $(TZ='Asia/Tehran' date '+%H:%M:%S')"
+          git pull --rebase origin main
           git push
