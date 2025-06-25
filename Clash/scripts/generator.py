@@ -4,28 +4,32 @@ import requests
 import time
 from urllib.parse import urlparse, quote_plus
 
-# --- تعریف پوشه اصلی clash ---
-CLASH_DIR = 'clash' # پوشه جدید ما
+# --- Determine the base directory for 'clash' ---
+# This correctly calculates the path to the 'Clash' directory
+# by going up two levels from the current script's location (clash/scripts/generator.py)
+# e.g., /home/runner/work/repo/repo/Clash/scripts/generator.py -> /home/runner/work/repo/repo/Clash/scripts -> /home/runner/work/repo/repo/Clash
+CLASH_ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-# --- نام فایل‌ها و پوشه‌ها (مسیردهی جدید) ---
-TEMPLATE_FILE = os.path.join(CLASH_DIR, 'template.yaml')
-SUBS_FILE = os.path.join(CLASH_DIR, 'subscriptions.txt')
-FORMAT_FILE = os.path.join(CLASH_DIR, 'format.txt')
-OUTPUT_DIR = os.path.join(CLASH_DIR, 'output')
-PROVIDERS_DIR = os.path.join(CLASH_DIR, 'providers')
-README_FILE = os.path.join(CLASH_DIR, 'README.md') # README.md هم به داخل clash میرود
+# --- File and Folder Names (paths are now relative to CLASH_ROOT_DIR) ---
+# These paths directly point to files and directories within the 'Clash' folder.
+TEMPLATE_FILE = os.path.join(CLASH_ROOT_DIR, 'template.yaml')
+SUBS_FILE = os.path.join(CLASH_ROOT_DIR, 'subscriptions.txt')
+FORMAT_FILE = os.path.join(CLASH_ROOT_DIR, 'format.txt')
+OUTPUT_DIR = os.path.join(CLASH_ROOT_DIR, 'output')
+PROVIDERS_DIR = os.path.join(CLASH_ROOT_DIR, 'providers')
+README_FILE = os.path.join(CLASH_ROOT_DIR, 'README.md') # README.md is now expected directly inside the 'Clash' directory
 GITHUB_REPO = os.environ.get('GITHUB_REPOSITORY')
 
 
 def get_filename_from_url(url):
-    """تابعی برای استخراج نام فایل از URL"""
+    """Function to extract filename from URL"""
     path = urlparse(url).path
     filename = os.path.basename(path)
     return os.path.splitext(filename)[0]
 
 
 def update_readme(output_files):
-    """تابعی برای به‌روزرسانی فایل README.md"""
+    """Function to update the README.md file"""
     if not GITHUB_REPO:
         sys.exit("Critical Error: GITHUB_REPOSITORY environment variable is not set.")
 
@@ -34,25 +38,26 @@ def update_readme(output_files):
     links_md_content = "## 🔗 لینک‌های کانفیگ آماده (Raw)\n\n"
     links_md_content += "برای استفاده، لینک‌های زیر را مستقیما در کلش کپی کنید.\n\n"
     for filename in sorted(output_files):
-        # تغییر در اینجا: اضافه کردن CLASH_DIR به مسیر URL
-        # ما فقط نام "output" را نیاز داریم، نه کل مسیر "clash/output"
-        output_sub_dir_name = os.path.basename(OUTPUT_DIR)
-        raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/main/{CLASH_DIR}/{output_sub_dir_name}/{filename}"
+        # The GitHub raw URL needs to reflect the full path from the repo root
+        # e.g., https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/main/Clash/output/filename.yaml
+        clash_dir_name = os.path.basename(CLASH_ROOT_DIR) # This will correctly be 'Clash'
+        output_sub_dir_name = os.path.basename(OUTPUT_DIR) # This will correctly be 'output'
+        raw_url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/main/{clash_dir_name}/{output_sub_dir_name}/{filename}"
         title = os.path.splitext(filename)[0]
         links_md_content += f"* **{title}**: `{raw_url}`\n"
 
     try:
-        # تغییر در اینجا: استفاده از مسیر جدید README_FILE
+        # Use the correct path for README_FILE, which is in CLASH_ROOT_DIR
         with open(README_FILE, 'r', encoding='utf-8') as f:
             readme_content = f.read()
     except FileNotFoundError:
-        sys.exit(f"CRITICAL ERROR: The '{README_FILE}' file was not found. Make sure it's in the '{CLASH_DIR}' directory.")
+        sys.exit(f"CRITICAL ERROR: The '{README_FILE}' file was not found. Make sure it's in the '{os.path.basename(CLASH_ROOT_DIR)}' directory.")
 
     start_marker = ""
     end_marker = ""
 
     if start_marker not in readme_content or end_marker not in readme_content:
-        sys.exit(f"CRITICAL ERROR: Markers not found in {README_FILE}.")
+        sys.exit(f"CRITICAL ERROR: Markers not found in {README_FILE}. Please add '' and '' to {README_FILE}.")
 
     before_part = readme_content.split(start_marker)[0]
     after_part = readme_content.split(end_marker)[1]
@@ -62,7 +67,7 @@ def update_readme(output_files):
         links_md_content + "\n" + end_marker + after_part
     )
 
-    # تغییر در اینجا: استفاده از مسیر جدید README_FILE
+    # Write to the correct README_FILE path
     with open(README_FILE, 'w', encoding='utf-8') as f:
         f.write(new_readme_content)
 
@@ -71,11 +76,11 @@ def update_readme(output_files):
 
 def main():
     """
-    تابع اصلی که از جایگزینی متن ساده و تلاش مجدد برای دانلود استفاده می‌کند.
+    Main function that uses simple text replacement and retry logic for downloads.
     """
     print("Starting robust generation process with retry logic...")
     try:
-        # تغییر در اینجا: استفاده از مسیرهای جدید فایل‌ها
+        # Use the correct paths for input files
         with open(TEMPLATE_FILE, 'r', encoding='utf-8') as f:
             template_content = f.read()
 
@@ -87,19 +92,19 @@ def main():
             format_string = "[URL]"
 
     except FileNotFoundError as e:
-        sys.exit(f"CRITICAL ERROR: A required file is missing: {e.filename}. Make sure it's in the '{CLASH_DIR}' directory.")
+        sys.exit(f"CRITICAL ERROR: A required file is missing: {e.filename}. Make sure it's in the '{os.path.basename(CLASH_ROOT_DIR)}' directory.")
 
-    # ایجاد پوشه اصلی 'clash' و سپس زیرپوشه‌های آن
-    os.makedirs(CLASH_DIR, exist_ok=True)
+    # Create the main 'Clash' directory and then its subdirectories
+    os.makedirs(CLASH_ROOT_DIR, exist_ok=True) # Ensure 'Clash' exists (redundant if repo structure is fixed, but harmless)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs(PROVIDERS_DIR, exist_ok=True)
 
     try:
-        # تغییر در اینجا: استفاده از مسیر جدید SUBS_FILE
+        # Use the correct path for SUBS_FILE
         with open(SUBS_FILE, 'r', encoding='utf-8') as f:
             subscriptions = [line.strip() for line in f if line.strip() and not line.startswith('#')]
     except FileNotFoundError:
-        sys.exit(f"CRITICAL ERROR: Subscription file '{SUBS_FILE}' not found. Make sure it's in the '{CLASH_DIR}' directory.")
+        sys.exit(f"CRITICAL ERROR: Subscription file '{SUBS_FILE}' not found. Make sure it's in the '{os.path.basename(CLASH_ROOT_DIR)}' directory.")
 
     generated_files = []
 
@@ -121,19 +126,19 @@ def main():
         print(f"  -> Wrapped URL: {wrapped_url}")
 
         provider_filename = f"{file_name_base}.txt"
-        provider_path = os.path.join(PROVIDERS_DIR, provider_filename) # این مسیر حالا به 'clash/providers/...' اشاره میکند
+        provider_path = os.path.join(PROVIDERS_DIR, provider_filename) # This path will be 'Clash/providers/...'
 
-        # --- بخش کلیدی و جدید: منطق تلاش مجدد ---
+        # --- Key section: Retry logic ---
         response = None
         max_retries = 3
-        retry_delay = 5  # 5 ثانیه تأخیر بین هر تلاش
+        retry_delay = 5  # 5 seconds delay between each attempt
 
         for attempt in range(max_retries):
             try:
-                response = requests.get(wrapped_url, timeout=45) # افزایش زمان انتظار
-                response.raise_for_status() # بررسی خطاهای HTTP مثل 4xx/5xx
+                response = requests.get(wrapped_url, timeout=45) # Increased timeout
+                response.raise_for_status() # Check for HTTP errors like 4xx/5xx
                 print(f"  -> Successfully downloaded on attempt {attempt + 1}.")
-                break  # اگر موفق بود، از حلقه خارج شو
+                break  # Exit loop if successful
             except requests.RequestException as e:
                 print(f"  -> Attempt {attempt + 1}/{max_retries} failed: {e}")
                 if attempt < max_retries - 1:
@@ -142,11 +147,11 @@ def main():
                 else:
                     print(f"  -> All retries failed. Skipping this subscription.")
 
-        # اگر بعد از تمام تلاش‌ها، دانلود ناموفق بود، به لینک بعدی برو
+        # If download failed after all retries, skip to next link
         if response is None or not response.ok:
             continue
 
-        # ذخیره محتوای دانلود شده
+        # Save downloaded content
         with open(provider_path, 'w', encoding='utf-8') as f:
             f.write(response.text)
         print(f"  -> Successfully saved content to {provider_path}")
@@ -154,21 +159,24 @@ def main():
         if not GITHUB_REPO:
             continue
 
-        # تغییر در اینجا: مسیر raw_provider_url باید شامل CLASH_DIR باشد
-        # فرض میکنیم GITHUB_REPO به ریشه مخزن اشاره میکند
-        # پس مسیر در گیت‌هاب خواهد بود: main/clash/providers/filename.txt
-        raw_provider_url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/main/{CLASH_DIR}/{os.path.basename(PROVIDERS_DIR)}/{provider_filename}"
+        # The raw_provider_url needs to include CLASH_ROOT_DIR (i.e., 'Clash')
+        # e.g., https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/main/Clash/providers/filename.txt
+        clash_dir_name = os.path.basename(CLASH_ROOT_DIR)
+        providers_sub_dir_name = os.path.basename(PROVIDERS_DIR)
+        raw_provider_url = f"https://raw.githubusercontent.com/{GITHUB_REPO}/main/{clash_dir_name}/{providers_sub_dir_name}/{provider_filename}"
 
 
         modified_content = template_content
         modified_content = modified_content.replace("%%URL_PLACEHOLDER%%", raw_provider_url)
-        # تغییر در اینجا: مسیر PATH_PLACEHOLDER باید نسبت به فایل نهایی باشد
-        # اگر فایل نهایی در clash/output است و provider در clash/providers، مسیر نسبی اینگونه میشود
-        relative_provider_path = os.path.relpath(provider_path, OUTPUT_DIR)
+        # The PATH_PLACEHOLDER needs to be relative from the output file.
+        # Output files are in OUTPUT_DIR, provider files are in PROVIDERS_DIR.
+        # Both OUTPUT_DIR and PROVIDERS_DIR are inside CLASH_ROOT_DIR.
+        # So, the relative path from 'Clash/output' to 'Clash/providers' would be '../providers/filename.txt'
+        relative_provider_path = os.path.relpath(provider_path, start=OUTPUT_DIR)
         modified_content = modified_content.replace("%%PATH_PLACEHOLDER%%", f"./{relative_provider_path}")
 
         output_filename = f"{file_name_base}.yaml"
-        output_path = os.path.join(OUTPUT_DIR, output_filename) # این مسیر حالا به 'clash/output/...' اشاره میکند
+        output_path = os.path.join(OUTPUT_DIR, output_filename) # This path will be 'Clash/output/...'
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write(modified_content)
 
