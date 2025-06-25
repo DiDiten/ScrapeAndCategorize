@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/DiDiten/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt,diditen-fetcher
 https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/base64/mix,diditen-mix
+https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Iran.txt,scrape-iran
