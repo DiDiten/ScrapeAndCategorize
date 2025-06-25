@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch: # Allows manual triggering of the workflow
   schedule:
-    - cron: '25 * * * *'
+    - cron: '29 * * * *'
 
 jobs:
   build:
