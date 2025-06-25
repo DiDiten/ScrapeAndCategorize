@@ -1,0 +1,9 @@
+ss://289c0de5-81ba-4af8-aeb2-7e7e49f5c8a8@mr.reiisvezze2.ir:39387?security=&encryption=none&host=fast.com&headerType=http&type=tcp#🆔club_profsor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+ss://8df60790-c903-4661-b85d-64c0009378e5@104.25.227.244:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=f1.parsa.filegear-sg.me&fp=chrome&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#Cloud
+ss://YWVzLTI1Ni1nY206MDVhZTEwMjctNjQxMi04NTRhLTkyYmYtMGZlMmY4MGJjMjlm@90427180822371121690946278334118.international-ixp.com:11310#🆔club_profsor%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20down
+ss://c9cb8a57-ea5d-4c9a-9151-029670a2f163@tfir.tehranify.shop:2344?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔club_profsor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20405ms
+ss://e6cd06e3-39a2-4c55-b3af-f034501a5a21@good.srvice.shop:23722?security=&encryption=none&headerType=none&type=tcp#🆔club_profsor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+vless://289c0de5-81ba-4af8-aeb2-7e7e49f5c8a8@mr.reiisvezze2.ir:39387?security=&encryption=none&host=fast.com&headerType=http&type=tcp#🆔club_profsor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+vless://8df60790-c903-4661-b85d-64c0009378e5@104.25.227.244:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=f1.parsa.filegear-sg.me&fp=chrome&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#Cloud
+vless://c9cb8a57-ea5d-4c9a-9151-029670a2f163@tfir.tehranify.shop:2344?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔club_profsor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20405ms
+vless://e6cd06e3-39a2-4c55-b3af-f034501a5a21@good.srvice.shop:23722?security=&encryption=none&headerType=none&type=tcp#🆔club_profsor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down

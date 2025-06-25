@@ -1,0 +1,10 @@
+ss://0f704340-8572-4e22-a428-3f83f9e2f62d@cdnf.ten10rocket.top:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Q2amozed.com&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇹%20IT%2090ms
+ss://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20103ms
+ss://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇹%20IT%2088ms
+ss://d70422cc-4f4a-4caa-b060-87fc836ee877@pivaz.fastly80.hosting-ip.com:80?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇹%20IT%20103ms
+ss://d70422cc-4f4a-4caa-b060-87fc836ee877@pivaz.fastly80.hosting-ip.com:80?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇹%20IT%20130ms
+vless://0f704340-8572-4e22-a428-3f83f9e2f62d@cdnf.ten10rocket.top:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Q2amozed.com&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇹%20IT%2090ms
+vless://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20103ms
+vless://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇹%20IT%2088ms
+vless://d70422cc-4f4a-4caa-b060-87fc836ee877@pivaz.fastly80.hosting-ip.com:80?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇹%20IT%20103ms
+vless://d70422cc-4f4a-4caa-b060-87fc836ee877@pivaz.fastly80.hosting-ip.com:80?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇹%20IT%20130ms
