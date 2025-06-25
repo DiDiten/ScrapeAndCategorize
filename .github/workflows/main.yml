@@ -26,8 +26,8 @@ jobs:
 
       - name: Run Config Generator
         # Correct path to your Python script based on your repository structure:
-        # It's inside the 'clash' directory, and then inside 'scripts'
-        run: python clash/scripts/generator.py
+        # https://github.com/DiDiten/ScrapeAndCategorize/blob/main/Clash/scripts/generator.py
+        run: python Clash/scripts/generator.py
         env:
           GITHUB_REPOSITORY: ${{ github.repository }} # Passes the repository name as an environment variable
 
@@ -35,8 +35,9 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5 # Action to automatically commit changes
         with:
           commit_message: "chore: auto-generate configs via updated format" # Commit message
-          # File patterns to commit - all must reference paths within the 'clash' directory
-          file_pattern: "clash/output/*.yaml clash/providers/*.txt clash/README.md clash/*.txt clash/*.yaml"
+          # File patterns to commit - all must reference paths within the 'Clash' directory
+          # Using "Clash/" directly for all files.
+          file_pattern: "Clash/output/*.yaml Clash/providers/*.txt Clash/README.md Clash/*.txt Clash/*.yaml"
           commit_user_name: GitHub Actions Bot
           commit_user_email: actions@github.com
           commit_author: GitHub Actions Bot <actions@github.com>
