@@ -1,0 +1,2 @@
+ss://4c29479c-7ca2-443b-9cb1-c0c10dcbb043@1.1.1.1:1111?security=none&type=ws&headerType=&path=%2F&host=#🆔soskeynet%20🔓%20VL-WS-N/A%20🇦🇺%20AU%20down
+vless://4c29479c-7ca2-443b-9cb1-c0c10dcbb043@1.1.1.1:1111?security=none&type=ws&headerType=&path=%2F&host=#🆔soskeynet%20🔓%20VL-WS-N/A%20🇦🇺%20AU%20down

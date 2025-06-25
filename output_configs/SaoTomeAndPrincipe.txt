@@ -1,4 +1,4 @@
-ss://68b75f4d-078d-4055-ff8d-493d2592b255@www.speedtest.net:2095?type=httpupgrade&path=%2Fv2net%3Fed%3D2095&host=gggooooooooooooooooooogggoooooolimaaaaaaaaaagoooooooli.time.ir.flyskyfly.site.&security=none#fast_52
+ss://8ad321e9-7f47-4706-a101-11aefa88723b@104.24.197.20:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-sun.parsa.dpdns.org&fp=chrome&type=ws&sni=rayan-sun.parsa.dpdns.org#fast_52
 ss://a2916481-9a5b-4697-fb92-a4f3fbfb0e5b@www.speedtest.net:2086?type=httpupgrade&path=%2Fv2net%3Fed%3D2086&host=gggooooooooooooooooooogggoooooolimaaaaaaaaaagoooooooli.torob.com.mayding.site.&security=none#fast_52
-vless://68b75f4d-078d-4055-ff8d-493d2592b255@www.speedtest.net:2095?type=httpupgrade&path=%2Fv2net%3Fed%3D2095&host=gggooooooooooooooooooogggoooooolimaaaaaaaaaagoooooooli.time.ir.flyskyfly.site.&security=none#fast_52
+vless://8ad321e9-7f47-4706-a101-11aefa88723b@104.24.197.20:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-sun.parsa.dpdns.org&fp=chrome&type=ws&sni=rayan-sun.parsa.dpdns.org#fast_52
 vless://a2916481-9a5b-4697-fb92-a4f3fbfb0e5b@www.speedtest.net:2086?type=httpupgrade&path=%2Fv2net%3Fed%3D2086&host=gggooooooooooooooooooogggoooooolimaaaaaaaaaagoooooooli.torob.com.mayding.site.&security=none#fast_52
