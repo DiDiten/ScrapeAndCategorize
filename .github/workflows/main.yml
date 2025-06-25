@@ -4,37 +4,38 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch: # اجازه اجرای دستی workflow
+  workflow_dispatch: # Allows manual triggering of the workflow
   schedule:
-    - cron: '0 */2 * * *' # هر 2 ساعت یکبار اجرا شود (مثلاً ساعت 0، 2، 4، ...)
+    - cron: '0 */2 * * *' # Runs every 2 hours (e.g., at 0, 2, 4, etc.)
+
 
 jobs:
   build:
-    runs-on: ubuntu-latest # استفاده از سیستم عامل اوبونتو برای اجرای job
+    runs-on: ubuntu-latest # Uses the latest Ubuntu environment for the job
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4 # گرفتن کپی از مخزن
+        uses: actions/checkout@v4 # Checks out your repository code
 
       - name: Set up Python
-        uses: actions/setup-python@v5 # تنظیم محیط پایتون
+        uses: actions/setup-python@v5 # Sets up a Python environment
         with:
-          python-version: '3.10' # استفاده از پایتون 3.10
+          python-version: '3.10' # Specifies Python version 3.10
 
       - name: Install Dependencies
-        run: pip install pyyaml requests # نصب پکیج‌های مورد نیاز
+        run: pip install pyyaml requests # Installs necessary Python packages
 
       - name: Run Config Generator
-        # مسیر صحیح اسکریپت پایتون شما
-        # با توجه به اینکه generator.py در Clash/scripts/ قرار دارد.
-        run: python Clash/scripts/generator.py
+        # Correct path to your Python script based on your repository structure:
+        # It's inside the 'clash' directory, and then inside 'scripts'
+        run: python clash/scripts/generator.py
         env:
-          GITHUB_REPOSITORY: ${{ github.repository }} # ارسال نام مخزن به اسکریپت
+          GITHUB_REPOSITORY: ${{ github.repository }} # Passes the repository name as an environment variable
 
       - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v5 # اکشن برای کامیت خودکار
+        uses: stefanzweifel/git-auto-commit-action@v5 # Action to automatically commit changes
         with:
-          commit_message: "chore: auto-generate configs via updated format" # پیام کامیت
-          # الگوهای فایل برای کامیت شدن - همه باید به داخل پوشه 'clash' اشاره کنند
+          commit_message: "chore: auto-generate configs via updated format" # Commit message
+          # File patterns to commit - all must reference paths within the 'clash' directory
           file_pattern: "clash/output/*.yaml clash/providers/*.txt clash/README.md clash/*.txt clash/*.yaml"
           commit_user_name: GitHub Actions Bot
           commit_user_email: actions@github.com
