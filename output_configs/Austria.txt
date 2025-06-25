@@ -1,13 +1,12 @@
-ss://480cede9-7358-4564-a256-3a785ec2fa7d@173.245.49.98:443?encryption=none&security=tls&sni=panel.xrayone.click&alpn=h2&fp=random&type=ws&host=panel.xrayone.click&path=%2Fdl#Death-to-Israel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#🆔xixv2ray%20🔒%20SS-TCP-TLS%20🇦🇹%20AT%20103ms
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-04-TIR-1404
 ss://fbddfda5-cf1f-4bf4-acbc-a60555541beb@46.102.157.79:58105?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20115ms
 ss://fbddfda5-cf1f-4bf4-acbc-a60555541beb@46.102.157.79:58105?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20132ms
 ss://fbddfdbf-d505-51ee-b6a6-bc1f4f4e0195@46.102.157.79:58210?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20124ms
 ss://fbddfdbf-d505-51ee-b6a6-bc1f4f4e0195@46.102.157.79:58210?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20138ms
-vless://480cede9-7358-4564-a256-3a785ec2fa7d@173.245.49.98:443?encryption=none&security=tls&sni=panel.xrayone.click&alpn=h2&fp=random&type=ws&host=panel.xrayone.click&path=%2Fdl#Death-to-Israel
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-04-TIR-1404
 vless://fbddfda5-cf1f-4bf4-acbc-a60555541beb@46.102.157.79:58105?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20115ms
 vless://fbddfda5-cf1f-4bf4-acbc-a60555541beb@46.102.157.79:58105?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20132ms
 vless://fbddfdbf-d505-51ee-b6a6-bc1f4f4e0195@46.102.157.79:58210?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20124ms
 vless://fbddfdbf-d505-51ee-b6a6-bc1f4f4e0195@46.102.157.79:58210?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20138ms
+vmess://ewogICJ2IjogMiwKICAicHMiOiAiVk1FU1Mt5pyq55+lPuazleWbvS1DaGF0R1BULTFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wOjQ0MyIsCiAgImFkZCI6ICIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsCiAgInBvcnQiOiA0NDMsCiAgImlkIjogIjVmNzI2ZmUzLWQ4MmUtNGRhNS1hNzExLThhZjBjYmIyYjY4MiIsCiAgImFpZCI6IDAsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidHlwZSI6IG51bGwsCiAgImhvc3QiOiAiMWEyZDUxNGItMzdjZi00OTlmLThkMDgtZDAxN2E5MmFiNWJiLmFzb3VsLWF2YS50b3AiLAogICJwYXRoIjogIi9henVtYXNlLnJlbiIsCiAgInRscyI6IHRydWUsCiAgInNuaSI6ICIiCn0=

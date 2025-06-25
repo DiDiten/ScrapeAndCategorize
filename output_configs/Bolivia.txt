@@ -1,2 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJaGwxR1BMcXBVTmZ5bUZxRVpJWTlP@neon.blue7ss.com:8081#%40server_nekobox
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJaGwxR1BMcXBVTmZ5bUZxRVpJWTlP@neon.blue7ss.com:8081#%40server_nekobox🚀@server_nekobox🚀
+ss://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.102:443?encryption=none&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#%40orangevpns_bot%20%D8%AA%D9%85%D8%A7%D9%85%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%87%D8%A7
+vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.102:443?encryption=none&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#%40orangevpns_bot%20%D8%AA%D9%85%D8%A7%D9%85%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%87%D8%A7
