@@ -1,0 +1,43 @@
+name: Generate Clash Configs
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */2 * * *'
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install pyyaml requests
+
+      - name: Run Config Generator
+        # فرض بر این است که generator.py در ریشه پروژه است،
+        # اگر آن را به clash/generator.py منتقل کرده‌اید، مسیر را تغییر دهید
+        run: python your_script_name.py # اینجا باید نام اسکریپت پایتون خودتان را بگذارید.
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-generate configs via updated format"
+          # تغییر مسیرها برای شامل شدن پوشه 'clash'
+          file_pattern: "clash/output/*.yaml clash/providers/*.txt clash/README.md clash/*.txt clash/*.yaml"
+          commit_user_name: GitHub Actions Bot
+          commit_user_email: actions@github.com
+          commit_author: GitHub Actions Bot <actions@github.com>
+
