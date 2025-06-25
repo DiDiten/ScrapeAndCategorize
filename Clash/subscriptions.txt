@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/ma
 https://raw.githubusercontent.com/10ium/HiN-VPN/main/subscription/source/base64/speeds_vpn1
 https://raw.githubusercontent.com/10ium/HiN-VPN/main/subscription/source/base64/v2ray1_ng
 https://raw.githubusercontent.com/10ium/HiN-VPN/main/subscription/source/base64/configshubplus
+https://raw.githubusercontent.com/DiDiten/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt,diditen-fetcher
