@@ -1,3 +1,2 @@
 ss://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
-trojan://45f98d84-f1ab-4783-989e-e3b930913665@151.101.242.172:80?path=%2Fws&security=tls&alpn=h2&host=Germandiginoe.com&fp=firefox&type=ws&sni=mci.ir#TROJAN-V2RAY-BYPASS
 vless://acbabca-acab-bcaa-abdc-bbccaabaccab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻%20DEVELOPED-BY%20@YEBEKHE
