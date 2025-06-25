@@ -27,7 +27,7 @@ jobs:
       - name: Run Config Generator
         # فرض بر این است که generator.py در ریشه پروژه است،
         # اگر آن را به clash/generator.py منتقل کرده‌اید، مسیر را تغییر دهید
-        run: python your_script_name.py # اینجا باید نام اسکریپت پایتون خودتان را بگذارید.
+        run: python clash/generator.py # اینجا باید نام اسکریپت پایتون خودتان را بگذارید.
         env:
           GITHUB_REPOSITORY: ${{ github.repository }}
 
