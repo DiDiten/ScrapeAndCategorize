@@ -6,8 +6,7 @@ on:
       - main
   workflow_dispatch: # Allows manual triggering of the workflow
   schedule:
-    - cron: '0 */2 * * *' # Runs every 2 hours (e.g., at 0, 2, 4, etc.)
-
+    - cron: '25 * * * *'
 
 jobs:
   build:
