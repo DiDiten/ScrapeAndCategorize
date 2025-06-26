@@ -1,3 +1,1 @@
-ss://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?type=tcp&headerType=http&host=speedtest.net&security=none#%F0%9F%87%AB%F0%9F%87%B7+France+%7C+All+Net%F0%9F%94%9D
-trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?path=%2Ftr%2Fv%2FtNtL%2Fgfdr&security=none&type=ws#🇩🇪All³
-vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?type=tcp&headerType=http&host=speedtest.net&security=none#%F0%9F%87%AB%F0%9F%87%B7+France+%7C+All+Net%F0%9F%94%9D
+vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImFjYmFjYWItYmNhYS1hYWNiLWJhY2QtY2NiYmFhYWNhYmNiIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDIwODAsICJwcyI6ICJcdWQ4M2VcdWRkMTYgVEVMRUdSQU0tQ0hBTk5FTCBcdWQ4M2NcdWRmMWYgQVJUSUZJQ0lBTC1JTlRFTExJR0VOQ0UgXHVkODNkXHVkZGE1IEBORVVST1ZBTkNFIFx1ZDgzZVx1ZGRlMCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
