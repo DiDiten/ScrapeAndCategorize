@@ -1,9 +1,9 @@
-ss://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#🆔configfa%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20315ms
+ss://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#🆔configfa%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20324ms
 ss://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#🆔configfa%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20467ms
 ss://9914df9b-2771-46a2-a6a5-191d76c188ac@78.46.124.90:49032?security=reality&encryption=none&pbk=HlwZ0JpFj3ZHZv3an9WN_S0KvEboZ4HCMfBA0iBLCEA&headerType=&fp=chrome&spx=%2F&type=tcp&sni=www.cdn77.com&sid=4a#🆔kvetch_matin%20🔒%20VL-TCP-%20🇩🇪%20DE%20114ms
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-05-TIR-1404
 ss://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20150ms
-vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#🆔configfa%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20315ms
+vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#🆔configfa%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20324ms
 vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#🆔configfa%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20467ms
 vless://9914df9b-2771-46a2-a6a5-191d76c188ac@78.46.124.90:49032?security=reality&encryption=none&pbk=HlwZ0JpFj3ZHZv3an9WN_S0KvEboZ4HCMfBA0iBLCEA&headerType=&fp=chrome&spx=%2F&type=tcp&sni=www.cdn77.com&sid=4a#🆔kvetch_matin%20🔒%20VL-TCP-%20🇩🇪%20DE%20114ms
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-05-TIR-1404
