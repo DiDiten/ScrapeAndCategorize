@@ -1,4 +1,4 @@
-ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇸🇬%20SG%20169ms
+ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇸🇬%20SG%20231ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%40V2ray1_Ng
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇸🇬%20SG%20169ms
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇸🇬%20SG%20231ms
 vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjYxMCIsInBzIjoiQHZwbnYycmF5Tkd2INqp2KfZhtmB24zZhtqv2KfbjCDYqNuM2LTYqtixIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
