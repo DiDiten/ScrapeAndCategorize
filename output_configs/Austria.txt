@@ -1,12 +1,10 @@
 ss://5a365e51-4772-4791-a3a9-bed686ca89ac@185.14.160.21:9091?security=none&encryption=none&headerType=http&type=tcp#🆔kvetch_matin%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20876ms
-ss://84177428-a0a1-4993-8565-1097262698ae@213.176.94.9:27860?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20down
+ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-06-TIR-1404
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-05-TIR-1404
 ss://d2a46b5c-8840-4589-885a-0f28036b558c@asia4.novahomedesigntips.com:48820?security=none&encryption=none&type=ws#🆔kvetch_matin%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20207ms
 ss://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20129ms
-ss://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20down
 vless://5a365e51-4772-4791-a3a9-bed686ca89ac@185.14.160.21:9091?security=none&encryption=none&headerType=http&type=tcp#🆔kvetch_matin%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20876ms
-vless://84177428-a0a1-4993-8565-1097262698ae@213.176.94.9:27860?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20down
+vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-06-TIR-1404
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-05-TIR-1404
 vless://d2a46b5c-8840-4589-885a-0f28036b558c@asia4.novahomedesigntips.com:48820?security=none&encryption=none&type=ws#🆔kvetch_matin%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20207ms
 vless://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20129ms
-vless://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20down
