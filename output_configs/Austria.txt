@@ -1,12 +1,10 @@
-ss://329d8863-42ce-4015-b9b9-8417499cc174@cleanv2itech1.freesdns.info:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=m1.freesdns.info.&fp=chrome&type=ws&sni=m1.freesdns.info.#%40sunflowerplato%F0%9F%8C%BB
 ss://84177428-a0a1-4993-8565-1097262698ae@213.176.94.9:27860?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20down
 ss://8ce7abcc-a4ce-416d-97ac-9dc541995f85@xe42-de26cdn1.unlimiteddev.co:8634?security=&encryption=none&host=nimbaha.unlimiteddev.co&headerType=http&type=tcp#🆔kvetch_matin%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20249ms
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-05-TIR-1404
+ss://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20196ms
 ss://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20214ms
-ss://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20down
-vless://329d8863-42ce-4015-b9b9-8417499cc174@cleanv2itech1.freesdns.info:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=m1.freesdns.info.&fp=chrome&type=ws&sni=m1.freesdns.info.#%40sunflowerplato%F0%9F%8C%BB
 vless://84177428-a0a1-4993-8565-1097262698ae@213.176.94.9:27860?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20down
 vless://8ce7abcc-a4ce-416d-97ac-9dc541995f85@xe42-de26cdn1.unlimiteddev.co:8634?security=&encryption=none&host=nimbaha.unlimiteddev.co&headerType=http&type=tcp#🆔kvetch_matin%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20249ms
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-05-TIR-1404
+vless://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20196ms
 vless://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20214ms
-vless://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20down
