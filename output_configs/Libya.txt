@@ -1,2 +1,0 @@
-ss://fff30317-e911-47c1-853f-89db95ea0130@speedtest.net:80?type=ws&path=%2F&host=mohamadrza5119maysoori.com&security=none#fastly-%D8%AA%D9%85%D8%A7%D9%85%20%D9%86%D8%AA%D8%A7-.m
-vless://fff30317-e911-47c1-853f-89db95ea0130@speedtest.net:80?type=ws&path=%2F&host=mohamadrza5119maysoori.com&security=none#fastly-%D8%AA%D9%85%D8%A7%D9%85%20%D9%86%D8%AA%D8%A7-.m
