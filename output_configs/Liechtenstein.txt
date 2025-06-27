@@ -12,6 +12,7 @@ ss://25e5b6e2-84ec-4b1b-b590-cfbb6cfcee1d@94.237.87.217:8443?type=tcp&security=r
 ss://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.138.81:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=fggerlad.gerald81.dpdns.org&fp=chrome&type=ws&sni=fggerlad.gerald81.dpdns.org#@meli_proxyy
 ss://289c0de5-81ba-4af8-aeb2-7e7e49f5c8a8@mr.reiisvezze2.ir:39387?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@meli_proxyy
 ss://2a11c595-935d-4e1b-81d4-ab8dd1e10bff@104.17.147.22:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=DECENt-ReFerEnCE.ZUlAir.oRG.&type=ws#@meli_proxyy
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.51:80?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.250.141.14:443#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#@meli_proxyy
@@ -36,6 +37,7 @@ vless://25e5b6e2-84ec-4b1b-b590-cfbb6cfcee1d@94.237.87.217:8443?type=tcp&securit
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.138.81:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=fggerlad.gerald81.dpdns.org&fp=chrome&type=ws&sni=fggerlad.gerald81.dpdns.org#@meli_proxyy
 vless://289c0de5-81ba-4af8-aeb2-7e7e49f5c8a8@mr.reiisvezze2.ir:39387?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@meli_proxyy
 vless://2a11c595-935d-4e1b-81d4-ab8dd1e10bff@104.17.147.22:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=DECENt-ReFerEnCE.ZUlAir.oRG.&type=ws#@meli_proxyy
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.51:80?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@meli_proxyy
 vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjYxMCIsInBzIjoiQG1lbGlfcHJveHl5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI4NS4xOTguMjMuNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWY1YTBkMGMtYzg5OC00YTUxLWJhNmEtNDcxNzlkNDgzZTQxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjI2MiIsInBzIjoiQG1lbGlfcHJveHl5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI5Mi4yMjMuMi40NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsImlkIjoiOGM4Yzc1OWMtODhjMC00Y2VhLWEyNWItNzRkZDMwYjg4YWQ1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MSIsInBzIjoiQG1lbGlfcHJveHl5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
