@@ -3,6 +3,8 @@ ss://1c808cce-3f2a-4f4a-b8fe-e99e06e258f4@h1d3.hamrahconf.ir:35487?security=real
 ss://1c808cce-3f2a-4f4a-b8fe-e99e06e258f4@h1d4.hamrahconf.ir:35487?security=reality&encryption=none&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=0b886008af8942c3#%40v2raying
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Ainita
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%40v2raying
+ss://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2570&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#%F0%9F%91%B0%F0%9F%8F%BC%F0%9F%A4%B5%F0%9F%8F%BB%40SiNAVM%F0%9F%91%88%F0%9F%8F%BC%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://0784251d-c4da-4a32-84cf-7a2179272024@fst.infospeedtest.com:80?mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&encryption=none&host=raminy3434our-name.global.ssl.fastly.net&type=xhttp#%40v2raying
 vless://1c808cce-3f2a-4f4a-b8fe-e99e06e258f4@h1d3.hamrahconf.ir:35487?security=reality&encryption=none&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=0b886008af8942c3#%40v2raying
 vless://1c808cce-3f2a-4f4a-b8fe-e99e06e258f4@h1d4.hamrahconf.ir:35487?security=reality&encryption=none&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=0b886008af8942c3#%40v2raying
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2570&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#%F0%9F%91%B0%F0%9F%8F%BC%F0%9F%A4%B5%F0%9F%8F%BB%40SiNAVM%F0%9F%91%88%F0%9F%8F%BC%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85

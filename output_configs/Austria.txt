@@ -1,10 +1,4 @@
-ss://5a365e51-4772-4791-a3a9-bed686ca89ac@185.14.160.21:9091?security=none&encryption=none&headerType=http&type=tcp#🆔kvetch_matin%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20876ms
+ss://4dc2bee4-518f-4b60-94e3-3c9349fa0a1c@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#🆔kvetch_matin%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20144ms
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-06-TIR-1404
-ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-05-TIR-1404
-ss://d2a46b5c-8840-4589-885a-0f28036b558c@asia4.novahomedesigntips.com:48820?security=none&encryption=none&type=ws#🆔kvetch_matin%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20207ms
-ss://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20129ms
-vless://5a365e51-4772-4791-a3a9-bed686ca89ac@185.14.160.21:9091?security=none&encryption=none&headerType=http&type=tcp#🆔kvetch_matin%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20876ms
+vless://4dc2bee4-518f-4b60-94e3-3c9349fa0a1c@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#🆔kvetch_matin%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20144ms
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-06-TIR-1404
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-05-TIR-1404
-vless://d2a46b5c-8840-4589-885a-0f28036b558c@asia4.novahomedesigntips.com:48820?security=none&encryption=none&type=ws#🆔kvetch_matin%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20207ms
-vless://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20129ms
