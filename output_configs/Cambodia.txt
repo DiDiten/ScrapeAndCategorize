@@ -1,0 +1,2 @@
+ss://933e8733-1c42-4f13-93a0-2472f2633d8e@www.speedtest.net:443?type=ws&path=/downloader.php?ed%3D2560&host=amphetamine.shividpolo.site&security=tls&fp=chrome&alpn=h2&sni=amphetamine.shividpolo.site&allowInsecure=false#khosrow-finland-1
+vless://933e8733-1c42-4f13-93a0-2472f2633d8e@www.speedtest.net:443?type=ws&path=/downloader.php?ed%3D2560&host=amphetamine.shividpolo.site&security=tls&fp=chrome&alpn=h2&sni=amphetamine.shividpolo.site&allowInsecure=false#khosrow-finland-1
