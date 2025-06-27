@@ -1,2 +1,0 @@
-ss://529ae526-80ae-47c7-aa16-5030d5f0f8a9@ru.2dlkimi.ir:8080?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Deko%20Fast%202%20%7C%20tel%20%3A%20%40Anubis_VPN
-vless://529ae526-80ae-47c7-aa16-5030d5f0f8a9@ru.2dlkimi.ir:8080?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Deko%20Fast%202%20%7C%20tel%20%3A%20%40Anubis_VPN
