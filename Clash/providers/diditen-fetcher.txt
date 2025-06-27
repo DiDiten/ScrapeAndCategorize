@@ -1,285 +1,1414 @@
+Global-client-fingerprint: chrome
 port: 7890
 socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7894
 allow-lan: true
-mode: rule
-log-level: info
-external-controller: :9090
+tcp-concurrent: true
+enable-process: true
+find-process-mode: strict
+ipv6: true
+log-level: debug
+geo-auto-update: true
+geo-update-interval: 168
+secret: ""
+bind-address: "*"
+unified-delay: false
+disable-keep-alive: false
+keep-alive-idle: 30
+keep-alive-interval: 30
+profile:
+  store-selected: true
+  store-fake-ip: true
 dns:
   enable: true
-  nameserver:
-    - 119.29.29.29
-    - 223.5.5.5
-  fallback:
+  ipv6: true
+  respect-rules: false
+  prefer-h3: false
+  cache-algorithm: arc
+  use-system-hosts: true
+  use-host: true
+  listen: 0.0.0.0:53
+  enhanced-mode: fake-ip
+  fake-ip-filter-mode: blacklist
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - "*.localdomain"
+    - "*.invalid"
+    - "*.localhost"
+    - "*.test"
+    - "*.local"
+    - "*.home.arpa"
+    - time.*.com
+    - ntp.*.com
+    - "*.ir"
+  default-nameserver:
     - 8.8.8.8
     - 8.8.4.4
-    - tls://1.0.0.1:853
-    - tls://dns.google:853
-proxies: ~
+    - 1.0.0.1
+    - 1.1.1.1
+    - 9.9.9.9
+    - 9.9.9.11
+    - 9.9.9.10
+    - 94.140.14.15
+    - 94.140.15.15
+    - 223.5.5.5
+    - 77.88.8.8
+    - 208.67.222.222
+    - 208.67.220.220
+    - 209.244.0.3
+    - 209.224.0.4
+    - 74.82.42.42
+  nameserver:
+    - https://dns.nextdns.io/15441b
+    - tls://15441b.dns.nextdns.io
+  direct-nameserver:
+    - 78.157.42.100
+    - 78.157.42.101
+  proxy-server-nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+    - 8.8.4.4
+    - 9.9.9.9
+    - 223.5.5.5
+    - 77.88.8.8
+    - 208.67.222.222
+    - 208.67.220.220
+    - 209.244.0.3
+    - 209.224.0.4
+    - 74.82.42.42
+sniffer:
+  enable: true
+  force-dns-mapping: true
+  parse-pure-ip: true
+  override-destination: false
+  sniff:
+    HTTP:
+      ports: [80, 8080, 8880, 2052, 2082, 2086, 2095]
+    TLS:
+      ports: [443, 8443, 2053, 2083, 2087, 2096]
+tun:
+  enable: true
+  stack: mixed
+  auto-route: true
+  auto-detect-interface: true
+  auto-redir: true
+  dns-hijack:
+    - any:53
+    - tcp://any:53
+rule-providers:
+  apps:
+    type: http
+    format: yaml
+    behavior: classical
+    url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/apps.yaml
+    path: ./ruleset/apps.yaml
+    interval: 86400
+proxies:
+  - {name: vless-8a76ea95 (United Arab Emirates), server: ShhProxy.joinbedeh.xyz, port: 28378, client-fingerprint: chrome, type: vless, uuid: 166cc1fb-ae9f-4810-8af3-c6bcaf0572be, tls: true, tfo: false, skip-cert-verify: false, servername: www.latimes.com, network: tcp, udp: true}
+  - {name: ️ trojan-1e4d2644 (Unknown), server: 127.0.0.1, port: 2080, client-fingerprint: chrome, type: trojan, password: babccaa-caba-abac-bacd-aacbcbbcaacb, sni: 127.0.0.1, skip-cert-verify: false, udp: true}
+  - {name: ️ trojan-501d39ce (Unknown), server: 127.0.0.1, port: 8080, client-fingerprint: chrome, type: trojan, password: bbccaaa-cbaa-abca-adbc-bbabcccabaca, sni: 127.0.0.1, skip-cert-verify: false, udp: true}
+  - {name: ️ trojan-6d7ddb69 (Unknown), server: 127.0.0.1, port: 3080, client-fingerprint: chrome, type: trojan, password: acaacbb-caab-bcaa-adcb-acaabbcabbcc, sni: 127.0.0.1, skip-cert-verify: false, udp: true}
+  - {name: ️ trojan-c095f3a3 (Unknown), server: 127.0.0.1, port: 1080, client-fingerprint: chrome, type: trojan, password: cababca-baca-baac-bacd-ccbbaaccbbaa, sni: 127.0.0.1, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 trojan-1b35b1c8 (Canada), server: prod2-cahg-cloud01-hybrid-ttrg01.cyberscaler.com, port: 2089, client-fingerprint: chrome, type: trojan, password: hj7vQyaAz1, sni: prod2-cahg-cloud01-hybrid-ttrg01.cyberscaler.com, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 trojan-36ace29c (Canada), server: prod2-cahg-cloud01-hybrid-ttrg01.cyberscaler.com, port: 2089, client-fingerprint: chrome, type: trojan, password: HVQZykyXiY, sni: prod2-cahg-cloud01-hybrid-ttrg01.cyberscaler.com, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 trojan-4841925a (Canada), server: prod2-hge-cloud03-hybrid-tmk01.cyberscaler.com, port: 46780, client-fingerprint: chrome, type: trojan, password: p5T9x5WrfZ, sni: prod2-hge-cloud03-hybrid-tmk01.cyberscaler.com, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 trojan-9d28aba6 (Canada), server: prod2-cahg-cloud01-hybrid-ttrg01.cyberscaler.com, port: 2089, client-fingerprint: chrome, type: trojan, password: OzcSHl2mo9, sni: prod2-cahg-cloud01-hybrid-ttrg01.cyberscaler.com, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 trojan-ed15a578 (Canada), server: prod2-cahg-cloud01-hybrid-ttrg01.cyberscaler.com, port: 2089, client-fingerprint: chrome, type: trojan, password: qfdmL9ue7O, sni: prod2-cahg-cloud01-hybrid-ttrg01.cyberscaler.com, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 vless-0057d45e (Canada), server: 172.67.71.48, port: 8080, client-fingerprint: chrome, type: vless, uuid: a3414279-e59b-4f84-b0fe-aa6d5f4282b6, tls: true, tfo: false, skip-cert-verify: false, servername: 172.67.71.48, network: ws, ws-opts: {path: /, headers: {Host: q5.19KAla.co}}, udp: true}
+  - {name: 🇨🇦 vless-013f25dc (Canada), server: 104.19.99.252, port: 443, client-fingerprint: chrome, type: vless, uuid: 8df60790-c903-4661-b85d-64c0009378e5, tls: true, tfo: false, skip-cert-verify: false, servername: F1.paRsa.fiLegEar-Sg.Me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: f1.parsa.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-02096d08 (Canada), server: 104.17.147.22, port: 80, client-fingerprint: chrome, type: vless, uuid: 542f694b-e8bd-4b9e-858c-ccb1c46a3316, tls: true, tfo: false, skip-cert-verify: false, servername: 104.17.147.22, network: ws, ws-opts: {path: "/Telegram@ShadowProxy66/?ed=2560", headers: {Host: PaMCHALL.cOM.}}, udp: true}
+  - {name: 🇨🇦 vless-020dc6d9 (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 60882caa-4e74-42a2-be70-220755fc1551, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-olala.parvaneh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-olala.parvaneh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-029c6e2e (Canada), server: 172.67.136.116, port: 80, client-fingerprint: chrome, type: vless, uuid: 148709e4-402b-48dd-8892-ed39b55ea45c, tls: true, tfo: false, skip-cert-verify: false, servername: 172.67.136.116, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: entezar.loseyourself.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-02f0d07f (Canada), server: 172.67.53.233, port: 80, client-fingerprint: chrome, type: vless, uuid: 4179c595-08ca-45cd-b555-91b6f1faeadc, tls: true, tfo: false, skip-cert-verify: false, servername: 172.67.53.233, network: ws, ws-opts: {path: "/BaRAyeIran?ed=2570", headers: {Host: di.dibdibini.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-042a5c27 (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 9e7b3b9f-ab4b-4f2c-9529-2fc61840db40, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-fg-1.abar-farz.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-fg-1.abar-farz.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-07019cf9 (Canada), server: 104.22.22.78, port: 80, client-fingerprint: chrome, type: vless, uuid: cba0b35b-8943-4c70-a864-9f78145b7897, tls: true, tfo: false, skip-cert-verify: false, servername: agolna.mahsaamini.dpdns.org, network: ws, ws-opts: {path: "/Telegram@Filter_breaker/?ed=2560", headers: {Host: agolna.mahsaamini.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-081cab8c (Canada), server: 104.18.26.90, port: 443, client-fingerprint: chrome, type: vless, uuid: 3824fba1-352a-44f6-89c3-66bacce658eb, tls: true, tfo: false, skip-cert-verify: false, servername: S4.MaiN-2.WORkErS.Dev, network: ws, ws-opts: {path: "/kBoXBiT5qlTK5H01?ed", headers: {Host: s4.main-2.workers.dev}}, udp: true}
+  - {name: 🇨🇦 vless-084c5c90 (Canada), server: 172.67.145.189, port: 2096, client-fingerprint: chrome, type: vless, uuid: ec7a6b6d-94b6-45df-9d62-491f53a508be, tls: true, tfo: false, skip-cert-verify: false, servername: fReEdOm.panoTosU.StOre, network: ws, ws-opts: {path: "/nHw5tydBiJp1RURN/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560", headers: {Host: freedom.panotosu.store}}, udp: true}
+  - {name: 🇨🇦 vless-0937348e (Canada), server: WWW.Speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: add.lobia.sbs, network: ws, ws-opts: {path: /, headers: {Host: add.lobia.sbs}}, udp: true}
+  - {name: 🇨🇦 vless-0a7612b4 (Canada), server: 104.21.78.206, port: 2096, client-fingerprint: chrome, type: vless, uuid: ec7a6b6d-94b6-45df-9d62-491f53a508be, tls: true, tfo: false, skip-cert-verify: false, servername: FReedOM.pANoToSu.StorE, network: ws, ws-opts: {path: "/vRpve4WyyyBMiVSu/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560", headers: {Host: freedom.panotosu.store}}, udp: true}
+  - {name: 🇨🇦 vless-0b157de1 (Canada), server: 104.16.108.43, port: 80, client-fingerprint: chrome, type: vless, uuid: 948f6596-66f9-4707-aa92-3107a214ce53, tls: true, tfo: false, skip-cert-verify: false, servername: oops.shalamshorba.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: oops.shalamshorba.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-0bd819df (Canada), server: add.ski1plag.ir, port: 80, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: true, tfo: false, skip-cert-verify: false, servername: add.ski1plag.ir, network: ws, ws-opts: {path: /upload, headers: {Host: my.ski1plag.ir}}, udp: true}
+  - {name: 🇨🇦 vless-0d1cae00 (Canada), server: 104.16.181.110, port: 80, client-fingerprint: chrome, type: vless, uuid: 1f431db3-1918-4e7b-a855-c93485e11694, tls: true, tfo: false, skip-cert-verify: false, servername: 104.16.181.110, network: ws, ws-opts: {path: "/?ed=2580", headers: {Host: pari.parinazz.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-0d227d43 (Canada), server: www.sPeEDtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: xbox.fastnetpro.xyz, network: ws, ws-opts: {path: /, headers: {Host: xbox.fastnetpro.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-11f2bb74 (Canada), server: 172.66.150.129, port: 80, client-fingerprint: chrome, type: vless, uuid: 6f690965-3be3-43bb-9331-3ead6efb20aa, tls: true, tfo: false, skip-cert-verify: false, servername: 172.66.150.129, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: sib.sibzamini.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-12711ec2 (Canada), server: 104.18.48.109, port: 443, client-fingerprint: chrome, type: vless, uuid: 941d092e-8313-452a-ba21-c9995dcba79d, tls: true, tfo: false, skip-cert-verify: false, servername: havvas.shohreh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: havvas.shohreh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-137e6350 (Canada), server: 104.24.197.20, port: 443, client-fingerprint: chrome, type: vless, uuid: 8ad321e9-7f47-4706-a101-11aefa88723b, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-sun.parsa.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-sun.parsa.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-153e88f4 (Canada), server: 104.24.56.187, port: 80, client-fingerprint: chrome, type: vless, uuid: e6236ebc-7334-4bed-977f-0c20bcdfcc00, tls: true, tfo: false, skip-cert-verify: false, servername: 104.24.56.187, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: a1.ghormehsabzi.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-161a9d7b (Canada), server: 188.114.97.6, port: 443, client-fingerprint: chrome, type: vless, uuid: 8df60790-c903-4661-b85d-64c0009378e5, tls: true, tfo: false, skip-cert-verify: false, servername: F1.paRsa.fiLegEar-Sg.Me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: f1.parsa.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-19dadb1c (Canada), server: 104.18.26.90, port: 443, client-fingerprint: chrome, type: vless, uuid: 42795c1c-acab-46f5-8c10-a86de801411b, tls: true, tfo: false, skip-cert-verify: false, servername: s3.mAIN-2.WorKeRs.Dev, network: ws, ws-opts: {path: "/iTCBmrOFrKpdwUWZ?ed", headers: {Host: s3.main-2.workers.dev}}, udp: true}
+  - {name: 🇨🇦 vless-1a96e42c (Canada), server: wwW.VIsA.COM.Sg, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: add.lobia.sbs, network: ws, ws-opts: {path: /, headers: {Host: add.lobia.sbs}}, udp: true}
+  - {name: 🇨🇦 vless-203abc86 (Canada), server: 104.25.45.48, port: 80, client-fingerprint: chrome, type: vless, uuid: 8c17092b-4d89-44e3-9dcb-a00c2bf28827, tls: true, tfo: false, skip-cert-verify: false, servername: aymng.bahareh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: aymng.bahareh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-20b1ac43 (Canada), server: 104.18.60.182, port: 443, client-fingerprint: chrome, type: vless, uuid: db9d419e-3094-4942-9313-d39afd3dd163, tls: true, tfo: false, skip-cert-verify: false, servername: spx.lindak.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: spx.lindak.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-211a170b (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 933e8733-1c42-4f13-93a0-2472f2633d8e, tls: true, tfo: false, skip-cert-verify: false, servername: amphetamine.shividpolo.site, network: ws, ws-opts: {path: "/downloader.php?ed=2560", headers: {Host: amphetamine.shividpolo.site}}, udp: true}
+  - {name: 🇨🇦 vless-219bc261 (Canada), server: 104.16.181.110, port: 80, client-fingerprint: chrome, type: vless, uuid: 1f431db3-1918-4e7b-a855-c93485e11694, tls: true, tfo: false, skip-cert-verify: false, servername: 104.16.181.110, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: pari.parinazz.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-21afef59 (Canada), server: 104.21.113.169, port: 80, client-fingerprint: chrome, type: vless, uuid: 1f431db3-1918-4e7b-a855-c93485e11694, tls: true, tfo: false, skip-cert-verify: false, servername: 104.21.113.169, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: pari.parinazz.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-21d261d5 (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 9e7b3b9f-ab4b-4f2c-9529-2fc61840db40, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-fg-4.abar-farz.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-fg-4.abar-farz.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-23cac8e2 (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 8df60790-c903-4661-b85d-64c0009378e5, tls: true, tfo: false, skip-cert-verify: false, servername: F1.paRsa.fiLegEar-Sg.Me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: f1.parsa.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-2477debf (Canada), server: 172.67.143.76, port: 443, client-fingerprint: chrome, type: vless, uuid: db9d419e-3094-4942-9313-d39afd3dd163, tls: true, tfo: false, skip-cert-verify: false, servername: spx.lindak.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: spx.lindak.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-2768507d (Canada), server: wWw.sPeEDteSt.Net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: xbox.fastnetpro.xyz, network: ws, ws-opts: {path: /, headers: {Host: xbox.fastnetpro.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-2813f921 (Canada), server: 104.21.43.115, port: 443, client-fingerprint: chrome, type: vless, uuid: ab6f7722-4602-4e66-902a-32fc2418ee37, tls: true, tfo: false, skip-cert-verify: false, servername: adderall2.adaspolo.online, network: ws, ws-opts: {path: "/downloader.php?ed=2560", headers: {Host: adderall2.adaspolo.online}}, udp: true}
+  - {name: 🇨🇦 vless-289577b1 (Canada), server: 104.16.241.234, port: 80, client-fingerprint: chrome, type: vless, uuid: 92f481b6-ad92-43e4-a683-2bb0aeaa9846, tls: true, tfo: false, skip-cert-verify: false, servername: 104.16.241.234, network: ws, ws-opts: {path: "/?ed=2590", headers: {Host: dw.alibichareh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-2e2d9d1c (Canada), server: 172.66.138.99, port: 80, client-fingerprint: chrome, type: vless, uuid: 68b48eeb-5770-4eb3-9b77-deeb77a41ccf, tls: true, tfo: false, skip-cert-verify: false, servername: 172.66.138.99, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: varzesh3.varzesh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-2e9ae7d1 (Canada), server: Www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: add.lobia.sbs, network: ws, ws-opts: {path: /, headers: {Host: add.lobia.sbs}}, udp: true}
+  - {name: 🇨🇦 vless-2ecc4e85 (Canada), server: www.visa.com.sg, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: add.lobia.sbs, network: ws, ws-opts: {path: /, headers: {Host: add.lobia.sbs}}, udp: true}
+  - {name: 🇨🇦 vless-2f4ae2e1 (Canada), server: 104.16.0.113, port: 80, client-fingerprint: chrome, type: vless, uuid: bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0, tls: true, tfo: false, skip-cert-verify: false, servername: barayeiran.nastaranh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: barayeiran.nastaranh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-358b8826 (Canada), server: 104.24.31.150, port: 80, client-fingerprint: chrome, type: vless, uuid: 9d6315f7-f272-4806-97c8-5fdaafad391e, tls: true, tfo: false, skip-cert-verify: false, servername: 104.24.31.150, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: lot.sosant.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-371b6890 (Canada), server: www.ViSA.COm.sg, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: add.lobia.sbs, network: ws, ws-opts: {path: /, headers: {Host: add.lobia.sbs}}, udp: true}
+  - {name: 🇨🇦 vless-3723e2e7 (Canada), server: add.ski1plag.ir, port: 8080, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: true, tfo: false, skip-cert-verify: false, servername: add.ski1plag.ir, network: ws, ws-opts: {path: /upload, headers: {Host: my.ski1plag.ir}}, udp: true}
+  - {name: 🇨🇦 vless-3a05ed73 (Canada), server: 172.67.199.205, port: 80, client-fingerprint: chrome, type: vless, uuid: 26bc13af-e442-4956-afd4-b8f85744d26f, tls: true, tfo: false, skip-cert-verify: false, servername: fggerlad.gerald81.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fggerlad.gerald81.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-3ccb0591 (Canada), server: 172.67.21.2, port: 80, client-fingerprint: chrome, type: vless, uuid: f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d, tls: true, tfo: false, skip-cert-verify: false, servername: delam.ahaysiahzangi.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: delam.ahaysiahzangi.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-409ec9a7 (Canada), server: 104.21.95.229, port: 443, client-fingerprint: chrome, type: vless, uuid: 376734bc-4db8-4317-b451-af0262cb01c7, tls: true, tfo: false, skip-cert-verify: false, servername: iNvInciBlE.Fafa20.sHOP, network: ws, ws-opts: {path: "/9j0QBYNwaAHby29q/MTI5LjE1OS44NC43MQ==?ed=2560", headers: {Host: invincible.fafa20.shop}}, udp: true}
+  - {name: 🇨🇦 vless-4659de8d (Canada), server: WWW.VIsA.cOM.sG, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: add.lobia.sbs, network: ws, ws-opts: {path: /, headers: {Host: add.lobia.sbs}}, udp: true}
+  - {name: 🇨🇦 vless-4b2330ad (Canada), server: 104.24.34.94, port: 80, client-fingerprint: chrome, type: vless, uuid: b55ec078-3b17-4ed1-a697-71f464cdcaaa, tls: true, tfo: false, skip-cert-verify: false, servername: 104.24.34.94, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: kssepa.sabzipolobamahi.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-4d1f5dd3 (Canada), server: 104.18.57.185, port: 443, client-fingerprint: chrome, type: vless, uuid: d1237c01-58b5-48f9-8a27-8a396b7f5422, tls: true, tfo: false, skip-cert-verify: false, servername: ey.nazanin.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: ey.nazanin.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-500a59be (Canada), server: add.ski1plag.ir, port: 443, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: true, tfo: false, skip-cert-verify: false, servername: my.ski1plag.ir, network: ws, ws-opts: {path: /upload, headers: {Host: my.ski1plag.ir}}, udp: true}
+  - {name: 🇨🇦 vless-51e8f2d5 (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: true, tfo: false, skip-cert-verify: false, servername: mail.ski1plag.ir, network: ws, ws-opts: {path: /upload, headers: {Host: mail.ski1plag.ir}}, udp: true}
+  - {name: 🇨🇦 vless-52c27901 (Canada), server: 104.21.80.1, port: 8443, client-fingerprint: chrome, type: vless, uuid: 48a6a580-b0b2-4cf8-bd22-27e52f7f0de0, tls: true, tfo: false, skip-cert-verify: false, servername: fREEdoM.mOReSh.stoRE, network: ws, ws-opts: {path: /bOtLfmxycpeOPeTl/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=, headers: {Host: freedom.moresh.store}}, udp: true}
+  - {name: 🇨🇦 vless-53bf7864 (Canada), server: 172.67.67.92, port: 80, client-fingerprint: chrome, type: vless, uuid: f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d, tls: true, tfo: false, skip-cert-verify: false, servername: delam.ahaysiahzangi.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: delam.ahaysiahzangi.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-572049e5 (Canada), server: pishgam.sdcards.ir, port: 80, client-fingerprint: chrome, type: vless, uuid: 5d175721-8bdf-4cd1-81bf-2a3eb3b841e2, tls: true, tfo: false, skip-cert-verify: false, servername: pishgam.sdcards.ir, network: ws, ws-opts: {path: "/?ed=2087", headers: {Host: amir.pmme.top}}, udp: true}
+  - {name: 🇨🇦 vless-5ab4e1f9 (Canada), server: aliakb3435.pages.dev, port: 443, client-fingerprint: chrome, type: vless, uuid: 97c4550f-8ecc-42fa-ae66-3b550c986cd2, tls: true, tfo: false, skip-cert-verify: false, servername: aLiAkB3435.paGES.dEV, network: ws, ws-opts: {path: "/PLe847RCOx5eWYOx?ed=2560", headers: {Host: aliakb3435.pages.dev}}, udp: true}
+  - {name: 🇨🇦 vless-5ae1d007 (Canada), server: WWW.viSA.Com.sg, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: add.lobia.sbs, network: ws, ws-opts: {path: /, headers: {Host: add.lobia.sbs}}, udp: true}
+  - {name: 🇨🇦 vless-5b0c133b (Canada), server: 172.67.143.76, port: 80, client-fingerprint: chrome, type: vless, uuid: 8c17092b-4d89-44e3-9dcb-a00c2bf28827, tls: true, tfo: false, skip-cert-verify: false, servername: aymng.bahareh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: aymng.bahareh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-5c5a1648 (Canada), server: wwW.visA.coM.Sg, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: add.lobia.sbs, network: ws, ws-opts: {path: /, headers: {Host: add.lobia.sbs}}, udp: true}
+  - {name: 🇨🇦 vless-5eb76509 (Canada), server: add.ski1plag.ir, port: 8443, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: true, tfo: false, skip-cert-verify: false, servername: my.ski1plag.ir, network: ws, ws-opts: {path: /upload, headers: {Host: my.ski1plag.ir}}, udp: true}
+  - {name: 🇨🇦 vless-5f1f1ea3 (Canada), server: www.speedtest.net, port: 8443, client-fingerprint: chrome, type: vless, uuid: d2b0e347-554f-47af-9ff9-fac57c050c8d, tls: true, tfo: false, skip-cert-verify: false, servername: adderall.adaspolo.co, network: ws, ws-opts: {path: "/random?ed=2310", headers: {Host: adderall.adaspolo.co}}, udp: true}
+  - {name: 🇨🇦 vless-6015682a (Canada), server: www.speedtest.net, port: 8443, client-fingerprint: chrome, type: vless, uuid: 3401df95-1f97-411c-a71c-eeab0eb97d96, tls: true, tfo: false, skip-cert-verify: false, servername: peacefulpigs.adaspolo.co, network: ws, ws-opts: {path: "/test?ed=2560", headers: {Host: peacefulpigs.adaspolo.co}}, udp: true}
+  - {name: 🇨🇦 vless-60df445c (Canada), server: 172.67.36.32, port: 80, client-fingerprint: chrome, type: vless, uuid: bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0, tls: true, tfo: false, skip-cert-verify: false, servername: 172.67.36.32, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: barayeiran.nastaranh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-62208fa6 (Canada), server: 104.16.110.49, port: 80, client-fingerprint: chrome, type: vless, uuid: 941d092e-8313-452a-ba21-c9995dcba79d, tls: true, tfo: false, skip-cert-verify: false, servername: 104.16.110.49, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: havvas.shohreh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-62bf2ff2 (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 172ed5fd-83a6-469e-863c-50e251a6c17d, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-infra.parisa.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-infra.parisa.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-634abeb2 (Canada), server: check-host.net, port: 443, client-fingerprint: chrome, type: vless, uuid: c1da8253-1987-4501-9805-69fbb043742a, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-fg-6.nastaran-joon.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-fg-6.nastaran-joon.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-64579405 (Canada), server: 104.18.26.90, port: 443, client-fingerprint: chrome, type: vless, uuid: 3824fba1-352a-44f6-89c3-66bacce658eb, tls: true, tfo: false, skip-cert-verify: false, servername: S4.MaiN-2.WORkErS.Dev, network: ws, ws-opts: {path: "/kBoXBiT5qlTK5H01?ed", headers: {Host: s4.main-2.workers.dev}}, udp: true}
+  - {name: 🇨🇦 vless-65448af3 (Canada), server: wWw.sPeEdTest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: xbox.fastnetpro.xyz, network: ws, ws-opts: {path: /, headers: {Host: xbox.fastnetpro.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-661c7730 (Canada), server: 104.24.34.94, port: 80, client-fingerprint: chrome, type: vless, uuid: b55ec078-3b17-4ed1-a697-71f464cdcaaa, tls: true, tfo: false, skip-cert-verify: false, servername: 104.24.34.94, network: ws, ws-opts: {path: "/?ed=2571", headers: {Host: kssepa.sabzipolobamahi.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-662957bc (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: eaa140af-47da-4201-a1e2-004833106835, tls: true, tfo: false, skip-cert-verify: false, servername: r2.saman.dpdns.org, network: ws, ws-opts: {path: "/?ed=2540", headers: {Host: r2.saman.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-67d27ed8 (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 9e7b3b9f-ab4b-4f2c-9529-2fc61840db40, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-fg-2.abar-farz.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-fg-2.abar-farz.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-68c60ffa (Canada), server: 104.17.147.22, port: 80, client-fingerprint: chrome, type: vless, uuid: e93f923b-92b1-4009-aaeb-3691001347bd, tls: true, tfo: false, skip-cert-verify: false, servername: 104.17.147.22, network: tcp, udp: true}
+  - {name: 🇨🇦 vless-6a6e3e18 (Canada), server: 104.21.95.229, port: 2053, client-fingerprint: chrome, type: vless, uuid: 376734bc-4db8-4317-b451-af0262cb01c7, tls: true, tfo: false, skip-cert-verify: false, servername: iNVincibLe.FafA20.shOp, network: ws, ws-opts: {path: "/HgdRelVcve9Ra99p/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560", headers: {Host: invincible.fafa20.shop}}, udp: true}
+  - {name: 🇨🇦 vless-6abac9d8 (Canada), server: 172.67.184.242, port: 443, client-fingerprint: chrome, type: vless, uuid: 933e8733-1c42-4f13-93a0-2472f2633d8e, tls: true, tfo: false, skip-cert-verify: false, servername: amphetamine.shividpolo.site, network: ws, ws-opts: {path: "/downloader.php?ed=2560", headers: {Host: amphetamine.shividpolo.site}}, udp: true}
+  - {name: 🇨🇦 vless-6c8c4092 (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 9e7b3b9f-ab4b-4f2c-9529-2fc61840db40, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-fg-6.abar-farz.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-fg-6.abar-farz.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-6cb0a5fb (Canada), server: 104.17.147.22, port: 8080, client-fingerprint: chrome, type: vless, uuid: 905e9b52-59fc-47b0-bbee-b4319866c6e9, tls: true, tfo: false, skip-cert-verify: false, servername: 104.17.147.22, network: ws, ws-opts: {path: "/--@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG?ed=8080", headers: {Host: wWw.weBsOCat.pRo.PoWEr.linK2.r-sgOone.iR.}}, udp: true}
+  - {name: 🇨🇦 vless-6fde9d94 (Canada), server: 104.21.79.134, port: 2083, client-fingerprint: chrome, type: vless, uuid: ec7a6b6d-94b6-45df-9d62-491f53a508be, tls: true, tfo: false, skip-cert-verify: false, servername: frEeDoM.PAnotOsu.SToRe, network: ws, ws-opts: {path: "/jqsYbhRXJVI8L7m2/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560", headers: {Host: freedom.panotosu.store}}, udp: true}
+  - {name: 🇨🇦 vless-717ab4c3 (Canada), server: 104.21.103.107, port: 80, client-fingerprint: chrome, type: vless, uuid: 948f6596-66f9-4707-aa92-3107a214ce53, tls: true, tfo: false, skip-cert-verify: false, servername: oops.shalamshorba.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: oops.shalamshorba.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-763e7c34 (Canada), server: 104.17.105.92, port: 80, client-fingerprint: chrome, type: vless, uuid: 92f481b6-ad92-43e4-a683-2bb0aeaa9846, tls: true, tfo: false, skip-cert-verify: false, servername: 104.17.105.92, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: dw.alibichareh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-778f0eda (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: eaa140af-47da-4201-a1e2-004833106835, tls: true, tfo: false, skip-cert-verify: false, servername: r2.saman.dpdns.org, network: ws, ws-opts: {path: "/?ed=2550", headers: {Host: r2.saman.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-77929f1c (Canada), server: 172.67.6.114, port: 80, client-fingerprint: chrome, type: vless, uuid: 941d092e-8313-452a-ba21-c9995dcba79d, tls: true, tfo: false, skip-cert-verify: false, servername: 172.67.6.114, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: havvas.shohreh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-77a08025 (Canada), server: 104.18.26.90, port: 443, client-fingerprint: chrome, type: vless, uuid: 42795c1c-acab-46f5-8c10-a86de801411b, tls: true, tfo: false, skip-cert-verify: false, servername: S3.MAin-2.wORKErS.deV, network: ws, ws-opts: {path: "/WPIXJbcKyAx6uhMj?ed=2560", headers: {Host: s3.main-2.workers.dev}}, udp: true}
+  - {name: 🇨🇦 vless-79ae16cc (Canada), server: 104.18.58.254, port: 443, client-fingerprint: chrome, type: vless, uuid: db9d419e-3094-4942-9313-d39afd3dd163, tls: true, tfo: false, skip-cert-verify: false, servername: spx.lindak.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: spx.lindak.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-79f6f1c6 (Canada), server: 104.25.138.53, port: 80, client-fingerprint: chrome, type: vless, uuid: 948f6596-66f9-4707-aa92-3107a214ce53, tls: true, tfo: false, skip-cert-verify: false, servername: oops.shalamshorba.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: oops.shalamshorba.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-7a97d48a (Canada), server: 104.18.56.210, port: 443, client-fingerprint: chrome, type: vless, uuid: d1237c01-58b5-48f9-8a27-8a396b7f5422, tls: true, tfo: false, skip-cert-verify: false, servername: ey.nazanin.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: ey.nazanin.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-7a9cb4ee (Canada), server: 104.21.79.134, port: 8443, client-fingerprint: chrome, type: vless, uuid: ec7a6b6d-94b6-45df-9d62-491f53a508be, tls: true, tfo: false, skip-cert-verify: false, servername: freEDom.paNoToSU.STORE, network: ws, ws-opts: {path: "/T8fVuPhDQWrbtRol/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560", headers: {Host: freedom.panotosu.store}}, udp: true}
+  - {name: 🇨🇦 vless-7c14b5a9 (Canada), server: 172.67.85.198, port: 80, client-fingerprint: chrome, type: vless, uuid: 26bc13af-e442-4956-afd4-b8f85744d26f, tls: true, tfo: false, skip-cert-verify: false, servername: fggerlad.gerald81.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fggerlad.gerald81.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-7fc19d50 (Canada), server: 104.21.32.1, port: 8443, client-fingerprint: chrome, type: vless, uuid: 48a6a580-b0b2-4cf8-bd22-27e52f7f0de0, tls: true, tfo: false, skip-cert-verify: false, servername: FrEeDom.MoRESH.STore, network: ws, ws-opts: {path: /YSlsVt4nD4umrIeA/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=, headers: {Host: freedom.moresh.store}}, udp: true}
+  - {name: 🇨🇦 vless-83254342 (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: d643b9ca-57b7-4cd5-84b8-a77f26b6346e, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-fg-8.narges.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-fg-8.narges.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-83ffffc4 (Canada), server: 172.67.38.63, port: 80, client-fingerprint: chrome, type: vless, uuid: dfdf1c0a-5e52-4746-88bd-19d4e4ac7853, tls: true, tfo: false, skip-cert-verify: false, servername: 172.67.38.63, network: ws, ws-opts: {path: "/BaRAyeIran?ed=2570", headers: {Host: tannaz.juveitaly.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-85d97626 (Canada), server: 104.17.147.22, port: 443, client-fingerprint: chrome, type: vless, uuid: 4d91916f-a7fd-419b-8b90-640bb8d1b9f4, tls: true, tfo: false, skip-cert-verify: false, servername: TITanTabLOmaNAHaMRaH.IR, network: ws, ws-opts: {path: /InTnUH0wTWnY4AaX/MTU4LjE4MC4xMi4xMTc, headers: {Host: titantablomanahamrah.ir}}, udp: true}
+  - {name: 🇨🇦 vless-8a0313b0 (Canada), server: 172.67.218.184, port: 80, client-fingerprint: chrome, type: vless, uuid: 5459f68e-d914-4b31-93a3-ecdf638b7a5b, tls: true, tfo: false, skip-cert-verify: false, servername: 172.67.218.184, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: abcd.taraneh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-8be6fde6 (Canada), server: www.speedtest.net, port: 80, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: www.speedtest.net, network: ws, ws-opts: {path: "/Vb2kRpQSrEqsUKCX?ed=2560", headers: {Host: uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-8cb0d431 (Canada), server: 104.17.147.22, port: 443, client-fingerprint: chrome, type: vless, uuid: 4d91916f-a7fd-419b-8b90-640bb8d1b9f4, tls: true, tfo: false, skip-cert-verify: false, servername: TITanTabLOmaNAHaMRaH.IR, network: ws, ws-opts: {path: "/L4h47GkKWsH8we4z/MzUuMTgwLjIyOS4x?ed=2560", headers: {Host: titantablomanahamrah.ir}}, udp: true}
+  - {name: 🇨🇦 vless-8cdc535e (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 294b2fe3-df96-4ad4-b989-ee9a0cc98c6f, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-bear.narges.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-bear.narges.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-8e3b745b (Canada), server: digitalocean.com, port: 443, client-fingerprint: chrome, type: vless, uuid: e97a0128-4785-4323-a2a5-dd01ce49d359, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-fg-5.mohammad-janam.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-fg-5.mohammad-janam.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-8f2c8bbc (Canada), server: add.ski1plag.ir, port: 8443, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: true, tfo: false, skip-cert-verify: false, servername: my.ski1plag.ir, network: ws, ws-opts: {path: /download, headers: {Host: my.ski1plag.ir}}, udp: true}
+  - {name: 🇨🇦 vless-8fc3d3c9 (Canada), server: 172.67.94.246, port: 80, client-fingerprint: chrome, type: vless, uuid: db9d419e-3094-4942-9313-d39afd3dd163, tls: true, tfo: false, skip-cert-verify: false, servername: spx.lindak.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: spx.lindak.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-90ec6f09 (Canada), server: www.speedtest.net, port: 80, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: true, tfo: false, skip-cert-verify: false, servername: www.speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: mail.ski1plag.ir}}, udp: true}
+  - {name: 🇨🇦 vless-9274e1b3 (Canada), server: 104.16.6.169, port: 80, client-fingerprint: chrome, type: vless, uuid: b28eb861-1748-4200-ba72-278669edc33b, tls: true, tfo: false, skip-cert-verify: false, servername: 104.16.6.169, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: coco.mahmoodchitooz.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-9296e666 (Canada), server: www.speedtest.net, port: 8080, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: true, tfo: false, skip-cert-verify: false, servername: www.speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: mail.ski1plag.ir}}, udp: true}
+  - {name: 🇨🇦 vless-93d06c5a (Canada), server: 104.18.48.109, port: 443, client-fingerprint: chrome, type: vless, uuid: d1237c01-58b5-48f9-8a27-8a396b7f5422, tls: true, tfo: false, skip-cert-verify: false, servername: ey.nazanin.dpdns.org, network: ws, ws-opts: {path: "?ed=2560", headers: {Host: ey.nazanin.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-93e7b269 (Canada), server: www.speedtest.net, port: 2083, client-fingerprint: chrome, type: vless, uuid: ec7a6b6d-94b6-45df-9d62-491f53a508be, tls: true, tfo: false, skip-cert-verify: false, servername: fREEDOM.pAnOtOsu.SToRE, network: ws, ws-opts: {path: "/sVmIDWvjebBnvJ3c/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560", headers: {Host: freedom.panotosu.store}}, udp: true}
+  - {name: 🇨🇦 vless-97bbdb75 (Canada), server: pishgam.sdcards.ir, port: 80, client-fingerprint: chrome, type: vless, uuid: 5d175721-8bdf-4cd1-81bf-2a3eb3b841e2, tls: true, tfo: false, skip-cert-verify: false, servername: pishgam.sdcards.ir, network: ws, ws-opts: {path: "/?ed=2087", headers: {Host: amir.pmme.top}}, udp: true}
+  - {name: 🇨🇦 vless-9b7f1c72 (Canada), server: wwW.visA.COM.Sg, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: add.lobia.sbs, network: ws, ws-opts: {path: /, headers: {Host: add.lobia.sbs}}, udp: true}
+  - {name: 🇨🇦 vless-9cdf7b8e (Canada), server: www.sPeEDteSt.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: xbox.fastnetpro.xyz, network: ws, ws-opts: {path: /, headers: {Host: xbox.fastnetpro.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-9f1fd187 (Canada), server: 104.16.143.98, port: 443, client-fingerprint: chrome, type: vless, uuid: 8df60790-c903-4661-b85d-64c0009378e5, tls: true, tfo: false, skip-cert-verify: false, servername: F1.paRsa.fiLegEar-Sg.Me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: f1.parsa.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-a299b007 (Canada), server: www.speedtest.net, port: 80, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: true, tfo: false, skip-cert-verify: false, servername: www.speedtest.net, network: ws, ws-opts: {path: /upload, headers: {Host: mail.ski1plag.ir}}, udp: true}
+  - {name: 🇨🇦 vless-a36e70a6 (Canada), server: prod6-cloud03-net03.cyberscaler.com, port: 6068, client-fingerprint: chrome, type: vless, uuid: 4f0ec48d-85ff-4163-bac7-eae00246fb17, tls: true, tfo: false, skip-cert-verify: false, servername: prod6-cloud03-net03.cyberscaler.com, network: tcp, udp: true}
+  - {name: 🇨🇦 vless-a6cbcafd (Canada), server: 172.67.213.99, port: 2096, client-fingerprint: chrome, type: vless, uuid: 704198c4-37b9-473d-a5de-0333276f2f6c, tls: true, tfo: false, skip-cert-verify: false, servername: MAhsa2.CFfORm.sITE, network: ws, ws-opts: {path: /rKFmCsnAFPPrFbIQ/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=, headers: {Host: mahsa2.cfform.site}}, udp: true}
+  - {name: 🇨🇦 vless-a862f4fe (Canada), server: 172.67.10.124, port: 80, client-fingerprint: chrome, type: vless, uuid: e6236ebc-7334-4bed-977f-0c20bcdfcc00, tls: true, tfo: false, skip-cert-verify: false, servername: 172.67.10.124, network: ws, ws-opts: {path: "/?ed=2580", headers: {Host: a1.ghormehsabzi.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-ad7c0c9f (Canada), server: 104.17.147.22, port: 443, client-fingerprint: chrome, type: vless, uuid: 4d91916f-a7fd-419b-8b90-640bb8d1b9f4, tls: true, tfo: false, skip-cert-verify: false, servername: TiTAntAbLoMaNAhamraH.Ir, network: ws, ws-opts: {path: /E4FqomT5e0mKm2nh/MTU5LjY5LjE0LjEzOA, headers: {Host: titantablomanahamrah.ir}}, udp: true}
+  - {name: 🇨🇦 vless-ada32085 (Canada), server: 104.24.135.83, port: 80, client-fingerprint: chrome, type: vless, uuid: f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d, tls: true, tfo: false, skip-cert-verify: false, servername: delam.ahaysiahzangi.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: delam.ahaysiahzangi.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-ae3ea714 (Canada), server: 172.66.132.44, port: 80, client-fingerprint: chrome, type: vless, uuid: 5459f68e-d914-4b31-93a3-ecdf638b7a5b, tls: true, tfo: false, skip-cert-verify: false, servername: abcd.taraneh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: abcd.taraneh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-b3a9e715 (Canada), server: check-host.net, port: 443, client-fingerprint: chrome, type: vless, uuid: c1da8253-1987-4501-9805-69fbb043742a, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-fg-5.nastaran-joon.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-fg-5.nastaran-joon.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-b650b503 (Canada), server: www.speedtest.net, port: 80, client-fingerprint: chrome, type: vless, uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049, tls: true, tfo: false, skip-cert-verify: false, servername: www.speedtest.net, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: redfree8mahsang6.redfree8.ir}}, udp: true}
+  - {name: 🇨🇦 vless-b7313a48 (Canada), server: 104.17.147.22, port: 80, client-fingerprint: chrome, type: vless, uuid: e2635cef-7bed-4647-b6aa-8c059c9f316c, tls: true, tfo: false, skip-cert-verify: false, servername: 104.17.147.22, network: ws, ws-opts: {path: "/--@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG?ed=2480", headers: {Host: WWW.webSOCAT.pro.pOWer.liNk.hQhQ.xYz.}}, udp: true}
+  - {name: 🇨🇦 vless-b7ba5f23 (Canada), server: www.speedtest.net, port: 8080, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: true, tfo: false, skip-cert-verify: false, servername: www.speedtest.net, network: ws, ws-opts: {path: /upload, headers: {Host: mail.ski1plag.ir}}, udp: true}
+  - {name: 🇨🇦 vless-b933235e (Canada), server: 172.67.208.49, port: 80, client-fingerprint: chrome, type: vless, uuid: 6f690965-3be3-43bb-9331-3ead6efb20aa, tls: true, tfo: false, skip-cert-verify: false, servername: 172.67.208.49, network: ws, ws-opts: {path: "/?ed=2590", headers: {Host: sib.sibzamini.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-b9d7c4b4 (Canada), server: 104.18.60.182, port: 80, client-fingerprint: chrome, type: vless, uuid: 8c17092b-4d89-44e3-9dcb-a00c2bf28827, tls: true, tfo: false, skip-cert-verify: false, servername: aymng.bahareh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: aymng.bahareh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-bba9ba17 (Canada), server: 104.19.120.225, port: 443, client-fingerprint: chrome, type: vless, uuid: 8df60790-c903-4661-b85d-64c0009378e5, tls: true, tfo: false, skip-cert-verify: false, servername: F1.paRsa.fiLegEar-Sg.Me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: f1.parsa.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-bd3eecd1 (Canada), server: 104.16.76.167, port: 80, client-fingerprint: chrome, type: vless, uuid: 8c17092b-4d89-44e3-9dcb-a00c2bf28827, tls: true, tfo: false, skip-cert-verify: false, servername: aymng.bahareh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: aymng.bahareh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-be660818 (Canada), server: add.ski1plag.ir, port: 80, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: true, tfo: false, skip-cert-verify: false, servername: add.ski1plag.ir, network: ws, ws-opts: {path: /download, headers: {Host: my.ski1plag.ir}}, udp: true}
+  - {name: 🇨🇦 vless-befb251c (Canada), server: 104.17.147.22, port: 80, client-fingerprint: chrome, type: vless, uuid: 68b48eeb-5770-4eb3-9b77-deeb77a41ccf, tls: true, tfo: false, skip-cert-verify: false, servername: varzesh3.varzesh.dpdns.org, network: ws, ws-opts: {path: "/Telegram@ShadowProxy66/?ed=2560", headers: {Host: varzesh3.varzesh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-bf4e8eb2 (Canada), server: wWw.speEdTest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: xbox.fastnetpro.xyz, network: ws, ws-opts: {path: /, headers: {Host: xbox.fastnetpro.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-c06a9b90 (Canada), server: 104.18.57.185, port: 443, client-fingerprint: chrome, type: vless, uuid: 941d092e-8313-452a-ba21-c9995dcba79d, tls: true, tfo: false, skip-cert-verify: false, servername: havvas.shohreh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: havvas.shohreh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-c0cfeefd (Canada), server: 172.67.38.63, port: 80, client-fingerprint: chrome, type: vless, uuid: dfdf1c0a-5e52-4746-88bd-19d4e4ac7853, tls: true, tfo: false, skip-cert-verify: false, servername: 172.67.38.63, network: ws, ws-opts: {path: "/BaRAyeIran?ed=2580", headers: {Host: tannaz.juveitaly.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-c1039832 (Canada), server: 172.67.132.185, port: 80, client-fingerprint: chrome, type: vless, uuid: 148709e4-402b-48dd-8892-ed39b55ea45c, tls: true, tfo: false, skip-cert-verify: false, servername: entezar.loseyourself.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: entezar.loseyourself.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-c202801a (Canada), server: 104.16.16.135, port: 80, client-fingerprint: chrome, type: vless, uuid: b28eb861-1748-4200-ba72-278669edc33b, tls: true, tfo: false, skip-cert-verify: false, servername: 104.16.16.135, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: coco.mahmoodchitooz.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-c34d0972 (Canada), server: 188.114.96.6, port: 443, client-fingerprint: chrome, type: vless, uuid: 8df60790-c903-4661-b85d-64c0009378e5, tls: true, tfo: false, skip-cert-verify: false, servername: F1.paRsa.fiLegEar-Sg.Me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: f1.parsa.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-c5c41791 (Canada), server: 104.18.58.254, port: 80, client-fingerprint: chrome, type: vless, uuid: 8c17092b-4d89-44e3-9dcb-a00c2bf28827, tls: true, tfo: false, skip-cert-verify: false, servername: aymng.bahareh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: aymng.bahareh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-c7040f70 (Canada), server: 104.18.26.90, port: 80, client-fingerprint: chrome, type: vless, uuid: 3824fba1-352a-44f6-89c3-66bacce658eb, tls: true, tfo: false, skip-cert-verify: false, servername: 104.18.26.90, network: ws, ws-opts: {path: "/jljz7QlAQ15I0v5O?ed=2560", headers: {Host: s4.main-2.workers.dev}}, udp: true}
+  - {name: 🇨🇦 vless-c710450b (Canada), server: 104.16.181.110, port: 80, client-fingerprint: chrome, type: vless, uuid: 1f431db3-1918-4e7b-a855-c93485e11694, tls: true, tfo: false, skip-cert-verify: false, servername: 104.16.181.110, network: ws, ws-opts: {path: "/?ed=2565", headers: {Host: pari.parinazz.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-cab6a029 (Canada), server: 172.67.9.145, port: 80, client-fingerprint: chrome, type: vless, uuid: b55ec078-3b17-4ed1-a697-71f464cdcaaa, tls: true, tfo: false, skip-cert-verify: false, servername: kssepa.sabzipolobamahi.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: kssepa.sabzipolobamahi.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-cb4eb058 (Canada), server: 104.24.31.150, port: 80, client-fingerprint: chrome, type: vless, uuid: 9d6315f7-f272-4806-97c8-5fdaafad391e, tls: true, tfo: false, skip-cert-verify: false, servername: 104.24.31.150, network: ws, ws-opts: {path: "/?ed=2555", headers: {Host: lot.sosant.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-cb6e9729 (Canada), server: wWW.sPeEDteSt.Net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: xbox.fastnetpro.xyz, network: ws, ws-opts: {path: /, headers: {Host: xbox.fastnetpro.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-cc55c06e (Canada), server: 104.25.227.244, port: 443, client-fingerprint: chrome, type: vless, uuid: 8df60790-c903-4661-b85d-64c0009378e5, tls: true, tfo: false, skip-cert-verify: false, servername: F1.paRsa.fiLegEar-Sg.Me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: f1.parsa.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-cc9d64c3 (Canada), server: WWW.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: xbox.fastnetpro.xyz, network: ws, ws-opts: {path: /, headers: {Host: xbox.fastnetpro.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-d0c20593 (Canada), server: 104.21.8.14, port: 80, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: 104.21.8.14, network: ws, ws-opts: {path: "/lB95uXNiHaJ1KjVD?ed=2560", headers: {Host: UUhuHYYGEsdfGh.UYhJhGVgfcjguJHBUiLbVFDXdXm.Xyz}}, udp: true}
+  - {name: 🇨🇦 vless-d152b19d (Canada), server: 104.21.4.209, port: 443, client-fingerprint: chrome, type: vless, uuid: e73c97ad-af2e-49e9-8321-5e217ca57124, tls: true, tfo: false, skip-cert-verify: false, servername: mahsA.965871A.STOrE, network: ws, ws-opts: {path: /1xnSyTt2d6Hes0Ua, headers: {Host: mahsa.965871a.store}}, udp: true}
+  - {name: 🇨🇦 vless-d256e9da (Canada), server: 172.67.136.116, port: 80, client-fingerprint: chrome, type: vless, uuid: 148709e4-402b-48dd-8892-ed39b55ea45c, tls: true, tfo: false, skip-cert-verify: false, servername: entezar.loseyourself.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: entezar.loseyourself.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-d3665bdb (Canada), server: www.speedtest.net, port: 8443, client-fingerprint: chrome, type: vless, uuid: ec7a6b6d-94b6-45df-9d62-491f53a508be, tls: true, tfo: false, skip-cert-verify: false, servername: fReEdoM.PANOtosu.stORE, network: ws, ws-opts: {path: "/0KePwfQ7l3Yx3p2P/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560", headers: {Host: freedom.panotosu.store}}, udp: true}
+  - {name: 🇨🇦 vless-d3734001 (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 99228edb-d26e-4dcd-97d0-e32ed7bf8843, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-blue.maxima.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-blue.maxima.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-d3ec02c6 (Canada), server: 104.25.235.104, port: 443, client-fingerprint: chrome, type: vless, uuid: 8df60790-c903-4661-b85d-64c0009378e5, tls: true, tfo: false, skip-cert-verify: false, servername: F1.paRsa.fiLegEar-Sg.Me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: f1.parsa.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-da02f047 (Canada), server: 104.16.51.36, port: 80, client-fingerprint: chrome, type: vless, uuid: 5459f68e-d914-4b31-93a3-ecdf638b7a5b, tls: true, tfo: false, skip-cert-verify: false, servername: abcd.taraneh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: abcd.taraneh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-da039a22 (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: xbox.fastnetpro.xyz, network: ws, ws-opts: {path: /, headers: {Host: xbox.fastnetpro.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-dc2db8b1 (Canada), server: www.speedtest.net, port: 8443, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ, network: ws, ws-opts: {path: "/egFIvRfmDaCdL5Uk/ODQuMjM1LjE2OS4yMzQ=?ed=2560", headers: {Host: UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ}}, udp: true}
+  - {name: 🇨🇦 vless-dea6810c (Canada), server: WWW.sPEedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: xbox.fastnetpro.xyz, network: ws, ws-opts: {path: /, headers: {Host: xbox.fastnetpro.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-deeebfd6 (Canada), server: 172.67.252.98, port: 80, client-fingerprint: chrome, type: vless, uuid: b28eb861-1748-4200-ba72-278669edc33b, tls: true, tfo: false, skip-cert-verify: false, servername: coco.mahmoodchitooz.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: coco.mahmoodchitooz.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-df78fc73 (Canada), server: wWw.spEEdTest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: xbox.fastnetpro.xyz, network: ws, ws-opts: {path: /, headers: {Host: xbox.fastnetpro.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-dfbc9be3 (Canada), server: 172.67.145.189, port: 8443, client-fingerprint: chrome, type: vless, uuid: ec7a6b6d-94b6-45df-9d62-491f53a508be, tls: true, tfo: false, skip-cert-verify: false, servername: frEeDOM.PANOtoSu.sToRe, network: ws, ws-opts: {path: "/tN1iypITq3yd9aCI/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560", headers: {Host: freedom.panotosu.store}}, udp: true}
+  - {name: 🇨🇦 vless-e056ba9b (Canada), server: www.sPeEDTest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: xbox.fastnetpro.xyz, network: ws, ws-opts: {path: /, headers: {Host: xbox.fastnetpro.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-e0cdaf0c (Canada), server: 172.67.218.254, port: 443, client-fingerprint: chrome, type: vless, uuid: 8df60790-c903-4661-b85d-64c0009378e5, tls: true, tfo: false, skip-cert-verify: false, servername: F1.paRsa.fiLegEar-Sg.Me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: f1.parsa.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-e112f079 (Canada), server: WWW.visa.com.sg, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: add.lobia.sbs, network: ws, ws-opts: {path: /, headers: {Host: add.lobia.sbs}}, udp: true}
+  - {name: 🇨🇦 vless-e4896291 (Canada), server: check-host.net, port: 443, client-fingerprint: chrome, type: vless, uuid: c1da8253-1987-4501-9805-69fbb043742a, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-fg-3.nastaran-joon.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-fg-3.nastaran-joon.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-e4e9bdd8 (Canada), server: 172.67.153.74, port: 2087, client-fingerprint: chrome, type: vless, uuid: 89b64978-6244-4bf3-bf64-67ade4ce5c8f, tls: true, tfo: false, skip-cert-verify: false, servername: node.vauth.workers.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: node.vauth.workers.dev}}, udp: true}
+  - {name: 🇨🇦 vless-e87506ac (Canada), server: www.speedtest.net, port: 80, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: true, tfo: false, skip-cert-verify: false, servername: www.speedtest.net, network: ws, ws-opts: {path: /download, headers: {Host: mail.ski1plag.ir}}, udp: true}
+  - {name: 🇨🇦 vless-e9f5d4d8 (Canada), server: 172.67.145.189, port: 2087, client-fingerprint: chrome, type: vless, uuid: ec7a6b6d-94b6-45df-9d62-491f53a508be, tls: true, tfo: false, skip-cert-verify: false, servername: fReedoM.pAnotOSU.STorE, network: ws, ws-opts: {path: "/fOcrKJa0xLVhd8XU/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560", headers: {Host: freedom.panotosu.store}}, udp: true}
+  - {name: 🇨🇦 vless-ea8e9d3d (Canada), server: 104.17.4.197, port: 443, client-fingerprint: chrome, type: vless, uuid: 8df60790-c903-4661-b85d-64c0009378e5, tls: true, tfo: false, skip-cert-verify: false, servername: F1.paRsa.fiLegEar-Sg.Me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: f1.parsa.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-ead01923 (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 9e7b3b9f-ab4b-4f2c-9529-2fc61840db40, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-fg-3.abar-farz.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-fg-3.abar-farz.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-ebb0d3e0 (Canada), server: add.ski1plag.ir, port: 8080, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: true, tfo: false, skip-cert-verify: false, servername: add.ski1plag.ir, network: ws, ws-opts: {path: /download, headers: {Host: my.ski1plag.ir}}, udp: true}
+  - {name: 🇨🇦 vless-ebfb1cc2 (Canada), server: 104.16.241.234, port: 80, client-fingerprint: chrome, type: vless, uuid: 92f481b6-ad92-43e4-a683-2bb0aeaa9846, tls: true, tfo: false, skip-cert-verify: false, servername: 104.16.241.234, network: ws, ws-opts: {path: "/?ed=2580", headers: {Host: dw.alibichareh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-ec0586c1 (Canada), server: 104.24.56.187, port: 80, client-fingerprint: chrome, type: vless, uuid: e6236ebc-7334-4bed-977f-0c20bcdfcc00, tls: true, tfo: false, skip-cert-verify: false, servername: 104.24.56.187, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: a1.ghormehsabzi.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-ed2f07ad (Canada), server: 104.17.147.22, port: 443, client-fingerprint: chrome, type: vless, uuid: 4d91916f-a7fd-419b-8b90-640bb8d1b9f4, tls: true, tfo: false, skip-cert-verify: false, servername: TITanTabLOmaNAHaMRaH.IR, network: ws, ws-opts: {path: /Kytglts3cGhwlsZV/MjEzLjE3MC4xNTcuMQ, headers: {Host: titantablomanahamrah.ir}}, udp: true}
+  - {name: 🇨🇦 vless-ede81f03 (Canada), server: 104.16.1.106, port: 80, client-fingerprint: chrome, type: vless, uuid: f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d, tls: true, tfo: false, skip-cert-verify: false, servername: delam.ahaysiahzangi.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: delam.ahaysiahzangi.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-f37e5566 (Canada), server: www.speedtest.net, port: 8080, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: true, tfo: false, skip-cert-verify: false, servername: www.speedtest.net, network: ws, ws-opts: {path: /download, headers: {Host: mail.ski1plag.ir}}, udp: true}
+  - {name: 🇨🇦 vless-f4be3c15 (Canada), server: WWW.sPeedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: xbox.fastnetpro.xyz, network: ws, ws-opts: {path: /, headers: {Host: xbox.fastnetpro.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-f53dd7ae (Canada), server: wWW.spEEdTest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: xbox.fastnetpro.xyz, network: ws, ws-opts: {path: /, headers: {Host: xbox.fastnetpro.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-f58eff7c (Canada), server: 172.67.226.132, port: 80, client-fingerprint: chrome, type: vless, uuid: 26bc13af-e442-4956-afd4-b8f85744d26f, tls: true, tfo: false, skip-cert-verify: false, servername: fggerlad.gerald81.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fggerlad.gerald81.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-f7ac9b4e (Canada), server: 172.67.78.196, port: 80, client-fingerprint: chrome, type: vless, uuid: dfdf1c0a-5e52-4746-88bd-19d4e4ac7853, tls: true, tfo: false, skip-cert-verify: false, servername: tannaz.juveitaly.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tannaz.juveitaly.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-f930c7cc (Canada), server: 104.16.241.234, port: 80, client-fingerprint: chrome, type: vless, uuid: 92f481b6-ad92-43e4-a683-2bb0aeaa9846, tls: true, tfo: false, skip-cert-verify: false, servername: 104.16.241.234, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: dw.alibichareh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vless-f977b9e9 (Canada), server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 9e7b3b9f-ab4b-4f2c-9529-2fc61840db40, tls: true, tfo: false, skip-cert-verify: false, servername: rayan-fg-7.abar-farz.filegear-sg.me, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: rayan-fg-7.abar-farz.filegear-sg.me}}, udp: true}
+  - {name: 🇨🇦 vless-fa070319 (Canada), server: 104.21.96.1, port: 8443, client-fingerprint: chrome, type: vless, uuid: 48a6a580-b0b2-4cf8-bd22-27e52f7f0de0, tls: true, tfo: false, skip-cert-verify: false, servername: freedom.mOResh.sToRE, network: ws, ws-opts: {path: /5idqL16lOOKjBvUz/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=, headers: {Host: freedom.moresh.store}}, udp: true}
+  - {name: 🇨🇦 vless-fafcfe4f (Canada), server: wwW.sPEEDteSt.Net, port: 443, client-fingerprint: chrome, type: vless, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, tls: true, tfo: false, skip-cert-verify: false, servername: xbox.fastnetpro.xyz, network: ws, ws-opts: {path: /, headers: {Host: xbox.fastnetpro.xyz}}, udp: true}
+  - {name: 🇨🇦 vless-ffdb1b98 (Canada), server: 104.16.0.113, port: 80, client-fingerprint: chrome, type: vless, uuid: bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0, tls: true, tfo: false, skip-cert-verify: false, servername: 104.16.0.113, network: ws, ws-opts: {path: "/?ed=2570", headers: {Host: barayeiran.nastaranh.dpdns.org}}, udp: true}
+  - {name: 🇨🇦 vmess-1c505756 (Canada), server: prod02-lb02-cloud01.cyberscaler.com, port: 33678, client-fingerprint: chrome, type: vmess, uuid: 57f93957-064c-4486-ad2e-f406e6c7fbe3, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 vmess-4e7a183e (Canada), server: prod02-lb02-cloud01.cyberscaler.com, port: 33678, client-fingerprint: chrome, type: vmess, uuid: 0be9f568-4ef5-4288-8818-2034593ad6bd, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 vmess-6248afa4 (Canada), server: prod02-lb02-cloud01.cyberscaler.com, port: 33678, client-fingerprint: chrome, type: vmess, uuid: fd83d63c-e97e-4a94-87db-27107dcbe293, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 vmess-ab0096dd (Canada), server: prod02-lb02-cloud01.cyberscaler.com, port: 33678, client-fingerprint: chrome, type: vmess, uuid: 57f93957-064c-4486-ad2e-f406e6c7fbe3, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 vmess-c7ecf795 (Canada), server: prod2-fh-cloud-hybrid01-vmt01.cyberscaler.com, port: 37333, client-fingerprint: chrome, type: vmess, uuid: 2f165ac3-573f-4361-b7f2-6c2d4dc36048, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 vmess-f8eaac70 (Canada), server: prod02-lb02-cloud01.cyberscaler.com, port: 33678, client-fingerprint: chrome, type: vmess, uuid: df3a0454-0a2c-4cae-ba0f-c56426cb0870, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇭 vless-e190b98e (Switzerland), server: fifa.game2ni.ir, port: 26206, client-fingerprint: chrome, type: vless, uuid: c1e2e26f-98e7-43b5-9bf0-ace939ed8ff2, tls: true, tfo: false, skip-cert-verify: false, servername: cdn-download1.zula.ir, network: tcp, udp: true}
+  - {name: 🇨🇭 vless-f3fc80df (Switzerland), server: fifa.game2ni.ir, port: 26206, client-fingerprint: chrome, type: vless, uuid: c1e2e26f-98e7-43b5-9bf0-ace939ed8ff2, tls: true, tfo: false, skip-cert-verify: false, servername: cdn-download1.zula.ir, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-04729b8b (Germany), server: 209.38.114.204, port: 17416, client-fingerprint: chrome, type: vless, uuid: 2706427a-bf92-43b5-a001-37e31e4c4d56, tls: true, tfo: false, skip-cert-verify: false, servername: sourceforge.net, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-070da003 (Germany), server: 91.99.192.155, port: 443, client-fingerprint: chrome, type: vless, uuid: 153ee04c-dcc1-4ef8-a146-8fb31cec1f48, tls: true, tfo: false, skip-cert-verify: false, servername: 91.99.192.155, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-0820f60a (Germany), server: 91.99.162.239, port: 443, client-fingerprint: chrome, type: vless, uuid: 2eaef053-5fd6-4def-b234-d760690355ff, tls: true, tfo: false, skip-cert-verify: false, servername: 91.99.162.239, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-1ee83e70 (Germany), server: 91.99.193.96, port: 443, client-fingerprint: chrome, type: vless, uuid: 153ee04c-dcc1-4ef8-a146-8fb31cec1f48, tls: true, tfo: false, skip-cert-verify: false, servername: 91.99.193.96, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-373aec4f (Germany), server: 91.99.198.191, port: 443, client-fingerprint: chrome, type: vless, uuid: 2eaef053-5fd6-4def-b234-d760690355ff, tls: true, tfo: false, skip-cert-verify: false, servername: 91.99.198.191, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-41bbd848 (Germany), server: 181.214.99.36, port: 443, client-fingerprint: chrome, type: vless, uuid: 2ebdc8ed-7b96-4839-b32f-b5d21a11f320, tls: true, tfo: false, skip-cert-verify: false, servername: docker.com, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-6eea7b96 (Germany), server: 209.38.189.100, port: 17416, client-fingerprint: chrome, type: vless, uuid: 2706427a-bf92-43b5-a001-37e31e4c4d56, tls: true, tfo: false, skip-cert-verify: false, servername: sourceforge.net, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-882cf4a3 (Germany), server: Subfourteen.iranfreedomserver.com, port: 7005, client-fingerprint: chrome, type: vless, uuid: 74dc40ed-8d99-4bbc-a203-cd7097f88ab2, tls: true, tfo: false, skip-cert-verify: false, servername: refersion.com, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-8f649f72 (Germany), server: 37.120.167.155, port: 443, client-fingerprint: chrome, type: vless, uuid: 7a3ba820-45a0-4e89-a7fd-705490b1c6c6, tls: true, tfo: false, skip-cert-verify: false, servername: nobitex.ir, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-9c471ab1 (Germany), server: 209.38.189.100, port: 17416, client-fingerprint: chrome, type: vless, uuid: 2706427a-bf92-43b5-a001-37e31e4c4d56, tls: true, tfo: false, skip-cert-verify: false, servername: sourceforge.net, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-c0744bc8 (Germany), server: 91.99.162.239, port: 443, client-fingerprint: chrome, type: vless, uuid: 2eaef053-5fd6-4def-b234-d760690355ff, tls: true, tfo: false, skip-cert-verify: false, servername: 91.99.162.239, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-c2376e6d (Germany), server: 37.120.167.155, port: 4444, client-fingerprint: chrome, type: vless, uuid: 25dc4687-1fcf-4380-b633-b88a2afe9781, tls: true, tfo: false, skip-cert-verify: false, servername: nobitex.ir, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-d45ba3dd (Germany), server: 91.99.181.193, port: 51615, client-fingerprint: chrome, type: vless, uuid: 2eaef053-5fd6-4def-b234-d760690355ff, tls: true, tfo: false, skip-cert-verify: false, servername: 91.99.181.193, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-e7f0ee71 (Germany), server: 91.99.202.155, port: 443, client-fingerprint: chrome, type: vless, uuid: 2eaef053-5fd6-4def-b234-d760690355ff, tls: true, tfo: false, skip-cert-verify: false, servername: 91.99.202.155, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-f38d5036 (Germany), server: 209.38.186.105, port: 47948, client-fingerprint: chrome, type: vless, uuid: a26ea133-45e6-48d9-9ff6-a05e08d81724, tls: true, tfo: false, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
+  - {name: 🇩🇪 vless-febcfb72 (Germany), server: 209.38.114.204, port: 17416, client-fingerprint: chrome, type: vless, uuid: 2706427a-bf92-43b5-a001-37e31e4c4d56, tls: true, tfo: false, skip-cert-verify: false, servername: sourceforge.net, network: tcp, udp: true}
+  - {name: 🇩🇪 vmess-4ac770df (Germany), server: 209.38.196.97, port: 80, client-fingerprint: chrome, type: vmess, uuid: 15930210-29f4-49ec-910d-e5b22c694180, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇩🇪 vmess-650e7e5c (Germany), server: testdir.romil-ltd.co.uk, port: 80, client-fingerprint: chrome, type: vmess, uuid: 15930210-29f4-49ec-910d-e5b22c694180, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: testdir.romil-ltd.co.uk, network: ws, ws-opts: {path: /8Hh8FYlBM0DQppVfsbiItr, headers: {Host: fast.com}}, udp: true}
+  - {name: 🇩🇪 vmess-abf4d728 (Germany), server: 5.75.195.130, port: 2045, client-fingerprint: chrome, type: vmess, uuid: 0087deee-d6b9-43e3-8d1e-167bc41ad682, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇩🇪 vmess-c747a9ea (Germany), server: testdir.romil-ltd.co.uk, port: 80, client-fingerprint: chrome, type: vmess, uuid: 15930210-29f4-49ec-910d-e5b22c694180, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: testdir.romil-ltd.co.uk, udp: true}
+  - {name: 🇫🇮 vless-5e00f9a0 (Finland), server: fi.cosmonet.online, port: 443, client-fingerprint: chrome, type: vless, uuid: 7f97131b-0d9d-4be9-b7b4-3fa21403cffa, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: yahoo.com, network: tcp, udp: true}
+  - {name: 🇫🇮 vless-994bbb4f (Finland), server: cdn.chandplus.com, port: 443, client-fingerprint: chrome, type: vless, uuid: 14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f, tls: true, tfo: false, skip-cert-verify: false, servername: cdn.chandplus.com, network: tcp, udp: true}
+  - {name: 🇫🇮 vless-c3d3612b (Finland), server: 65.108.231.185, port: 443, client-fingerprint: chrome, type: vless, uuid: 440766d1-858f-4719-84f5-c2de6f6227ba, tls: true, tfo: false, skip-cert-verify: false, servername: loCal.rogsoftwaregroup.com, network: tcp, udp: true}
+  - {name: 🇫🇮 vless-d5808d2c (Finland), server: conf.hqhq.xyz, port: 443, client-fingerprint: chrome, type: vless, uuid: TeleGram-Hqv2rayNG, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
+  - {name: 🇫🇮 vless-d83b7690 (Finland), server: 65.108.231.185, port: 443, client-fingerprint: chrome, type: vless, uuid: 440766d1-858f-4719-84f5-c2de6f6227ba, tls: true, tfo: false, skip-cert-verify: false, servername: local.rogsoftwaregroup.com, network: tcp, udp: true}
+  - {name: 🇫🇮 vless-e4c22de8 (Finland), server: app.chandplus.com, port: 443, client-fingerprint: chrome, type: vless, uuid: fa72a38c-56bf-4f3b-9735-e96e9840ae54, tls: true, tfo: false, skip-cert-verify: false, servername: app.chandplus.com, network: tcp, udp: true}
+  - {name: 🇫🇷 vless-e4b7ce8c (France), server: fr.spirako.com, port: 443, client-fingerprint: chrome, type: vless, uuid: 4730d92d-a8a0-42f0-af19-8151fb951b4b, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: website.com, network: tcp, udp: true}
+  - {name: 🇬🇧 ss-3b553486 (United Kingdom), server: admin.c4.webramz.co, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 69MUii7VDwMqh7Hz, tfo: false, udp: true}
+  - {name: 🇬🇧 ss-47d402ff (United Kingdom), server: admin.c4.webramz.co, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 69MUii7VDwMqh7Hz, tfo: false, udp: true}
+  - {name: 🇬🇧 ss-6639c24f (United Kingdom), server: series-a2.varzesh360.co, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, tfo: false, udp: true}
+  - {name: 🇬🇧 ss-6f17e8b0 (United Kingdom), server: series-a2.varzesh360.co, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, tfo: false, udp: true}
+  - {name: 🇬🇧 ss-7533c67f (United Kingdom), server: series-a2.varzesh360.co, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, tfo: false, udp: true}
+  - {name: 🇬🇧 ss-a359d435 (United Kingdom), server: series-a2.samanehha.co, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, tfo: false, udp: true}
+  - {name: 🇬🇧 ss-b6f393d7 (United Kingdom), server: series-a2.varzesh360.co, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, tfo: false, udp: true}
+  - {name: 🇬🇧 ss-f0467061 (United Kingdom), server: 3FreakConfig.usecharge.ir, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, tfo: false, udp: true}
+  - {name: 🇬🇧 vless-440b10e7 (United Kingdom), server: kolinkas.atroart.ir, port: 65001, client-fingerprint: chrome, type: vless, uuid: 50f958da-7292-48e5-ba2a-99ffed01b415, tls: true, tfo: false, skip-cert-verify: false, servername: tgju.org, network: tcp, udp: true}
+  - {name: 🇬🇧 vless-bfe9007c (United Kingdom), server: 45.12.30.101, port: 80, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: 45.12.30.101, network: ws, ws-opts: {path: "Telegram:@ShadowProxy66/?ed=2560", headers: {Host: uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz}}, udp: true}
+  - {name: 🇮🇷 trojan-28881b30 (Iran), server: 185.143.235.201, port: 2096, client-fingerprint: chrome, type: trojan, password: "$Iu_sL4k*u,9", sni: anten.ir, skip-cert-verify: false, network: ws, ws-opts: {path: "/trPrm7agLwtAsC9J9F?ed\\u003d2560"}, udp: true}
+  - {name: 🇮🇷 trojan-45a0c212 (Iran), server: 46.38.146.51, port: 2096, client-fingerprint: chrome, type: trojan, password: 5458dada-aa7a-4d9b-bdfb-d22e30503e10, sni: 46.38.146.51, skip-cert-verify: false, network: ws, ws-opts: {path: /tr/v/tNtL/gfdr}, udp: true}
+  - {name: 🇮🇷 trojan-700890f6 (Iran), server: 62.220.127.47, port: 6000, client-fingerprint: chrome, type: trojan, password: 3b9f06bc-83ae-4df8-98ca-0cea043b3369, sni: node1.servernode.store, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 trojan-e3b08166 (Iran), server: 95.38.210.47, port: 443, client-fingerprint: chrome, type: trojan, password: wPslQ6KBJN, sni: wivip.dtsazino.com, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vless-01c9b87d (Iran), server: vip.mosen1server.ir, port: 80, client-fingerprint: chrome, type: vless, uuid: a9f40576-6321-491f-bb4a-7d8a762eea27, tls: true, tfo: false, skip-cert-verify: false, servername: vip.mosen1server.ir, network: tcp, udp: true}
+  - {name: 🇮🇷 vless-3712b9e1 (Iran), server: turkey.jewelll.ir, port: 3311, client-fingerprint: chrome, type: vless, uuid: ccd5d8c4-634c-46bc-8f7a-5be3b8649858, tls: true, tfo: false, skip-cert-verify: false, servername: turkey.jewelll.ir, network: tcp, udp: true}
+  - {name: 🇮🇷 vless-630e8069 (Iran), server: 94.182.136.232, port: 37725, client-fingerprint: chrome, type: vless, uuid: a6490cc3-6064-40ab-8ba0-619234a8d5dc, tls: true, tfo: false, skip-cert-verify: false, servername: 94.182.136.232, network: tcp, udp: true}
+  - {name: 🇮🇷 vless-9bb11be0 (Iran), server: 185.208.77.113, port: 14040, client-fingerprint: chrome, type: vless, uuid: a2691bdd-7989-4e7e-9c44-302e360c021f, tls: true, tfo: false, skip-cert-verify: false, servername: 185.208.77.113, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇮🇷 vless-a27bf588 (Iran), server: 5.182.46.67, port: 2051, client-fingerprint: chrome, type: vless, uuid: a7f5d152-0287-af42-bfbc-f8ce1e31d97e, tls: true, tfo: false, skip-cert-verify: false, servername: 5.182.46.67, network: tcp, udp: true}
+  - {name: 🇮🇷 vless-aa544dbb (Iran), server: 81.12.35.242, port: 2096, client-fingerprint: chrome, type: vless, uuid: 0d1cb112-006f-4eaa-89d1-15da714d12e1, tls: true, tfo: false, skip-cert-verify: false, servername: 81.12.35.242, network: tcp, udp: true}
+  - {name: 🇮🇷 vless-b99349cd (Iran), server: sr58.sonday.sbs, port: 2095, client-fingerprint: chrome, type: vless, uuid: e489459f-7db3-44af-9951-91a1a4466b71, tls: true, tfo: false, skip-cert-verify: false, servername: sr58.sonday.sbs, network: tcp, udp: true}
+  - {name: 🇮🇷 vless-d72a6db9 (Iran), server: v3.fandogh4.ir, port: 2053, client-fingerprint: chrome, type: vless, uuid: ae48f95d-9b6a-454b-849b-2ecf7922487b, tls: true, tfo: false, skip-cert-verify: false, servername: dash.beginnertopro.ir, network: ws, ws-opts: {path: "/C7OSXPN9yV234T1Y?ed=2560", headers: {Host: dash.beginnertopro.ir}}, udp: true}
+  - {name: 🇮🇷 vless-d82187d4 (Iran), server: 85.133.194.83, port: 3333, client-fingerprint: chrome, type: vless, uuid: 7d283c1a-3a5b-4b2a-a924-0bd256e89726, tls: true, tfo: false, skip-cert-verify: false, servername: 85.133.194.83, network: tcp, udp: true}
+  - {name: 🇮🇷 vless-fad3bb0f (Iran), server: 91.99.207.230, port: 51615, client-fingerprint: chrome, type: vless, uuid: 2eaef053-5fd6-4def-b234-d760690355ff, tls: true, tfo: false, skip-cert-verify: false, servername: 91.99.207.230, network: tcp, udp: true}
+  - {name: 🇮🇷 vmess-05b9650b (Iran), server: 185.215.228.4, port: 59859, client-fingerprint: chrome, type: vmess, uuid: 8cfdc398-2903-49e2-9fab-d57c0a36d665, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-0ee925f7 (Iran), server: 185.215.228.220, port: 48673, client-fingerprint: chrome, type: vmess, uuid: 6ae00a4a-b7a9-45fa-8d8b-d74943a17a4c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-0fe6f298 (Iran), server: 95.38.140.102, port: 45090, client-fingerprint: chrome, type: vmess, uuid: ab94c3a9-6695-4390-bde0-0ecefab656fe, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-15c01281 (Iran), server: 2.188.224.113, port: 9093, client-fingerprint: chrome, type: vmess, uuid: a281a253-e909-4646-b8c8-82aed47f20a9, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-1a0c36ad (Iran), server: 81.12.33.197, port: 6014, client-fingerprint: chrome, type: vmess, uuid: 2bf6cb84-d726-43eb-9928-8d8e442a4b6c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-218928bd (Iran), server: 91.212.232.124, port: 45037, client-fingerprint: chrome, type: vmess, uuid: 175fc5e3-3e65-41d1-aa27-b7842ee3d8b7, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: 91.212.232.124, udp: true}
+  - {name: 🇮🇷 vmess-2c0f7971 (Iran), server: 81.12.33.193, port: 6006, client-fingerprint: chrome, type: vmess, uuid: 2bf6cb84-d726-43eb-9928-8d8e442a4b6c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-31b5a198 (Iran), server: 85.198.23.63, port: 52262, client-fingerprint: chrome, type: vmess, uuid: af5a0d0c-c898-4a51-ba6a-47179d483e41, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-354b2b15 (Iran), server: 188.212.97.202, port: 2020, client-fingerprint: chrome, type: vmess, uuid: 5c270eb1-e18d-4020-949d-17e18445dac5, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-375a3be0 (Iran), server: 185.133.125.5, port: 4951, client-fingerprint: chrome, type: vmess, uuid: e5d50439-47a8-467f-bead-00d3c4ab86f3, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-40fa734e (Iran), server: 217.114.40.136, port: 3223, client-fingerprint: chrome, type: vmess, uuid: c0b33b5a-c27e-f273-e3ee-d25f7bbf73dd, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: 217.114.40.136, udp: true}
+  - {name: 🇮🇷 vmess-448a34b1 (Iran), server: 81.12.33.97, port: 2070, client-fingerprint: chrome, type: vmess, uuid: b6e340e6-c49a-4a53-88c6-2e5478f5cb80, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-4a8272b7 (Iran), server: 188.212.97.188, port: 20021, client-fingerprint: chrome, type: vmess, uuid: 0c4a0845-207c-473a-bcce-faf96c823e5a, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-5625399b (Iran), server: 81.12.33.197, port: 2096, client-fingerprint: chrome, type: vmess, uuid: 604fa262-146a-437f-9206-93b16ea30176, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-59efca4c (Iran), server: 2.189.117.108, port: 35010, client-fingerprint: chrome, type: vmess, uuid: cd348c94-abff-49c7-a3ef-5475fec89d4c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-60043ba3 (Iran), server: 188.212.97.69, port: 6075, client-fingerprint: chrome, type: vmess, uuid: 1cf4e854-ea13-449b-8328-2ec0f77b2f7a, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-6180d4fb (Iran), server: 89.43.205.2, port: 2535, client-fingerprint: chrome, type: vmess, uuid: 04d7c089-bbc5-4ef2-80ef-a0982cf33708, alterId: 0, cipher: aes-128-gcm, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-639bc50f (Iran), server: 45.90.74.240, port: 7580, client-fingerprint: chrome, type: vmess, uuid: 47a4e822-61ce-4eb2-d5bd-8db6f17bab93, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-658cd7d9 (Iran), server: 37.152.181.138, port: 5050, client-fingerprint: chrome, type: vmess, uuid: a77c3026-b297-47d5-c837-b18b64198d0b, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-66fe6d77 (Iran), server: 78.39.9.134, port: 8090, client-fingerprint: chrome, type: vmess, uuid: 891e1d1c-5fbc-40cb-9256-58b016b6b600, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-75e580e5 (Iran), server: 62.60.185.233, port: 8019, client-fingerprint: chrome, type: vmess, uuid: 6a2ac534-613e-4c88-9520-8ec4c329bf75, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: 62.60.185.233, udp: true}
+  - {name: 🇮🇷 vmess-8080ecc0 (Iran), server: 193.151.140.179, port: 39262, client-fingerprint: chrome, type: vmess, uuid: fdcbac70-cf7d-49ad-b3dc-c125668c97bc, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-82dbca10 (Iran), server: 185.58.242.77, port: 609, client-fingerprint: chrome, type: vmess, uuid: d641e03f-9c7b-4b3d-85d7-1b2792fb2fe2, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-83b45e7e (Iran), server: 185.215.228.12, port: 39400, client-fingerprint: chrome, type: vmess, uuid: fb36e400-f55b-47f8-ba4a-2d324d061076, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: 185.215.228.12, udp: true}
+  - {name: 🇮🇷 vmess-8ec83467 (Iran), server: 81.12.33.193, port: 6005, client-fingerprint: chrome, type: vmess, uuid: 2bf6cb84-d726-43eb-9928-8d8e442a4b6c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-8f6d0786 (Iran), server: 185.215.228.7, port: 49178, client-fingerprint: chrome, type: vmess, uuid: 019d8491-590e-4d5d-8c40-153411693aab, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-a3813526 (Iran), server: 188.75.79.85, port: 20236, client-fingerprint: chrome, type: vmess, uuid: 519cac48-4e9e-49a6-b195-1eb9a13427e6, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-a5bec3c4 (Iran), server: 95.38.140.98, port: 10165, client-fingerprint: chrome, type: vmess, uuid: 1bf6a29c-4f0c-4d4c-896c-b3b770d94e82, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-aaa0c183 (Iran), server: 81.12.33.197, port: 6013, client-fingerprint: chrome, type: vmess, uuid: 2bf6cb84-d726-43eb-9928-8d8e442a4b6c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-b39e09d8 (Iran), server: 62.60.220.184, port: 9012, client-fingerprint: chrome, type: vmess, uuid: 6be17a0e-92f0-49e0-9648-0d21e3a8e9f0, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, servername: 62.60.220.184, udp: true}
+  - {name: 🇮🇷 vmess-b564a4ec (Iran), server: 212.80.10.88, port: 8082, client-fingerprint: chrome, type: vmess, uuid: 1a91e2bd-f189-4d52-911d-00177069ccad, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-bd279dae (Iran), server: 212.23.214.21, port: 20017, client-fingerprint: chrome, type: vmess, uuid: 7c8326eb-4250-4f77-8e1f-0210a69e9ade, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-d6072810 (Iran), server: 94.182.83.76, port: 52348, client-fingerprint: chrome, type: vmess, uuid: c99ff604-6970-4ae9-b7e5-d0ad8cc5a10b, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-d7ab8b2a (Iran), server: 85.9.121.66, port: 16000, client-fingerprint: chrome, type: vmess, uuid: 6901a621-e9ee-421d-8575-a1d04129227b, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-dcbd01d3 (Iran), server: 2.189.117.107, port: 56932, client-fingerprint: chrome, type: vmess, uuid: 48686309-3c8d-4812-9ce3-d60dda6ef323, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-e0353a53 (Iran), server: 193.151.149.76, port: 30286, client-fingerprint: chrome, type: vmess, uuid: b1a135cf-1181-4ab9-a7bc-5994cdc6f47b, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇮🇷 vmess-e22e8efc (Iran), server: 188.121.109.247, port: 444, client-fingerprint: chrome, type: vmess, uuid: 523d8d78-411a-4849-b17f-ccff6bcbf564, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-e2367420 (Iran), server: 193.151.148.103, port: 29966, client-fingerprint: chrome, type: vmess, uuid: 27f22d09-ef89-4606-a42b-f677d0c54d0d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-e3d8b914 (Iran), server: 62.60.204.149, port: 59440, client-fingerprint: chrome, type: vmess, uuid: 7fc3c790-8830-48dd-9b0c-c954301d373c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-e425c075 (Iran), server: 2.188.224.117, port: 8084, client-fingerprint: chrome, type: vmess, uuid: 8a4e78c6-bf74-49b9-a11a-dc1ebd9e5006, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-e5a84f60 (Iran), server: 79.175.188.228, port: 80, client-fingerprint: chrome, type: vmess, uuid: 91207857-e8bd-4bb0-eef3-5b0aec78ac10, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-e96593f7 (Iran), server: 81.12.33.193, port: 6009, client-fingerprint: chrome, type: vmess, uuid: 2bf6cb84-d726-43eb-9928-8d8e442a4b6c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-e9e12552 (Iran), server: 81.12.35.217, port: 2055, client-fingerprint: chrome, type: vmess, uuid: 351134b3-bff2-4801-9244-55e1a9d6c4b1, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-f2288fd8 (Iran), server: 193.151.141.153, port: 9979, client-fingerprint: chrome, type: vmess, uuid: 26d9ddd9-1e5d-46fc-8baa-a77475c29e68, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-f2d601b8 (Iran), server: 81.12.33.196, port: 6008, client-fingerprint: chrome, type: vmess, uuid: 604fa262-146a-437f-9206-93b16ea30176, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-fad3a924 (Iran), server: 78.157.44.88, port: 34892, client-fingerprint: chrome, type: vmess, uuid: 2118ee50-f0a9-4fb1-9a1d-3f6b900e8436, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇷 vmess-fae7f571 (Iran), server: 185.201.49.68, port: 48086, client-fingerprint: chrome, type: vmess, uuid: ffece2a9-0296-46a9-8db8-742d29d240ff, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /static/css/jquery/JFxPamJMNCYmZVxzIktGYC5rQT0uWS92XCs7Kl1jZikxTThQRColFntsJDJ4EzQoMjEFGFgVb1s0bBtOE1F2ZQoW, headers: {Host: fanap-infra.com}}, udp: true}
+  - {name: 🇮🇷 vmess-ff8371e7 (Iran), server: 37.152.181.119, port: 56104, client-fingerprint: chrome, type: vmess, uuid: efd57bc3-8086-48bd-9b1a-6fd8ab8cee6d, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇮🇹 vless-96291398 (Italy), server: hub.document.lat, port: 80, client-fingerprint: chrome, type: vless, uuid: 78f80c31-ff76-4bca-b43c-c991a9168f11, tls: true, tfo: false, skip-cert-verify: false, servername: hub.document.lat, network: tcp, udp: true}
+  - {name: 🇰🇿 vless-d4686935 (Kazakhstan), server: 31.43.179.51, port: 80, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: 31.43.179.51, network: ws, ws-opts: {path: "/TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz}}, udp: true}
+  - {name: 🇳🇱 hysteria2-6fa6c9a1 (The Netherlands), server: yapc-1.adamhayward.co.uk, port: 35200, client-fingerprint: chrome, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true}
+  - {name: 🇳🇱 hysteria2-89c9642c (The Netherlands), server: yapc-1.adamhayward.co.uk, port: 36300, client-fingerprint: chrome, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true}
+  - {name: 🇳🇱 hysteria2-93ebe0c3 (The Netherlands), server: yapc-1.adamhayward.co.uk, port: 36400, client-fingerprint: chrome, type: hysteria2, password: Yet-Another-Public-Config-1, auth: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true}
+  - {name: 🇳🇱 vless-6d713dbc (The Netherlands), server: conf2.hqhq.xyz, port: 37556, client-fingerprint: chrome, type: vless, uuid: Reality-HqV2rayNG, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: arzdigital.com, network: tcp, udp: true}
+  - {name: 🇳🇱 vless-b28dae3a (The Netherlands), server: bokolafas.attarisamadi.ir, port: 65001, client-fingerprint: chrome, type: vless, uuid: 50f958da-7292-48e5-ba2a-99ffed01b415, tls: true, tfo: false, skip-cert-verify: false, servername: tgju.org, network: tcp, udp: true}
+  - {name: 🇵🇱 vless-1f30f000 (Poland), server: 194.147.34.72, port: 443, client-fingerprint: chrome, type: vless, uuid: 37b8e7c0-5009-5836-bcb2-bfbda27a43cc, tls: true, tfo: false, skip-cert-verify: false, servername: 194.147.34.72, network: ws, ws-opts: {path: /vless, headers: {Host: 194.147.34.72}}, udp: true}
+  - {name: 🇵🇱 vless-c96e972a (Poland), server: pl.spirako.com, port: 443, client-fingerprint: chrome, type: vless, uuid: 4730d92d-a8a0-42f0-af19-8151fb951b4b, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: website.com, network: tcp, udp: true}
+  - {name: 🇷🇺 ss-20dc11ed (Russia), server: ss.sps1.sbs, port: 20, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: 1KssbuTybQDBYgDju5nNSg, tfo: false, udp: true}
+  - {name: 🇷🇺 vless-da5378ff (Russia), server: 185.59.218.213, port: 8880, client-fingerprint: chrome, type: vless, uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf, tls: true, tfo: false, skip-cert-verify: false, servername: 185.59.218.213, network: ws, ws-opts: {path: /, headers: {Host: jp.laoyoutiao.link}}, udp: true}
+  - {name: 🇸🇪 ss-d1100c45 (Sweden), server: 20.91.252.21, port: 48172, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 51yloQC8D9w1Wae7FHtI65, tfo: false, udp: true}
+  - {name: 🇸🇬 vless-0bddd4b1 (Singapore), server: 43.156.217.68, port: 41283, client-fingerprint: chrome, type: vless, uuid: 4839e0b9-b275-47ea-81ab-9bfd38bbe7af, tls: true, tfo: false, skip-cert-verify: false, servername: 43.156.217.68, network: tcp, udp: true}
+  - {name: 🇸🇬 vless-874427db (Singapore), server: 45.8.211.183, port: 80, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: 45.8.211.183, network: ws, ws-opts: {path: "Telegram:@ShadowProxy66/?ed=2560", headers: {Host: uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz}}, udp: true}
+  - {name: 🇺🇸 vless-07fd696a (United States), server: speedtest.net, port: 80, client-fingerprint: chrome, type: vless, uuid: c01c6d74-d096-4e03-bd99-96977add9593, tls: true, tfo: false, skip-cert-verify: false, servername: speedtest.net, network: ws, ws-opts: {path: "/--@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG?ed=2560", headers: {Host: hqhq.ir}}, udp: true}
+  - {name: 🇺🇸 vless-41a413b4 (United States), server: 147.185.161.229, port: 80, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: 147.185.161.229, network: ws, ws-opts: {path: "Telegram:@ShadowProxy66/?ed=2560", headers: {Host: uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz}}, udp: true}
+  - {name: 🇺🇸 vless-70e9e9ae (United States), server: nwarne.fast.hosting-ip.com, port: 80, client-fingerprint: chrome, type: vless, uuid: 8b4bb431-21bf-46c9-a4bf-4deac75613f9, tls: true, tfo: false, skip-cert-verify: false, servername: nwarne.fast.hosting-ip.com, network: ws, ws-opts: {path: "/de?ed=1048", headers: {Host: Afkarnews.com}}, udp: true}
+  - {name: 🇺🇸 vless-996b61c8 (United States), server: 151.101.3.8, port: 80, client-fingerprint: chrome, type: vless, uuid: c01c6d74-d096-4e03-bd99-96977add9593, tls: true, tfo: false, skip-cert-verify: false, servername: 151.101.3.8, network: ws, ws-opts: {path: "/--@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG---@HqV2rayNG?ed=2560", headers: {Host: pishi.co}}, udp: true}
+  - {name: 🇺🇸 vless-a24fd672 (United States), server: config_v_2ray-99916.edges.chat2.fun, port: 80, client-fingerprint: chrome, type: vless, uuid: 2ee654be-dcf2-4a6b-acfb-e7945263a1cf, tls: true, tfo: false, skip-cert-verify: false, servername: config_v_2ray-99916.edges.chat2.fun, network: tcp, udp: true}
+  - {name: 🇺🇸 vless-b140782e (United States), server: 151.101.3.8, port: 80, client-fingerprint: chrome, type: vless, uuid: 8d9eaf7c-0da5-4414-9911-975add3b9e69, tls: true, tfo: false, skip-cert-verify: false, servername: 151.101.3.8, network: tcp, udp: true}
+  - {name: 🇺🇸 vless-b92d41f3 (United States), server: 168.100.6.8, port: 80, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: 168.100.6.8, network: ws, ws-opts: {path: "Telegram:@ShadowProxy66/?ed=2560", headers: {Host: uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz}}, udp: true}
+  - {name: 🇺🇸 vless-e3f339e9 (United States), server: 47.251.95.178, port: 443, client-fingerprint: chrome, type: vless, uuid: ea286109-d20f-415e-849e-4af20ab04b65, tls: true, tfo: false, skip-cert-verify: false, servername: 147135001195.sec22org.com, network: tcp, udp: true}
 proxy-groups:
-  - name: 🔰 节点选择
+  - name: نوع انتخاب پروکسی 🔀
     type: select
     proxies:
-      - ♻️ 自动选择
-      - 🎯 全球直连
-  - name: ♻️ 自动选择
+      - خودکار (بهترین پینگ) 🤖
+      - دستی 🤏🏻
+      - پشتیبان (در صورت قطعی) 🧯
+      - بدون فیلترشکن 🛡️
+  - name: دستی 🤏🏻
+    type: select
+    proxies:
+      - vless-8a76ea95 (United Arab Emirates)
+      - ️ trojan-1e4d2644 (Unknown)
+      - ️ trojan-501d39ce (Unknown)
+      - ️ trojan-6d7ddb69 (Unknown)
+      - ️ trojan-c095f3a3 (Unknown)
+      - 🇨🇦 trojan-1b35b1c8 (Canada)
+      - 🇨🇦 trojan-36ace29c (Canada)
+      - 🇨🇦 trojan-4841925a (Canada)
+      - 🇨🇦 trojan-9d28aba6 (Canada)
+      - 🇨🇦 trojan-ed15a578 (Canada)
+      - 🇨🇦 vless-0057d45e (Canada)
+      - 🇨🇦 vless-013f25dc (Canada)
+      - 🇨🇦 vless-02096d08 (Canada)
+      - 🇨🇦 vless-020dc6d9 (Canada)
+      - 🇨🇦 vless-029c6e2e (Canada)
+      - 🇨🇦 vless-02f0d07f (Canada)
+      - 🇨🇦 vless-042a5c27 (Canada)
+      - 🇨🇦 vless-07019cf9 (Canada)
+      - 🇨🇦 vless-081cab8c (Canada)
+      - 🇨🇦 vless-084c5c90 (Canada)
+      - 🇨🇦 vless-0937348e (Canada)
+      - 🇨🇦 vless-0a7612b4 (Canada)
+      - 🇨🇦 vless-0b157de1 (Canada)
+      - 🇨🇦 vless-0bd819df (Canada)
+      - 🇨🇦 vless-0d1cae00 (Canada)
+      - 🇨🇦 vless-0d227d43 (Canada)
+      - 🇨🇦 vless-11f2bb74 (Canada)
+      - 🇨🇦 vless-12711ec2 (Canada)
+      - 🇨🇦 vless-137e6350 (Canada)
+      - 🇨🇦 vless-153e88f4 (Canada)
+      - 🇨🇦 vless-161a9d7b (Canada)
+      - 🇨🇦 vless-19dadb1c (Canada)
+      - 🇨🇦 vless-1a96e42c (Canada)
+      - 🇨🇦 vless-203abc86 (Canada)
+      - 🇨🇦 vless-20b1ac43 (Canada)
+      - 🇨🇦 vless-211a170b (Canada)
+      - 🇨🇦 vless-219bc261 (Canada)
+      - 🇨🇦 vless-21afef59 (Canada)
+      - 🇨🇦 vless-21d261d5 (Canada)
+      - 🇨🇦 vless-23cac8e2 (Canada)
+      - 🇨🇦 vless-2477debf (Canada)
+      - 🇨🇦 vless-2768507d (Canada)
+      - 🇨🇦 vless-2813f921 (Canada)
+      - 🇨🇦 vless-289577b1 (Canada)
+      - 🇨🇦 vless-2e2d9d1c (Canada)
+      - 🇨🇦 vless-2e9ae7d1 (Canada)
+      - 🇨🇦 vless-2ecc4e85 (Canada)
+      - 🇨🇦 vless-2f4ae2e1 (Canada)
+      - 🇨🇦 vless-358b8826 (Canada)
+      - 🇨🇦 vless-371b6890 (Canada)
+      - 🇨🇦 vless-3723e2e7 (Canada)
+      - 🇨🇦 vless-3a05ed73 (Canada)
+      - 🇨🇦 vless-3ccb0591 (Canada)
+      - 🇨🇦 vless-409ec9a7 (Canada)
+      - 🇨🇦 vless-4659de8d (Canada)
+      - 🇨🇦 vless-4b2330ad (Canada)
+      - 🇨🇦 vless-4d1f5dd3 (Canada)
+      - 🇨🇦 vless-500a59be (Canada)
+      - 🇨🇦 vless-51e8f2d5 (Canada)
+      - 🇨🇦 vless-52c27901 (Canada)
+      - 🇨🇦 vless-53bf7864 (Canada)
+      - 🇨🇦 vless-572049e5 (Canada)
+      - 🇨🇦 vless-5ab4e1f9 (Canada)
+      - 🇨🇦 vless-5ae1d007 (Canada)
+      - 🇨🇦 vless-5b0c133b (Canada)
+      - 🇨🇦 vless-5c5a1648 (Canada)
+      - 🇨🇦 vless-5eb76509 (Canada)
+      - 🇨🇦 vless-5f1f1ea3 (Canada)
+      - 🇨🇦 vless-6015682a (Canada)
+      - 🇨🇦 vless-60df445c (Canada)
+      - 🇨🇦 vless-62208fa6 (Canada)
+      - 🇨🇦 vless-62bf2ff2 (Canada)
+      - 🇨🇦 vless-634abeb2 (Canada)
+      - 🇨🇦 vless-64579405 (Canada)
+      - 🇨🇦 vless-65448af3 (Canada)
+      - 🇨🇦 vless-661c7730 (Canada)
+      - 🇨🇦 vless-662957bc (Canada)
+      - 🇨🇦 vless-67d27ed8 (Canada)
+      - 🇨🇦 vless-68c60ffa (Canada)
+      - 🇨🇦 vless-6a6e3e18 (Canada)
+      - 🇨🇦 vless-6abac9d8 (Canada)
+      - 🇨🇦 vless-6c8c4092 (Canada)
+      - 🇨🇦 vless-6cb0a5fb (Canada)
+      - 🇨🇦 vless-6fde9d94 (Canada)
+      - 🇨🇦 vless-717ab4c3 (Canada)
+      - 🇨🇦 vless-763e7c34 (Canada)
+      - 🇨🇦 vless-778f0eda (Canada)
+      - 🇨🇦 vless-77929f1c (Canada)
+      - 🇨🇦 vless-77a08025 (Canada)
+      - 🇨🇦 vless-79ae16cc (Canada)
+      - 🇨🇦 vless-79f6f1c6 (Canada)
+      - 🇨🇦 vless-7a97d48a (Canada)
+      - 🇨🇦 vless-7a9cb4ee (Canada)
+      - 🇨🇦 vless-7c14b5a9 (Canada)
+      - 🇨🇦 vless-7fc19d50 (Canada)
+      - 🇨🇦 vless-83254342 (Canada)
+      - 🇨🇦 vless-83ffffc4 (Canada)
+      - 🇨🇦 vless-85d97626 (Canada)
+      - 🇨🇦 vless-8a0313b0 (Canada)
+      - 🇨🇦 vless-8be6fde6 (Canada)
+      - 🇨🇦 vless-8cb0d431 (Canada)
+      - 🇨🇦 vless-8cdc535e (Canada)
+      - 🇨🇦 vless-8e3b745b (Canada)
+      - 🇨🇦 vless-8f2c8bbc (Canada)
+      - 🇨🇦 vless-8fc3d3c9 (Canada)
+      - 🇨🇦 vless-90ec6f09 (Canada)
+      - 🇨🇦 vless-9274e1b3 (Canada)
+      - 🇨🇦 vless-9296e666 (Canada)
+      - 🇨🇦 vless-93d06c5a (Canada)
+      - 🇨🇦 vless-93e7b269 (Canada)
+      - 🇨🇦 vless-97bbdb75 (Canada)
+      - 🇨🇦 vless-9b7f1c72 (Canada)
+      - 🇨🇦 vless-9cdf7b8e (Canada)
+      - 🇨🇦 vless-9f1fd187 (Canada)
+      - 🇨🇦 vless-a299b007 (Canada)
+      - 🇨🇦 vless-a36e70a6 (Canada)
+      - 🇨🇦 vless-a6cbcafd (Canada)
+      - 🇨🇦 vless-a862f4fe (Canada)
+      - 🇨🇦 vless-ad7c0c9f (Canada)
+      - 🇨🇦 vless-ada32085 (Canada)
+      - 🇨🇦 vless-ae3ea714 (Canada)
+      - 🇨🇦 vless-b3a9e715 (Canada)
+      - 🇨🇦 vless-b650b503 (Canada)
+      - 🇨🇦 vless-b7313a48 (Canada)
+      - 🇨🇦 vless-b7ba5f23 (Canada)
+      - 🇨🇦 vless-b933235e (Canada)
+      - 🇨🇦 vless-b9d7c4b4 (Canada)
+      - 🇨🇦 vless-bba9ba17 (Canada)
+      - 🇨🇦 vless-bd3eecd1 (Canada)
+      - 🇨🇦 vless-be660818 (Canada)
+      - 🇨🇦 vless-befb251c (Canada)
+      - 🇨🇦 vless-bf4e8eb2 (Canada)
+      - 🇨🇦 vless-c06a9b90 (Canada)
+      - 🇨🇦 vless-c0cfeefd (Canada)
+      - 🇨🇦 vless-c1039832 (Canada)
+      - 🇨🇦 vless-c202801a (Canada)
+      - 🇨🇦 vless-c34d0972 (Canada)
+      - 🇨🇦 vless-c5c41791 (Canada)
+      - 🇨🇦 vless-c7040f70 (Canada)
+      - 🇨🇦 vless-c710450b (Canada)
+      - 🇨🇦 vless-cab6a029 (Canada)
+      - 🇨🇦 vless-cb4eb058 (Canada)
+      - 🇨🇦 vless-cb6e9729 (Canada)
+      - 🇨🇦 vless-cc55c06e (Canada)
+      - 🇨🇦 vless-cc9d64c3 (Canada)
+      - 🇨🇦 vless-d0c20593 (Canada)
+      - 🇨🇦 vless-d152b19d (Canada)
+      - 🇨🇦 vless-d256e9da (Canada)
+      - 🇨🇦 vless-d3665bdb (Canada)
+      - 🇨🇦 vless-d3734001 (Canada)
+      - 🇨🇦 vless-d3ec02c6 (Canada)
+      - 🇨🇦 vless-da02f047 (Canada)
+      - 🇨🇦 vless-da039a22 (Canada)
+      - 🇨🇦 vless-dc2db8b1 (Canada)
+      - 🇨🇦 vless-dea6810c (Canada)
+      - 🇨🇦 vless-deeebfd6 (Canada)
+      - 🇨🇦 vless-df78fc73 (Canada)
+      - 🇨🇦 vless-dfbc9be3 (Canada)
+      - 🇨🇦 vless-e056ba9b (Canada)
+      - 🇨🇦 vless-e0cdaf0c (Canada)
+      - 🇨🇦 vless-e112f079 (Canada)
+      - 🇨🇦 vless-e4896291 (Canada)
+      - 🇨🇦 vless-e4e9bdd8 (Canada)
+      - 🇨🇦 vless-e87506ac (Canada)
+      - 🇨🇦 vless-e9f5d4d8 (Canada)
+      - 🇨🇦 vless-ea8e9d3d (Canada)
+      - 🇨🇦 vless-ead01923 (Canada)
+      - 🇨🇦 vless-ebb0d3e0 (Canada)
+      - 🇨🇦 vless-ebfb1cc2 (Canada)
+      - 🇨🇦 vless-ec0586c1 (Canada)
+      - 🇨🇦 vless-ed2f07ad (Canada)
+      - 🇨🇦 vless-ede81f03 (Canada)
+      - 🇨🇦 vless-f37e5566 (Canada)
+      - 🇨🇦 vless-f4be3c15 (Canada)
+      - 🇨🇦 vless-f53dd7ae (Canada)
+      - 🇨🇦 vless-f58eff7c (Canada)
+      - 🇨🇦 vless-f7ac9b4e (Canada)
+      - 🇨🇦 vless-f930c7cc (Canada)
+      - 🇨🇦 vless-f977b9e9 (Canada)
+      - 🇨🇦 vless-fa070319 (Canada)
+      - 🇨🇦 vless-fafcfe4f (Canada)
+      - 🇨🇦 vless-ffdb1b98 (Canada)
+      - 🇨🇦 vmess-1c505756 (Canada)
+      - 🇨🇦 vmess-4e7a183e (Canada)
+      - 🇨🇦 vmess-6248afa4 (Canada)
+      - 🇨🇦 vmess-ab0096dd (Canada)
+      - 🇨🇦 vmess-c7ecf795 (Canada)
+      - 🇨🇦 vmess-f8eaac70 (Canada)
+      - 🇨🇭 vless-e190b98e (Switzerland)
+      - 🇨🇭 vless-f3fc80df (Switzerland)
+      - 🇩🇪 vless-04729b8b (Germany)
+      - 🇩🇪 vless-070da003 (Germany)
+      - 🇩🇪 vless-0820f60a (Germany)
+      - 🇩🇪 vless-1ee83e70 (Germany)
+      - 🇩🇪 vless-373aec4f (Germany)
+      - 🇩🇪 vless-41bbd848 (Germany)
+      - 🇩🇪 vless-6eea7b96 (Germany)
+      - 🇩🇪 vless-882cf4a3 (Germany)
+      - 🇩🇪 vless-8f649f72 (Germany)
+      - 🇩🇪 vless-9c471ab1 (Germany)
+      - 🇩🇪 vless-c0744bc8 (Germany)
+      - 🇩🇪 vless-c2376e6d (Germany)
+      - 🇩🇪 vless-d45ba3dd (Germany)
+      - 🇩🇪 vless-e7f0ee71 (Germany)
+      - 🇩🇪 vless-f38d5036 (Germany)
+      - 🇩🇪 vless-febcfb72 (Germany)
+      - 🇩🇪 vmess-4ac770df (Germany)
+      - 🇩🇪 vmess-650e7e5c (Germany)
+      - 🇩🇪 vmess-abf4d728 (Germany)
+      - 🇩🇪 vmess-c747a9ea (Germany)
+      - 🇫🇮 vless-5e00f9a0 (Finland)
+      - 🇫🇮 vless-994bbb4f (Finland)
+      - 🇫🇮 vless-c3d3612b (Finland)
+      - 🇫🇮 vless-d5808d2c (Finland)
+      - 🇫🇮 vless-d83b7690 (Finland)
+      - 🇫🇮 vless-e4c22de8 (Finland)
+      - 🇫🇷 vless-e4b7ce8c (France)
+      - 🇬🇧 ss-3b553486 (United Kingdom)
+      - 🇬🇧 ss-47d402ff (United Kingdom)
+      - 🇬🇧 ss-6639c24f (United Kingdom)
+      - 🇬🇧 ss-6f17e8b0 (United Kingdom)
+      - 🇬🇧 ss-7533c67f (United Kingdom)
+      - 🇬🇧 ss-a359d435 (United Kingdom)
+      - 🇬🇧 ss-b6f393d7 (United Kingdom)
+      - 🇬🇧 ss-f0467061 (United Kingdom)
+      - 🇬🇧 vless-440b10e7 (United Kingdom)
+      - 🇬🇧 vless-bfe9007c (United Kingdom)
+      - 🇮🇷 trojan-28881b30 (Iran)
+      - 🇮🇷 trojan-45a0c212 (Iran)
+      - 🇮🇷 trojan-700890f6 (Iran)
+      - 🇮🇷 trojan-e3b08166 (Iran)
+      - 🇮🇷 vless-01c9b87d (Iran)
+      - 🇮🇷 vless-3712b9e1 (Iran)
+      - 🇮🇷 vless-630e8069 (Iran)
+      - 🇮🇷 vless-9bb11be0 (Iran)
+      - 🇮🇷 vless-a27bf588 (Iran)
+      - 🇮🇷 vless-aa544dbb (Iran)
+      - 🇮🇷 vless-b99349cd (Iran)
+      - 🇮🇷 vless-d72a6db9 (Iran)
+      - 🇮🇷 vless-d82187d4 (Iran)
+      - 🇮🇷 vless-fad3bb0f (Iran)
+      - 🇮🇷 vmess-05b9650b (Iran)
+      - 🇮🇷 vmess-0ee925f7 (Iran)
+      - 🇮🇷 vmess-0fe6f298 (Iran)
+      - 🇮🇷 vmess-15c01281 (Iran)
+      - 🇮🇷 vmess-1a0c36ad (Iran)
+      - 🇮🇷 vmess-218928bd (Iran)
+      - 🇮🇷 vmess-2c0f7971 (Iran)
+      - 🇮🇷 vmess-31b5a198 (Iran)
+      - 🇮🇷 vmess-354b2b15 (Iran)
+      - 🇮🇷 vmess-375a3be0 (Iran)
+      - 🇮🇷 vmess-40fa734e (Iran)
+      - 🇮🇷 vmess-448a34b1 (Iran)
+      - 🇮🇷 vmess-4a8272b7 (Iran)
+      - 🇮🇷 vmess-5625399b (Iran)
+      - 🇮🇷 vmess-59efca4c (Iran)
+      - 🇮🇷 vmess-60043ba3 (Iran)
+      - 🇮🇷 vmess-6180d4fb (Iran)
+      - 🇮🇷 vmess-639bc50f (Iran)
+      - 🇮🇷 vmess-658cd7d9 (Iran)
+      - 🇮🇷 vmess-66fe6d77 (Iran)
+      - 🇮🇷 vmess-75e580e5 (Iran)
+      - 🇮🇷 vmess-8080ecc0 (Iran)
+      - 🇮🇷 vmess-82dbca10 (Iran)
+      - 🇮🇷 vmess-83b45e7e (Iran)
+      - 🇮🇷 vmess-8ec83467 (Iran)
+      - 🇮🇷 vmess-8f6d0786 (Iran)
+      - 🇮🇷 vmess-a3813526 (Iran)
+      - 🇮🇷 vmess-a5bec3c4 (Iran)
+      - 🇮🇷 vmess-aaa0c183 (Iran)
+      - 🇮🇷 vmess-b39e09d8 (Iran)
+      - 🇮🇷 vmess-b564a4ec (Iran)
+      - 🇮🇷 vmess-bd279dae (Iran)
+      - 🇮🇷 vmess-d6072810 (Iran)
+      - 🇮🇷 vmess-d7ab8b2a (Iran)
+      - 🇮🇷 vmess-dcbd01d3 (Iran)
+      - 🇮🇷 vmess-e0353a53 (Iran)
+      - 🇮🇷 vmess-e22e8efc (Iran)
+      - 🇮🇷 vmess-e2367420 (Iran)
+      - 🇮🇷 vmess-e3d8b914 (Iran)
+      - 🇮🇷 vmess-e425c075 (Iran)
+      - 🇮🇷 vmess-e5a84f60 (Iran)
+      - 🇮🇷 vmess-e96593f7 (Iran)
+      - 🇮🇷 vmess-e9e12552 (Iran)
+      - 🇮🇷 vmess-f2288fd8 (Iran)
+      - 🇮🇷 vmess-f2d601b8 (Iran)
+      - 🇮🇷 vmess-fad3a924 (Iran)
+      - 🇮🇷 vmess-fae7f571 (Iran)
+      - 🇮🇷 vmess-ff8371e7 (Iran)
+      - 🇮🇹 vless-96291398 (Italy)
+      - 🇰🇿 vless-d4686935 (Kazakhstan)
+      - 🇳🇱 hysteria2-6fa6c9a1 (The Netherlands)
+      - 🇳🇱 hysteria2-89c9642c (The Netherlands)
+      - 🇳🇱 hysteria2-93ebe0c3 (The Netherlands)
+      - 🇳🇱 vless-6d713dbc (The Netherlands)
+      - 🇳🇱 vless-b28dae3a (The Netherlands)
+      - 🇵🇱 vless-1f30f000 (Poland)
+      - 🇵🇱 vless-c96e972a (Poland)
+      - 🇷🇺 ss-20dc11ed (Russia)
+      - 🇷🇺 vless-da5378ff (Russia)
+      - 🇸🇪 ss-d1100c45 (Sweden)
+      - 🇸🇬 vless-0bddd4b1 (Singapore)
+      - 🇸🇬 vless-874427db (Singapore)
+      - 🇺🇸 vless-07fd696a (United States)
+      - 🇺🇸 vless-41a413b4 (United States)
+      - 🇺🇸 vless-70e9e9ae (United States)
+      - 🇺🇸 vless-996b61c8 (United States)
+      - 🇺🇸 vless-a24fd672 (United States)
+      - 🇺🇸 vless-b140782e (United States)
+      - 🇺🇸 vless-b92d41f3 (United States)
+      - 🇺🇸 vless-e3f339e9 (United States)
+  - name: خودکار (بهترین پینگ) 🤖
     type: url-test
-    url: http://www.gstatic.com/generate_204
-    interval: 300
+    url: http://cp.cloudflare.com/generate_204
+    interval: 600
+    proxies:
+      - vless-8a76ea95 (United Arab Emirates)
+      - ️ trojan-1e4d2644 (Unknown)
+      - ️ trojan-501d39ce (Unknown)
+      - ️ trojan-6d7ddb69 (Unknown)
+      - ️ trojan-c095f3a3 (Unknown)
+      - 🇨🇦 trojan-1b35b1c8 (Canada)
+      - 🇨🇦 trojan-36ace29c (Canada)
+      - 🇨🇦 trojan-4841925a (Canada)
+      - 🇨🇦 trojan-9d28aba6 (Canada)
+      - 🇨🇦 trojan-ed15a578 (Canada)
+      - 🇨🇦 vless-0057d45e (Canada)
+      - 🇨🇦 vless-013f25dc (Canada)
+      - 🇨🇦 vless-02096d08 (Canada)
+      - 🇨🇦 vless-020dc6d9 (Canada)
+      - 🇨🇦 vless-029c6e2e (Canada)
+      - 🇨🇦 vless-02f0d07f (Canada)
+      - 🇨🇦 vless-042a5c27 (Canada)
+      - 🇨🇦 vless-07019cf9 (Canada)
+      - 🇨🇦 vless-081cab8c (Canada)
+      - 🇨🇦 vless-084c5c90 (Canada)
+      - 🇨🇦 vless-0937348e (Canada)
+      - 🇨🇦 vless-0a7612b4 (Canada)
+      - 🇨🇦 vless-0b157de1 (Canada)
+      - 🇨🇦 vless-0bd819df (Canada)
+      - 🇨🇦 vless-0d1cae00 (Canada)
+      - 🇨🇦 vless-0d227d43 (Canada)
+      - 🇨🇦 vless-11f2bb74 (Canada)
+      - 🇨🇦 vless-12711ec2 (Canada)
+      - 🇨🇦 vless-137e6350 (Canada)
+      - 🇨🇦 vless-153e88f4 (Canada)
+      - 🇨🇦 vless-161a9d7b (Canada)
+      - 🇨🇦 vless-19dadb1c (Canada)
+      - 🇨🇦 vless-1a96e42c (Canada)
+      - 🇨🇦 vless-203abc86 (Canada)
+      - 🇨🇦 vless-20b1ac43 (Canada)
+      - 🇨🇦 vless-211a170b (Canada)
+      - 🇨🇦 vless-219bc261 (Canada)
+      - 🇨🇦 vless-21afef59 (Canada)
+      - 🇨🇦 vless-21d261d5 (Canada)
+      - 🇨🇦 vless-23cac8e2 (Canada)
+      - 🇨🇦 vless-2477debf (Canada)
+      - 🇨🇦 vless-2768507d (Canada)
+      - 🇨🇦 vless-2813f921 (Canada)
+      - 🇨🇦 vless-289577b1 (Canada)
+      - 🇨🇦 vless-2e2d9d1c (Canada)
+      - 🇨🇦 vless-2e9ae7d1 (Canada)
+      - 🇨🇦 vless-2ecc4e85 (Canada)
+      - 🇨🇦 vless-2f4ae2e1 (Canada)
+      - 🇨🇦 vless-358b8826 (Canada)
+      - 🇨🇦 vless-371b6890 (Canada)
+      - 🇨🇦 vless-3723e2e7 (Canada)
+      - 🇨🇦 vless-3a05ed73 (Canada)
+      - 🇨🇦 vless-3ccb0591 (Canada)
+      - 🇨🇦 vless-409ec9a7 (Canada)
+      - 🇨🇦 vless-4659de8d (Canada)
+      - 🇨🇦 vless-4b2330ad (Canada)
+      - 🇨🇦 vless-4d1f5dd3 (Canada)
+      - 🇨🇦 vless-500a59be (Canada)
+      - 🇨🇦 vless-51e8f2d5 (Canada)
+      - 🇨🇦 vless-52c27901 (Canada)
+      - 🇨🇦 vless-53bf7864 (Canada)
+      - 🇨🇦 vless-572049e5 (Canada)
+      - 🇨🇦 vless-5ab4e1f9 (Canada)
+      - 🇨🇦 vless-5ae1d007 (Canada)
+      - 🇨🇦 vless-5b0c133b (Canada)
+      - 🇨🇦 vless-5c5a1648 (Canada)
+      - 🇨🇦 vless-5eb76509 (Canada)
+      - 🇨🇦 vless-5f1f1ea3 (Canada)
+      - 🇨🇦 vless-6015682a (Canada)
+      - 🇨🇦 vless-60df445c (Canada)
+      - 🇨🇦 vless-62208fa6 (Canada)
+      - 🇨🇦 vless-62bf2ff2 (Canada)
+      - 🇨🇦 vless-634abeb2 (Canada)
+      - 🇨🇦 vless-64579405 (Canada)
+      - 🇨🇦 vless-65448af3 (Canada)
+      - 🇨🇦 vless-661c7730 (Canada)
+      - 🇨🇦 vless-662957bc (Canada)
+      - 🇨🇦 vless-67d27ed8 (Canada)
+      - 🇨🇦 vless-68c60ffa (Canada)
+      - 🇨🇦 vless-6a6e3e18 (Canada)
+      - 🇨🇦 vless-6abac9d8 (Canada)
+      - 🇨🇦 vless-6c8c4092 (Canada)
+      - 🇨🇦 vless-6cb0a5fb (Canada)
+      - 🇨🇦 vless-6fde9d94 (Canada)
+      - 🇨🇦 vless-717ab4c3 (Canada)
+      - 🇨🇦 vless-763e7c34 (Canada)
+      - 🇨🇦 vless-778f0eda (Canada)
+      - 🇨🇦 vless-77929f1c (Canada)
+      - 🇨🇦 vless-77a08025 (Canada)
+      - 🇨🇦 vless-79ae16cc (Canada)
+      - 🇨🇦 vless-79f6f1c6 (Canada)
+      - 🇨🇦 vless-7a97d48a (Canada)
+      - 🇨🇦 vless-7a9cb4ee (Canada)
+      - 🇨🇦 vless-7c14b5a9 (Canada)
+      - 🇨🇦 vless-7fc19d50 (Canada)
+      - 🇨🇦 vless-83254342 (Canada)
+      - 🇨🇦 vless-83ffffc4 (Canada)
+      - 🇨🇦 vless-85d97626 (Canada)
+      - 🇨🇦 vless-8a0313b0 (Canada)
+      - 🇨🇦 vless-8be6fde6 (Canada)
+      - 🇨🇦 vless-8cb0d431 (Canada)
+      - 🇨🇦 vless-8cdc535e (Canada)
+      - 🇨🇦 vless-8e3b745b (Canada)
+      - 🇨🇦 vless-8f2c8bbc (Canada)
+      - 🇨🇦 vless-8fc3d3c9 (Canada)
+      - 🇨🇦 vless-90ec6f09 (Canada)
+      - 🇨🇦 vless-9274e1b3 (Canada)
+      - 🇨🇦 vless-9296e666 (Canada)
+      - 🇨🇦 vless-93d06c5a (Canada)
+      - 🇨🇦 vless-93e7b269 (Canada)
+      - 🇨🇦 vless-97bbdb75 (Canada)
+      - 🇨🇦 vless-9b7f1c72 (Canada)
+      - 🇨🇦 vless-9cdf7b8e (Canada)
+      - 🇨🇦 vless-9f1fd187 (Canada)
+      - 🇨🇦 vless-a299b007 (Canada)
+      - 🇨🇦 vless-a36e70a6 (Canada)
+      - 🇨🇦 vless-a6cbcafd (Canada)
+      - 🇨🇦 vless-a862f4fe (Canada)
+      - 🇨🇦 vless-ad7c0c9f (Canada)
+      - 🇨🇦 vless-ada32085 (Canada)
+      - 🇨🇦 vless-ae3ea714 (Canada)
+      - 🇨🇦 vless-b3a9e715 (Canada)
+      - 🇨🇦 vless-b650b503 (Canada)
+      - 🇨🇦 vless-b7313a48 (Canada)
+      - 🇨🇦 vless-b7ba5f23 (Canada)
+      - 🇨🇦 vless-b933235e (Canada)
+      - 🇨🇦 vless-b9d7c4b4 (Canada)
+      - 🇨🇦 vless-bba9ba17 (Canada)
+      - 🇨🇦 vless-bd3eecd1 (Canada)
+      - 🇨🇦 vless-be660818 (Canada)
+      - 🇨🇦 vless-befb251c (Canada)
+      - 🇨🇦 vless-bf4e8eb2 (Canada)
+      - 🇨🇦 vless-c06a9b90 (Canada)
+      - 🇨🇦 vless-c0cfeefd (Canada)
+      - 🇨🇦 vless-c1039832 (Canada)
+      - 🇨🇦 vless-c202801a (Canada)
+      - 🇨🇦 vless-c34d0972 (Canada)
+      - 🇨🇦 vless-c5c41791 (Canada)
+      - 🇨🇦 vless-c7040f70 (Canada)
+      - 🇨🇦 vless-c710450b (Canada)
+      - 🇨🇦 vless-cab6a029 (Canada)
+      - 🇨🇦 vless-cb4eb058 (Canada)
+      - 🇨🇦 vless-cb6e9729 (Canada)
+      - 🇨🇦 vless-cc55c06e (Canada)
+      - 🇨🇦 vless-cc9d64c3 (Canada)
+      - 🇨🇦 vless-d0c20593 (Canada)
+      - 🇨🇦 vless-d152b19d (Canada)
+      - 🇨🇦 vless-d256e9da (Canada)
+      - 🇨🇦 vless-d3665bdb (Canada)
+      - 🇨🇦 vless-d3734001 (Canada)
+      - 🇨🇦 vless-d3ec02c6 (Canada)
+      - 🇨🇦 vless-da02f047 (Canada)
+      - 🇨🇦 vless-da039a22 (Canada)
+      - 🇨🇦 vless-dc2db8b1 (Canada)
+      - 🇨🇦 vless-dea6810c (Canada)
+      - 🇨🇦 vless-deeebfd6 (Canada)
+      - 🇨🇦 vless-df78fc73 (Canada)
+      - 🇨🇦 vless-dfbc9be3 (Canada)
+      - 🇨🇦 vless-e056ba9b (Canada)
+      - 🇨🇦 vless-e0cdaf0c (Canada)
+      - 🇨🇦 vless-e112f079 (Canada)
+      - 🇨🇦 vless-e4896291 (Canada)
+      - 🇨🇦 vless-e4e9bdd8 (Canada)
+      - 🇨🇦 vless-e87506ac (Canada)
+      - 🇨🇦 vless-e9f5d4d8 (Canada)
+      - 🇨🇦 vless-ea8e9d3d (Canada)
+      - 🇨🇦 vless-ead01923 (Canada)
+      - 🇨🇦 vless-ebb0d3e0 (Canada)
+      - 🇨🇦 vless-ebfb1cc2 (Canada)
+      - 🇨🇦 vless-ec0586c1 (Canada)
+      - 🇨🇦 vless-ed2f07ad (Canada)
+      - 🇨🇦 vless-ede81f03 (Canada)
+      - 🇨🇦 vless-f37e5566 (Canada)
+      - 🇨🇦 vless-f4be3c15 (Canada)
+      - 🇨🇦 vless-f53dd7ae (Canada)
+      - 🇨🇦 vless-f58eff7c (Canada)
+      - 🇨🇦 vless-f7ac9b4e (Canada)
+      - 🇨🇦 vless-f930c7cc (Canada)
+      - 🇨🇦 vless-f977b9e9 (Canada)
+      - 🇨🇦 vless-fa070319 (Canada)
+      - 🇨🇦 vless-fafcfe4f (Canada)
+      - 🇨🇦 vless-ffdb1b98 (Canada)
+      - 🇨🇦 vmess-1c505756 (Canada)
+      - 🇨🇦 vmess-4e7a183e (Canada)
+      - 🇨🇦 vmess-6248afa4 (Canada)
+      - 🇨🇦 vmess-ab0096dd (Canada)
+      - 🇨🇦 vmess-c7ecf795 (Canada)
+      - 🇨🇦 vmess-f8eaac70 (Canada)
+      - 🇨🇭 vless-e190b98e (Switzerland)
+      - 🇨🇭 vless-f3fc80df (Switzerland)
+      - 🇩🇪 vless-04729b8b (Germany)
+      - 🇩🇪 vless-070da003 (Germany)
+      - 🇩🇪 vless-0820f60a (Germany)
+      - 🇩🇪 vless-1ee83e70 (Germany)
+      - 🇩🇪 vless-373aec4f (Germany)
+      - 🇩🇪 vless-41bbd848 (Germany)
+      - 🇩🇪 vless-6eea7b96 (Germany)
+      - 🇩🇪 vless-882cf4a3 (Germany)
+      - 🇩🇪 vless-8f649f72 (Germany)
+      - 🇩🇪 vless-9c471ab1 (Germany)
+      - 🇩🇪 vless-c0744bc8 (Germany)
+      - 🇩🇪 vless-c2376e6d (Germany)
+      - 🇩🇪 vless-d45ba3dd (Germany)
+      - 🇩🇪 vless-e7f0ee71 (Germany)
+      - 🇩🇪 vless-f38d5036 (Germany)
+      - 🇩🇪 vless-febcfb72 (Germany)
+      - 🇩🇪 vmess-4ac770df (Germany)
+      - 🇩🇪 vmess-650e7e5c (Germany)
+      - 🇩🇪 vmess-abf4d728 (Germany)
+      - 🇩🇪 vmess-c747a9ea (Germany)
+      - 🇫🇮 vless-5e00f9a0 (Finland)
+      - 🇫🇮 vless-994bbb4f (Finland)
+      - 🇫🇮 vless-c3d3612b (Finland)
+      - 🇫🇮 vless-d5808d2c (Finland)
+      - 🇫🇮 vless-d83b7690 (Finland)
+      - 🇫🇮 vless-e4c22de8 (Finland)
+      - 🇫🇷 vless-e4b7ce8c (France)
+      - 🇬🇧 ss-3b553486 (United Kingdom)
+      - 🇬🇧 ss-47d402ff (United Kingdom)
+      - 🇬🇧 ss-6639c24f (United Kingdom)
+      - 🇬🇧 ss-6f17e8b0 (United Kingdom)
+      - 🇬🇧 ss-7533c67f (United Kingdom)
+      - 🇬🇧 ss-a359d435 (United Kingdom)
+      - 🇬🇧 ss-b6f393d7 (United Kingdom)
+      - 🇬🇧 ss-f0467061 (United Kingdom)
+      - 🇬🇧 vless-440b10e7 (United Kingdom)
+      - 🇬🇧 vless-bfe9007c (United Kingdom)
+      - 🇮🇷 trojan-28881b30 (Iran)
+      - 🇮🇷 trojan-45a0c212 (Iran)
+      - 🇮🇷 trojan-700890f6 (Iran)
+      - 🇮🇷 trojan-e3b08166 (Iran)
+      - 🇮🇷 vless-01c9b87d (Iran)
+      - 🇮🇷 vless-3712b9e1 (Iran)
+      - 🇮🇷 vless-630e8069 (Iran)
+      - 🇮🇷 vless-9bb11be0 (Iran)
+      - 🇮🇷 vless-a27bf588 (Iran)
+      - 🇮🇷 vless-aa544dbb (Iran)
+      - 🇮🇷 vless-b99349cd (Iran)
+      - 🇮🇷 vless-d72a6db9 (Iran)
+      - 🇮🇷 vless-d82187d4 (Iran)
+      - 🇮🇷 vless-fad3bb0f (Iran)
+      - 🇮🇷 vmess-05b9650b (Iran)
+      - 🇮🇷 vmess-0ee925f7 (Iran)
+      - 🇮🇷 vmess-0fe6f298 (Iran)
+      - 🇮🇷 vmess-15c01281 (Iran)
+      - 🇮🇷 vmess-1a0c36ad (Iran)
+      - 🇮🇷 vmess-218928bd (Iran)
+      - 🇮🇷 vmess-2c0f7971 (Iran)
+      - 🇮🇷 vmess-31b5a198 (Iran)
+      - 🇮🇷 vmess-354b2b15 (Iran)
+      - 🇮🇷 vmess-375a3be0 (Iran)
+      - 🇮🇷 vmess-40fa734e (Iran)
+      - 🇮🇷 vmess-448a34b1 (Iran)
+      - 🇮🇷 vmess-4a8272b7 (Iran)
+      - 🇮🇷 vmess-5625399b (Iran)
+      - 🇮🇷 vmess-59efca4c (Iran)
+      - 🇮🇷 vmess-60043ba3 (Iran)
+      - 🇮🇷 vmess-6180d4fb (Iran)
+      - 🇮🇷 vmess-639bc50f (Iran)
+      - 🇮🇷 vmess-658cd7d9 (Iran)
+      - 🇮🇷 vmess-66fe6d77 (Iran)
+      - 🇮🇷 vmess-75e580e5 (Iran)
+      - 🇮🇷 vmess-8080ecc0 (Iran)
+      - 🇮🇷 vmess-82dbca10 (Iran)
+      - 🇮🇷 vmess-83b45e7e (Iran)
+      - 🇮🇷 vmess-8ec83467 (Iran)
+      - 🇮🇷 vmess-8f6d0786 (Iran)
+      - 🇮🇷 vmess-a3813526 (Iran)
+      - 🇮🇷 vmess-a5bec3c4 (Iran)
+      - 🇮🇷 vmess-aaa0c183 (Iran)
+      - 🇮🇷 vmess-b39e09d8 (Iran)
+      - 🇮🇷 vmess-b564a4ec (Iran)
+      - 🇮🇷 vmess-bd279dae (Iran)
+      - 🇮🇷 vmess-d6072810 (Iran)
+      - 🇮🇷 vmess-d7ab8b2a (Iran)
+      - 🇮🇷 vmess-dcbd01d3 (Iran)
+      - 🇮🇷 vmess-e0353a53 (Iran)
+      - 🇮🇷 vmess-e22e8efc (Iran)
+      - 🇮🇷 vmess-e2367420 (Iran)
+      - 🇮🇷 vmess-e3d8b914 (Iran)
+      - 🇮🇷 vmess-e425c075 (Iran)
+      - 🇮🇷 vmess-e5a84f60 (Iran)
+      - 🇮🇷 vmess-e96593f7 (Iran)
+      - 🇮🇷 vmess-e9e12552 (Iran)
+      - 🇮🇷 vmess-f2288fd8 (Iran)
+      - 🇮🇷 vmess-f2d601b8 (Iran)
+      - 🇮🇷 vmess-fad3a924 (Iran)
+      - 🇮🇷 vmess-fae7f571 (Iran)
+      - 🇮🇷 vmess-ff8371e7 (Iran)
+      - 🇮🇹 vless-96291398 (Italy)
+      - 🇰🇿 vless-d4686935 (Kazakhstan)
+      - 🇳🇱 hysteria2-6fa6c9a1 (The Netherlands)
+      - 🇳🇱 hysteria2-89c9642c (The Netherlands)
+      - 🇳🇱 hysteria2-93ebe0c3 (The Netherlands)
+      - 🇳🇱 vless-6d713dbc (The Netherlands)
+      - 🇳🇱 vless-b28dae3a (The Netherlands)
+      - 🇵🇱 vless-1f30f000 (Poland)
+      - 🇵🇱 vless-c96e972a (Poland)
+      - 🇷🇺 ss-20dc11ed (Russia)
+      - 🇷🇺 vless-da5378ff (Russia)
+      - 🇸🇪 ss-d1100c45 (Sweden)
+      - 🇸🇬 vless-0bddd4b1 (Singapore)
+      - 🇸🇬 vless-874427db (Singapore)
+      - 🇺🇸 vless-07fd696a (United States)
+      - 🇺🇸 vless-41a413b4 (United States)
+      - 🇺🇸 vless-70e9e9ae (United States)
+      - 🇺🇸 vless-996b61c8 (United States)
+      - 🇺🇸 vless-a24fd672 (United States)
+      - 🇺🇸 vless-b140782e (United States)
+      - 🇺🇸 vless-b92d41f3 (United States)
+      - 🇺🇸 vless-e3f339e9 (United States)
+  - name: پشتیبان (در صورت قطعی) 🧯
+    type: fallback
+    url: http://cp.cloudflare.com/generate_204
+    interval: 600
+    proxies:
+      - vless-8a76ea95 (United Arab Emirates)
+      - ️ trojan-1e4d2644 (Unknown)
+      - ️ trojan-501d39ce (Unknown)
+      - ️ trojan-6d7ddb69 (Unknown)
+      - ️ trojan-c095f3a3 (Unknown)
+      - 🇨🇦 trojan-1b35b1c8 (Canada)
+      - 🇨🇦 trojan-36ace29c (Canada)
+      - 🇨🇦 trojan-4841925a (Canada)
+      - 🇨🇦 trojan-9d28aba6 (Canada)
+      - 🇨🇦 trojan-ed15a578 (Canada)
+      - 🇨🇦 vless-0057d45e (Canada)
+      - 🇨🇦 vless-013f25dc (Canada)
+      - 🇨🇦 vless-02096d08 (Canada)
+      - 🇨🇦 vless-020dc6d9 (Canada)
+      - 🇨🇦 vless-029c6e2e (Canada)
+      - 🇨🇦 vless-02f0d07f (Canada)
+      - 🇨🇦 vless-042a5c27 (Canada)
+      - 🇨🇦 vless-07019cf9 (Canada)
+      - 🇨🇦 vless-081cab8c (Canada)
+      - 🇨🇦 vless-084c5c90 (Canada)
+      - 🇨🇦 vless-0937348e (Canada)
+      - 🇨🇦 vless-0a7612b4 (Canada)
+      - 🇨🇦 vless-0b157de1 (Canada)
+      - 🇨🇦 vless-0bd819df (Canada)
+      - 🇨🇦 vless-0d1cae00 (Canada)
+      - 🇨🇦 vless-0d227d43 (Canada)
+      - 🇨🇦 vless-11f2bb74 (Canada)
+      - 🇨🇦 vless-12711ec2 (Canada)
+      - 🇨🇦 vless-137e6350 (Canada)
+      - 🇨🇦 vless-153e88f4 (Canada)
+      - 🇨🇦 vless-161a9d7b (Canada)
+      - 🇨🇦 vless-19dadb1c (Canada)
+      - 🇨🇦 vless-1a96e42c (Canada)
+      - 🇨🇦 vless-203abc86 (Canada)
+      - 🇨🇦 vless-20b1ac43 (Canada)
+      - 🇨🇦 vless-211a170b (Canada)
+      - 🇨🇦 vless-219bc261 (Canada)
+      - 🇨🇦 vless-21afef59 (Canada)
+      - 🇨🇦 vless-21d261d5 (Canada)
+      - 🇨🇦 vless-23cac8e2 (Canada)
+      - 🇨🇦 vless-2477debf (Canada)
+      - 🇨🇦 vless-2768507d (Canada)
+      - 🇨🇦 vless-2813f921 (Canada)
+      - 🇨🇦 vless-289577b1 (Canada)
+      - 🇨🇦 vless-2e2d9d1c (Canada)
+      - 🇨🇦 vless-2e9ae7d1 (Canada)
+      - 🇨🇦 vless-2ecc4e85 (Canada)
+      - 🇨🇦 vless-2f4ae2e1 (Canada)
+      - 🇨🇦 vless-358b8826 (Canada)
+      - 🇨🇦 vless-371b6890 (Canada)
+      - 🇨🇦 vless-3723e2e7 (Canada)
+      - 🇨🇦 vless-3a05ed73 (Canada)
+      - 🇨🇦 vless-3ccb0591 (Canada)
+      - 🇨🇦 vless-409ec9a7 (Canada)
+      - 🇨🇦 vless-4659de8d (Canada)
+      - 🇨🇦 vless-4b2330ad (Canada)
+      - 🇨🇦 vless-4d1f5dd3 (Canada)
+      - 🇨🇦 vless-500a59be (Canada)
+      - 🇨🇦 vless-51e8f2d5 (Canada)
+      - 🇨🇦 vless-52c27901 (Canada)
+      - 🇨🇦 vless-53bf7864 (Canada)
+      - 🇨🇦 vless-572049e5 (Canada)
+      - 🇨🇦 vless-5ab4e1f9 (Canada)
+      - 🇨🇦 vless-5ae1d007 (Canada)
+      - 🇨🇦 vless-5b0c133b (Canada)
+      - 🇨🇦 vless-5c5a1648 (Canada)
+      - 🇨🇦 vless-5eb76509 (Canada)
+      - 🇨🇦 vless-5f1f1ea3 (Canada)
+      - 🇨🇦 vless-6015682a (Canada)
+      - 🇨🇦 vless-60df445c (Canada)
+      - 🇨🇦 vless-62208fa6 (Canada)
+      - 🇨🇦 vless-62bf2ff2 (Canada)
+      - 🇨🇦 vless-634abeb2 (Canada)
+      - 🇨🇦 vless-64579405 (Canada)
+      - 🇨🇦 vless-65448af3 (Canada)
+      - 🇨🇦 vless-661c7730 (Canada)
+      - 🇨🇦 vless-662957bc (Canada)
+      - 🇨🇦 vless-67d27ed8 (Canada)
+      - 🇨🇦 vless-68c60ffa (Canada)
+      - 🇨🇦 vless-6a6e3e18 (Canada)
+      - 🇨🇦 vless-6abac9d8 (Canada)
+      - 🇨🇦 vless-6c8c4092 (Canada)
+      - 🇨🇦 vless-6cb0a5fb (Canada)
+      - 🇨🇦 vless-6fde9d94 (Canada)
+      - 🇨🇦 vless-717ab4c3 (Canada)
+      - 🇨🇦 vless-763e7c34 (Canada)
+      - 🇨🇦 vless-778f0eda (Canada)
+      - 🇨🇦 vless-77929f1c (Canada)
+      - 🇨🇦 vless-77a08025 (Canada)
+      - 🇨🇦 vless-79ae16cc (Canada)
+      - 🇨🇦 vless-79f6f1c6 (Canada)
+      - 🇨🇦 vless-7a97d48a (Canada)
+      - 🇨🇦 vless-7a9cb4ee (Canada)
+      - 🇨🇦 vless-7c14b5a9 (Canada)
+      - 🇨🇦 vless-7fc19d50 (Canada)
+      - 🇨🇦 vless-83254342 (Canada)
+      - 🇨🇦 vless-83ffffc4 (Canada)
+      - 🇨🇦 vless-85d97626 (Canada)
+      - 🇨🇦 vless-8a0313b0 (Canada)
+      - 🇨🇦 vless-8be6fde6 (Canada)
+      - 🇨🇦 vless-8cb0d431 (Canada)
+      - 🇨🇦 vless-8cdc535e (Canada)
+      - 🇨🇦 vless-8e3b745b (Canada)
+      - 🇨🇦 vless-8f2c8bbc (Canada)
+      - 🇨🇦 vless-8fc3d3c9 (Canada)
+      - 🇨🇦 vless-90ec6f09 (Canada)
+      - 🇨🇦 vless-9274e1b3 (Canada)
+      - 🇨🇦 vless-9296e666 (Canada)
+      - 🇨🇦 vless-93d06c5a (Canada)
+      - 🇨🇦 vless-93e7b269 (Canada)
+      - 🇨🇦 vless-97bbdb75 (Canada)
+      - 🇨🇦 vless-9b7f1c72 (Canada)
+      - 🇨🇦 vless-9cdf7b8e (Canada)
+      - 🇨🇦 vless-9f1fd187 (Canada)
+      - 🇨🇦 vless-a299b007 (Canada)
+      - 🇨🇦 vless-a36e70a6 (Canada)
+      - 🇨🇦 vless-a6cbcafd (Canada)
+      - 🇨🇦 vless-a862f4fe (Canada)
+      - 🇨🇦 vless-ad7c0c9f (Canada)
+      - 🇨🇦 vless-ada32085 (Canada)
+      - 🇨🇦 vless-ae3ea714 (Canada)
+      - 🇨🇦 vless-b3a9e715 (Canada)
+      - 🇨🇦 vless-b650b503 (Canada)
+      - 🇨🇦 vless-b7313a48 (Canada)
+      - 🇨🇦 vless-b7ba5f23 (Canada)
+      - 🇨🇦 vless-b933235e (Canada)
+      - 🇨🇦 vless-b9d7c4b4 (Canada)
+      - 🇨🇦 vless-bba9ba17 (Canada)
+      - 🇨🇦 vless-bd3eecd1 (Canada)
+      - 🇨🇦 vless-be660818 (Canada)
+      - 🇨🇦 vless-befb251c (Canada)
+      - 🇨🇦 vless-bf4e8eb2 (Canada)
+      - 🇨🇦 vless-c06a9b90 (Canada)
+      - 🇨🇦 vless-c0cfeefd (Canada)
+      - 🇨🇦 vless-c1039832 (Canada)
+      - 🇨🇦 vless-c202801a (Canada)
+      - 🇨🇦 vless-c34d0972 (Canada)
+      - 🇨🇦 vless-c5c41791 (Canada)
+      - 🇨🇦 vless-c7040f70 (Canada)
+      - 🇨🇦 vless-c710450b (Canada)
+      - 🇨🇦 vless-cab6a029 (Canada)
+      - 🇨🇦 vless-cb4eb058 (Canada)
+      - 🇨🇦 vless-cb6e9729 (Canada)
+      - 🇨🇦 vless-cc55c06e (Canada)
+      - 🇨🇦 vless-cc9d64c3 (Canada)
+      - 🇨🇦 vless-d0c20593 (Canada)
+      - 🇨🇦 vless-d152b19d (Canada)
+      - 🇨🇦 vless-d256e9da (Canada)
+      - 🇨🇦 vless-d3665bdb (Canada)
+      - 🇨🇦 vless-d3734001 (Canada)
+      - 🇨🇦 vless-d3ec02c6 (Canada)
+      - 🇨🇦 vless-da02f047 (Canada)
+      - 🇨🇦 vless-da039a22 (Canada)
+      - 🇨🇦 vless-dc2db8b1 (Canada)
+      - 🇨🇦 vless-dea6810c (Canada)
+      - 🇨🇦 vless-deeebfd6 (Canada)
+      - 🇨🇦 vless-df78fc73 (Canada)
+      - 🇨🇦 vless-dfbc9be3 (Canada)
+      - 🇨🇦 vless-e056ba9b (Canada)
+      - 🇨🇦 vless-e0cdaf0c (Canada)
+      - 🇨🇦 vless-e112f079 (Canada)
+      - 🇨🇦 vless-e4896291 (Canada)
+      - 🇨🇦 vless-e4e9bdd8 (Canada)
+      - 🇨🇦 vless-e87506ac (Canada)
+      - 🇨🇦 vless-e9f5d4d8 (Canada)
+      - 🇨🇦 vless-ea8e9d3d (Canada)
+      - 🇨🇦 vless-ead01923 (Canada)
+      - 🇨🇦 vless-ebb0d3e0 (Canada)
+      - 🇨🇦 vless-ebfb1cc2 (Canada)
+      - 🇨🇦 vless-ec0586c1 (Canada)
+      - 🇨🇦 vless-ed2f07ad (Canada)
+      - 🇨🇦 vless-ede81f03 (Canada)
+      - 🇨🇦 vless-f37e5566 (Canada)
+      - 🇨🇦 vless-f4be3c15 (Canada)
+      - 🇨🇦 vless-f53dd7ae (Canada)
+      - 🇨🇦 vless-f58eff7c (Canada)
+      - 🇨🇦 vless-f7ac9b4e (Canada)
+      - 🇨🇦 vless-f930c7cc (Canada)
+      - 🇨🇦 vless-f977b9e9 (Canada)
+      - 🇨🇦 vless-fa070319 (Canada)
+      - 🇨🇦 vless-fafcfe4f (Canada)
+      - 🇨🇦 vless-ffdb1b98 (Canada)
+      - 🇨🇦 vmess-1c505756 (Canada)
+      - 🇨🇦 vmess-4e7a183e (Canada)
+      - 🇨🇦 vmess-6248afa4 (Canada)
+      - 🇨🇦 vmess-ab0096dd (Canada)
+      - 🇨🇦 vmess-c7ecf795 (Canada)
+      - 🇨🇦 vmess-f8eaac70 (Canada)
+      - 🇨🇭 vless-e190b98e (Switzerland)
+      - 🇨🇭 vless-f3fc80df (Switzerland)
+      - 🇩🇪 vless-04729b8b (Germany)
+      - 🇩🇪 vless-070da003 (Germany)
+      - 🇩🇪 vless-0820f60a (Germany)
+      - 🇩🇪 vless-1ee83e70 (Germany)
+      - 🇩🇪 vless-373aec4f (Germany)
+      - 🇩🇪 vless-41bbd848 (Germany)
+      - 🇩🇪 vless-6eea7b96 (Germany)
+      - 🇩🇪 vless-882cf4a3 (Germany)
+      - 🇩🇪 vless-8f649f72 (Germany)
+      - 🇩🇪 vless-9c471ab1 (Germany)
+      - 🇩🇪 vless-c0744bc8 (Germany)
+      - 🇩🇪 vless-c2376e6d (Germany)
+      - 🇩🇪 vless-d45ba3dd (Germany)
+      - 🇩🇪 vless-e7f0ee71 (Germany)
+      - 🇩🇪 vless-f38d5036 (Germany)
+      - 🇩🇪 vless-febcfb72 (Germany)
+      - 🇩🇪 vmess-4ac770df (Germany)
+      - 🇩🇪 vmess-650e7e5c (Germany)
+      - 🇩🇪 vmess-abf4d728 (Germany)
+      - 🇩🇪 vmess-c747a9ea (Germany)
+      - 🇫🇮 vless-5e00f9a0 (Finland)
+      - 🇫🇮 vless-994bbb4f (Finland)
+      - 🇫🇮 vless-c3d3612b (Finland)
+      - 🇫🇮 vless-d5808d2c (Finland)
+      - 🇫🇮 vless-d83b7690 (Finland)
+      - 🇫🇮 vless-e4c22de8 (Finland)
+      - 🇫🇷 vless-e4b7ce8c (France)
+      - 🇬🇧 ss-3b553486 (United Kingdom)
+      - 🇬🇧 ss-47d402ff (United Kingdom)
+      - 🇬🇧 ss-6639c24f (United Kingdom)
+      - 🇬🇧 ss-6f17e8b0 (United Kingdom)
+      - 🇬🇧 ss-7533c67f (United Kingdom)
+      - 🇬🇧 ss-a359d435 (United Kingdom)
+      - 🇬🇧 ss-b6f393d7 (United Kingdom)
+      - 🇬🇧 ss-f0467061 (United Kingdom)
+      - 🇬🇧 vless-440b10e7 (United Kingdom)
+      - 🇬🇧 vless-bfe9007c (United Kingdom)
+      - 🇮🇷 trojan-28881b30 (Iran)
+      - 🇮🇷 trojan-45a0c212 (Iran)
+      - 🇮🇷 trojan-700890f6 (Iran)
+      - 🇮🇷 trojan-e3b08166 (Iran)
+      - 🇮🇷 vless-01c9b87d (Iran)
+      - 🇮🇷 vless-3712b9e1 (Iran)
+      - 🇮🇷 vless-630e8069 (Iran)
+      - 🇮🇷 vless-9bb11be0 (Iran)
+      - 🇮🇷 vless-a27bf588 (Iran)
+      - 🇮🇷 vless-aa544dbb (Iran)
+      - 🇮🇷 vless-b99349cd (Iran)
+      - 🇮🇷 vless-d72a6db9 (Iran)
+      - 🇮🇷 vless-d82187d4 (Iran)
+      - 🇮🇷 vless-fad3bb0f (Iran)
+      - 🇮🇷 vmess-05b9650b (Iran)
+      - 🇮🇷 vmess-0ee925f7 (Iran)
+      - 🇮🇷 vmess-0fe6f298 (Iran)
+      - 🇮🇷 vmess-15c01281 (Iran)
+      - 🇮🇷 vmess-1a0c36ad (Iran)
+      - 🇮🇷 vmess-218928bd (Iran)
+      - 🇮🇷 vmess-2c0f7971 (Iran)
+      - 🇮🇷 vmess-31b5a198 (Iran)
+      - 🇮🇷 vmess-354b2b15 (Iran)
+      - 🇮🇷 vmess-375a3be0 (Iran)
+      - 🇮🇷 vmess-40fa734e (Iran)
+      - 🇮🇷 vmess-448a34b1 (Iran)
+      - 🇮🇷 vmess-4a8272b7 (Iran)
+      - 🇮🇷 vmess-5625399b (Iran)
+      - 🇮🇷 vmess-59efca4c (Iran)
+      - 🇮🇷 vmess-60043ba3 (Iran)
+      - 🇮🇷 vmess-6180d4fb (Iran)
+      - 🇮🇷 vmess-639bc50f (Iran)
+      - 🇮🇷 vmess-658cd7d9 (Iran)
+      - 🇮🇷 vmess-66fe6d77 (Iran)
+      - 🇮🇷 vmess-75e580e5 (Iran)
+      - 🇮🇷 vmess-8080ecc0 (Iran)
+      - 🇮🇷 vmess-82dbca10 (Iran)
+      - 🇮🇷 vmess-83b45e7e (Iran)
+      - 🇮🇷 vmess-8ec83467 (Iran)
+      - 🇮🇷 vmess-8f6d0786 (Iran)
+      - 🇮🇷 vmess-a3813526 (Iran)
+      - 🇮🇷 vmess-a5bec3c4 (Iran)
+      - 🇮🇷 vmess-aaa0c183 (Iran)
+      - 🇮🇷 vmess-b39e09d8 (Iran)
+      - 🇮🇷 vmess-b564a4ec (Iran)
+      - 🇮🇷 vmess-bd279dae (Iran)
+      - 🇮🇷 vmess-d6072810 (Iran)
+      - 🇮🇷 vmess-d7ab8b2a (Iran)
+      - 🇮🇷 vmess-dcbd01d3 (Iran)
+      - 🇮🇷 vmess-e0353a53 (Iran)
+      - 🇮🇷 vmess-e22e8efc (Iran)
+      - 🇮🇷 vmess-e2367420 (Iran)
+      - 🇮🇷 vmess-e3d8b914 (Iran)
+      - 🇮🇷 vmess-e425c075 (Iran)
+      - 🇮🇷 vmess-e5a84f60 (Iran)
+      - 🇮🇷 vmess-e96593f7 (Iran)
+      - 🇮🇷 vmess-e9e12552 (Iran)
+      - 🇮🇷 vmess-f2288fd8 (Iran)
+      - 🇮🇷 vmess-f2d601b8 (Iran)
+      - 🇮🇷 vmess-fad3a924 (Iran)
+      - 🇮🇷 vmess-fae7f571 (Iran)
+      - 🇮🇷 vmess-ff8371e7 (Iran)
+      - 🇮🇹 vless-96291398 (Italy)
+      - 🇰🇿 vless-d4686935 (Kazakhstan)
+      - 🇳🇱 hysteria2-6fa6c9a1 (The Netherlands)
+      - 🇳🇱 hysteria2-89c9642c (The Netherlands)
+      - 🇳🇱 hysteria2-93ebe0c3 (The Netherlands)
+      - 🇳🇱 vless-6d713dbc (The Netherlands)
+      - 🇳🇱 vless-b28dae3a (The Netherlands)
+      - 🇵🇱 vless-1f30f000 (Poland)
+      - 🇵🇱 vless-c96e972a (Poland)
+      - 🇷🇺 ss-20dc11ed (Russia)
+      - 🇷🇺 vless-da5378ff (Russia)
+      - 🇸🇪 ss-d1100c45 (Sweden)
+      - 🇸🇬 vless-0bddd4b1 (Singapore)
+      - 🇸🇬 vless-874427db (Singapore)
+      - 🇺🇸 vless-07fd696a (United States)
+      - 🇺🇸 vless-41a413b4 (United States)
+      - 🇺🇸 vless-70e9e9ae (United States)
+      - 🇺🇸 vless-996b61c8 (United States)
+      - 🇺🇸 vless-a24fd672 (United States)
+      - 🇺🇸 vless-b140782e (United States)
+      - 🇺🇸 vless-b92d41f3 (United States)
+      - 🇺🇸 vless-e3f339e9 (United States)
+  - name: تلگرام 💬
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - خودکار (بهترین پینگ) 🤖
+      - دستی 🤏🏻
+      - پشتیبان (در صورت قطعی) 🧯
+      - اجازه ندادن 🚫
+  - name: سایتای ایرانی 🇮🇷
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+      - خودکار (بهترین پینگ) 🤖
+      - دستی 🤏🏻
+      - پشتیبان (در صورت قطعی) 🧯
+  - name: بدون فیلترشکن 🛡️
+    type: select
     proxies:
       - DIRECT
-  - name: 🌍 国外媒体
-    type: select
-    proxies:
-      - 🔰 节点选择
-      - ♻️ 自动选择
-      - 🎯 全球直连
-  - name: 🌏 国内媒体
-    type: select
-    proxies:
-      - 🎯 全球直连
-      - 🔰 节点选择
-  - name: Ⓜ️ 微软服务
-    type: select
-    proxies:
-      - 🎯 全球直连
-      - 🔰 节点选择
-  - name: 📲 电报信息
-    type: select
-    proxies:
-      - 🔰 节点选择
-      - 🎯 全球直连
-  - name: 🍎 苹果服务
-    type: select
-    proxies:
-      - 🔰 节点选择
-      - 🎯 全球直连
-      - ♻️ 自动选择
-  - name: 🎯 全球直连
-    type: select
-    proxies:
-      - DIRECT
-  - name: 🛑 全球拦截
+  - name: اجازه ندادن 🚫
     type: select
     proxies:
       - REJECT
-      - DIRECT
-  - name: 🐟 漏网之鱼
-    type: select
-    proxies:
-      - 🔰 节点选择
-      - 🎯 全球直连
-      - ♻️ 自动选择
 rules:
-  - RULE-SET,LocalAreaNetwork_domain,🎯 全球直连
-  - RULE-SET,LocalAreaNetwork_ipcidr,🎯 全球直连,no-resolve
-  - DOMAIN-KEYWORD,1drv,Ⓜ️ 微软服务
-  - DOMAIN-KEYWORD,microsoft,Ⓜ️ 微软服务
-  - RULE-SET,MSServices_domain,Ⓜ️ 微软服务
-  - RULE-SET,Unbreak_domain,🎯 全球直连
-  - RULE-SET,AdRule_domain,🛑 全球拦截
-  - RULE-SET,AdRule_ipcidr,🛑 全球拦截,no-resolve
-  - RULE-SET,Hijacking_domain,🛑 全球拦截
-  - RULE-SET,Hijacking_ipcidr,🛑 全球拦截,no-resolve
-  - DOMAIN-KEYWORD,jooxweb-api,🌍 国外媒体
-  - DOMAIN-KEYWORD,spotify.com,🌍 国外媒体
-  - DOMAIN-KEYWORD,-spotify-com,🌍 国外媒体
-  - DOMAIN-KEYWORD,abematv.akamaized.net,🌍 国外媒体
-  - DOMAIN-KEYWORD,avoddashs,🌍 国外媒体
-  - DOMAIN-KEYWORD,bbcfmt,🌍 国外媒体
-  - DOMAIN-KEYWORD,uk-live,🌍 国外媒体
-  - DOMAIN-KEYWORD,voddazn,🌍 国外媒体
-  - DOMAIN-KEYWORD,discovery.uplynk.com,🌍 国外媒体
-  - DOMAIN-KEYWORD,hamivideo.cdn.hinet.net,🌍 国外媒体
-  - DOMAIN-KEYWORD,.hbogoasia.,🌍 国外媒体
-  - DOMAIN-KEYWORD,netflixdnstest,🌍 国外媒体
-  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,🌍 国外媒体
-  - DOMAIN-KEYWORD,dualstack.apiproxy-,🌍 国外媒体
-  - DOMAIN-KEYWORD,tiktokcdn-,🌍 国外媒体
-  - RULE-SET,Streaming_domain,🌍 国外媒体
-  - RULE-SET,Streaming_ipcidr,🌍 国外媒体,no-resolve
-  - RULE-SET,Bilibili_domain,🌏 国内媒体
-  - RULE-SET,iQiyi_domain,🌏 国内媒体
-  - RULE-SET,iQiyi_ipcidr,🌏 国内媒体,no-resolve
-  - RULE-SET,Letv_domain,🌏 国内媒体
-  - RULE-SET,Tencent Video_domain,🌏 国内媒体
-  - RULE-SET,Youku_domain,🌏 国内媒体
-  - RULE-SET,Youku_ipcidr,🌏 国内媒体,no-resolve
-  - RULE-SET,Telegram_domain,📲 电报信息
-  - RULE-SET,Telegram_ipcidr,📲 电报信息,no-resolve
-  - DOMAIN-KEYWORD,google,🔰 节点选择
-  - DOMAIN-KEYWORD,.blogspot.,🔰 节点选择
-  - DOMAIN-KEYWORD,.facebook.,🔰 节点选择
-  - DOMAIN-KEYWORD,.pinterest.,🔰 节点选择
-  - RULE-SET,Global_domain,🔰 节点选择
-  - RULE-SET,Global_ipcidr,🔰 节点选择,no-resolve
-  - DOMAIN-KEYWORD,apple.com.akadns.net,🍎 苹果服务
-  - DOMAIN-KEYWORD,apple.com.edgekey.net,🍎 苹果服务
-  - DOMAIN-KEYWORD,apple-support.akadns.net,🍎 苹果服务
-  - DOMAIN-KEYWORD,icloud.com.akadns.net,🍎 苹果服务
-  - RULE-SET,Apple_domain,🍎 苹果服务
-  - RULE-SET,China_domain,🎯 全球直连
-  - RULE-SET,China_ipcidr,🎯 全球直连,no-resolve
-  - DOMAIN-KEYWORD,aria2,🎯 全球直连
-  - DOMAIN-KEYWORD,xunlei,🎯 全球直连
-  - DOMAIN-KEYWORD,yunpan,🎯 全球直连
-  - DOMAIN-KEYWORD,Thunder,🎯 全球直连
-  - DOMAIN-KEYWORD,XLLiveUD,🎯 全球直连
-  - GEOIP,CN,🎯 全球直连
-  - MATCH,🐟 漏网之鱼
-rule-providers:
-  LocalAreaNetwork_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvTG9jYWxBcmVhTmV0d29yay5saXN0"
-    path: ./providers/rule-provider_LocalAreaNetwork_domain.yaml
-    interval: 86400
-  LocalAreaNetwork_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvTG9jYWxBcmVhTmV0d29yay5saXN0"
-    path: ./providers/rule-provider_LocalAreaNetwork_ipcidr.yaml
-    interval: 86400
-  MSServices_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvTVNTZXJ2aWNlcy5saXN0"
-    path: ./providers/rule-provider_MSServices_domain.yaml
-    interval: 86400
-  Unbreak_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvVW5icmVhay5saXN0"
-    path: ./providers/rule-provider_Unbreak_domain.yaml
-    interval: 86400
-  AdRule_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvTm9ieURhL1N1cmdlL0FkUnVsZS5saXN0"
-    path: ./providers/rule-provider_AdRule_domain.yaml
-    interval: 86400
-  AdRule_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvTm9ieURhL1N1cmdlL0FkUnVsZS5saXN0"
-    path: ./providers/rule-provider_AdRule_ipcidr.yaml
-    interval: 86400
-  Hijacking_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR3VhcmQvSGlqYWNraW5nLmxpc3Q"
-    path: ./providers/rule-provider_Hijacking_domain.yaml
-    interval: 86400
-  Hijacking_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR3VhcmQvSGlqYWNraW5nLmxpc3Q"
-    path: ./providers/rule-provider_Hijacking_ipcidr.yaml
-    interval: 86400
-  Streaming_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvU3RyZWFtaW5nTWVkaWEvU3RyZWFtaW5nLmxpc3Q"
-    path: ./providers/rule-provider_Streaming_domain.yaml
-    interval: 86400
-  Streaming_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvU3RyZWFtaW5nTWVkaWEvU3RyZWFtaW5nLmxpc3Q"
-    path: ./providers/rule-provider_Streaming_ipcidr.yaml
-    interval: 86400
-  Bilibili_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9CaWxpYmlsaS5saXN0"
-    path: ./providers/rule-provider_Bilibili_domain.yaml
-    interval: 86400
-  iQiyi_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9pUWl5aS5saXN0"
-    path: ./providers/rule-provider_iQiyi_domain.yaml
-    interval: 86400
-  iQiyi_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9pUWl5aS5saXN0"
-    path: ./providers/rule-provider_iQiyi_ipcidr.yaml
-    interval: 86400
-  Letv_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9MZXR2Lmxpc3Q"
-    path: ./providers/rule-provider_Letv_domain.yaml
-    interval: 86400
-  MOO:
-    type: http
-    behavior: classical
-    url: "https://url.v1.mk/getruleset?type=6&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9NT08ubGlzdA"
-    path: ./providers/rule-provider_MOO.yaml
-    interval: 86400
-  Tencent Video_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9UZW5jZW50IFZpZGVvLmxpc3Q"
-    path: ./providers/rule-provider_Tencent Video_domain.yaml
-    interval: 86400
-  Youku_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9Zb3VrdS5saXN0"
-    path: ./providers/rule-provider_Youku_domain.yaml
-    interval: 86400
-  Youku_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9Zb3VrdS5saXN0"
-    path: ./providers/rule-provider_Youku_ipcidr.yaml
-    interval: 86400
-  Telegram_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvVGVsZWdyYW0vVGVsZWdyYW0ubGlzdA"
-    path: ./providers/rule-provider_Telegram_domain.yaml
-    interval: 86400
-  Telegram_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvVGVsZWdyYW0vVGVsZWdyYW0ubGlzdA"
-    path: ./providers/rule-provider_Telegram_ipcidr.yaml
-    interval: 86400
-  Global_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR2xvYmFsLmxpc3Q"
-    path: ./providers/rule-provider_Global_domain.yaml
-    interval: 86400
-  Global_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR2xvYmFsLmxpc3Q"
-    path: ./providers/rule-provider_Global_ipcidr.yaml
-    interval: 86400
-  Apple_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvQXBwbGUvQXBwbGUubGlzdA"
-    path: ./providers/rule-provider_Apple_domain.yaml
-    interval: 86400
-  China_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvQ2hpbmEubGlzdA"
-    path: ./providers/rule-provider_China_domain.yaml
-    interval: 86400
-  China_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvQ2hpbmEubGlzdA"
-    path: ./providers/rule-provider_China_ipcidr.yaml
-    interval: 86400
-  Download:
-    type: http
-    behavior: classical
-    url: "https://url.v1.mk/getruleset?type=6&url=cnVsZXMvTm9ieURhL1N1cmdlL0Rvd25sb2FkLmxpc3Q"
-    path: ./providers/rule-provider_Download.yaml
-    interval: 86400
+  - PROCESS-NAME,Telegram.exe,تلگرام 💬
+  - PROCESS-NAME,org.telegram.messenger,تلگرام 💬
+  - PROCESS-NAME,org.telegram.messenger.web,تلگرام 💬
+  - IP-CIDR,10.10.34.0/24,نوع انتخاب پروکسی 🔀
+  - DOMAIN-SUFFIX,ir,سایتای ایرانی 🇮🇷
+  - GEOIP,ir,سایتای ایرانی 🇮🇷
+  - RULE-SET,apps,سایتای ایرانی 🇮🇷
+  - MATCH,نوع انتخاب پروکسی 🔀
+ntp:
+  enable: true
+  server: time.apple.com
+  port: 123
+  interval: 30
