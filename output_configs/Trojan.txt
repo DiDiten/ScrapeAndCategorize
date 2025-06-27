@@ -101,7 +101,11 @@ trojan://HVQZykyXiY@prod2-cahg-cloud01-hybrid-ttrg01.cyberscaler.com:2089?type=t
 trojan://OzcSHl2mo9@prod2-cahg-cloud01-hybrid-ttrg01.cyberscaler.com:2089?type=tcp&path=%2F&host=sourceforge.net&headerType=http&security=none#NorthXRAY
 trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@172.67.172.71:443?path=%2FmFvK3LJyIAe8ydvnmRKWDa8&security=tls&alpn=http%2F1.1&host=666666y.999165.xyz&fp=chrome&type=ws&sni=666666Y.999165.XYZ#🆔shadowproxy66%20🔒%20TR-WS-N/A%20🇺🇸%20US%202ms
 trojan://aaacbcb-baac-caba-cabd-bcbccbaacbaa@127.0.0.1:1080?security=tls&type=tcp#🔄
+trojan://aaccbab-aacb-aabc-bacd-bcbacabcbcaa@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻
+trojan://abacacb-acab-acba-cdab-cbaaaccabbbc@127.0.0.1:2080?security=tls&type=tcp#🤖
 trojan://abbcaca-acba-abca-badc-cabbacbcbcaa@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻
+trojan://abbccaa-baac-bcaa-bcda-bbaccbcacbaa@127.0.0.1:3080?security=tls&type=tcp#🛡
+trojan://acabacb-bcaa-cbaa-cdba-cbccabcbbaaa@127.0.0.1:1080?security=tls&type=tcp#🔄
 trojan://acbacba-bcaa-abac-acdb-ccaabbbacbac@127.0.0.1:2080?security=tls&type=tcp#🤖
 trojan://acbcaab-acab-caab-cdba-acaacbbbabcc@127.0.0.1:3080?security=tls&type=tcp#🛡
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?security=tls&sni=gr1.grtj.sulindac.top&type=grpc&serviceName=gr1.grtj.sulindac.top#🔒
