@@ -1,8 +1,8 @@
 ss://415bd8b4-c455-4921-a548-7351847f9dcb@tun1.fastlink.cfd:2087?security=none&encryption=none&host=www.sayad.top&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20163ms
-ss://415bd8b4-c455-4921-a548-7351847f9dcb@tun1.fastlink.cfd:2087?security=none&encryption=none&host=www.sayad.top&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20170ms
+ss://415bd8b4-c455-4921-a548-7351847f9dcb@tun1.fastlink.cfd:2087?security=none&encryption=none&host=www.sayad.top&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20415ms
 ss://4dc2bee4-518f-4b60-94e3-3c9349fa0a1c@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#🆔kvetch_matin%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20108ms
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-06-TIR-1404
 vless://415bd8b4-c455-4921-a548-7351847f9dcb@tun1.fastlink.cfd:2087?security=none&encryption=none&host=www.sayad.top&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20163ms
-vless://415bd8b4-c455-4921-a548-7351847f9dcb@tun1.fastlink.cfd:2087?security=none&encryption=none&host=www.sayad.top&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20170ms
+vless://415bd8b4-c455-4921-a548-7351847f9dcb@tun1.fastlink.cfd:2087?security=none&encryption=none&host=www.sayad.top&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20415ms
 vless://4dc2bee4-518f-4b60-94e3-3c9349fa0a1c@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#🆔kvetch_matin%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20108ms
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-06-TIR-1404

@@ -1,7 +1,6 @@
 ss://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:15193?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%20down
 ss://0d1cb112-006f-4eaa-89d1-15da714d12e1@81.12.35.242:2096?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://2f11e0ef-7e0d-45d1-8785-53d55daf193e@ir9.boilersforpellets.com:443?path=%2F&security=tls&encryption=none&host=ir9.boilersforpellets.com&type=ws&sni=ir9.boilersforpellets.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20down
-ss://358289ab-2735-4ca1-8c1a-80f040e4866e@Cloud.Web-Pc.ir:8443?security=none&encryption=none&headerType=none&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇸🇬%20SG%20down
 ss://57d127e9-38da-494b-afeb-494de5ff1a91@gb.france-learns.ir:42536?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.COm.&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20down
 ss://65da960e-97bd-499c-a79f-69c8c3a6984d@188.212.97.205:2030?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
@@ -25,7 +24,6 @@ trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&type=tcp&sni=
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:15193?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%20down
 vless://0d1cb112-006f-4eaa-89d1-15da714d12e1@81.12.35.242:2096?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://2f11e0ef-7e0d-45d1-8785-53d55daf193e@ir9.boilersforpellets.com:443?path=%2F&security=tls&encryption=none&host=ir9.boilersforpellets.com&type=ws&sni=ir9.boilersforpellets.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20down
-vless://358289ab-2735-4ca1-8c1a-80f040e4866e@Cloud.Web-Pc.ir:8443?security=none&encryption=none&headerType=none&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇸🇬%20SG%20down
 vless://57d127e9-38da-494b-afeb-494de5ff1a91@gb.france-learns.ir:42536?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.COm.&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20down
 vless://65da960e-97bd-499c-a79f-69c8c3a6984d@188.212.97.205:2030?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
