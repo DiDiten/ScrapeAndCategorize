@@ -1,6 +1,4 @@
-ss://415bd8b4-c455-4921-a548-7351847f9dcb@tun1.fastlink.cfd:2087?security=none&encryption=none&host=www.sayad.top&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20494ms
-ss://4dc2bee4-518f-4b60-94e3-3c9349fa0a1c@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#🆔kvetch_matin%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20158ms
+ss://4dc2bee4-518f-4b60-94e3-3c9349fa0a1c@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#🆔kvetch_matin%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20121ms
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-06-TIR-1404
-vless://415bd8b4-c455-4921-a548-7351847f9dcb@tun1.fastlink.cfd:2087?security=none&encryption=none&host=www.sayad.top&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20494ms
-vless://4dc2bee4-518f-4b60-94e3-3c9349fa0a1c@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#🆔kvetch_matin%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20158ms
+vless://4dc2bee4-518f-4b60-94e3-3c9349fa0a1c@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#🆔kvetch_matin%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20121ms
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Fri-06-TIR-1404
