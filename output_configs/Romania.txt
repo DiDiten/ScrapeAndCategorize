@@ -10,7 +10,6 @@ ss://89b3cbba-e6ac-485a-9481-976a0415eab9@185.193.31.212:80?type=ws&host=uuhUHYy
 ss://8c17092b-4d89-44e3-9dcb-a00c2bf28827@172.67.216.21:80?security=none&sni=aymng.bahareh.dpdns.org&type=ws&host=aymng.bahareh.dpdns.org&path=%2F%3Fed%3D2560&fp=random#@VIProxys
 ss://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?security=tls&sni=kawaiifreevpn.pages.dev&type=ws&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560#@VIProxys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#@VIProxys
-trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:8443?host=invincible.fafa20.shop&type=ws&security=tls&path=%2FtrWi86uq1in42y57rI%2FMTI5LjE1OS44NC43MQ%3D%3D%3Fed%3D2560&sni=inVINcibLe.FAfa20.SHop&fp=randomized&alpn=http%2F1.1#%252525F0%2525259F%25252592%252525A6%2525252013%25252520-%25252520Trojan%25252520-%25252520IPv4%25252520:%252525208443
 trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&sni=yourjobnavigator.online&type=tcp#@VIProxys
 vless://1a7104a1-fcf1-4b31-9b47-3eab42cef30f@185.89.22.73:6030?encryption=none&security=none&type=tcp&headerType=none#@VIProxys
 vless://2457d72e-4178-4c2b-885d-a01a333dcc4f@104.21.220.87:443?security=tls&sni=vilcfhsmlsnafvjgkuwqmempbhgpmoi7yasq53negfgyflapzm9brh4v0pttdvu.32vva.workers.Dev&type=ws&host=vilcfhsmlsnafvjgkuwqmempbhgpmoi7yasq53negfgyflapzm9brh4v0pttdvu.32vva.workers.Dev&path=%2F#@VIProxys

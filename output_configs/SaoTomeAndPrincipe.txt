@@ -2,8 +2,6 @@ ss://8ad321e9-7f47-4706-a101-11aefa88723b@104.24.197.20:443?path=%2F%3Fed%3D2560
 ss://933e8733-1c42-4f13-93a0-2472f2633d8e@172.67.184.242:443?path=%2Fdownloader.php%3Fed%3D2560&security=tls&alpn=h2&encryption=none&host=amphetamine.shividpolo.site&fp=chrome&type=ws&sni=amphetamine.shividpolo.site#fast_52
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#FG%20FAST
 ss://ab6f7722-4602-4e66-902a-32fc2418ee37@104.21.43.115:443?path=%2Fdownloader.php%3Fed%3D2560&security=tls&alpn=h2&encryption=none&host=adderall2.adaspolo.online&fp=chrome&type=ws&sni=adderall2.adaspolo.online#fast_52
-ss://ab6f7722-4602-4e66-902a-32fc2418ee37@104.21.43.116:443?path=%2Fdownloader.php%3Fed%3D2560&security=tls&alpn=h2&encryption=none&host=adderall2.adaspolo.online&fp=chrome&type=ws&sni=adderall2.adaspolo.online#fast_52
 vless://8ad321e9-7f47-4706-a101-11aefa88723b@104.24.197.20:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-sun.parsa.dpdns.org&fp=chrome&type=ws&sni=rayan-sun.parsa.dpdns.org#fast_52
 vless://933e8733-1c42-4f13-93a0-2472f2633d8e@172.67.184.242:443?path=%2Fdownloader.php%3Fed%3D2560&security=tls&alpn=h2&encryption=none&host=amphetamine.shividpolo.site&fp=chrome&type=ws&sni=amphetamine.shividpolo.site#fast_52
 vless://ab6f7722-4602-4e66-902a-32fc2418ee37@104.21.43.115:443?path=%2Fdownloader.php%3Fed%3D2560&security=tls&alpn=h2&encryption=none&host=adderall2.adaspolo.online&fp=chrome&type=ws&sni=adderall2.adaspolo.online#fast_52
-vless://ab6f7722-4602-4e66-902a-32fc2418ee37@104.21.43.116:443?path=%2Fdownloader.php%3Fed%3D2560&security=tls&alpn=h2&encryption=none&host=adderall2.adaspolo.online&fp=chrome&type=ws&sni=adderall2.adaspolo.online#fast_52
