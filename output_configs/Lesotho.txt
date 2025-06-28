@@ -1,9 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20109ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20111ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20113ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20112ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20106ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20108ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🆔xixv2ray%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20111ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🆔xixv2ray%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20108ms
-vmess://eyJhZGQiOiAiMTA0LjIxLjMuMTg5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImNjMmQ0Ljg5MDYwMDA0Lnh5eiIsICJpZCI6ICIyZmMzNzcxMy0zMDE3LTQ5N2UtZmYyZC05NjVmODI2YTE5YTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwNTMiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdWQ4M2NcdWRmZjRcdTIwMGRcdTI2MjBcdWZlMGYgTkEtMTA0LjIxLjMuMTg5OjIwNTMiLCAic2N5IjogImF1dG8iLCAic25pIjogImNjMmQ0Ljg5MDYwMDA0Lnh5eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2079ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2080ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2090ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2079ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2081ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2075ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🆔xixv2ray%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2079ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#🆔xixv2ray%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2093ms
