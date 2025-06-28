@@ -1,12 +1,10 @@
-ss://8b4bb431-21bf-46c9-a4bf-4deac75613f9@srv5.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇸🇪%20SE%20218ms
 ss://8b4bb431-21bf-46c9-a4bf-4deac75613f9@srv5.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇸🇪%20SE%20315ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20149ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2089ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2093ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20152ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@3FreakConfig.usecharge.ir:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2086ms
-ss://turboo-server@turbooserver.ultra-irancell.com:8080?security=reality&encryption=none&pbk=kAyyO34-Y-EjtZSmlgZ77Fx_SrWzigFmPm80QL8rp3U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=4c7c9606f7#🆔mrsoulb%20🔒%20VL-TCP-%20🇷🇺%20RU%20173ms
+ss://turboo-server@turbooserver.ultra-irancell.com:8080?security=reality&encryption=none&pbk=kAyyO34-Y-EjtZSmlgZ77Fx_SrWzigFmPm80QL8rp3U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=4c7c9606f7#🆔mrsoulb%20🔒%20VL-TCP-%20🇷🇺%20RU%20140ms
 ss://turboo-server@turbooserver.ultra-irancell.com:8080?security=reality&encryption=none&pbk=kAyyO34-Y-EjtZSmlgZ77Fx_SrWzigFmPm80QL8rp3U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=4c7c9606f7#🆔mrsoulb%20🔒%20VL-TCP-%20🇷🇺%20RU%20222ms
-vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@srv5.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇸🇪%20SE%20218ms
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@srv5.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇸🇪%20SE%20315ms
-vless://turboo-server@turbooserver.ultra-irancell.com:8080?security=reality&encryption=none&pbk=kAyyO34-Y-EjtZSmlgZ77Fx_SrWzigFmPm80QL8rp3U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=4c7c9606f7#🆔mrsoulb%20🔒%20VL-TCP-%20🇷🇺%20RU%20173ms
+vless://turboo-server@turbooserver.ultra-irancell.com:8080?security=reality&encryption=none&pbk=kAyyO34-Y-EjtZSmlgZ77Fx_SrWzigFmPm80QL8rp3U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=4c7c9606f7#🆔mrsoulb%20🔒%20VL-TCP-%20🇷🇺%20RU%20140ms
 vless://turboo-server@turbooserver.ultra-irancell.com:8080?security=reality&encryption=none&pbk=kAyyO34-Y-EjtZSmlgZ77Fx_SrWzigFmPm80QL8rp3U&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=4c7c9606f7#🆔mrsoulb%20🔒%20VL-TCP-%20🇷🇺%20RU%20222ms
