@@ -5,8 +5,8 @@ ss://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:15193?security=none&encr
 ss://07e8f17b-fe9d-4e4c-afee-9442927a5974@arvancloud.ir.telewebion.com.127.0.0.1.ir.manageit.ir.cloud.washop.ir:80?mode=packet-up&path=%2Fcategory%2Fculture.html%3Fed%3D8880&security=none&encryption=none&host=my.0-1.ir&type=xhttp#🆔xixv2ray%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 ss://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20down
 ss://0d1cb112-006f-4eaa-89d1-15da714d12e1@81.12.35.242:2096?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-ss://0d9b9de4-41c0-428f-8796-ce986a9f8109@wifi6.iampr0.com:800?security=none&encryption=none&host=anten.ir&headerType=http&fp=chrome&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://2f11e0ef-7e0d-45d1-8785-53d55daf193e@ir9.boilersforpellets.com:443?path=%2F&security=tls&encryption=none&host=ir9.boilersforpellets.com&type=ws&sni=ir9.boilersforpellets.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20down
 ss://65da960e-97bd-499c-a79f-69c8c3a6984d@188.212.97.205:2030?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://72dc074b-91ed-4564-9424-cd14652c1743@84.47.233.98:33326?encryption=none&security=none&type=tcp&headerType=http&host=Fast.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
@@ -33,8 +33,8 @@ vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:15193?security=none&e
 vless://07e8f17b-fe9d-4e4c-afee-9442927a5974@arvancloud.ir.telewebion.com.127.0.0.1.ir.manageit.ir.cloud.washop.ir:80?mode=packet-up&path=%2Fcategory%2Fculture.html%3Fed%3D8880&security=none&encryption=none&host=my.0-1.ir&type=xhttp#🆔xixv2ray%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 vless://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20down
 vless://0d1cb112-006f-4eaa-89d1-15da714d12e1@81.12.35.242:2096?security=none&encryption=none&host=gharar.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-vless://0d9b9de4-41c0-428f-8796-ce986a9f8109@wifi6.iampr0.com:800?security=none&encryption=none&host=anten.ir&headerType=http&fp=chrome&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://2f11e0ef-7e0d-45d1-8785-53d55daf193e@ir9.boilersforpellets.com:443?path=%2F&security=tls&encryption=none&host=ir9.boilersforpellets.com&type=ws&sni=ir9.boilersforpellets.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20down
 vless://65da960e-97bd-499c-a79f-69c8c3a6984d@188.212.97.205:2030?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://72dc074b-91ed-4564-9424-cd14652c1743@84.47.233.98:33326?encryption=none&security=none&type=tcp&headerType=http&host=Fast.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
