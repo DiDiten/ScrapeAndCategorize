@@ -1,6 +1,6 @@
-ss://8b4bb431-21bf-46c9-a4bf-4deac75613f9@srv5.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇸🇪%20SE%20307ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20148ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2083ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@172.166.8.137:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20146ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20148ms
-vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@srv5.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇸🇪%20SE%20307ms
+ss://8b4bb431-21bf-46c9-a4bf-4deac75613f9@srv5.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇸🇪%20SE%20332ms
+ss://8b4bb431-21bf-46c9-a4bf-4deac75613f9@srv5.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇸🇪%20SE%20441ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20149ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20150ms
+vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@srv5.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇸🇪%20SE%20332ms
+vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@srv5.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇸🇪%20SE%20441ms
