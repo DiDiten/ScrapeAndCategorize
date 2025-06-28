@@ -1,3 +1,4 @@
+ss://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#%40Fserverd_vpn
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20133ms
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20127ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20144ms
@@ -11,6 +12,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edge
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20109ms
+vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#%40Fserverd_vpn
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20133ms
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20127ms
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20144ms

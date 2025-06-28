@@ -1,2 +1,0 @@
-ss://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:80?path=%2Fjljz7QlAQ15I0v5O%3Fed%3D2560&security=none&encryption=none&host=s4.main-2.workers.dev&type=ws#%40MiTiVPN
-vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:80?path=%2Fjljz7QlAQ15I0v5O%3Fed%3D2560&security=none&encryption=none&host=s4.main-2.workers.dev&type=ws#%40MiTiVPN
