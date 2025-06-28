@@ -1,10 +1,9 @@
 ss://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.210.212:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇩🇪%20DE%20down
-ss://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=none&encryption=none&headerType=none&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:15193?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%20down
 ss://2f11e0ef-7e0d-45d1-8785-53d55daf193e@ir9.boilersforpellets.com:443?path=%2F&security=tls&encryption=none&host=ir9.boilersforpellets.com&type=ws&sni=ir9.boilersforpellets.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20down
+ss://358289ab-2735-4ca1-8c1a-80f040e4866e@Cloud.Web-Pc.ir:8443?security=none&encryption=none&headerType=none&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://415bd8b4-c455-4921-a548-7351847f9dcb@tun1.fastlink.cfd:2087?security=none&encryption=none&host=www.sayad.top&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20down
 ss://65da960e-97bd-499c-a79f-69c8c3a6984d@188.212.97.205:2030?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://902fac1b-24c6-4557-8143-8fc72e552554@62.60.206.100:8080?security=none&encryption=none&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
@@ -29,10 +28,9 @@ ss://d1821c66-378e-4a7c-abc0-52cabab11887@104.248.91.139:18461?security=none&enc
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.210.212:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇩🇪%20DE%20down
-vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=none&encryption=none&headerType=none&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:15193?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%20down
 vless://2f11e0ef-7e0d-45d1-8785-53d55daf193e@ir9.boilersforpellets.com:443?path=%2F&security=tls&encryption=none&host=ir9.boilersforpellets.com&type=ws&sni=ir9.boilersforpellets.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20down
+vless://358289ab-2735-4ca1-8c1a-80f040e4866e@Cloud.Web-Pc.ir:8443?security=none&encryption=none&headerType=none&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://415bd8b4-c455-4921-a548-7351847f9dcb@tun1.fastlink.cfd:2087?security=none&encryption=none&host=www.sayad.top&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20down
 vless://65da960e-97bd-499c-a79f-69c8c3a6984d@188.212.97.205:2030?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://902fac1b-24c6-4557-8143-8fc72e552554@62.60.206.100:8080?security=none&encryption=none&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
