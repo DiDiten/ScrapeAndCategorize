@@ -13,7 +13,6 @@ ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryp
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.206.230:443?security=none&encryption=none&host=zula.ir%2F%3F%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@meli_proxyy
 ss://196d7017-b91c-43dc-87ca-d88de911145b@a.nl.maviks.ru:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&host=%2F%3FBya_telegram_%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FBya_telegram_%40JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=21181028b56c8702#@meli_proxyy
 ss://268df26e-91c6-4e19-e4bd-d7b0af6ebad6@94.182.92.108:440?path=%2F&security=none&encryption=none&type=ws#@meli_proxyy
-ss://2b2219ab-707a-4773-af6c-539de4a76c89@217.144.186.49:38231?security=none&encryption=none&host=nature.com&headerType=http&type=tcp#@meli_proxyy
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.51:80?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.250.141.14:443#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#@meli_proxyy
@@ -35,6 +34,5 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&enc
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.206.230:443?security=none&encryption=none&host=zula.ir%2F%3F%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@meli_proxyy
 vless://196d7017-b91c-43dc-87ca-d88de911145b@a.nl.maviks.ru:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&host=%2F%3FBya_telegram_%40JOKERRVPN&headerType=none&fp=chrome&spx=%2FBya_telegram_%40JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=21181028b56c8702#@meli_proxyy
 vless://268df26e-91c6-4e19-e4bd-d7b0af6ebad6@94.182.92.108:440?path=%2F&security=none&encryption=none&type=ws#@meli_proxyy
-vless://2b2219ab-707a-4773-af6c-539de4a76c89@217.144.186.49:38231?security=none&encryption=none&host=nature.com&headerType=http&type=tcp#@meli_proxyy
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.51:80?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@meli_proxyy
 vmess://eyJhZGQiOiI4NS4xOTguMjMuNjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWY1YTBkMGMtYzg5OC00YTUxLWJhNmEtNDcxNzlkNDgzZTQxIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjI2MiIsInBzIjoiQG1lbGlfcHJveHl5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==

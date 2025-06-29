@@ -1,5 +1,8 @@
+ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Club_Profsor%40
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Club_Profsor%40
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔club_profsor%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20100ms
+ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Club_Profsor%40@Club_Profsor
+ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Club_Profsor%40
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔club_profsor%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20102ms
 ss://44203a13-f741-4fe7-b5be-3a30bac5ea16@85.133.249.124:5050?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Club_Profsor%40
 ss://44203a13-f741-4fe7-b5be-3a30bac5ea16@85.133.249.124:5050?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#🆔club_profsor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20186ms
@@ -32,8 +35,11 @@ ss://YWVzLTI1Ni1nY206MzdmZTMyMjgtNTNhYi05NDUzLTE5ZDktZTc3OTQ1NmVmMDlh@3705081370
 ss://YWVzLTI1Ni1nY206MzdmZTMyMjgtNTNhYi05NDUzLTE5ZDktZTc3OTQ1NmVmMDlh@37050813702269272654038283817908.international-ixp.com:11312#🆔club_profsor%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20191ms
 ss://YWVzLTI1Ni1nY206MzdmZTMyMjgtNTNhYi05NDUzLTE5ZDktZTc3OTQ1NmVmMDlh@37050813702269272654038283817908.international-ixp.com:11312#🆔club_profsor%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20201ms
 ss://YWVzLTI1Ni1nY206MzdmZTMyMjgtNTNhYi05NDUzLTE5ZDktZTc3OTQ1NmVmMDlh@37050813702269272654038283817908.international-ixp.com:11312#🆔club_profsor%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20215ms
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Club_Profsor%40
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Club_Profsor%40
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔club_profsor%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20100ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Club_Profsor%40@Club_Profsor
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Club_Profsor%40
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔club_profsor%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20102ms
 vless://44203a13-f741-4fe7-b5be-3a30bac5ea16@85.133.249.124:5050?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A%20Club_Profsor%40
 vless://44203a13-f741-4fe7-b5be-3a30bac5ea16@85.133.249.124:5050?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#🆔club_profsor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20186ms

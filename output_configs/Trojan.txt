@@ -27,6 +27,7 @@ trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.159.251.33:443?security=tls&sni
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.159.251.33:443?security=tls&sni=eats-rigor-judge.stark-industries.solutions&type=tcp&allowInsecure=1#🆔ar14n24b%20🔒%20TR-TCP-N/A%20🇵🇹%20PT%2098ms
 trojan://0q%2776Evm32qz%40Q%27%28@172.66.44.226:2087?security=tls&sni=JOInMahdiserver-11R.PaGES.dEv&type=ws&host=joinmahdiserver-11r.pages.dev#🔒
 trojan://0xwjL4wkfo@91.238.93.127:51708?type=tcp&security=none#🆔configshubplus%20🔓%20TR-TCP-N/A%20🇳🇱%20NL%2088ms
+trojan://100b5163-fbb8-425d-9621-44d119555aa4@172.67.213.99:2053?security=tls&sni=MAHSA2.CFFoRm.SITE&alpn=http/1.1&fp=randomized&type=ws&path=/trEJ9NhYjW0GmgindN/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&host=mahsa2.cfform.site#%D8%B2%D9%86%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%20%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C
 trojan://114ad614-fe6c-4422-b0af-be6161190d7a@172.67.211.136:443?security=tls&sni=DDrt.191266.Xyz&type=tcp#✅@AR14N24b
 trojan://114ad614-fe6c-4422-b0af-be6161190d7a@172.67.211.136:443?security=tls&sni=DDrt.191266.Xyz&type=tcp#🆔ar14n24b%20🔒%20TR-TCP-N/A%20🇺🇸%20US%202ms
 trojan://114ad614-fe6c-4422-b0af-be6161190d7a@172.67.211.136:443?security=tls&sni=DDrt.191266.Xyz&type=tcp#🆔ar14n24b%20🔒%20TR-TCP-N/A%20🇺🇸%20US%206ms
@@ -66,14 +67,11 @@ trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobs
 trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@172.67.75.172:443?security=tls&sni=fwd-refuse-senators-brought.trycloudflare.com&type=ws&host=fwd-refuse-senators-brought.trycloudflare.com#✅@AR14N24b
 trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@172.67.75.172:443?security=tls&sni=fwd-refuse-senators-brought.trycloudflare.com&type=ws&host=fwd-refuse-senators-brought.trycloudflare.com#🆔ar14n24b%20🔒%20TR-WS-N/A%20🇺🇸%20US%202ms
 trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@172.67.75.172:443?security=tls&sni=fwd-refuse-senators-brought.trycloudflare.com&type=ws&host=fwd-refuse-senators-brought.trycloudflare.com#🆔ar14n24b%20🔒%20TR-WS-N/A%20🇺🇸%20US%205ms
-trojan://3747000103274291200@62.112.221.57:443?sni=integral-malamute.adder289.quest#@Hope_Net-join-us-on-Telegram
-trojan://3747000103274291200@63.177.221.114:443?security=tls&type=tcp&sni=informed-sunfish.adder289.quest#@Hope_Net-join-us-on-Telegram
-trojan://3747000103274291200@80.240.112.167:443?security=tls&type=tcp&sni=accepted-jennet.adder289.quest#@Hope_Net-join-us-on-Telegram
-trojan://3747000103274291200@80.240.112.32:443?security=tls&type=tcp&sni=trusting-titmouse.adder289.quest#@Hope_Net-join-us-on-Telegram⚠️
-trojan://3747000103274291200@87.120.204.100:443?security=tls&type=tcp&sni=crucial-moccasin.adder289.quest#@Hope_Net-join-us-on-Telegram⚠️
-trojan://3770966768580042752@89.39.70.165:443?security=tls&type=tcp&sni=warm-oryx.goat627.mom#@Hope_Net-join-us-on-Telegram
+trojan://3747000103274291200@85.90.194.160:443?security=tls&type=tcp&sni=awaited-chicken.adder289.quest#@Hope_Net-join-us-on-Telegram⚠️
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.150.202:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#@Hope_Net-join-us-on-Telegram
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.150.202:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#[🏁]t.me/ConfigsHubϟ
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.65.99:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#@Hope_Net-join-us-on-Telegram
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.74.162:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@172.236.23.54:443?security=tls&type=tcp&sni=kdlsupport.zendesk.com#@Hope_Net-join-us-on-Telegram
 trojan://3c4e10af98c30972@88.210.36.106:443?security=tls&sni=n2.gladns.com&type=grpc#🔒
 trojan://3d4ad187-b554-4300-bf71-d26c71962504@104.21.78.243:443?security=tls&sni=FFfgtyy.7282728.XYZ&type=ws&host=FFfgtyy.7282728.XYZ&path=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7#✅@AR14N24b
 trojan://3d4ad187-b554-4300-bf71-d26c71962504@104.21.78.243:443?security=tls&sni=FFfgtyy.7282728.XYZ&type=ws&host=FFfgtyy.7282728.XYZ&path=%2FWaHA3RC540rQ8PWqRcOEICAwmfH7#🆔ar14n24b%20🔒%20TR-WS-N/A%20🇺🇸%20US%202ms
@@ -104,6 +102,8 @@ trojan://6087d8e3-ea9e-48eb-8217-6050ff752f56@20.2.156.38:443/?type=tcp&security
 trojan://6087d8e3-ea9e-48eb-8217-6050ff752f56@il.mjt000.com:443/?type=tcp&security=tls&sni=il.mjt000.com#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.38-5574
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#2%7C%F0%9F%87%BA%F0%9F%87%B845%20%7C%20%202.5MB/s%7C46%25%7COpenai%7CGem...
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@70.32.1.32:443?security=tls&sni=jp-h1.sshub.xyz&type=tcp#🔒
+trojan://65086441068973800@62.112.221.192:443?#@Hope_Net-join-us-on-Telegram
+trojan://65086441068973800@62.112.221.192:443?#[🇬🇧]t.me/ConfigsHubϟ
 trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&sni=de2-full.privateip.net#🔒
 trojan://68601963-27c2-4253-c784-914782ce09ef@151.101.66.219:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?#🔒
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@103.116.7.21:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
@@ -214,6 +214,7 @@ trojan://Aimer@107.175.44.118:58621?sni=epcca.ambercc.filegear-sg.me#🆔ar14n24
 trojan://Aimer@108.165.152.58:2087?sni=epccr.ambercc.filegear-sg.me&allowInsecure=0#✅@AR14N24b
 trojan://Aimer@108.165.152.58:2087?sni=epccr.ambercc.filegear-sg.me&allowInsecure=0#🆔ar14n24b%20🔓%20TR--N/A%20🇮🇳%20IN%201ms
 trojan://Aimer@108.165.152.58:2087?sni=epccr.ambercc.filegear-sg.me&allowInsecure=0#🆔ar14n24b%20🔓%20TR--N/A%20🇮🇳%20IN%205ms
+trojan://Aimer@108.165.152.59:2087?sni=agepw.ambercc.filegear-sg.me#[🇮🇳]t.me/ConfigsHubϟ
 trojan://Aimer@119.203.202.120:12226?sni=epcch.ambercc.filegear-sg.me#✅@AR14N24b
 trojan://Aimer@119.203.202.120:12226?sni=epcch.ambercc.filegear-sg.me#🆔ar14n24b%20🔓%20TR--N/A%20🇰🇷%20KR%20161ms
 trojan://Aimer@119.203.202.120:12226?sni=epcch.ambercc.filegear-sg.me#🆔ar14n24b%20🔓%20TR--N/A%20🇰🇷%20KR%20219ms
@@ -226,7 +227,6 @@ trojan://Aimer@146.56.155.102:20003?security=tls&sni=ngepo.ambercc.filegear-sg.m
 trojan://Aimer@154.197.64.219:2083?sni=epcca.ambercc.filegear-sg.me&allowInsecure=0#✅@AR14N24b
 trojan://Aimer@154.197.64.219:2083?sni=epcca.ambercc.filegear-sg.me&allowInsecure=0#🆔ar14n24b%20🔓%20TR--N/A%20🇺🇸%20US%201ms
 trojan://Aimer@154.197.64.219:2083?sni=epcca.ambercc.filegear-sg.me&allowInsecure=0#🆔ar14n24b%20🔓%20TR--N/A%20🇺🇸%20US%205ms
-trojan://Aimer@154.21.87.99:443?sni=ngepo.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHubϟ
 trojan://Aimer@155.46.213.38:2083?sni=agepw.ambercc.filegear-sg.me#✅@AR14N24b#کانفیگ
 trojan://Aimer@155.46.213.38:2083?sni=agepw.ambercc.filegear-sg.me#🆔ar14n24b%20🔓%20TR--N/A%20🇺🇸%20US%202ms
 trojan://Aimer@155.46.213.38:2083?sni=agepw.ambercc.filegear-sg.me#🆔ar14n24b%20🔓%20TR--N/A%20🇺🇸%20US%206ms
@@ -290,6 +290,7 @@ trojan://Aimer@192.210.207.89:20080?sni=epme.ambercc.filegear-sg.me&type=ws&host
 trojan://Aimer@206.238.236.137:8443?sni=agept.ambercc.filegear-sg.me#✅@AR14N24b
 trojan://Aimer@206.238.236.137:8443?sni=agept.ambercc.filegear-sg.me#🆔ar14n24b%20🔓%20TR--N/A%20🇸🇬%20SG%201ms
 trojan://Aimer@206.238.236.137:8443?sni=agept.ambercc.filegear-sg.me#🆔ar14n24b%20🔓%20TR--N/A%20🇸🇬%20SG%206ms
+trojan://Aimer@206.238.236.198:2083?sni=agepw.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubϟ
 trojan://Aimer@213.109.205.45:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#✅@AR14N24b
 trojan://Aimer@213.109.205.45:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🆔ar14n24b%20🔒%20TR-WS-N/A%20🇨🇾%20CY%202ms
 trojan://Aimer@213.109.205.45:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#🆔ar14n24b%20🔒%20TR-WS-N/A%20🇨🇾%20CY%206ms
@@ -299,6 +300,7 @@ trojan://Aimer@213.109.205.55:2096?security=tls&sni=agept.ambercc.filegear-sg.me
 trojan://Aimer@220.80.154.29:12558?sni=epccy.ambercc.filegear-sg.me&allowInsecure=0#✅@AR14N24b
 trojan://Aimer@220.80.154.29:12558?sni=epccy.ambercc.filegear-sg.me&allowInsecure=0#🆔ar14n24b%20🔓%20TR--N/A%20🇰🇷%20KR%20400ms
 trojan://Aimer@220.80.154.29:12558?sni=epccy.ambercc.filegear-sg.me&allowInsecure=0#🆔ar14n24b%20🔓%20TR--N/A%20🇰🇷%20KR%20470ms
+trojan://Aimer@220.92.46.149:50000?sni=ngepo.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
 trojan://Aimer@27.50.49.231:2083?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#✅@AR14N24b
 trojan://Aimer@27.50.49.231:2083?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🆔ar14n24b%20🔒%20TR-TCP-N/A%20🇭🇰%20HK%202ms
 trojan://Aimer@27.50.49.231:2083?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=tcp#🆔ar14n24b%20🔒%20TR-TCP-N/A%20🇭🇰%20HK%206ms
@@ -321,26 +323,27 @@ trojan://Bw5Mz7QkVp@207.148.15.95:443?security=tls&sni=z-v2-077712.kailib.com&ty
 trojan://Bw5Mz7QkVp@207.148.15.95:443?security=tls&sni=z-v2-077712.kailib.com&type=tcp#🆔ar14n24b%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2027ms
 trojan://Bw5Mz7QkVp@207.148.15.95:443?security=tls&sni=z-v2-077712.kailib.com&type=tcp#🆔ar14n24b%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2052ms
 trojan://HVQZykyXiY@prod2-cahg-cloud01-hybrid-ttrg01.cyberscaler.com:2089?type=tcp&path=%2F&host=sourceforge.net&headerType=http&security=none#ایرانسل،
+trojan://NISHIKUITAN111@104.25.22.6:443?#[🇨🇦]t.me/ConfigsHubϟ
+trojan://NISHIKUITAN111@185.193.29.193:443?#[🇫🇷]t.me/ConfigsHubϟ
 trojan://OzcSHl2mo9@prod2-cahg-cloud01-hybrid-ttrg01.cyberscaler.com:2089?type=tcp&path=%2F&host=sourceforge.net&headerType=http&security=none#NorthXRAY
 trojan://TUFfeTYV56@104.21.48.1:2096?security=tls&sni=esna.twn24.ir&type=httpupgrade&host=esna.twn24.ir&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🆔configshubplus%20🔒%20TR-HTTPUPGRADE-N/A%20🇺🇸%20US%201ms
-trojan://Uy1%2CSF%23%5Dszr%25y.%3Cs@172.66.45.36:2083?security=tls&sni=jOinMaHdIsErVer-6Qj.PAgES.DEv&type=ws&host=joinmahdiserver-6qj.pages.dev&path=%2FtrLhvs4PDHp1EVcZxf%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHubϟ
 trojan://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@172.67.201.201:443?security=tls&sni=m5rtyu.999658.xyz&type=ws&host=m5rtyu.999658.xyz&path=%2FGawgMugyRDAQXp6e0CScyGqcQZW#🆔ar14n24b%20🔒%20TR-WS-N/A%20🇺🇸%20US%201ms
 trojan://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@172.67.201.201:443?security=tls&sni=m5rtyu.999658.xyz&type=ws&host=m5rtyu.999658.xyz&path=%2FGawgMugyRDAQXp6e0CScyGqcQZW#🆔ar14n24b%20🔒%20TR-WS-N/A%20🇺🇸%20US%206ms
 trojan://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@172.67.201.201:443?security=tls&sni=m5rtyu.999658.xyz&type=ws&host=m5rtyu.999658.xyz&path=/GawgMugyRDAQXp6e0CScyGqcQZW#✅@AR14N24b
-trojan://aacbabc-acab-baca-cbad-cabcacacbabb@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻
-trojan://aaccabb-acba-acab-acdb-aaacbbbcccab@127.0.0.1:3080?security=tls&type=tcp#🛡
+trojan://aacbbca-acba-aabc-cabd-cccaababbcab@127.0.0.1:2080?security=tls&type=tcp#🤖
+trojan://aaccabb-cbaa-baca-acbd-cabcbcabaabc@127.0.0.1:1080?security=tls&type=tcp#🔄
 trojan://abacacb-abca-baca-abdc-aabcaacccbbb@127.0.0.1:1080?security=tls&type=tcp#🔄
+trojan://abcabac-baac-cbaa-acdb-cacacbbcbaba@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻
 trojan://acbaacb-abac-aabc-bacd-aabcabcccabb@127.0.0.1:3080?security=tls&type=tcp#🛡
 trojan://acbcaab-cbaa-acba-dbac-ccaababbcbac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻
 trojan://amclubs2024@154.83.2.200:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg#✅@AR14N24b
 trojan://amclubs2024@154.83.2.200:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg#🆔ar14n24b%20🔒%20TR-WS-N/A%20🇵🇭%20PH%202ms
 trojan://amclubs2024@154.83.2.200:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg#🆔ar14n24b%20🔒%20TR-WS-N/A%20🇵🇭%20PH%206ms
+trojan://auto@185.146.173.158:443?security=tls&type=ws&sni=esetsecuritylicense.bwnsmv.workers.dev&host=esetsecuritylicense.bwnsmv.workers.dev#[🇸🇪]t.me/ConfigsHubϟ
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#✅@AR14N24b
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#🆔ar14n24b%20🔒%20TR--N/A%20🇩🇪%20DE%20155ms
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir#🆔ar14n24b%20🔒%20TR--N/A%20🇩🇪%20DE%2091ms
-trojan://bbaacca-acab-caab-dcab-baabcbcaacbc@127.0.0.1:2080?security=tls&type=tcp#🤖
 trojan://bbaacca-caba-acba-cabd-cbcaaaccbabb@127.0.0.1:2080?security=tls&type=tcp#🤖
-trojan://bcbaaca-baca-abac-badc-baabccbbacca@127.0.0.1:1080?security=tls&type=tcp#🔄
 trojan://blue2024@104.16.97.152:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#✅@AR14N24b#کانفیگ
 trojan://blue2024@104.16.97.152:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🆔ar14n24b%20🔒%20TR-WS-N/A%20🇺🇸%20US%202ms
 trojan://blue2024@104.16.97.152:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu#🆔ar14n24b%20🔒%20TR-WS-N/A%20🇺🇸%20US%206ms
@@ -373,6 +376,7 @@ trojan://c7cdf323-25d4-4c82-ad35-0aca769041c2@198.41.208.23:443?security=tls&sni
 trojan://c97cf46e-1554-36cb-8b36-c3556b883dc4@172.67.175.149:443?sni=fr2a.88888806.xyz#✅@AR14N24b#کانفیگ
 trojan://c97cf46e-1554-36cb-8b36-c3556b883dc4@172.67.175.149:443?sni=fr2a.88888806.xyz#🆔ar14n24b%20🔓%20TR--N/A%20🇺🇸%20US%202ms
 trojan://c97cf46e-1554-36cb-8b36-c3556b883dc4@172.67.175.149:443?sni=fr2a.88888806.xyz#🆔ar14n24b%20🔓%20TR--N/A%20🇺🇸%20US%206ms
+trojan://cbacaba-abac-acba-bdca-abcaabbbcacc@127.0.0.1:3080?security=tls&type=tcp#🛡
 trojan://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:8443?security=tls&sni=eXPrEssTv.faRsOnline24.Ir&type=ws&host=expresstv.farsonline24.ir&path=%2Fx8xN4dH28mo7U3sS#🆔ar14n24b%20🔒%20TR-WS-N/A%20🇺🇸%20US%202ms
 trojan://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:8443?security=tls&sni=eXPrEssTv.faRsOnline24.Ir&type=ws&host=expresstv.farsonline24.ir&path=%2Fx8xN4dH28mo7U3sS#🆔ar14n24b%20🔒%20TR-WS-N/A%20🇺🇸%20US%206ms
 trojan://d2638b15-7c54-4a83-b217-de0928070e2d@172.67.175.40:8443?security=tls&sni=eXPrEssTv.faRsOnline24.Ir&type=ws&host=expresstv.farsonline24.ir&path=/x8xN4dH28mo7U3sS#✅@AR14N24b
@@ -400,7 +404,6 @@ trojan://juzi@162.159.153.222:2096?sni=juzi8186-sr1.pages.dev#🆔ar14n24b%20�
 trojan://juzi@3.67.25.193:443?sni=juzi8186-sr1.pages.dev#✅@AR14N24b#کانفیگ
 trojan://juzi@3.67.25.193:443?sni=juzi8186-sr1.pages.dev#🆔ar14n24b%20🔓%20TR--N/A%20🇩🇪%20DE%20158ms
 trojan://juzi@3.67.25.193:443?sni=juzi8186-sr1.pages.dev#🆔ar14n24b%20🔓%20TR--N/A%20🇩🇪%20DE%2097ms
-trojan://naEX%5Dg*qw%40MT%26lFz@104.21.112.1:2087?security=tls&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev&type=ws&host=joinmahdiserver-53k.pages.dev&path=%2Ftrb6oyXIzrlytDBNlm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🇨🇦]t.me/ConfigsHubϟ
 trojan://p5T9x5WrfZ@prod2-hge-cloud03-hybrid-tmk01.cyberscaler.com:46780?type=tcp&path=%2F&host=sourceforge.net&headerType=http&security=none#NorthXRAY
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#🆔configx2ray%20🔒%20TR-TCP-N/A%20🇸🇪%20SE%20385ms
