@@ -1,4 +1,4 @@
-ss://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:15193?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%20down
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.102.139:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇩🇪%20DE%20down
 ss://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:15193?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%20down
 ss://07e8f17b-fe9d-4e4c-afee-9442927a5974@arvancloud.ir.telewebion.com.127.0.0.1.ir.manageit.ir.cloud.washop.ir:80?mode=packet-up&path=%2Fcategory%2Fculture.html%3Fed%3D8880&security=none&encryption=none&host=my.0-1.ir&type=xhttp#🆔xixv2ray%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 ss://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20down
@@ -9,6 +9,7 @@ ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?security=none&encry
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray_vpn_ir%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://2f11e0ef-7e0d-45d1-8785-53d55daf193e@ir9.boilersforpellets.com:443?path=%2F&security=tls&encryption=none&host=ir9.boilersforpellets.com&type=ws&sni=ir9.boilersforpellets.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20down
 ss://65da960e-97bd-499c-a79f-69c8c3a6984d@188.212.97.205:2030?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+ss://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@S1.LoadBalance.LAT:7845?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#🆔mrsoulb%20🔒%20VL-GRPC-%20🇩🇪%20DE%20down
 ss://72dc074b-91ed-4564-9424-cd14652c1743@84.47.233.98:33326?encryption=none&security=none&type=tcp&headerType=http&host=Fast.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://72dc074b-91ed-4564-9424-cd14652c1743@tak.blushop1403.info:33326?encryption=none&security=none&type=tcp&headerType=http&host=Fast.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://9783723b-b652-472e-aa72-d181621eef41@46.101.210.59:8629?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=journalofbigdata.springeropen.com#🆔xixv2ray%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
@@ -27,7 +28,7 @@ ss://c5e011a7-6de9-4eec-96bc-e38d424785ba@95.179.162.59:8443?security=reality&en
 ss://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?fragment=&security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@5.160.109.9:24989?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://d1821c66-378e-4a7c-abc0-52cabab11887@104.248.91.139:18461?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20down
-vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:15193?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%20down
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.64.102.139:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇩🇪%20DE%20down
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:15193?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%20down
 vless://07e8f17b-fe9d-4e4c-afee-9442927a5974@arvancloud.ir.telewebion.com.127.0.0.1.ir.manageit.ir.cloud.washop.ir:80?mode=packet-up&path=%2Fcategory%2Fculture.html%3Fed%3D8880&security=none&encryption=none&host=my.0-1.ir&type=xhttp#🆔xixv2ray%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 vless://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20down
@@ -38,6 +39,7 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?security=none&en
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray_vpn_ir%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://2f11e0ef-7e0d-45d1-8785-53d55daf193e@ir9.boilersforpellets.com:443?path=%2F&security=tls&encryption=none&host=ir9.boilersforpellets.com&type=ws&sni=ir9.boilersforpellets.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20down
 vless://65da960e-97bd-499c-a79f-69c8c3a6984d@188.212.97.205:2030?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+vless://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@S1.LoadBalance.LAT:7845?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#🆔mrsoulb%20🔒%20VL-GRPC-%20🇩🇪%20DE%20down
 vless://72dc074b-91ed-4564-9424-cd14652c1743@84.47.233.98:33326?encryption=none&security=none&type=tcp&headerType=http&host=Fast.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://72dc074b-91ed-4564-9424-cd14652c1743@tak.blushop1403.info:33326?encryption=none&security=none&type=tcp&headerType=http&host=Fast.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://9783723b-b652-472e-aa72-d181621eef41@46.101.210.59:8629?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=journalofbigdata.springeropen.com#🆔xixv2ray%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
