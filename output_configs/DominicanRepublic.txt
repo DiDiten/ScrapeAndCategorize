@@ -4,6 +4,7 @@ ss://0d1cb112-006f-4eaa-89d1-15da714d12e1@81.12.35.242:2096?security=none&encryp
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray_vpn_ir%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.205.175:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray_vpn_ir%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
@@ -22,7 +23,6 @@ ss://YWVzLTEyOC1nY206T09TV0RZWFRTUldNVEFFSUo4WFVDRDI3UjJGMzg0T0RLVEhYRjQxWUxSVjQ
 ss://a6490cc3-6064-40ab-8ba0-619234a8d5dc@94.182.136.232:37725?security=none&encryption=none&headerType=none&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://bab0379b-9dc3-441a-8e84-612f22ba837f@iri.punezism.top:33438?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-ss://c83c3b86-6520-4813-b16e-a0d3a8a9ee2c@45.159.148.76:55956?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://d1821c66-378e-4a7c-abc0-52cabab11887@104.248.91.139:18461?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20down
 ss://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:15193?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%20down
@@ -31,6 +31,7 @@ vless://0d1cb112-006f-4eaa-89d1-15da714d12e1@81.12.35.242:2096?security=none&enc
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray_vpn_ir%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.205.175:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray_vpn_ir%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
@@ -43,7 +44,6 @@ vless://72dc074b-91ed-4564-9424-cd14652c1743@tak.blushop1403.info:33326?encrypti
 vless://a6490cc3-6064-40ab-8ba0-619234a8d5dc@94.182.136.232:37725?security=none&encryption=none&headerType=none&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://bab0379b-9dc3-441a-8e84-612f22ba837f@iri.punezism.top:33438?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-vless://c83c3b86-6520-4813-b16e-a0d3a8a9ee2c@45.159.148.76:55956?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://d1821c66-378e-4a7c-abc0-52cabab11887@104.248.91.139:18461?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20down
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZDk0eGl4djJyYXkgXHVkODNkXHVkZDEzIFZNLVRDUC1OXC9BIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJUiBkb3duIiwiYWRkIjoiODUuMTk4LjIzLjYzIiwicG9ydCI6IjUyMjYyIiwiaWQiOiJhZjVhMGQwYy1jODk4LTRhNTEtYmE2YS00NzE3OWQ0ODNlNDEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
