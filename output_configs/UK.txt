@@ -1,6 +1,6 @@
-ss://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?encryption=none&security=none&sni=www.speedtest.net&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20152ms
+ss://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?encryption=none&security=none&sni=www.speedtest.net&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%2086ms
 ss://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.67.218.184:80?path=%2F%3Fed%3D2570&security=none&encryption=none&host=abcd.taraneh.dpdns.org&type=ws#%F0%9F%87%AC%F0%9F%87%A7%40%F0%9D%99%8E%F0%9D%99%9E%F0%9D%99%89%F0%9D%98%BC%F0%9D%99%91%F0%9D%99%88%F0%9F%91%88%F0%9F%8F%BB%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-85.210.55.181-0322
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-85.210.120.237-0308
-vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?encryption=none&security=none&sni=www.speedtest.net&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20152ms
+vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?encryption=none&security=none&sni=www.speedtest.net&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%2086ms
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.67.218.184:80?path=%2F%3Fed%3D2570&security=none&encryption=none&host=abcd.taraneh.dpdns.org&type=ws#%F0%9F%87%AC%F0%9F%87%A7%40%F0%9D%99%8E%F0%9D%99%9E%F0%9D%99%89%F0%9D%98%BC%F0%9D%99%91%F0%9D%99%88%F0%9F%91%88%F0%9F%8F%BB%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
