@@ -15,6 +15,7 @@
 * **diditen-fetcher**: `https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/main/Clash/output/diditen-fetcher.yaml`
 * **diditen-mix**: `https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/main/Clash/output/diditen-mix.yaml`
 * **mci**: `https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/main/Clash/output/mci.yaml`
+* **scrape-iran**: `https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/main/Clash/output/scrape-iran.yaml`
 
 <!-- END_LINKS -->
 
