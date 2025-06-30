@@ -9,7 +9,7 @@ ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560
 ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#IRAN%2094%20%28%40Outline_Vpn%29%20free
 ss://3a559234-bb5f-4db7-95da-f65c43f8ad88@irancellserver18.gamelip.com:22482?security=none&encryption=none&host=amirzaplus.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇱🇻%20LV%20148ms
 ss://57d127e9-38da-494b-afeb-494de5ff1a91@gb.france-learns.ir:42536?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.COm.&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20181ms
-ss://57d127e9-38da-494b-afeb-494de5ff1a91@gb.france-learns.ir:42536?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.COm.&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20336ms
+ss://57d127e9-38da-494b-afeb-494de5ff1a91@gb.france-learns.ir:42536?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.COm.&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20331ms
 ss://8636b38e-2001-48a0-fc27-6706848c5723@185.220.227.87:443?path=%2F&security=none&encryption=none&host=wdf-7fc9613170-sdsd.apps.ir-central1.arvancaas.ir&type=ws#🆔speeds_vpn1%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20195ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#IRAN%2071%20%28%40Outline_Vpn%29%20free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#IRAN%2082%20%28%40Outline_Vpn%29%20free
@@ -21,7 +21,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#IRAN%20125%20%28%40Outline_Vpn%29%20Free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Free%24%20IRAN%202%20%28%40Outline_Vpn%29
 ss://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.182.46.67:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20215ms
-ss://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.182.46.67:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20226ms
+ss://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.182.46.67:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20261ms
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20256ms
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20235ms
 vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=none&encryption=none&headerType=none&type=tcp#freeiranianv2rey
@@ -33,7 +33,7 @@ vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#IRAN%2094%20%28%40Outline_Vpn%29%20free
 vless://3a559234-bb5f-4db7-95da-f65c43f8ad88@irancellserver18.gamelip.com:22482?security=none&encryption=none&host=amirzaplus.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇱🇻%20LV%20148ms
 vless://57d127e9-38da-494b-afeb-494de5ff1a91@gb.france-learns.ir:42536?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.COm.&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20181ms
-vless://57d127e9-38da-494b-afeb-494de5ff1a91@gb.france-learns.ir:42536?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.COm.&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20336ms
+vless://57d127e9-38da-494b-afeb-494de5ff1a91@gb.france-learns.ir:42536?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.COm.&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20331ms
 vless://8636b38e-2001-48a0-fc27-6706848c5723@185.220.227.87:443?path=%2F&security=none&encryption=none&host=wdf-7fc9613170-sdsd.apps.ir-central1.arvancaas.ir&type=ws#🆔speeds_vpn1%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20195ms
 vless://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.182.46.67:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20215ms
-vless://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.182.46.67:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20226ms
+vless://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.182.46.67:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20261ms
