@@ -1,2 +1,3 @@
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Mon-09-TIR-1404
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Mon-09-TIR-1404
+vmess://eyJhZGQiOiIxNTIuNTMuNDguMzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InJlZmVyc2lvbi5jb20iLCJpZCI6ImM0ZWM2N2E4LTFkY2MtNDcxZC1hNmQ3LTRkOWI5ZWMxNzI2ZCIsIm5ldCI6InRjcCIsInBhdGgiOiJcL2FwaVwvdjFcL3N0YXR1cyIsInBvcnQiOiI1NjMyMCIsInBzIjoiXHVkODNjXHVkZDk0dnBuc2VydmVycnIgXHVkODNkXHVkZDEzIFZNLVRDUC1OXC9BIFx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmOSBBVCAxMDVtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
