@@ -1,2 +1,2 @@
-trojan://d2adff89-5143-4d67-921f-3478464de5bb@130.0.236.88:443?security=tls&sni=ua.freeguard.org&type=tcp&headerType=none#🆔xixv2ray%20🔒%20TR-TCP-N/A%20🇺🇦%20UA%20184ms
-trojan://f1f6dad0-0622-11f0-92c5-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp&headerType=none#🆔xixv2ray%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%20148ms
+trojan://d2adff89-5143-4d67-921f-3478464de5bb@130.0.236.88:443?security=tls&sni=ua.freeguard.org&type=tcp&headerType=none#🆔xixv2ray%20🔒%20TR-TCP-N/A%20🇺🇦%20UA%20138ms
+trojan://f1f6dad0-0622-11f0-92c5-1239d0255272@51.38.65.155:443?security=tls&sni=uk1.test3.net&type=tcp&headerType=none#🆔xixv2ray%20🔒%20TR-TCP-N/A%20🇬🇧%20GB%2099ms
