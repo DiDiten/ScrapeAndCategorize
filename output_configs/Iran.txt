@@ -4,7 +4,7 @@ ss://1194e0f3-f2a4-46d7-fa68-eb05e0bb9874@95.38.101.22:2087?encryption=none&secu
 ss://13c23c50-65f9-4819-a51f-bfb7158ff88c@185.83.113.133:5252?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20%F0%9F%8D%93%40xixv2ray%C2%A03%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.83.113.133%3A5252
 ss://13c23c50-65f9-4819-a51f-bfb7158ff88c@185.83.113.133:5252?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20263ms
 ss://1a443fcb-53eb-4f59-bae7-4c0f1b3c57b0@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20258ms
-ss://1a443fcb-53eb-4f59-bae7-4c0f1b3c57b0@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20336ms
+ss://1a443fcb-53eb-4f59-bae7-4c0f1b3c57b0@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20362ms
 ss://20e2bbf8-848c-42f8-8034-b0f57699b109@185.228.59.175:25183?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8D%93%40xixv2ray%20%20%7C%20%F0%9F%8C%90%20185.228.59.175%20%7C%20IR
 ss://2a66e7e4-0bc2-4255-9bf0-7428f7258714@91.207.18.223:11904?security=none&encryption=none&headerType=none&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20247ms
 ss://371185d5-ccba-4538-9c34-0113489b234e@62.60.193.63:59562?encryption=none&security=none&type=tcp&headerType=http&host=anten.ir#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20230ms
@@ -41,7 +41,7 @@ vless://1194e0f3-f2a4-46d7-fa68-eb05e0bb9874@95.38.101.22:2087?encryption=none&s
 vless://13c23c50-65f9-4819-a51f-bfb7158ff88c@185.83.113.133:5252?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%94%92%20%F0%9F%8D%93%40xixv2ray%C2%A03%20%F0%9F%87%AE%F0%9F%87%B7%20IR-185.83.113.133%3A5252
 vless://13c23c50-65f9-4819-a51f-bfb7158ff88c@185.83.113.133:5252?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20263ms
 vless://1a443fcb-53eb-4f59-bae7-4c0f1b3c57b0@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20258ms
-vless://1a443fcb-53eb-4f59-bae7-4c0f1b3c57b0@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20336ms
+vless://1a443fcb-53eb-4f59-bae7-4c0f1b3c57b0@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20362ms
 vless://20e2bbf8-848c-42f8-8034-b0f57699b109@185.228.59.175:25183?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8D%93%40xixv2ray%20%20%7C%20%F0%9F%8C%90%20185.228.59.175%20%7C%20IR
 vless://2a66e7e4-0bc2-4255-9bf0-7428f7258714@91.207.18.223:11904?security=none&encryption=none&headerType=none&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20247ms
 vless://371185d5-ccba-4538-9c34-0113489b234e@62.60.193.63:59562?encryption=none&security=none&type=tcp&headerType=http&host=anten.ir#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20230ms
