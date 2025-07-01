@@ -1,6 +1,6 @@
 ss://19d8dc59-1201-48ca-8b91-a5b75ead89ec@grizzly.grizzlyshoppp.shop:6235?type=tcp&path=%2F&host=anten.ir&headerType=http&security=none#%40grizzlyvpn@grizzlyvpn
-ss://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@213.176.0.144:3311?encryption=none&security=none&type=grpc#🆔xixv2ray%20🔓%20VL-GRPC-N/A%20🇮🇷%20IR%20172ms
-ss://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇮🇷%20IR%20380ms
+ss://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@213.176.0.144:3311?encryption=none&security=none&type=grpc#🆔xixv2ray%20🔓%20VL-GRPC-N/A%20🇮🇷%20IR%20171ms
+ss://eeba92b0-7204-4ccc-b0c9-50213c1d8b1c@213.142.133.76:4920?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=xSKFCOvniPfPNbue8I_OjLigMECtNzSAjXDuyGziwyw&sid=e446638013d88e20&type=grpc&authority=&serviceName=mgrpcmn&mode=gun#🆔xixv2ray%20🔒%20VL-GRPC-%20🇹🇷%20TR%20121ms
 vless://19d8dc59-1201-48ca-8b91-a5b75ead89ec@grizzly.grizzlyshoppp.shop:6235?type=tcp&path=%2F&host=anten.ir&headerType=http&security=none#%40grizzlyvpn@grizzlyvpn
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@213.176.0.144:3311?encryption=none&security=none&type=grpc#🆔xixv2ray%20🔓%20VL-GRPC-N/A%20🇮🇷%20IR%20172ms
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇮🇷%20IR%20380ms
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@213.176.0.144:3311?encryption=none&security=none&type=grpc#🆔xixv2ray%20🔓%20VL-GRPC-N/A%20🇮🇷%20IR%20171ms
+vless://eeba92b0-7204-4ccc-b0c9-50213c1d8b1c@213.142.133.76:4920?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=xSKFCOvniPfPNbue8I_OjLigMECtNzSAjXDuyGziwyw&sid=e446638013d88e20&type=grpc&authority=&serviceName=mgrpcmn&mode=gun#🆔xixv2ray%20🔒%20VL-GRPC-%20🇹🇷%20TR%20121ms
