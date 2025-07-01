@@ -1,7 +1,6 @@
-ss://77b7af06-6e10-4afa-a9bb-461fab6db315@pfwie.marfanet.com:55700?security=reality&encryption=none&pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&headerType=none&fp=firefox&spx=%2Fblog%2Fcategory%2Ftechnology%2F&type=tcp&sni=refersion.com&sid=ae839dceb524a40b#🆔mrsoulb%20🔒%20VL-TCP-%20🇳🇱%20NL%20129ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20130ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20106ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2082ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20135ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20107ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2083ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2084ms
-vless://77b7af06-6e10-4afa-a9bb-461fab6db315@pfwie.marfanet.com:55700?security=reality&encryption=none&pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&headerType=none&fp=firefox&spx=%2Fblog%2Fcategory%2Ftechnology%2F&type=tcp&sni=refersion.com&sid=ae839dceb524a40b#🆔mrsoulb%20🔒%20VL-TCP-%20🇳🇱%20NL%20129ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20134ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20154ms
