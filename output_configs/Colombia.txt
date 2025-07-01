@@ -67,7 +67,6 @@ ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&encrypt
 ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&encryption=none&host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#🆔configx2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2096ms
 ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#🆔configx2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20101ms
 ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#🆔configx2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
-ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40vless_config
 ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vless_config%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20101ms
 ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vless_config%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20103ms
 ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#🆔configx2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20102ms
@@ -114,6 +113,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.162.130:443#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.240.238:443#🆔configfa%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo=@107.181.151.147:43669#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo=@portal.ninemakeda.cfd:43669#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#India/%40configfu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🆔configx2ray%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2083ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🆔configx2ray%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2087ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🆔configx2ray%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2089ms
@@ -136,6 +136,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREEyTUdaaA==@95.164.36.59:8388#%20%E2%9D%A4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPREEyTUdaaA==@at1.opensocks.site:8388#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1V3Tw==@nl2.ssocks.wiki:8388#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSTNuY3hGMkdQdVBpQjFsNWdpdGNP@188.126.67.227:63418#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSTNuY3hGMkdQdVBpQjFsNWdpdGNP@sto4.g.edgeservers.org:63418#%20%E2%9D%A4%EF%B8%8F@Kayh_GNG%20-%20Github.com/kayhgng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4FreakConfig.usecharge.ir:443#🆔configfa%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%20305ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4FreakConfig.usecharge.ir:443#🆔configfa%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%20307ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4FreakConfig.usecharge.ir:443#🆔configfa%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%20311ms
@@ -191,7 +192,6 @@ ss://d843b700-0e0d-5ad9-72d9-46ced5785cd1@komaki.sibrayane.store:2051?security=n
 ss://d843b700-0e0d-5ad9-72d9-46ced5785cd1@komaki.sibrayane.store:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔vless_config%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20224ms
 ss://e71ecf1e-6e81-468b-8c18-fa030fe5fd39@all97-vip.f-sub.com:9655?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔conectvpn10%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20108ms
 ss://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=firefox&type=ws&sni=simorgh.hpcode.ir#🆔configx2ray%20🔒%20VL-WS-N/A%20🇨🇾%20CY%205ms
-trojan://Aimer@220.71.185.223:10093?security=tls&type=tcp&sni=ngepz.ambercc.filegear-sg.me#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
 vless://09324ee6-1235-4793-bf9b-0da17a466a69@[0000:0000:0000:0000:0000:ffff:5b63:9012]:20600?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=firefox&type=grpc&sni=www.speedtest.net&sid=adf8a1f5689177a2#🆔configfa%20🔒%20VL-GRPC-%20❔%20XX%2095ms
 vless://09324ee6-1235-4793-bf9b-0da17a466a69@[0000:0000:0000:0000:0000:ffff:5b63:9012]:20600?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=firefox&type=grpc&sni=www.speedtest.net&sid=adf8a1f5689177a2#🆔configfa%20🔒%20VL-GRPC-%20❔%20XX%2096ms
 vless://12c67119-d240-4c0b-9704-33db37020455@188.227.84.128:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🆔configfa%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20112ms
@@ -261,7 +261,6 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&encr
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&encryption=none&host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#🆔configx2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2096ms
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#🆔configx2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20101ms
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#🆔configx2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40vless_config
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vless_config%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20101ms
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vless_config%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20103ms
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#🆔configx2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20102ms
@@ -332,4 +331,3 @@ vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@komaki.sibrayane.store:2051?securit
 vless://e71ecf1e-6e81-468b-8c18-fa030fe5fd39@all97-vip.f-sub.com:9655?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔conectvpn10%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20108ms
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=firefox&type=ws&sni=simorgh.hpcode.ir#🆔configx2ray%20🔒%20VL-WS-N/A%20🇨🇾%20CY%205ms
 vmess://eyJhZGQiOiI6OmZmZmY6OTQ3MTpjZmUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNkOWZkZWU2LTg5MDUtNGRhOS05ZWVmLWExYTE4YjI5OGE2NSIsIm5ldCI6ImtjcCIsInBhdGgiOiIzYmE5MGU1MS1iY2ZkLTQ2NzEtOWRjMC0yNjJhYzYzYzdkOGEiLCJwb3J0IjoiMzAwMSIsInBzIjoiXHVkODNjXHVkZDk0Y29uZmlnZmEgXHVkODNkXHVkZDEzIFZNLUtDUC1OXC9BIFx1Mjc1NCBYWCBkb3duIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJ3aXJlZ3VhcmQiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNDYuMTkuMTY4LjE2MSIsImFpZCI6IjAiLCJob3N0IjoiYXowNS5iZXlvbmR5LmNmZCIsImlkIjoiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmsiLCJwb3J0IjoiNDQzIiwicHMiOiIg4p2k77iPQEtheWhfR05HIC0gR2l0aHViLmNvbS9rYXloZ25nIiwic2N5IjoiYXV0byIsInNuaSI6ImF6MDUuYmV5b25keS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
