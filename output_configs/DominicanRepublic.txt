@@ -1,6 +1,4 @@
 ss://011c3c13-fbfb-4783-eb12-ce30912321d2@85.9.125.186:16597?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.147.255:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇫🇷%20FR%20down
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.166.89:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇩🇪%20DE%20down
 ss://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:7012?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%20down
 ss://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@www.vip-abanol1.zone.id:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 ss://2a66e7e4-0bc2-4255-9bf0-7428f7258714@91.207.18.223:11904?security=none&encryption=none&headerType=none&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
@@ -24,8 +22,6 @@ ss://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=
 ss://dd99ae43-d376-5a2d-4939-3658fd6c5980@78.157.45.181:11230?encryption=none&security=none&type=ws&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
 ss://eeba92b0-7204-4ccc-b0c9-50213c1d8b1c@213.142.133.76:4920?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=xSKFCOvniPfPNbue8I_OjLigMECtNzSAjXDuyGziwyw&sid=e446638013d88e20&type=grpc&authority=&serviceName=mgrpcmn&mode=gun#🆔xixv2ray%20🔒%20VL-GRPC-%20🇹🇷%20TR%20down
 vless://011c3c13-fbfb-4783-eb12-ce30912321d2@85.9.125.186:16597?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.147.255:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇫🇷%20FR%20down
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.166.89:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇩🇪%20DE%20down
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:7012?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%20down
 vless://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@www.vip-abanol1.zone.id:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://2a66e7e4-0bc2-4255-9bf0-7428f7258714@91.207.18.223:11904?security=none&encryption=none&headerType=none&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
