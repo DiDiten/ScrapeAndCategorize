@@ -1,0 +1,2 @@
+ss://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.246.29:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=lv.2138937.xyz&type=ws&sni=lv.2138937.xyz#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇨🇷%20CR%206ms
+vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.246.29:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=lv.2138937.xyz&type=ws&sni=lv.2138937.xyz#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇨🇷%20CR%206ms

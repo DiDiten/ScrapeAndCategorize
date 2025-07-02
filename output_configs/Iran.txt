@@ -6,8 +6,10 @@ ss://3f7fddf9-3fb7-4784-8f23-2b3caf1d850a@62.60.210.93:5126?encryption=none&secu
 ss://51b50d5c-afc9-456e-c216-be8a41144a3f@185.14.160.163:8081?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20301ms
 ss://55684e35-e8a4-4e98-b856-309ceba25392@78.157.61.139:13510?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20290ms
 ss://572b9ae8-c8fe-4ff5-9fbd-f9a92578f5a1@95.38.104.37:338?encryption=none&security=none&type=tcp&headerType=http&host=parsabr.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20301ms
+ss://61ecaa76-634a-470d-c54f-bb8cc6cbab2b@194.1.155.46:9501?security=none&encryption=none&headerType=none&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20187ms
 ss://73c824a5-bc9e-4155-b8c6-d23a880995a4@185.231.183.51:36279?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20293ms
 ss://7e3b4e5a-483f-4c2d-957d-765137dbe186@37.32.41.247:2095?encryption=none&security=none&type=ws&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20329ms
+ss://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇬🇧%20GB%205ms
 ss://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20182ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYkV2SkNXQUpRR0ZQcmFKWXgwRWVB@45.138.135.155:42651#%F0%9F%94%92%20%F0%9F%8D%93%40xixv2ray%C2%A01%20%F0%9F%87%AE%F0%9F%87%B7%20IR-45.138.135.155%3A42651
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYkV2SkNXQUpRR0ZQcmFKWXgwRWVB@45.138.135.155:42651#🆔xixv2ray%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20293ms
@@ -20,6 +22,7 @@ ss://c5c5c7ec-db3b-49be-8027-304ec405d68f@94.182.105.74:222?encryption=none&secu
 ss://d5fdc459-436b-459d-beda-b06d70c93af1@62.60.210.108:5131?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20434ms
 ss://d684e328-426e-45e0-828d-148a386d4b3b@5.160.35.246:5113?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20303ms
 ss://e96830e4-964f-43ef-9bea-eb0e42f82c83@185.215.228.252:4909?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20288ms
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.14:8880?type=ws&encryption=none&host=tw.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇬🇧%20GB%205ms
 ss://fff37630-2460-449d-8cbe-604484e2eddd@92.114.24.54:580?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20186ms
 vless://1194e0f3-f2a4-46d7-fa68-eb05e0bb9874@95.38.101.22:2087?encryption=none&security=none&type=tcp&headerType=http&host=Speedtest.net#%F0%9F%94%92%20%F0%9F%8D%93%40xixv2ray%C2%A0%20IR-95.38.101.22%3A2087
 vless://1194e0f3-f2a4-46d7-fa68-eb05e0bb9874@95.38.101.22:2087?encryption=none&security=none&type=tcp&headerType=http&host=Speedtest.net#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20338ms
@@ -29,8 +32,10 @@ vless://3f7fddf9-3fb7-4784-8f23-2b3caf1d850a@62.60.210.93:5126?encryption=none&s
 vless://51b50d5c-afc9-456e-c216-be8a41144a3f@185.14.160.163:8081?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20301ms
 vless://55684e35-e8a4-4e98-b856-309ceba25392@78.157.61.139:13510?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20290ms
 vless://572b9ae8-c8fe-4ff5-9fbd-f9a92578f5a1@95.38.104.37:338?encryption=none&security=none&type=tcp&headerType=http&host=parsabr.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20301ms
+vless://61ecaa76-634a-470d-c54f-bb8cc6cbab2b@194.1.155.46:9501?security=none&encryption=none&headerType=none&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20187ms
 vless://73c824a5-bc9e-4155-b8c6-d23a880995a4@185.231.183.51:36279?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20293ms
 vless://7e3b4e5a-483f-4c2d-957d-765137dbe186@37.32.41.247:2095?encryption=none&security=none&type=ws&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20329ms
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇬🇧%20GB%205ms
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20182ms
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20320ms
 vless://b756ab67-8181-4bbc-83fd-1edca44c211a@46.38.146.177:22443?encryption=none&security=none&type=tcp&headerType=http&host=uptvs.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20180ms
@@ -41,6 +46,7 @@ vless://c5c5c7ec-db3b-49be-8027-304ec405d68f@94.182.105.74:222?encryption=none&s
 vless://d5fdc459-436b-459d-beda-b06d70c93af1@62.60.210.108:5131?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20434ms
 vless://d684e328-426e-45e0-828d-148a386d4b3b@5.160.35.246:5113?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20303ms
 vless://e96830e4-964f-43ef-9bea-eb0e42f82c83@185.215.228.252:4909?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20288ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.14:8880?type=ws&encryption=none&host=tw.laoyoutiao.link&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2048#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇬🇧%20GB%205ms
 vless://fff37630-2460-449d-8cbe-604484e2eddd@92.114.24.54:580?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20186ms
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgSVItMTg1LjEzMy4xMjUuNjo0OTUxIiwgImFkZCI6ICIxODUuMTMzLjEyNS42IiwgInBvcnQiOiAiNDk1MSIsICJpZCI6ICJlNWQ1MDQzOS00N2E4LTQ2N2YtYmVhZC0wMGQzYzRhYjg2ZjMiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICI0MyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgSVItMTg1LjIxNS4yMjguMjIwOjQ4NjczIiwgImFkZCI6ICIxODUuMjE1LjIyOC4yMjAiLCAicG9ydCI6ICI0ODY3MyIsICJpZCI6ICI2YWUwMGE0YS1iN2E5LTQ1ZmEtOGQ4Yi1kNzQ5NDNhMTdhNGMiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogImh0dHAiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMTYwIn0=
