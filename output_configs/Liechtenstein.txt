@@ -1,6 +1,7 @@
 ss://0592915a-65da-4cd5-9960-cb9329a3c8a1@alman7.turbooserver.ir:55066?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@meli_proxyy
 ss://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:7012?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#@meli_proxyy
 ss://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#@meli_proxyy
+ss://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
 ss://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#@meli_proxyy
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@meli_proxyy
@@ -16,6 +17,7 @@ ss://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.51:80?path=%2FTELEGRAM-MARAM
 vless://0592915a-65da-4cd5-9960-cb9329a3c8a1@alman7.turbooserver.ir:55066?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@meli_proxyy
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:7012?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#@meli_proxyy
 vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#@meli_proxyy
+vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#@meli_proxyy
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@meli_proxyy
