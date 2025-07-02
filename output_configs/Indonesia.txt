@@ -1,0 +1,2 @@
+ss://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&encryption=none&headerType=none&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇩%20ID%20239ms
+vless://89ae5e18-3b81-4e5d-a645-d85012c602b1@172.232.237.24:2321?security=none&encryption=none&headerType=none&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇩%20ID%20239ms
