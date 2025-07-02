@@ -1,4 +1,6 @@
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.80.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇪🇸%20ES%203ms
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.222.213:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇭🇰%20HK%204ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.80.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇪🇸%20ES%203ms
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.222.213:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇭🇰%20HK%204ms
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.80.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇪🇸%20ES%206ms
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.81.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇪🇸%20ES%206ms
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.222.213:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇭🇰%20HK%205ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.80.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇪🇸%20ES%206ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.251.81.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇪🇸%20ES%206ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.192.222.213:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇭🇰%20HK%205ms
