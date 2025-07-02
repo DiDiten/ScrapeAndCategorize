@@ -1,4 +1,4 @@
-ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔kvetch_matin%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20113ms
+ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔kvetch_matin%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-11-TIR-1404
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔kvetch_matin%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20113ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔kvetch_matin%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Wed-11-TIR-1404
