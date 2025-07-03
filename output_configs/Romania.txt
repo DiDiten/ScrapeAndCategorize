@@ -12,6 +12,7 @@ ss://63601f9f-7c67-4952-919a-1ef802b5a7ec@47.76.218.163:443?security=tls&sni=ste
 ss://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.192.183:443?security=tls&sni=abc.vpneee.top&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&fp=chrome#@VIProxys
 ss://8972e657-e401-4f10-bfd9-6eae2963aa7e@188.227.84.96:8443?security=&type=tcp&path=/&headerType=http&host=zula.ir&encryption=none#@VIProxys
 ss://8f320d6a-9953-4065-b61c-d62f89a6767f@104.26.12.23:2083?security=tls&sni=e.exedu.ip-ddns.com&type=ws&host=e.exedu.ip-ddns.com&path=/?ed%3D2048&fp=chrome#@VIProxys
+trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:2087?host=invincible.fafa20.shop&type=ws&security=tls&path=%2FtrSC827RVJ8e9FFsFa%2FMTI5LjE1OS44NC43MQ%3D%3D%3Fed%3D2560&sni=invInCibLE.FAFA20.ShOp&fp=randomized&alpn=http%2F1.1#%252525F0%2525259F%25252592%252525A6%2525252043%25252520-%25252520Trojan%25252520-%25252520IPv4%25252520:%252525202087
 vless://06121b89-607b-44c9-9c01-cc2fc6a7321d@192.9.129.48:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=4Qekb9y1dqO8hvRzVSGeSRNyhko_gqpeWD94zrLCvjs&sid=5488b0e7#@VIProxys
 vless://06d3fbe1-c626-4c40-83f5-02ae4acc66fd@104.17.147.22:443?security=tls&sni=aRgo.iSvPYtHon.ONliNE&type=ws&host=argo.isvpython.online&path=%2F2ZrJmjVK7heX4OQ6%2FMTg4LjI0NS4xNTUuMTg5%3Fed%3D2048&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#@VIProxys
 vless://17602cf7-97d5-4881-8e4f-2fdaa9f49d3f@23.90.188.66:41959?flow=&fp=chrome&pbk=xIndzDWBc0JR0MiuEQp-3Hxl6y3d7vEy4HCjnRcXIFc&security=reality&sid=a932&sni=canva.com&type=tcp#@VIProxys

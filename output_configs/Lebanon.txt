@@ -1,6 +1,8 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20147ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20148ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20149ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20158ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2079ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2080ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20143ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20149ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2078ms
+ss://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%3Fed%3D2050&security=tls&encryption=none&alpn=http%2F1.1&host=nb-de.nitter.ir&fp=chrome&type=ws&sni=nitter.ir#🆔mrsoulb%20🔒%20VL-WS-N/A%20🇳🇱%20NL%2099ms
+vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%3Fed%3D2050&security=tls&encryption=none&alpn=http%2F1.1&host=nb-de.nitter.ir&fp=chrome&type=ws&sni=nitter.ir#🆔mrsoulb%20🔒%20VL-WS-N/A%20🇳🇱%20NL%2099ms

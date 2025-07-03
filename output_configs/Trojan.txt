@@ -11,6 +11,7 @@ trojan://0df6b9c4e7d58d84@54.178.71.192:443?security=tls&sni=n2.gladns.com&type=
 trojan://0q%2776Evm32qz%40Q%27%28@172.66.44.226:2087?security=tls&sni=JOInMahdiserver-11R.PaGES.dEv&type=ws&host=joinmahdiserver-11r.pages.dev#🔒
 trojan://123456@104.25.97.27:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
 trojan://123456@192.65.217.53:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🔒
+trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:2087?host=invincible.fafa20.shop&type=ws&security=tls&path=%2FtrSC827RVJ8e9FFsFa%2FMTI5LjE1OS44NC43MQ%3D%3D%3Fed%3D2560&sni=invInCibLE.FAFA20.ShOp&fp=randomized&alpn=http%2F1.1#%252525F0%2525259F%25252592%252525A6%2525252043%25252520-%25252520Trojan%25252520-%25252520IPv4%25252520:%252525202087
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@172.67.171.131:443?security=tls&sni=iNvINcIbLE.faFA20.Shop&type=ws&host=invincible.fafa20.shop#🔒
 trojan://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.15.232:443?sni=ab2c7f0b-bf1b-4eb3-9884-256f4de3d.2030.pp.ua#🔒
 trojan://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.34.159:443?security=tls&sni=2qwert.2031.pp.ua&type=ws&host=2qwert.2031.pp.ua&path=/4p35eUnmGxQ8YJFJxz#🔒
@@ -29,6 +30,8 @@ trojan://2734c14b-e4ce-48b3-b3de-f80788cb4c47@172.67.153.179:443?security=tls&sn
 trojan://2YDH6ktJOt@104.21.15.33:8443?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=/@M3HDIO1#🔒
 trojan://2bfa08e0-ae1e-11ed-a3a0-1239d0255272@5.254.17.52:443?security=tls&sni=telewebion.com&type=ws&path=/trojanws#🔒
 trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒
+trojan://3774827088566296576@35.75.186.204:443?sni=settled-corgi.insect388.motorcycles#🆔configshubplus%20🔓%20TR--N/A%20🇯🇵%20JP%20169ms
+trojan://3774827088566296576@exotic-bengal.treefrog761.one:443?allowInsecure=0&sni=exotic-bengal.treefrog761.one#🆔configshubplus%20🔓%20TR--N/A%20🇩🇪%20DE%20113ms
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.110:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇭🇰%20HK%20down
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.110:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🦀PF473008
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.74.162:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒
@@ -87,12 +90,14 @@ trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.189:443?sni=45.32.28.23
 trojan://70776bb4-d791-4cbd-9c9b-c76e937f9e60@172.67.216.240:443?security=tls&sni=Xxs345rf.857856.xYZ&type=ws&host=xxs345rf.857856.xyz&path=%2F71M8Ov1I5Gk9247fHC0XGZG6&fp=chrome&alpn=http%2F1.1#🔒
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@108.162.196.69:443?sni=ssanj01.100896.xyz#🔒
 trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20152ms
-trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20153ms
+trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20219ms
 trojan://Aimer@146.56.155.102:20003?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20135ms
-trojan://Aimer@162.159.38.101:2096?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2010ms
+trojan://Aimer@146.56.155.102:20003?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20200ms
+trojan://Aimer@162.159.38.101:2096?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2024ms
 trojan://Aimer@162.159.38.101:2096?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇺🇸%20US%209ms
-trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-WS-N/A%20🇺🇸%20US%2021ms
+trojan://Aimer@162.159.44.236:443?sni=ngepo.ambercc.filegear-sg.me#🆔configshubplus%20🔓%20TR--N/A%20🇺🇸%20US%2023ms
 trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-WS-N/A%20🇺🇸%20US%2023ms
+trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-WS-N/A%20🇺🇸%20US%2083ms
 trojan://Xa4%5El%28%3B.%3BB%23a@104.18.26.90:443?path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#🆔v2ray1_ng%20🔒%20TR-WS-N/A%20🇺🇸%20US%201ms
 trojan://Xa4%5El%28%3B.%3BB%23a@104.18.26.90:443?path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#🆔v2ray1_ng%20🔒%20TR-WS-N/A%20🇺🇸%20US%202ms
 trojan://Xa4%5El%28%3B.%3BB%23a@104.18.26.90:443?security=tls&sni=S1.mitivpN.wOrKeRS.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=ws&host=s1.mitivpn.workers.dev&path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560#🆔xixv2ray%20🔒%20TR-WS-N/A%20🇺🇸%20US%202ms
@@ -100,11 +105,9 @@ trojan://abcaabc-bcaa-aabc-dabc-cacacabbbabc@127.0.0.1:8080?security=tls&type=tc
 trojan://acacabb-cbaa-acba-bcad-bccaccababba@127.0.0.1:2080?security=tls&type=tcp#🤖
 trojan://acbbaac-abac-acab-bdac-bbacbcaaccba@127.0.0.1:3080?security=tls&type=tcp#🛡
 trojan://caaacbb-baca-aacb-abcd-cabbabbaaccc@127.0.0.1:1080?security=tls&type=tcp#🔄
-trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=&type=tcp&sni=x1-czech-aruba-v2.devefun.org#
 trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=&type=tcp&sni=x1-czech-aruba-v2.devefun.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%BF
-trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=&type=tcp&sni=x1-czech-aruba-v2.devefun.org#🆔configx2ray%20🔒%20TR-TCP-N/A%20🇨🇿%20CZ%20164ms
 trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=&type=tcp&sni=x1-czech-aruba-v2.devefun.org#🆔configx2ray%20🔒%20TR-TCP-N/A%20🇨🇿%20CZ%20167ms
-trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=&type=tcp&sni=x1-czech-aruba-v2.devefun.org#🆔shadowproxy66%20🔒%20TR-TCP-N/A%20🇨🇿%20CZ%20162ms
+trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=&type=tcp&sni=x1-czech-aruba-v2.devefun.org#🆔shadowproxy66%20🔒%20TR-TCP-N/A%20🇨🇿%20CZ%20100ms
 trojan://telegram-id-directvpn@13.37.177.131:22223?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#🆔freeconfigsplus%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20down
 trojan://telegram-id-directvpn@52.47.92.41:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔configshubplus%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20147ms
 trojan://telegram-id-privatevpns@13.37.177.131:22222?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#🆔freeconfigsplus%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20down
