@@ -1,6 +1,5 @@
 ss://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#%40Fserverd_vpn
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40VPN66&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2099ms
-ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%87%A9%F0%9F%87%AA
 ss://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20104ms
 ss://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@nl.cosmonet.online:443?security=reality&encryption=none&pbk=0Us7OO0tExWGiNs6FFRSY_Ong4g8vkylmkElbZB10yw&headerType=&fp=chrome&spx=%2FzEPfD0gw0ZvQJnE&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4a7b23#%F0%9F%87%B3%F0%9F%87%B1Netherlands
 ss://9822ed7f-7536-477d-bba5-ea6ef5d44361@panel.foxinonet.ir:443?path=%2Flw&security=tls&encryption=none&host=panel.foxinonet.ir&type=ws&sni=panel.foxinonet.ir#🆔vpnserverrr%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20618ms
@@ -13,7 +12,6 @@ ss://d7288673-b8e0-4984-884f-8dc850ebbd4f@v2shop28.bing-net.com:4928?security=no
 ss://e4ebd2f4-902d-487f-9d7c-e58bfda04753@tunnel.dearagon.sbs:60619?security=none&encryption=none&headerType=none&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20235ms
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#%40Fserverd_vpn
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40VPN66&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2099ms
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%87%A9%F0%9F%87%AA
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20104ms
 vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@nl.cosmonet.online:443?security=reality&encryption=none&pbk=0Us7OO0tExWGiNs6FFRSY_Ong4g8vkylmkElbZB10yw&headerType=&fp=chrome&spx=%2FzEPfD0gw0ZvQJnE&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4a7b23#%F0%9F%87%B3%F0%9F%87%B1Netherlands
 vless://9822ed7f-7536-477d-bba5-ea6ef5d44361@panel.foxinonet.ir:443?path=%2Flw&security=tls&encryption=none&host=panel.foxinonet.ir&type=ws&sni=panel.foxinonet.ir#🆔vpnserverrr%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20618ms
