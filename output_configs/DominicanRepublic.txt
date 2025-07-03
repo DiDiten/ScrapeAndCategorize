@@ -8,10 +8,13 @@ ss://56353c19-c412-3670-5c98-2948cef1e151@85.198.9.190:2323?encryption=none&secu
 ss://608a27b5-be97-4ce6-8c70-d7cdcd2cba8c@109.122.255.210:27364?encryption=none&security=none&type=tcp&headerType=http&host=digikala.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://6819e582-7e30-4049-a0cf-2636f5642e70@2.188.224.76:24341?encryption=none&security=none&type=ws&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
 ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3F&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?security=none&encryption=none&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+ss://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#🆔proxyiranip%20🔒%20VL-XHTTP-%20🇩🇪%20DE%20down
 ss://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#🆔v2ray1_ng%20🔒%20VL-XHTTP-%20🇩🇪%20DE%20down
 ss://8b4c316e-f05a-413e-bda5-a7383a123a77@85.133.201.45:18818?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://8b4c316e-f05a-413e-bda5-a7383a123a77@85.133.201.45:18818?security=none&encryption=none&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+ss://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.207.175:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@74.177.207.175:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://YWVzLTI1Ni1nY206M2YyOGE3ZDMtZDIxNC1hNjM4LWRkY2QtMjIxMGM1Y2NiZTgz@185.97.119.204:11302#🆔xixv2ray%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20down
@@ -34,10 +37,13 @@ vless://56353c19-c412-3670-5c98-2948cef1e151@85.198.9.190:2323?encryption=none&s
 vless://608a27b5-be97-4ce6-8c70-d7cdcd2cba8c@109.122.255.210:27364?encryption=none&security=none&type=tcp&headerType=http&host=digikala.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://6819e582-7e30-4049-a0cf-2636f5642e70@2.188.224.76:24341?encryption=none&security=none&type=ws&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3F&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?security=none&encryption=none&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#🆔proxyiranip%20🔒%20VL-XHTTP-%20🇩🇪%20DE%20down
 vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#🆔v2ray1_ng%20🔒%20VL-XHTTP-%20🇩🇪%20DE%20down
 vless://8b4c316e-f05a-413e-bda5-a7383a123a77@85.133.201.45:18818?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://8b4c316e-f05a-413e-bda5-a7383a123a77@85.133.201.45:18818?security=none&encryption=none&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://b7155dd2-eaac-4570-85b7-7138e7b45e49@193.37.37.24:80?encryption=none&security=none&type=xhttp&host=portalo.com&path=%2F#🆔xixv2ray%20🔓%20VL-XHTTP-N/A%20🇮🇷%20IR%20down
 vless://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=none&encryption=none&host=ping.amirhossein.info&fp=chrome&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
