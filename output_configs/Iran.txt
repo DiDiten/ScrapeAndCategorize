@@ -1,6 +1,5 @@
 ss://1194e0f3-f2a4-46d7-fa68-eb05e0bb9874@95.38.101.22:2087?encryption=none&security=none&type=tcp&headerType=http&host=Speedtest.net#%F0%9F%94%92%20%F0%9F%8D%93%40xixv2ray%C2%A0%20IR-95.38.101.22%3A2087
 ss://1194e0f3-f2a4-46d7-fa68-eb05e0bb9874@95.38.101.22:2087?encryption=none&security=none&type=tcp&headerType=http&host=Speedtest.net#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20300ms
-ss://19479452-d4e3-4ff7-9f64-a95aa055532f@62.60.155.170:8080?type=tcp&path=%2F&host=SpeedTest.NET&headerType=http&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20158ms
 ss://371185d5-ccba-4538-9c34-0113489b234e@62.60.193.63:59562?encryption=none&security=none&type=tcp&headerType=http&host=anten.ir#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20316ms
 ss://3f7fddf9-3fb7-4784-8f23-2b3caf1d850a@62.60.210.93:5126?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20282ms
 ss://51b50d5c-afc9-456e-c216-be8a41144a3f@185.14.160.163:8081?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20299ms
@@ -11,6 +10,7 @@ ss://64274cc4-6375-407c-8670-13eaf31a5eba@2.189.117.37:443?encryption=none&secur
 ss://73c824a5-bc9e-4155-b8c6-d23a880995a4@185.231.183.51:36279?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20283ms
 ss://7acf3d74-052a-416c-a0ff-eaeaa642847c@85.9.123.170:2086?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20309ms
 ss://7e3b4e5a-483f-4c2d-957d-765137dbe186@37.32.41.247:2095?encryption=none&security=none&type=ws&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20290ms
+ss://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20233ms
 ss://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20235ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYkV2SkNXQUpRR0ZQcmFKWXgwRWVB@45.138.135.155:42651#%F0%9F%94%92%20%F0%9F%8D%93%40xixv2ray%C2%A01%20%F0%9F%87%AE%F0%9F%87%B7%20IR-45.138.135.155%3A42651
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYkV2SkNXQUpRR0ZQcmFKWXgwRWVB@45.138.135.155:42651#🆔xixv2ray%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20289ms
@@ -28,7 +28,6 @@ ss://e902a09d-4acb-4633-b776-4d3091f7b758@95.38.140.173:2020?encryption=none&sec
 ss://e96830e4-964f-43ef-9bea-eb0e42f82c83@185.215.228.252:4909?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20289ms
 vless://1194e0f3-f2a4-46d7-fa68-eb05e0bb9874@95.38.101.22:2087?encryption=none&security=none&type=tcp&headerType=http&host=Speedtest.net#%F0%9F%94%92%20%F0%9F%8D%93%40xixv2ray%C2%A0%20IR-95.38.101.22%3A2087
 vless://1194e0f3-f2a4-46d7-fa68-eb05e0bb9874@95.38.101.22:2087?encryption=none&security=none&type=tcp&headerType=http&host=Speedtest.net#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20300ms
-vless://19479452-d4e3-4ff7-9f64-a95aa055532f@62.60.155.170:8080?type=tcp&path=%2F&host=SpeedTest.NET&headerType=http&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20158ms
 vless://371185d5-ccba-4538-9c34-0113489b234e@62.60.193.63:59562?encryption=none&security=none&type=tcp&headerType=http&host=anten.ir#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20316ms
 vless://3f7fddf9-3fb7-4784-8f23-2b3caf1d850a@62.60.210.93:5126?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20282ms
 vless://51b50d5c-afc9-456e-c216-be8a41144a3f@185.14.160.163:8081?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20299ms
@@ -39,6 +38,7 @@ vless://64274cc4-6375-407c-8670-13eaf31a5eba@2.189.117.37:443?encryption=none&se
 vless://73c824a5-bc9e-4155-b8c6-d23a880995a4@185.231.183.51:36279?encryption=none&security=none&type=tcp&headerType=http&host=divarcdn.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20283ms
 vless://7acf3d74-052a-416c-a0ff-eaeaa642847c@85.9.123.170:2086?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20309ms
 vless://7e3b4e5a-483f-4c2d-957d-765137dbe186@37.32.41.247:2095?encryption=none&security=none&type=ws&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20290ms
+vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20233ms
 vless://9deda4f9-a9b9-4614-b840-ece9998ec6db@81.12.30.51:58045?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20235ms
 vless://b756ab67-8181-4bbc-83fd-1edca44c211a@46.38.146.177:22443?encryption=none&security=none&type=tcp&headerType=http&host=uptvs.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20225ms
 vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.232:2087?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20233ms
