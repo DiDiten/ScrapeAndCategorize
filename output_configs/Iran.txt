@@ -1,6 +1,8 @@
 ss://1194e0f3-f2a4-46d7-fa68-eb05e0bb9874@95.38.101.22:2087?encryption=none&security=none&type=tcp&headerType=http&host=Speedtest.net#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20197ms
 ss://371185d5-ccba-4538-9c34-0113489b234e@62.60.193.63:59562?encryption=none&security=none&type=tcp&headerType=http&host=anten.ir#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20227ms
 ss://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20219ms
+ss://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20378ms
+ss://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%2055ms
 ss://51b50d5c-afc9-456e-c216-be8a41144a3f@185.14.160.163:8081?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20194ms
 ss://5a365e51-4772-4791-a3a9-bed686ca89ac@185.14.160.21:9091?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20194ms
 ss://64274cc4-6375-407c-8670-13eaf31a5eba@2.189.117.37:443?encryption=none&security=none&type=tcp&headerType=http&host=analytics.google.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20228ms
@@ -13,11 +15,13 @@ ss://c0fabb39-9866-4659-8641-a1bf1f69179d@93.113.238.147:2092?encryption=none&se
 ss://d684e328-426e-45e0-828d-148a386d4b3b@5.160.35.246:5113?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20205ms
 ss://db67312c-8388-470c-a8aa-9995732a6f8d@85.9.99.89:450?security=none&encryption=none&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20204ms
 ss://df944419-2e7d-4d6b-bc57-ff25c774d98c@dl7.adamedteb.com:25183?security=none&encryption=none&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20247ms
-ss://df944419-2e7d-4d6b-bc57-ff25c774d98c@dl7.adamedteb.com:25183?security=none&encryption=none&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20360ms
+ss://df944419-2e7d-4d6b-bc57-ff25c774d98c@dl7.adamedteb.com:25183?security=none&encryption=none&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20335ms
 ss://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20507ms
 vless://1194e0f3-f2a4-46d7-fa68-eb05e0bb9874@95.38.101.22:2087?encryption=none&security=none&type=tcp&headerType=http&host=Speedtest.net#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20197ms
 vless://371185d5-ccba-4538-9c34-0113489b234e@62.60.193.63:59562?encryption=none&security=none&type=tcp&headerType=http&host=anten.ir#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20227ms
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20219ms
+vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20378ms
+vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%2055ms
 vless://51b50d5c-afc9-456e-c216-be8a41144a3f@185.14.160.163:8081?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20194ms
 vless://5a365e51-4772-4791-a3a9-bed686ca89ac@185.14.160.21:9091?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20194ms
 vless://64274cc4-6375-407c-8670-13eaf31a5eba@2.189.117.37:443?encryption=none&security=none&type=tcp&headerType=http&host=analytics.google.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20228ms
@@ -28,7 +32,7 @@ vless://c0fabb39-9866-4659-8641-a1bf1f69179d@93.113.238.147:2092?encryption=none
 vless://d684e328-426e-45e0-828d-148a386d4b3b@5.160.35.246:5113?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20205ms
 vless://db67312c-8388-470c-a8aa-9995732a6f8d@85.9.99.89:450?security=none&encryption=none&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20204ms
 vless://df944419-2e7d-4d6b-bc57-ff25c774d98c@dl7.adamedteb.com:25183?security=none&encryption=none&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20247ms
-vless://df944419-2e7d-4d6b-bc57-ff25c774d98c@dl7.adamedteb.com:25183?security=none&encryption=none&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20360ms
+vless://df944419-2e7d-4d6b-bc57-ff25c774d98c@dl7.adamedteb.com:25183?security=none&encryption=none&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20335ms
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20507ms
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgSVItMTg1LjIxNS4yMjguMjIwOjQ4NjczIiwgImFkZCI6ICIxODUuMjE1LjIyOC4yMjAiLCAicG9ydCI6ICI0ODY3MyIsICJpZCI6ICI2YWUwMGE0YS1iN2E5LTQ1ZmEtOGQ4Yi1kNzQ5NDNhMTdhNGMiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogImh0dHAiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMTEyIn0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgSVItMTg1LjU4LjI0Mi43Nzo2MDkiLCAiYWRkIjogIjE4NS41OC4yNDIuNzciLCAicG9ydCI6ICI2MDkiLCAiaWQiOiAiZDY0MWUwM2YtOWM3Yi00YjNkLTg1ZDctMWIyNzkyZmIyZmUyIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJodHRwIiwgImhvc3QiOiAid3d3LnZhcnplc2gzLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICI5OSJ9
