@@ -1,4 +1,2 @@
 ss://19d8dc59-1201-48ca-8b91-a5b75ead89ec@grizzly.grizzlyshoppp.shop:6235?type=tcp&path=%2F&host=anten.ir&headerType=http&security=none#%40grizzlyvpn@grizzlyvpn
-ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#🆔proxyiranip%20🔒%20VL-GRPC-N/A%20🇸🇬%20SG%202ms
 vless://19d8dc59-1201-48ca-8b91-a5b75ead89ec@grizzly.grizzlyshoppp.shop:6235?type=tcp&path=%2F&host=anten.ir&headerType=http&security=none#%40grizzlyvpn@grizzlyvpn
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#🆔proxyiranip%20🔒%20VL-GRPC-N/A%20🇸🇬%20SG%202ms
