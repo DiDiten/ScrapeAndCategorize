@@ -5,7 +5,7 @@ ss://25b0f5db-5405-40d7-85eb-663cfa7e918d@104.21.22.211:443?security=tls&sni=CCC
 ss://3054a28e-177a-412f-9b03-9855d79aa728@104.26.12.31:8880?type=ws&host=0609.sunnyfish.dpdns.org&path=%2F#@VIProxys
 ss://376734bc-4db8-4317-b451-af0262cb01c7@172.67.171.131:2053?security=tls&sni=inVINCIble.fAFA20.Shop&type=ws&host=invincible.fafa20.shop&path=%2FyRVRnY2jDtjg67UV%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#@VIProxys
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.205.0.170:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#@VIProxys
-ss://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.16.143.139:2096?security=tls&sni=ghh.wsthh.site&type=ws&host=ghh.wsthh.site&path=%2F&fp=chrome#@VIProxys
+ss://401374e6-df77-41fb-f638-dad8184f175b@94.140.0.141:443?security=tls&sni=pqh23v4.hiddendom.shop&type=grpc&host=pqh23v4.hiddendom.shop&alpn=h2#@VIProxys
 ss://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.159:443?security=tls&sni=147135004002.sec20org.com&type=tcp&allowInsecure=1#@VIProxys
 ss://54c5f9f1-1f0d-4d61-9eb8-db65a1f62d56@104.17.177.51:443?security=tls&sni=salad.1945157171.workers.dev&type=ws&host=salad.1945157171.workers.dev&path=%2F#@VIProxys
 ss://63601f9f-7c67-4952-919a-1ef802b5a7ec@47.76.218.163:443?security=tls&sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=%2FTelegram%20%40pgkj666%20%2F%3Fed%3D2560#@VIProxys
@@ -15,3 +15,4 @@ ss://8f320d6a-9953-4065-b61c-d62f89a6767f@104.26.12.23:2083?security=tls&sni=e.e
 vless://06121b89-607b-44c9-9c01-cc2fc6a7321d@192.9.129.48:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=4Qekb9y1dqO8hvRzVSGeSRNyhko_gqpeWD94zrLCvjs&sid=5488b0e7#@VIProxys
 vless://06d3fbe1-c626-4c40-83f5-02ae4acc66fd@104.17.147.22:443?security=tls&sni=aRgo.iSvPYtHon.ONliNE&type=ws&host=argo.isvpython.online&path=%2F2ZrJmjVK7heX4OQ6%2FMTg4LjI0NS4xNTUuMTg5%3Fed%3D2048&fp=firefox&alpn=h3%2Ch2%2Chttp%2F1.1#@VIProxys
 vless://17602cf7-97d5-4881-8e4f-2fdaa9f49d3f@23.90.188.66:41959?flow=&fp=chrome&pbk=xIndzDWBc0JR0MiuEQp-3Hxl6y3d7vEy4HCjnRcXIFc&security=reality&sid=a932&sni=canva.com&type=tcp#@VIProxys
+vless://25b0f5db-5405-40d7-85eb-663cfa7e918d@104.21.22.211:443?security=tls&sni=CCCVfgt66778UIO.TaIpei108.dPdNS.ORG&type=ws&host=cccvfgt66778uio.taipei108.dpdns.org&path=%2Fl3y4CZ9KUctFw6Ri5y2&fp=chrome&alpn=http%2F1.1#@VIProxys

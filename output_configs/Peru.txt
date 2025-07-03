@@ -1,0 +1,2 @@
+ss://0f5bd9ef-cba9-4867-a6cf-028077a3d840@94.232.168.16:30501?security=none&encryption=none&headerType=none&type=tcp#%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF
+vless://0f5bd9ef-cba9-4867-a6cf-028077a3d840@94.232.168.16:30501?security=none&encryption=none&headerType=none&type=tcp#%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%E3%89%BF%20%E1%B5%9B%E1%B5%96%E2%81%BF

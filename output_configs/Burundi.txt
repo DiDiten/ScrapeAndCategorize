@@ -1,2 +1,0 @@
-ss://f2441327-ccd1-4527-a211-3c2f08da0e11@ru.2dlkimi.ir:8080?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%92%89%F0%9F%87%A9%F0%9F%87%AA%20%40Anubis_VPN%F0%9F%91%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C
-vless://f2441327-ccd1-4527-a211-3c2f08da0e11@ru.2dlkimi.ir:8080?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%92%89%F0%9F%87%A9%F0%9F%87%AA%20%40Anubis_VPN%F0%9F%91%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C
