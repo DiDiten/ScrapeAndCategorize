@@ -1,2 +1,0 @@
-ss://089ef827-e35f-42d7-878a-4032cc68e9c0@rack6.clockdeny2.eu:443?type=tcp&security=reality&pbk=RF9iwAD-cFqdvc2RLvTbtJmh0guI5PlH_pL2o-jSp1c&fp=chrome&sni=rack6.clockdeny2.eu&sid=5066f1597399&spx=%2F5066f15973997b9055ae&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%AA%7CTCP-MahasaNG
-vless://089ef827-e35f-42d7-878a-4032cc68e9c0@rack6.clockdeny2.eu:443?type=tcp&security=reality&pbk=RF9iwAD-cFqdvc2RLvTbtJmh0guI5PlH_pL2o-jSp1c&fp=chrome&sni=rack6.clockdeny2.eu&sid=5066f1597399&spx=%2F5066f15973997b9055ae&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%AA%7CTCP-MahasaNG

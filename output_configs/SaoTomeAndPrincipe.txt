@@ -1,4 +1,2 @@
-ss://1f431db3-1918-4e7b-a855-c93485e11694@104.24.163.164:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=pari.parinazz.dpdns.org&fp=random&type=ws&sni=pari.parinazz.dpdns.org#%40Golestan_VPN%20-%20%F0%9F%91%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 ss://8ad321e9-7f47-4706-a101-11aefa88723b@104.24.197.20:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-sun.parsa.dpdns.org&fp=chrome&type=ws&sni=rayan-sun.parsa.dpdns.org#fast_52
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.24.163.164:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=pari.parinazz.dpdns.org&fp=random&type=ws&sni=pari.parinazz.dpdns.org#%40Golestan_VPN%20-%20%F0%9F%91%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 vless://8ad321e9-7f47-4706-a101-11aefa88723b@104.24.197.20:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-sun.parsa.dpdns.org&fp=chrome&type=ws&sni=rayan-sun.parsa.dpdns.org#fast_52
