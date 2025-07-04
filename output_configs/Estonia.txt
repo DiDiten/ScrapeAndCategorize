@@ -8,12 +8,14 @@ ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560
 ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#IRAN%20142%20%28%40Outline_Vpn%29%20free
 ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#IRAN%20171%20%28%40Outline_Vpn%29%20free
 ss://2a265422-84e6-5585-b36c-1e2d9437d0db@185.255.178.188:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=185.255.178.188&path=%2Fvless#🆔xixv2ray%20🔒%20VL-WS-N/A%20🇪🇪%20EE%20102ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Free%24%20IRAN%203%20%28%40Outline_Vpn%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#IRAN%20155%20%28%40Outline_Vpn%29%20free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#IRAN%20133%20%28%40Outline_Vpn%29%20Free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#IRAN%20143%20%28%40Outline_Vpn%29%20free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#IRAN%20151%20%28%40Outline_Vpn%29%20free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#IRAN%20153%20%28%40Outline_Vpn%29%20free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#IRAN%20125%20%28%40Outline_Vpn%29%20Free
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Free%24%20IRAN%202%20%28%40Outline_Vpn%29
 vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=none&encryption=none&headerType=none&type=tcp#freeiranianv2rey
 vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=none&encryption=none&headerType=none&type=tcp#freeiranianv2rey@freeiranianv2rey
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.49.134:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rc.ylks0033.dpdns.org&type=ws&sni=rc.ylks0033.dpdns.org#IRAN%20173%20%28%40Outline_Vpn%29%20free

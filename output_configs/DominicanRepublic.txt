@@ -17,10 +17,10 @@ ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?encryption=none&secu
 ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&encryption=none&host=zula.ir%2F%3FTE&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#🆔v2ray1_ng%20🔒%20VL-XHTTP-%20🇩🇪%20DE%20down
 ss://8b4c316e-f05a-413e-bda5-a7383a123a77@85.133.201.45:18818?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBSFhKOFhIMzFNZVkyeHBKR3V4c3VTU1czeVlUVDRhblRFVHNXTlR1UUxvOThvQWdCNnNNdkJLWEdMVWtMTGtVR3pWZXhmbXlRdzlSeVpxNTJXZnpmR3l3VXVxZjhpeXQ@mx2.drawnrisha.one:55988#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20(9)🤯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN3FtSkN3aU1jNXlyVk1VRndsZUR3@185.49.105.170:1080#🆔xixv2ray%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20down
 ss://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇮%20FI%20down
 ss://c5b69a7f-8e71-4425-8613-0f3c2a97d6d7@185.133.125.10:19161?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+ss://db67312c-8388-470c-a8aa-9995732a6f8d@85.9.99.89:450?security=none&encryption=none&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?security=&type=grpc&encryption=none#🆔proxyiranip%20🔓%20VL-GRPC-N/A%20🇳🇱%20NL%20down
 vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#🆔xixv2ray%20🔒%20VL-TCP-N/A%20🇫🇮%20FI%20down
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
@@ -43,5 +43,6 @@ vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=%2F
 vless://8b4c316e-f05a-413e-bda5-a7383a123a77@85.133.201.45:18818?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇮%20FI%20down
 vless://c5b69a7f-8e71-4425-8613-0f3c2a97d6d7@185.133.125.10:19161?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+vless://db67312c-8388-470c-a8aa-9995732a6f8d@85.9.99.89:450?security=none&encryption=none&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?security=&type=grpc&encryption=none#🆔proxyiranip%20🔓%20VL-GRPC-N/A%20🇳🇱%20NL%20down
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZDk0eGl4djJyYXkgXHVkODNkXHVkZDEzIFZNLVRDUC1OXC9BIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJUiBkb3duIiwiYWRkIjoiNzguMzkuOS4xMzQiLCJwb3J0IjoiODA5MCIsImlkIjoiODkxZTFkMWMtNWZiYy00MGNiLTkyNTYtNThiMDE2YjZiNjAwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
