@@ -86,13 +86,13 @@ trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.189:443?sni=45.32.28.23
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#⚡Telegram
 trojan://70776bb4-d791-4cbd-9c9b-c76e937f9e60@172.67.216.240:443?security=tls&sni=Xxs345rf.857856.xYZ&type=ws&host=xxs345rf.857856.xyz&path=%2F71M8Ov1I5Gk9247fHC0XGZG6&fp=chrome&alpn=http%2F1.1#🔒
 trojan://7743e1b5-d301-4a66-b765-17094890fae2@108.162.196.69:443?sni=ssanj01.100896.xyz#🔒
-trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20204ms
+trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20159ms
 trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20211ms
-trojan://Aimer@146.56.155.102:20003?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20178ms
+trojan://Aimer@146.56.155.102:20003?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20145ms
 trojan://Aimer@146.56.155.102:20003?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20193ms
-trojan://Aimer@162.159.38.101:2096?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2021ms
 trojan://Aimer@162.159.38.101:2096?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2026ms
-trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-WS-N/A%20🇺🇸%20US%2054ms
+trojan://Aimer@162.159.38.101:2096?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇺🇸%20US%209ms
+trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-WS-N/A%20🇺🇸%20US%2035ms
 trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-WS-N/A%20🇺🇸%20US%2076ms
 trojan://Xa4%5El%28%3B.%3BB%23a@104.18.26.90:443?path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#🆔v2ray1_ng%20🔒%20TR-WS-N/A%20🇺🇸%20US%206ms
 trojan://Xa4%5El%28%3B.%3BB%23a@104.18.26.90:443?security=tls&sni=S1.mitivpN.wOrKeRS.DEV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=ws&host=s1.mitivpn.workers.dev&path=%2FtrUXByA1rnbs4YQ1Xw%3Fed%3D2560#🆔xixv2ray%20🔒%20TR-WS-N/A%20🇺🇸%20US%206ms
@@ -102,8 +102,7 @@ trojan://acbbaac-abac-acab-bdac-bbacbcaaccba@127.0.0.1:3080?security=tls&type=tc
 trojan://caaacbb-baca-aacb-abcd-cabbabbaaccc@127.0.0.1:1080?security=tls&type=tcp#🔄
 trojan://gROCB%7BECeG16u.*I@www.speedtest.net:8443?path=%2FtrwySv66rWce1QMA5E%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=bia-kanal-asli.kanal-ma-shahan-a4a4.workers.dev&fp=randomized&type=ws&sni=BIa-kAnAl-aSlI.KAnAL-MA-ShaHAN-A4a4.woRKers.DEV#S72
 trojan://gROCB%7BECeG16u.*I@www.speedtest.net:8443?path=%2FtrwySv66rWce1QMA5E%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=bia-kanal-asli.kanal-ma-shahan-a4a4.workers.dev&fp=randomized&type=ws&sni=BIa-kAnAl-aSlI.KAnAL-MA-ShaHAN-A4a4.woRKers.DEV#🆔configfa%20🔒%20TR-WS-N/A%20🇺🇸%20US%2014ms
-trojan://gROCB%7BECeG16u.*I@www.speedtest.net:8443?path=%2FtrwySv66rWce1QMA5E%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=bia-kanal-asli.kanal-ma-shahan-a4a4.workers.dev&fp=randomized&type=ws&sni=BIa-kAnAl-aSlI.KAnAL-MA-ShaHAN-A4a4.woRKers.DEV#🆔configfa%20🔒%20TR-WS-N/A%20🇺🇸%20US%209ms
-trojan://mZMgM1vKw5@85.255.9.247:1935/?type=tcp&security=tls&sni=x1-czech-aruba-v2.devefun.org#[🏁]t.me/ConfigsHubϟ
+trojan://gROCB%7BECeG16u.*I@www.speedtest.net:8443?path=%2FtrwySv66rWce1QMA5E%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&host=bia-kanal-asli.kanal-ma-shahan-a4a4.workers.dev&fp=randomized&type=ws&sni=BIa-kAnAl-aSlI.KAnAL-MA-ShaHAN-A4a4.woRKers.DEV#🆔configfa%20🔒%20TR-WS-N/A%20🇺🇸%20US%2023ms
 trojan://telegram-id-directvpn@15.236.162.49:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AE%F0%9F%87%B7Free_Netplus%20%F0%9F%AA%BD
 trojan://telegram-id-directvpn@15.236.162.49:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🆔configfa%20🔒%20TR-TCP-N/A%20🇫🇷%20FR%20down
 trojan://trojan@109.234.211.66:8443?type=ws&host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org#🆔freeconfigsplus%20🔒%20TR-WS-N/A%20🇪🇸%20ES%205ms
