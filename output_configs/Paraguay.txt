@@ -1,0 +1,2 @@
+ss://27ef836b-574b-46eb-96ac-02e0969b9764@caaa.free-internet.me:49269?mode=multi&security=reality&encryption=none&pbk=DYvHsutSH66Nq3kjxPNoRFvDkPdBbM8mUVYjO6l6yQE&fp=firefox&spx=%2F&type=grpc&sni=yahoo.com&sid=d2#c2xpy6b7
+vless://27ef836b-574b-46eb-96ac-02e0969b9764@caaa.free-internet.me:49269?mode=multi&security=reality&encryption=none&pbk=DYvHsutSH66Nq3kjxPNoRFvDkPdBbM8mUVYjO6l6yQE&fp=firefox&spx=%2F&type=grpc&sni=yahoo.com&sid=d2#c2xpy6b7
