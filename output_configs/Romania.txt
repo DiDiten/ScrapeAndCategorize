@@ -1,9 +1,7 @@
 ss://1a79d43f-b41c-496b-a241-dcbeefa81f0e@91.197.3.157:443?security=tls&sni=0926.qiang2000.link&type=ws&host=0926.qiang2000.link&path=Telegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66%2F%3Fed%3D2560#@VIProxys
 ss://25b0f5db-5405-40d7-85eb-663cfa7e918d@104.21.58.135:443?security=tls&sni=RrRRRRYyY7.818185.XYZ&type=ws&host=rrrrrryyy7.818185.xyz&path=%2Fl3y4CZ9KUctFw6Ri5y2&fp=chrome&alpn=http%2F1.1#@VIProxys
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.135.9.223:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&alpn=h2#@VIProxys
-ss://401374e6-df77-41fb-f638-dad8184f175b@92.53.190.11:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#@VIProxys
 ss://401374e6-df77-41fb-f638-dad8184f175b@92.53.191.103:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#@VIProxys
-ss://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=di.dibdibini.dpdns.org&type=ws#@VIProxys
 ss://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.203.123:80?security=none&sni=di.dibdibini.dpdns.org&type=ws&host=di.dibdibini.dpdns.org&path=%2F%3Fed%3D2560&fp=random#@VIProxys
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@45.8.211.239:80?security=none&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=%2FTELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy%2F%3Fed%3D2560#@VIProxys
 ss://9d6315f7-f272-4806-97c8-5fdaafad391e@104.24.31.150:80?security=none&sni=lot.sosant.dpdns.org&type=ws&host=lot.sosant.dpdns.org&path=%2F%3Fed%3D2560&fp=random&allowInsecure=1#@VIProxys

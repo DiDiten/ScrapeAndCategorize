@@ -16,4 +16,3 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encr
 vless://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@91.107.154.77:2087?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40v2raying
 vless://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@91.107.154.77:8080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40v2raying
 vless://226a5194-ad7a-4aca-9852-e84aeca24381@vizzpn.freenet.vizzfrag.ir:443?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#%40v2raying
-vmess://eyJhZGQiOiI5MS45OS4xNS4yNCIsImFpZCI6IjAiLCJob3N0IjoidXB0dnMuY29tIiwiaWQiOiI4MmJmNzczNy1iNWExLTRlMGItYTFkYy1hOGVkMjg4MDNmM2UiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkB2MnJheWluZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
