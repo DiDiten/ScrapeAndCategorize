@@ -1,12 +1,10 @@
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇳🇱%20NL%2013ms
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇳🇱%20NL%202ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20115ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20148ms
-ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@185.246.64.122:20#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇷🇺%20RU%20155ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2078ms
+ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@185.246.64.122:20#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇷🇺%20RU%20123ms
 ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@185.246.64.122:20#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇷🇺%20RU%20192ms
-ss://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20111ms
 ss://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20151ms
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇳🇱%20NL%2013ms
+ss://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%2093ms
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇳🇱%20NL%202ms
-vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20111ms
 vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20151ms
+vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%2093ms
