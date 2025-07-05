@@ -1,5 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40server_nekobox
-ss://aa2b2185-a40b-4116-a678-bf831ae18649@nwarne.fast.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=tunnel-cdn.global.ssl.fastly.net&path=%2F&mode=auto#X@XS_VPNROBOT
-ss://aa2b2185-a40b-4116-a678-bf831ae18649@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tunnel-cdn.global.ssl.fastly.net&path=%2F&mode=auto#@XS_VPNROBOT
-vless://aa2b2185-a40b-4116-a678-bf831ae18649@nwarne.fast.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=tunnel-cdn.global.ssl.fastly.net&path=%2F&mode=auto#X@XS_VPNROBOT
-vless://aa2b2185-a40b-4116-a678-bf831ae18649@speedtest.net:80?encryption=none&security=none&type=xhttp&host=tunnel-cdn.global.ssl.fastly.net&path=%2F&mode=auto#@XS_VPNROBOT
+ss://turboo-server@151.101.3.8:80?mode=auto&path=%2F&security=&encryption=none&host=turboo-server1.game&type=xhttp#Turboo-Server
+vless://turboo-server@151.101.3.8:80?mode=auto&path=%2F&security=&encryption=none&host=turboo-server1.game&type=xhttp#Turboo-Server

@@ -8,6 +8,7 @@ ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryp
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40v2raying
 ss://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@91.107.154.77:2087?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40v2raying
 ss://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@91.107.154.77:8080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40v2raying
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Ainita
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40v2raying
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#%40v2raying
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPa3hSRTJVdUJDZDZZcEZia1dmNVJn@5.75.205.114:1574#%40v2raying
