@@ -2,8 +2,8 @@ ss://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=none&encrypti
 ss://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.49.134:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rc.ylks0033.dpdns.org&type=ws&sni=rc.ylks0033.dpdns.org#IRAN%20173%20%28%40Outline_Vpn%29%20free
 ss://0783b1b9-5d8b-4d03-adc3-b050acc71a29@168.138.181.208:443?allowInsecure=1&sni=sgp.rtot.me&type=ws&host=sgp.rtot.me&path=/bingfp=chrome&security=tls#15%7CSG_speednode_0008
 ss://0cb5df67-bd29-4d1b-a311-1c7e92f7d2c8@amirt1.amirmh.shop:2083?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20206ms
-ss://0cb5df67-bd29-4d1b-a311-1c7e92f7d2c8@amirt1.amirmh.shop:2083?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20353ms
-ss://10ef892d-9026-428a-8691-a7ddc14879e6@ka.pilebaghala.top:1237?security=reality&encryption=none&pbk=O2Au0u6WmVby1LqsE9sohM-QKS7T6_6W5M4L4_FpGT0&headerType=none&fp=firefox&spx=%2Foauth20_authorize.srf&type=tcp&sni=call1.tgju.org&sid=b7ac#🆔speeds_vpn1%20🔒%20VL-TCP-%20🇩🇪%20DE%20322ms
+ss://0cb5df67-bd29-4d1b-a311-1c7e92f7d2c8@amirt1.amirmh.shop:2083?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20322ms
+ss://10ef892d-9026-428a-8691-a7ddc14879e6@ka.pilebaghala.top:1237?security=reality&encryption=none&pbk=O2Au0u6WmVby1LqsE9sohM-QKS7T6_6W5M4L4_FpGT0&headerType=none&fp=firefox&spx=%2Foauth20_authorize.srf&type=tcp&sni=call1.tgju.org&sid=b7ac#🆔speeds_vpn1%20🔒%20VL-TCP-%20🇩🇪%20DE%20327ms
 ss://10ef892d-9026-428a-8691-a7ddc14879e6@ka.pilebaghala.top:1237?security=reality&encryption=none&pbk=O2Au0u6WmVby1LqsE9sohM-QKS7T6_6W5M4L4_FpGT0&headerType=none&fp=firefox&spx=%2Foauth20_authorize.srf&type=tcp&sni=call1.tgju.org&sid=b7ac#🆔speeds_vpn1%20🔒%20VL-TCP-%20🇩🇪%20DE%20358ms
 ss://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpnserverrr&security=&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#%E2%AD%90%EF%B8%8F%E2%9A%A1%EF%B8%8F-%40FreePing
 ss://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpnserverrr&security=&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#%F0%9F%8C%A9%EF%B8%8F%20%40FREEPING1
@@ -11,7 +11,7 @@ ss://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?path=%2F%3Fed%3D2560&secur
 ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#IRAN%20130%20%28%40Outline_Vpn%29%20Free
 ss://2a265422-84e6-5585-b36c-1e2d9437d0db@185.255.178.188:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=185.255.178.188&path=%2Fvless#🆔xixv2ray%20🔒%20VL-WS-N/A%20🇪🇪%20EE%20102ms
 ss://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20174ms
-ss://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20268ms
+ss://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20235ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#%F0%9F%92%AAfreeiranianv2rey@freeiranianv2rey
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Free%24%20IRAN%203%20%28%40Outline_Vpn%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#IRAN%20155%20%28%40Outline_Vpn%29%20free
@@ -24,8 +24,8 @@ vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=none&encry
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.49.134:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rc.ylks0033.dpdns.org&type=ws&sni=rc.ylks0033.dpdns.org#IRAN%20173%20%28%40Outline_Vpn%29%20free
 vless://0783b1b9-5d8b-4d03-adc3-b050acc71a29@168.138.181.208:443?allowInsecure=1&sni=sgp.rtot.me&type=ws&host=sgp.rtot.me&path=/bingfp=chrome&security=tls#15%7CSG_speednode_0008
 vless://0cb5df67-bd29-4d1b-a311-1c7e92f7d2c8@amirt1.amirmh.shop:2083?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20206ms
-vless://0cb5df67-bd29-4d1b-a311-1c7e92f7d2c8@amirt1.amirmh.shop:2083?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20353ms
-vless://10ef892d-9026-428a-8691-a7ddc14879e6@ka.pilebaghala.top:1237?security=reality&encryption=none&pbk=O2Au0u6WmVby1LqsE9sohM-QKS7T6_6W5M4L4_FpGT0&headerType=none&fp=firefox&spx=%2Foauth20_authorize.srf&type=tcp&sni=call1.tgju.org&sid=b7ac#🆔speeds_vpn1%20🔒%20VL-TCP-%20🇩🇪%20DE%20322ms
+vless://0cb5df67-bd29-4d1b-a311-1c7e92f7d2c8@amirt1.amirmh.shop:2083?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20322ms
+vless://10ef892d-9026-428a-8691-a7ddc14879e6@ka.pilebaghala.top:1237?security=reality&encryption=none&pbk=O2Au0u6WmVby1LqsE9sohM-QKS7T6_6W5M4L4_FpGT0&headerType=none&fp=firefox&spx=%2Foauth20_authorize.srf&type=tcp&sni=call1.tgju.org&sid=b7ac#🆔speeds_vpn1%20🔒%20VL-TCP-%20🇩🇪%20DE%20327ms
 vless://10ef892d-9026-428a-8691-a7ddc14879e6@ka.pilebaghala.top:1237?security=reality&encryption=none&pbk=O2Au0u6WmVby1LqsE9sohM-QKS7T6_6W5M4L4_FpGT0&headerType=none&fp=firefox&spx=%2Foauth20_authorize.srf&type=tcp&sni=call1.tgju.org&sid=b7ac#🆔speeds_vpn1%20🔒%20VL-TCP-%20🇩🇪%20DE%20358ms
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpnserverrr&security=&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#%E2%AD%90%EF%B8%8F%E2%9A%A1%EF%B8%8F-%40FreePing
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpnserverrr&security=&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#%F0%9F%8C%A9%EF%B8%8F%20%40FREEPING1
@@ -33,4 +33,4 @@ vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?path=%2F%3Fed%3D2560&se
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#IRAN%20130%20%28%40Outline_Vpn%29%20Free
 vless://2a265422-84e6-5585-b36c-1e2d9437d0db@185.255.178.188:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=185.255.178.188&path=%2Fvless#🆔xixv2ray%20🔒%20VL-WS-N/A%20🇪🇪%20EE%20102ms
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20174ms
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20268ms
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20235ms
