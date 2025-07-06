@@ -1,2 +1,0 @@
-ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&type=tcp&encryption=none#@V2rayNGn
-vless://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?security=&type=tcp&encryption=none#@V2rayNGn
