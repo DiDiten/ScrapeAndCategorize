@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4 # Checks out your repository code
+        with:
+          fetch-depth: 0 # این خط اضافه شد: برای دریافت کامل تاریخچه گیت، که برای pull_strategy نیاز است.
 
       - name: Set up Python
         uses: actions/setup-python@v5 # Sets up a Python environment
@@ -42,3 +44,4 @@ jobs:
           commit_user_name: GitHub Actions Bot
           commit_user_email: actions@github.com
           commit_author: GitHub Actions Bot <actions@github.com>
+          pull_strategy: "rebase" # این خط اضافه شد: برای ادغام تغییرات راه دور قبل از پوش.
