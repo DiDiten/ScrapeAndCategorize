@@ -1,6 +1,8 @@
+ss://1dff9598-083e-4bc2-8c91-d33df6481b3d@tunnel.aghamehdi52.ir:2000?security=&encryption=none&host=sheypoor.com&headerType=http&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40ff_kikor%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
 ss://c87e429a-5ada-47b1-b4e5-d170648a1e6e@104.18.26.90:8080?encryption=none&security=none&type=ws&host=h4.GraSsoRy.shop&path=%2F#KIAN-7
 ss://c87e429a-5ada-47b1-b4e5-d170648a1e6e@104.18.26.90:8080?encryption=none&security=none&type=ws&host=h4.GraSsory.shop&path=%2F#KIAN-6
 ss://c87e429a-5ada-47b1-b4e5-d170648a1e6e@91.206.71.12:8080?encryption=none&security=none&type=ws&host=h4.GraSsoRy.shop&path=%2F#KIAN-8
+vless://1dff9598-083e-4bc2-8c91-d33df6481b3d@tunnel.aghamehdi52.ir:2000?security=&encryption=none&host=sheypoor.com&headerType=http&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40ff_kikor%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7
 vless://c87e429a-5ada-47b1-b4e5-d170648a1e6e@104.18.26.90:8080?encryption=none&security=none&type=ws&host=h4.GraSsoRy.shop&path=%2F#KIAN-7
 vless://c87e429a-5ada-47b1-b4e5-d170648a1e6e@104.18.26.90:8080?encryption=none&security=none&type=ws&host=h4.GraSsory.shop&path=%2F#KIAN-6
 vless://c87e429a-5ada-47b1-b4e5-d170648a1e6e@91.206.71.12:8080?encryption=none&security=none&type=ws&host=h4.GraSsoRy.shop&path=%2F#KIAN-8

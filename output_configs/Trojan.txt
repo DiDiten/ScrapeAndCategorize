@@ -1,6 +1,5 @@
 trojan://%3AZ%23%253cdIG%27c*%3B*O%7D@172.66.47.83:443?security=tls&sni=JoinmAhDiSeRvER-csn.PaGeS.DEv&type=ws&host=JoinmAhDiSeRvER-csn.PaGeS.DEv#🔒
 trojan://---@172.67.204.84:443?#🔒
-trojan://0000000@18.238.109.28:443?security=tls&type=tcp&sni=www.lovelive-anime.jp#@Hope_Net-join-us-on-Telegram
 trojan://0000000@18.238.109.41:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#🔒
 trojan://03c93f49-d573-4889-a4bb-187047c5a314@104.21.71.83:443?security=tls&sni=M7Yyu.777162.xYZ&type=ws&host=M7Yyu.777162.xYZ&path=/Rij8gsblmlfrZUch7YcAPgiEbt#🔒
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&sni=series-v1.samanehha.co&type=ws&host=series-v1.samanehha.co&path=/43xf5zgeApzDAfhOHq#🔒
@@ -28,8 +27,6 @@ trojan://2734c14b-e4ce-48b3-b3de-f80788cb4c47@172.67.153.179:443?security=tls&sn
 trojan://2YDH6ktJOt@104.21.15.33:8443?security=tls&sni=support.sabapardaziran.ir&type=ws&host=support.sabapardaziran.ir&path=/@M3HDIO1#🔒
 trojan://2bfa08e0-ae1e-11ed-a3a0-1239d0255272@5.254.17.52:443?security=tls&sni=telewebion.com&type=ws&path=/trojanws#🔒
 trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒
-trojan://3763495894587285504@185.67.125.36:443?security=tls&type=tcp&sni=safe-seasnail.goat627.mom#@Hope_Net-join-us-on-Telegram
-trojan://3770966768580042752@23.22.196.39:443?sni=bursting-bunny.goat627.mom#@Hope_Net-join-us-on-Telegram
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.110:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇭🇰%20HK%20down
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.110:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🦀PF473008
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.74.162:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒
@@ -38,13 +35,13 @@ trojan://3qx%25QmCt%5E%26cg@172.67.175.40:2083?security=tls&sni=tabnak.farsonlin
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#🔒
 trojan://4069c35c-54ea-48ee-9ffa-05d9a0302043@104.21.71.131:443?sni=m5rt.999854.xyz&allowInsecure=0#🔒
 trojan://4069c35c-54ea-48ee-9ffa-05d9a0302043@172.67.170.147:443?security=tls&sni=m5ttty.999854.xyz&type=grpc#🔒
+trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?path=%2FuzJNzgkkYWRWGxgFnoFPw1&security=tls&alpn=http%2F1.1&host=qqqqqqqqqqa.www890604.dpdns.org&fp=chrome&type=ws&sni=qqqqqqqqqqa.www890604.dpdns.org#@v2Source🇨🇦🌍
+trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?path=%2FuzJNzgkkYWRWGxgFnoFPw1&security=tls&alpn=http%2F1.1&host=qqqqqqqqqqa.www890604.dpdns.org&fp=chrome&type=ws&sni=qqqqqqqqqqa.www890604.dpdns.org#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
 trojan://427090d9-d3df-4f05-919a-a0c5c2e160e5@20.2.156.38:443?security=tls&sni=ua.mjt000.com&type=tcp#🔒
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#🔒
 trojan://4Tze3Ri*i%23Fo@104.21.44.185:8443?security=tls&sni=soft.onetwothree123.ir&type=httpupgrade&host=soft.onetwothree123.ir&path=/L9sBUTui#🔒
 trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@104.21.83.113:443?security=tls&sni=SxcDe3.859886.XYz&type=ws&host=sxcde3.859886.xyz&path=/COp52Dbu3dvwvDWUxOqxq#🔒
 trojan://4c57a4f7-e137-4e0d-97c0-2f06bbcd2f2e@141.193.213.163:443?security=tls&sni=catro51avxe7b8r2pw.jjjiedian6j4tblb.com&type=ws&host=catro51avxe7b8r2pw.jjjiedian6j4tblb.com&path=/images#🔒
-trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&type=tcp&sni=hdfyc1.achaemenidempireofpersia.uk#@Hope_Net-join-us-on-Telegram
-trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443?security=tls&type=tcp&sni=hdfyc1.achaemenidempireofpersia.uk#@v2Source🇨🇦🌍
 trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.210.210:443?security=tls&sni=1cc.852224.ggff.net&type=ws&host=1cc.852224.ggff.net&path=/OYzPAeaZdXUq2d6J3gc4aj#🔒
 trojan://5cd14734-4ff7-4161-9ed3-bf0d824e311c@157.254.38.210:20081?sni=VN.catxstar.com&allowInsecure=0#🔒
 trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?allowInsecure=0&sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#2%7C%F0%9F%87%BA%F0%9F%87%B863%20%7C%20%202.1MB/s%7C46%25%7COpenai%7CGem...
@@ -53,9 +50,6 @@ trojan://6087d8e3-ea9e-48eb-8217-6050ff752f56@il.mjt000.com:443/?type=tcp&securi
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#2%7C%F0%9F%87%BA%F0%9F%87%B845%20%7C%20%202.5MB/s%7C46%25%7COpenai%7CGem...
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@70.32.1.32:443?security=tls&sni=jp-h1.sshub.xyz&type=tcp#🔒
 trojan://65086441068973800@54.251.44.7:443?security=tls&sni=tops-lobster.shiner427.skin&type=tcp&allowInsecure=1#🆔configshubplus%20🔒%20TR-TCP-N/A%20🇸🇬%20SG%20down
-trojan://65086520307764900@hopeful-seagull.shiner427.skin:443?#@Hope_Net-join-us-on-Telegram
-trojan://65086520307764900@hopeful-seagull.shiner427.skin:443?#[38329]
-trojan://65086520307764900@hopeful-seagull.shiner427.skin:443?#🦀PF478602
 trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&sni=de2-full.privateip.net#🔒
 trojan://68601963-27c2-4253-c784-914782ce09ef@151.101.66.219:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?#🔒
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@103.116.7.21:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
@@ -84,6 +78,12 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.156:443?sni=icecream.95
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D212.183.88.172%3A443#🔒
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D217.163.76.227%3A443#🔒
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.154.98.100:4002?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
+trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.20.80:443?security=tls&sni=BoStoN01.890614.GGff.neT&type=ws&host=boston01.890614.ggff.net&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw#🔒
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@120.241.226.93:3462?sni=45.32.28.232&allowInsecure=0#🔒
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@210.203.60.189:443?sni=45.32.28.232&allowInsecure=0#🔒
+trojan://70776bb4-d791-4cbd-9c9b-c76e937f9e60@172.67.216.240:443?security=tls&sni=Xxs345rf.857856.xYZ&type=ws&host=xxs345rf.857856.xyz&path=%2F71M8Ov1I5Gk9247fHC0XGZG6&fp=chrome&alpn=http%2F1.1#🔒
+trojan://7743e1b5-d301-4a66-b765-17094890fae2@108.162.196.69:443?sni=ssanj01.100896.xyz#🔒
+trojan://7743e1b5-d301-4a66-b765-17094890fae2@172.67.156.239:443?sni=ssloa2.100896.xyz#🔒
 trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20159ms
 trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20220ms
 trojan://Aimer@104.129.166.131:8443?sni=ngepy.ambercc.filegear-sg.me#🆔configshubplus%20🔓%20TR--N/A%20🇭🇰%20HK%209ms

@@ -1,6 +1,3 @@
-ss://05cec75b-0de2-40d8-a915-7519f745cae2@tu.filterchi.shop:2089?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#@fardadvpn2
-ss://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpnserverrr&security=&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@fardadvpn2
-ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%40heragAbad
 ss://174a144b-5665-41d6-8d7b-06e5a78fe573@104.16.53.11:80?path=%2F%3Fed&security=&alpn=h2%2Chttp%2F1.1&encryption=none&host=keEn-iNteNTion.oNeeAT.Co.&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://3da45e5f-edea-4e36-b93f-c19290d87de0@spool.filemanagerplusonline.com:443?path=%2Fhttps&security=tls&encryption=none&host=note.filemanagerplusonline.com&fp=chrome&type=httpupgrade&sni=note.filemanagerplusonline.com#🆔vpnserverrr%20🔒%20VL-HTTPUPGRADE-N/A%20🇮🇷%20IR%20down
 ss://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#%40Crypto_trad26%20%D9%88%D8%A7%D9%84%20%D8%B2%D9%88%D9%86
@@ -44,9 +41,6 @@ ss://da587398-b8bd-4edb-b3b3-5eef00988809@ssl3.komanserver.ir:443?path=%2Fdigika
 ss://da587398-b8bd-4edb-b3b3-5eef00988809@ssl3.komanserver.ir:443?path=%2Fdigikala.com%2Flogin%2F%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=httpupgrade&sni=am.komanserver.ir.#🆔shadowproxy66%20🔒%20VL-HTTPUPGRADE-N/A%20🇬🇧%20GB%20162ms
 ss://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=%2Fhu%3Fed%3D2095&security=none&encryption=none&host=0ost.amazon-osishop.ir&type=httpupgrade#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
 ss://e3035fb5-4a77-49ed-8a20-44c95f5de0fe@main.systemgamingirani.ir:2082?path=%2F%3Fed%3D2052&security=&encryption=none&host=www.speedtest.net.tps.debian.org.gr.systemgamingirani.ir&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
-vless://05cec75b-0de2-40d8-a915-7519f745cae2@tu.filterchi.shop:2089?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#@fardadvpn2
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpnserverrr&security=&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@fardadvpn2
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%40heragAbad
 vless://174a144b-5665-41d6-8d7b-06e5a78fe573@104.16.53.11:80?path=%2F%3Fed&security=&alpn=h2%2Chttp%2F1.1&encryption=none&host=keEn-iNteNTion.oNeeAT.Co.&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://3da45e5f-edea-4e36-b93f-c19290d87de0@spool.filemanagerplusonline.com:443?path=%2Fhttps&security=tls&encryption=none&host=note.filemanagerplusonline.com&fp=chrome&type=httpupgrade&sni=note.filemanagerplusonline.com#🆔vpnserverrr%20🔒%20VL-HTTPUPGRADE-N/A%20🇮🇷%20IR%20down
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#%40Crypto_trad26%20%D9%88%D8%A7%D9%84%20%D8%B2%D9%88%D9%86
