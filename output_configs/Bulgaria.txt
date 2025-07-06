@@ -1,0 +1,2 @@
+ss://5315d116-f93d-4089-a4ee-61ea8a1028d9@104.18.26.90:443?encryption=none&security=tls&fp=chrome&type=httpupgrade&host=cf.farsiblockchain.com&path=%2F16683%2Fkjhjkh#6qjpbgb3
+vless://5315d116-f93d-4089-a4ee-61ea8a1028d9@104.18.26.90:443?encryption=none&security=tls&fp=chrome&type=httpupgrade&host=cf.farsiblockchain.com&path=%2F16683%2Fkjhjkh#6qjpbgb3
