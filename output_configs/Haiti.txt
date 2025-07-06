@@ -1,0 +1,6 @@
+ss://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#%40sockss_http%20404
+ss://08451233-539f-489f-9a79-b3b5b1e9d6d0@fas2.pokerad.top:80?mode=auto&path=%2F&security=none&encryption=none&host=taha2.com&type=xhttp#%40sockss_http%20410
+ss://174a144b-5665-41d6-8d7b-06e5a78fe573@104.16.53.11:80?path=%2F%3Fed&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=keEn-iNteNTion.oNeeAT.Co.&type=ws#%40sockss_http%20415
+vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#%40sockss_http%20404
+vless://08451233-539f-489f-9a79-b3b5b1e9d6d0@fas2.pokerad.top:80?mode=auto&path=%2F&security=none&encryption=none&host=taha2.com&type=xhttp#%40sockss_http%20410
+vless://174a144b-5665-41d6-8d7b-06e5a78fe573@104.16.53.11:80?path=%2F%3Fed&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=keEn-iNteNTion.oNeeAT.Co.&type=ws#%40sockss_http%20415

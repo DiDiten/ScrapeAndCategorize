@@ -1,12 +1,5 @@
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇳🇱%20NL%202ms
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇳🇱%20NL%205ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20105ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2083ms
-ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@185.246.64.122:20#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇷🇺%20RU%20125ms
-ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@185.246.64.122:20#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇷🇺%20RU%20139ms
+ss://YWVzLTI1Ni1nY206MUtzc2J1VHliUURCWWdEanU1bk5TZw==@185.246.64.122:20#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇷🇺%20RU%20194ms
 ss://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=www.dns-shop.ir&fp=chrome&type=ws&sni=www.dns-shop.ir#🆔mrsoulb%20🔒%20VL-WS-N/A%20🇸🇪%20SE%202ms
-ss://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=www.dns-shop.ir&fp=chrome&type=ws&sni=www.dns-shop.ir#🆔mrsoulb%20🔒%20VL-WS-N/A%20🇸🇪%20SE%205ms
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇳🇱%20NL%202ms
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇳🇱%20NL%205ms
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=www.dns-shop.ir&fp=chrome&type=ws&sni=www.dns-shop.ir#🆔mrsoulb%20🔒%20VL-WS-N/A%20🇸🇪%20SE%202ms
-vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=www.dns-shop.ir&fp=chrome&type=ws&sni=www.dns-shop.ir#🆔mrsoulb%20🔒%20VL-WS-N/A%20🇸🇪%20SE%205ms

@@ -1,2 +1,0 @@
-ss://1a2880c5-c4dc-42df-8013-627584af81f4@77.72.80.143:8080/?type=ws&path=%2F&host=&security=none#tesfufuvuvucu
-vless://1a2880c5-c4dc-42df-8013-627584af81f4@77.72.80.143:8080/?type=ws&path=%2F&host=&security=none#tesfufuvuvucu
