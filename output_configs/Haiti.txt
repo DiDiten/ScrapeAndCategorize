@@ -1,2 +1,2 @@
-ss://174a144b-5665-41d6-8d7b-06e5a78fe573@104.16.53.11:80?security=none&alpn=h2,http/1.1&type=ws&path=/?ed&host=keEn-iNteNTion.oNeeAT.Co.&packetEncoding=xudp&encryption=none#%40sockss_http%20490
-vless://174a144b-5665-41d6-8d7b-06e5a78fe573@104.16.53.11:80?security=none&alpn=h2,http/1.1&type=ws&path=/?ed&host=keEn-iNteNTion.oNeeAT.Co.&packetEncoding=xudp&encryption=none#%40sockss_http%20490
+ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40VPN66&headerType=http&type=tcp#https%3A%2F%2Ft.me%2Fvip_vpn_2022
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.10:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40VPN66&headerType=http&type=tcp#https%3A%2F%2Ft.me%2Fvip_vpn_2022

@@ -1,2 +1,0 @@
-ss://1dff9598-083e-4bc2-8c91-d33df6481b3d@tunnel.aghamehdi52.ir:2000?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#%DA%AF%D9%BE%20BLUE%F0%9F%92%99
-vless://1dff9598-083e-4bc2-8c91-d33df6481b3d@tunnel.aghamehdi52.ir:2000?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#%DA%AF%D9%BE%20BLUE%F0%9F%92%99
