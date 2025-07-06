@@ -1,2 +1,2 @@
-ss://8f553976-3838-5cea-8f29-7b2932c470e7@185.113.139.103:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=185.113.139.103&path=%2Fvless#🆔xixv2ray%20🔒%20VL-WS-N/A%20🇱🇻%20LV%20236ms
-vless://8f553976-3838-5cea-8f29-7b2932c470e7@185.113.139.103:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=185.113.139.103&path=%2Fvless#🆔xixv2ray%20🔒%20VL-WS-N/A%20🇱🇻%20LV%20236ms
+ss://8f553976-3838-5cea-8f29-7b2932c470e7@185.113.139.103:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=185.113.139.103&path=%2Fvless#🆔xixv2ray%20🔒%20VL-WS-N/A%20🇱🇻%20LV%20165ms
+vless://8f553976-3838-5cea-8f29-7b2932c470e7@185.113.139.103:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=185.113.139.103&path=%2Fvless#🆔xixv2ray%20🔒%20VL-WS-N/A%20🇱🇻%20LV%20165ms
