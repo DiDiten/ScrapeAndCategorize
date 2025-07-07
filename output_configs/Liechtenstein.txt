@@ -17,7 +17,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@13.87.96.194:443#@meli
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYS2E1RFJobnVCZGdmS2VaTlhmZjVwbzk2dTJSQzVWYUJaVVNUb0NHb0NINFpCaG9HTVpjclQ5Q1k2NDZySDNuV1JuMjRkN0ZFRXVqcjRRd1VERnVZUUZBb0hqdGZBZ04@94.131.127.239:49072#%40meli_proxyy
 vless://0498875d-3520-4883-a8be-821b5a89fedc@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&host=iranv2ray-turboo.com&type=xhttp#@meli_proxyy
 vless://080fd5bd-db7b-400b-bf04-f2b7c19965d6@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#@meli_proxyy
 vless://0dd06d00-4a27-4e64-9968-8e4ae28f7bea@mahtabhub.metishop.top:8080?path=%2F&security=none&encryption=none&type=ws#@meli_proxyy
