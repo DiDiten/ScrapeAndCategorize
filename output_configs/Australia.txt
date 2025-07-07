@@ -1,3 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKeVhCVjRHNlBJaW43UWNnRzZsY3dE@170.64.229.134:6223#🆔configfa%20🔒%20SS-TCP-TLS%20🇦🇺%20AU%20down
-ss://d5b266bc-0db2-4c9b-8c3e-ead91698db99@1.1.1.1:9828?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇦🇺%20AU%20down
-vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@1.1.1.1:9828?security=none&type=tcp&headerType=http&path=%2F&host=speedtest.net#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇦🇺%20AU%20down

@@ -1,6 +1,7 @@
 ss://10ef892d-9026-428a-8691-a7ddc14879e6@ka.pilebaghala.top:1237?security=reality&encryption=none&pbk=O2Au0u6WmVby1LqsE9sohM-QKS7T6_6W5M4L4_FpGT0&headerType=none&fp=firefox&spx=%2Foauth20_authorize.srf&type=tcp&sni=call1.tgju.org&sid=b7ac#🆔speeds_vpn1%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir%2F%3F&headerType=http&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://67f788f8-c2ca-4fe9-ad36-d3439d84ad06@91.99.235.201:666?security=none&encryption=none&headerType=none&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+ss://763baf30-0066-4217-9c56-02baa8241390@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM&headerType=http&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://8039a8e7-9460-4ba8-9532-1f1946fcf169@meIli.heartina.ir:1002?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
@@ -11,6 +12,7 @@ ss://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&
 vless://10ef892d-9026-428a-8691-a7ddc14879e6@ka.pilebaghala.top:1237?security=reality&encryption=none&pbk=O2Au0u6WmVby1LqsE9sohM-QKS7T6_6W5M4L4_FpGT0&headerType=none&fp=firefox&spx=%2Foauth20_authorize.srf&type=tcp&sni=call1.tgju.org&sid=b7ac#🆔speeds_vpn1%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir%2F%3F&headerType=http&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://67f788f8-c2ca-4fe9-ad36-d3439d84ad06@91.99.235.201:666?security=none&encryption=none&headerType=none&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+vless://763baf30-0066-4217-9c56-02baa8241390@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM&headerType=http&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://8039a8e7-9460-4ba8-9532-1f1946fcf169@meIli.heartina.ir:1002?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
