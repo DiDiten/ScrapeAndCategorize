@@ -1,0 +1,2 @@
+tuic://69ab993a-4604-4dc8-be55-7918e434fc2b:oaoctFI3YbniIT2f5hrUOIXo@64.81.37.249:49241?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#US-GTT_Americas,_LLC
+tuic://69ab993a-4604-4dc8-be55-7918e434fc2b:oaoctFI3YbniIT2f5hrUOIXo@64.81.37.249:49241?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#🆔configfa%20🔒%20TU-UDP-N/A%20🇺🇸%20US%20down

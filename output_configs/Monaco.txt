@@ -1,2 +1,4 @@
+ss://c35c61d9-326f-4d7f-840c-f232063db7f2@104.18.26.90:443?encryption=none&security=tls&sni=H5.gRassory.shop&alpn=h2%2Chttp%2F1.1&fp=ios&allowInsecure=1&type=ws&host=H5.gRassory.shop&path=%2F#G2-MCI-SSL
 ss://c35c61d9-326f-4d7f-840c-f232063db7f2@104.18.26.90:80?encryption=none&security=none&type=ws&host=H5.grassOry.shop&path=%2F#G2-MCI
+vless://c35c61d9-326f-4d7f-840c-f232063db7f2@104.18.26.90:443?encryption=none&security=tls&sni=H5.gRassory.shop&alpn=h2%2Chttp%2F1.1&fp=ios&allowInsecure=1&type=ws&host=H5.gRassory.shop&path=%2F#G2-MCI-SSL
 vless://c35c61d9-326f-4d7f-840c-f232063db7f2@104.18.26.90:80?encryption=none&security=none&type=ws&host=H5.grassOry.shop&path=%2F#G2-MCI

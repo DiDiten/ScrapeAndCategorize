@@ -1,4 +1,4 @@
-ss://827545b9-5e1d-4e29-a97f-46b388891f57@[::ffff:50.7.85.220]:80?encryption=none&security=none&type=ws&host=hello-world-twilight-lake-386e.yijiled513.workers.dev#🆔xixv2ray%20🔓%20VL-WS-N/A%20❔%20XX%20148ms
-ss://827545b9-5e1d-4e29-a97f-46b388891f57@[::ffff:50.7.85.220]:80?encryption=none&security=none&type=ws&host=hello-world-twilight-lake-386e.yijiled513.workers.dev#🆔xixv2ray%20🔓%20VL-WS-N/A%20❔%20XX%20154ms
-vless://827545b9-5e1d-4e29-a97f-46b388891f57@[::ffff:50.7.85.220]:80?encryption=none&security=none&type=ws&host=hello-world-twilight-lake-386e.yijiled513.workers.dev#🆔xixv2ray%20🔓%20VL-WS-N/A%20❔%20XX%20148ms
-vless://827545b9-5e1d-4e29-a97f-46b388891f57@[::ffff:50.7.85.220]:80?encryption=none&security=none&type=ws&host=hello-world-twilight-lake-386e.yijiled513.workers.dev#🆔xixv2ray%20🔓%20VL-WS-N/A%20❔%20XX%20154ms
+ss://827545b9-5e1d-4e29-a97f-46b388891f57@[::ffff:50.7.85.220]:80?encryption=none&security=none&type=ws&host=hello-world-twilight-lake-386e.yijiled513.workers.dev#🆔xixv2ray%20🔓%20VL-WS-N/A%20❔%20XX%2090ms
+ss://827545b9-5e1d-4e29-a97f-46b388891f57@[::ffff:50.7.85.220]:80?encryption=none&security=none&type=ws&host=hello-world-twilight-lake-386e.yijiled513.workers.dev#🆔xixv2ray%20🔓%20VL-WS-N/A%20❔%20XX%2092ms
+vless://827545b9-5e1d-4e29-a97f-46b388891f57@[::ffff:50.7.85.220]:80?encryption=none&security=none&type=ws&host=hello-world-twilight-lake-386e.yijiled513.workers.dev#🆔xixv2ray%20🔓%20VL-WS-N/A%20❔%20XX%2090ms
+vless://827545b9-5e1d-4e29-a97f-46b388891f57@[::ffff:50.7.85.220]:80?encryption=none&security=none&type=ws&host=hello-world-twilight-lake-386e.yijiled513.workers.dev#🆔xixv2ray%20🔓%20VL-WS-N/A%20❔%20XX%2092ms
