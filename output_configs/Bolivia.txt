@@ -1,3 +1,5 @@
+ss://373509c9-75ec-4a59-8d9a-15625aa47b35@cd.reata.ir:2053?type=ws&security=tls&host=dl2.hupcloud.com&sni=dl2.hupcloud.com&path=%3Fed%3D2096&fp=chrome&alpn=h2#@XS_VPNROBOT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40server_nekobox
 ss://turboo-server@151.101.3.8:80?mode=auto&path=%2F&security=&encryption=none&host=turboo-server1.game&type=xhttp#Turboo-Server
+vless://373509c9-75ec-4a59-8d9a-15625aa47b35@cd.reata.ir:2053?type=ws&security=tls&host=dl2.hupcloud.com&sni=dl2.hupcloud.com&path=%3Fed%3D2096&fp=chrome&alpn=h2#@XS_VPNROBOT
 vless://turboo-server@151.101.3.8:80?mode=auto&path=%2F&security=&encryption=none&host=turboo-server1.game&type=xhttp#Turboo-Server

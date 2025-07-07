@@ -1,2 +1,0 @@
-ss://54bc6530-c7f7-47fa-a891-afc1fc5aa7e2@185.58.115.104:2087?path=%2Fvless&security=tls&encryption=none&host=185.58.115.104&fp=chrome&type=ws&sni=zula.ir#mmmm
-vless://54bc6530-c7f7-47fa-a891-afc1fc5aa7e2@185.58.115.104:2087?path=%2Fvless&security=tls&encryption=none&host=185.58.115.104&fp=chrome&type=ws&sni=zula.ir#mmmm

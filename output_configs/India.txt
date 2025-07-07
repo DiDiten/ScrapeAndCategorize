@@ -4,11 +4,9 @@ ss://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpnserverrr&se
 ss://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40v2raying
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%40v2raying
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%40v2raying
-ss://1ef50c03-0a63-4189-8de4-a7b32e8d7264@209.38.125.120:2053?mode=gun&security=reality&encryption=none&pbk=gA6cpUl_9Ewe-hqLM3chK2Ni5ScBHqOQSme_FnLXESg&fp=firefox&spx=%2F&type=grpc&serviceName=Tel%3A%40VPN_KING_V2RAY&sni=speedtest.net&sid=15#KINGVPN%F0%9F%91%91%F0%9F%87%AE%F0%9F%87%B310
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#%40v2raying
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#%40v2raying
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpnserverrr&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#%40v2raying
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40v2raying
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%40v2raying
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%40v2raying
-vless://1ef50c03-0a63-4189-8de4-a7b32e8d7264@209.38.125.120:2053?mode=gun&security=reality&encryption=none&pbk=gA6cpUl_9Ewe-hqLM3chK2Ni5ScBHqOQSme_FnLXESg&fp=firefox&spx=%2F&type=grpc&serviceName=Tel%3A%40VPN_KING_V2RAY&sni=speedtest.net&sid=15#KINGVPN%F0%9F%91%91%F0%9F%87%AE%F0%9F%87%B310

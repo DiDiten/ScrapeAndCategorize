@@ -8,6 +8,7 @@ ss://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.51:80?path=%2FTELEGRAM-MARAM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.158.64.226:443#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MnY4bzFuTnRLSWtRZEY4Q0lGYlh3@178.208.91.118:19805#@meli_proxyy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYS2E1RFJobnVCZGdmS2VaTlhmZjVwbzk2dTJSQzVWYUJaVVNUb0NHb0NINFpCaG9HTVpjclQ5Q1k2NDZySDNuV1JuMjRkN0ZFRXVqcjRRd1VERnVZUUZBb0hqdGZBZ04@94.131.127.239:49072#%40meli_proxyy
 vless://0498875d-3520-4883-a8be-821b5a89fedc@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&host=iranv2ray-turboo.com&type=xhttp#@meli_proxyy
 vless://0dd06d00-4a27-4e64-9968-8e4ae28f7bea@mahtabhub.metishop.top:8080?path=%2F&security=none&encryption=none&type=ws#@meli_proxyy
 vless://107088af-d5a1-4612-8641-a83e0e13c81e@www.speedtest.net:2096?encryption=none&security=tls&sni=638872443451943398.kish-prx-dnraaaf.info&type=ws&alpn=h3h2&host=638872443451943398.kish-prx-dnraaaf.info&path=/oiakdrws#@meli_proxyy
