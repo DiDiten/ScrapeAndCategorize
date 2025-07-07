@@ -57,9 +57,10 @@ trojan://6087d8e3-ea9e-48eb-8217-6050ff752f56@20.2.156.38:443/?type=tcp&security
 trojan://6087d8e3-ea9e-48eb-8217-6050ff752f56@il.mjt000.com:443/?type=tcp&security=tls&sni=il.mjt000.com#%F0%9F%87%AD%F0%9F%87%B0HK-20.2.156.38-5574
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#2%7C%F0%9F%87%BA%F0%9F%87%B845%20%7C%20%202.5MB/s%7C46%25%7COpenai%7CGem...
 trojan://61130614-528c-4b45-ac9b-e7987cff4952@18.167.165.70:45698?security=tls&sni=hk12.bilibili.com&type=tcp#@Hope_Net-join-us-on-Telegram⚠️
+trojan://61130614-528c-4b45-ac9b-e7987cff4952@cc44a92e67c3a06550903ab1a79cd258.v1.cac.node-is.green:42728?allowInsecure=0&sni=ca1.bilibili.com#🆔configshubplus%20🔓%20TR--N/A%20🇭🇰%20HK%20872ms
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@70.32.1.32:443?security=tls&sni=jp-h1.sshub.xyz&type=tcp#🔒
 trojan://63dbc6d0-4890-320c-8874-56f9f002d425@158.180.82.98:15446/?type=tcp&security=tls&sni=freehr01.jd0001.top#%40Msv2flyNG
-trojan://63dbc6d0-4890-320c-8874-56f9f002d425@158.180.82.98:15446?type=tcp&security=tls&sni=freehr01.jd0001.top#🆔configfa%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20153ms
+trojan://63dbc6d0-4890-320c-8874-56f9f002d425@158.180.82.98:15446?type=tcp&security=tls&sni=freehr01.jd0001.top#🆔configfa%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20187ms
 trojan://63dbc6d0-4890-320c-8874-56f9f002d425@158.180.82.98:15446?type=tcp&security=tls&sni=freehr01.jd0001.top#🆔configfa%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20193ms
 trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443?security=tls&sni=de2-full.privateip.net#🔒
 trojan://68601963-27c2-4253-c784-914782ce09ef@151.101.66.219:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?#🔒
@@ -86,16 +87,15 @@ trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.38:443?sni=icecream.955
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.129:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@195.85.59.95:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#🔒
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#🆔shadowproxy66%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%20down
-trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20185ms
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#🆔shadowproxy66%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%20111ms
+trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20224ms
 trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20229ms
-trojan://Aimer@146.56.155.102:20003?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20167ms
+trojan://Aimer@146.56.155.102:20003?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20175ms
 trojan://Aimer@146.56.155.102:20003?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20201ms
+trojan://Aimer@162.159.38.101:2096?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2020ms
 trojan://Aimer@162.159.38.101:2096?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2024ms
-trojan://Aimer@162.159.38.101:2096?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2026ms
-trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-WS-N/A%20🇺🇸%20US%2052ms
+trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-WS-N/A%20🇺🇸%20US%2055ms
 trojan://Aimer@52.32.90.142:80?security=tls&type=ws&sni=ngepx.ambercc.filegear-sg.me&host=ngepx.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-WS-N/A%20🇺🇸%20US%2087ms
 trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#🆔v2ray1_ng%20🔒%20TR-TCP-N/A%20🇨🇿%20CZ%20down
 trojan://trojan@109.234.211.66:8443?type=ws&host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org#🆔freeconfigsplus%20🔒%20TR-WS-N/A%20🇪🇸%20ES%202ms
 trojan://ypDt8RkT7J@89.187.181.179:43118?security=tls&headerType=none&type=tcp#[🏁]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
-trojan://ypDt8RkT7J@89.187.181.179:43118?security=tls&headerType=none&type=tcp#🆔configshubplus%20🔒%20TR-TCP-N/A%20🇺🇸%20US%2034ms
