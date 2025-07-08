@@ -1,5 +1,5 @@
 ss://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#%40Fserverd_vpn
-ss://24123b3b-4024-4643-a7c0-a9997c1b286c@tunnel.dearagoon.sbs:60619?security=none&encryption=none&headerType=none&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20289ms
+ss://24123b3b-4024-4643-a7c0-a9997c1b286c@tunnel.dearagoon.sbs:60619?security=none&encryption=none&headerType=none&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20348ms
 ss://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#%40HerofVPN%20%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-2
@@ -9,6 +9,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#https%3A%2F%2Ft.me%2FVPN4EVERYONE
 ss://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sub.divib.dynv6.net&type=ws&sni=sub.divib.dynv6.net#%40HerofVPN%20%F0%9F%9A%80%F0%9F%87%B3%F0%9F%87%B1
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#%40Fserverd_vpn
-vless://24123b3b-4024-4643-a7c0-a9997c1b286c@tunnel.dearagoon.sbs:60619?security=none&encryption=none&headerType=none&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20289ms
+vless://24123b3b-4024-4643-a7c0-a9997c1b286c@tunnel.dearagoon.sbs:60619?security=none&encryption=none&headerType=none&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20348ms
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D2560%2F&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#%40HerofVPN%20%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sub.divib.dynv6.net&type=ws&sni=sub.divib.dynv6.net#%40HerofVPN%20%F0%9F%9A%80%F0%9F%87%B3%F0%9F%87%B1
