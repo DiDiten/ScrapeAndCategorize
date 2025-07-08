@@ -1,9 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@194.105.89.58:40003#@Msv2flyNG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU=@23.27.24.181:40030#%20%40Msv2flyNG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKeVhCVjRHNlBJaW43UWNnRzZsY3dE@170.64.229.134:6223#@Msv2flyNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147:7383#@Msv2flyNG
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.169.188.250:443#@Msv2flyNG
-ss://YWVzLTI1Ni1nY206UHFKYzg5YkVKbllKLTNtRmV0a1pSUQ@212.109.197.85:20#@Msv2flyNG
 ss://fbddfd48-22f2-a619-4151-4be8b8b9f6fa@46.102.157.79:58071?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@Msv2flyNG
 trojan://63dbc6d0-4890-320c-8874-56f9f002d425@158.180.82.98:15446/?type=tcp&security=tls&sni=freehr01.jd0001.top#%40Msv2flyNG
 vless://fbddfd48-22f2-a619-4151-4be8b8b9f6fa@46.102.157.79:58071?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@Msv2flyNG

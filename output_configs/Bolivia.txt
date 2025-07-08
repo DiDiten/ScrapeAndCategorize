@@ -1,5 +1,2 @@
-ss://11003ab8-24fc-4e3b-8147-0d9cccf8381f@U2.snaapppfree.com:1360?type=tcp&headerType=http&host=zula.ir&path=/&security=none#Get_vpnv2bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%20%D8%B1%D8%A8%D8%A7%D8%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%40server_nekobox
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40server_nekobox
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%F0%9F%9A%80%40v2box_free%F0%9F%9A%80
-vless://11003ab8-24fc-4e3b-8147-0d9cccf8381f@U2.snaapppfree.com:1360?type=tcp&headerType=http&host=zula.ir&path=/&security=none#Get_vpnv2bot%20%D8%AA%D8%B3%D8%AA%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%20%D8%B1%D8%A8%D8%A7%D8%AA
