@@ -20,9 +20,7 @@ https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/hea
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Chile.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/China.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Colombia.txt
-https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Czechia.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/DominicanRepublic.txt
-https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ElSalvador.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Eritrea.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Estonia.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Ethiopia.txt
@@ -55,7 +53,6 @@ https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/hea
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Sweden.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/TrinidadAndTobago.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt
-https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Tuic.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Turkey.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/UK.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/USA.txt
