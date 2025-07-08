@@ -1,3 +1,4 @@
+ss://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40NETMelliAnti&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#%40NETMelliAnti
 ss://2k5piwlwxg@104.18.26.90:2053?encryption=none&security=tls&sni=2k5piwlwxg-259134157.khastehnabashi.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=2k5piwlwxg-259134157.khastehnabashi.com&path=%2Favoro%2Fcdn#NASNET%20%7C%203
 ss://2k5piwlwxg@2k5piwlwxg-259134157-direct.khastehnabashi.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=2k5piwlwxg-259134157-direct.khastehnabashi.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=none#NASNET%20%7C%201
 ss://2u7opi5sqg@104.18.26.90:2053?encryption=none&security=tls&sni=2u7opi5sqg-4515017476.mashallahbet.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=2u7opi5sqg-4515017476.mashallahbet.com&path=%2Fclouvider%2Fcdn#NASNET%20%7C%2011
@@ -5,8 +6,6 @@ ss://32895c66-fe57-49ad-ba5a-1936f2d5a7a8@m1.darkkabir.site:8080?path=%2F&securi
 ss://5011a449-a2f9-4a98-a0da-7ef0d927e3d2@50.7.87.86:443?path=%2Fhajmi%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=nb-fi.nitter.ir&fp=chrome&type=ws&sni=nitter.ir#🆔oxnet_ir%20🔒%20VL-WS-N/A%20🇩🇪%20DE%2093ms
 ss://62915088-0f71-4592-bf82-3f02d4db1239@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Germany.ss.ss&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%2089ms
 ss://83b3d135-0ab9-4898-8fbf-b0334681b8fb@146.75.55.82:80?path=%2Fdownload%3Fed%3D2560&security=&encryption=none&host=rtakp.ir&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%2096ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@95.174.71.28:2377#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@95.174.71.29:2377#@Hope_Net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#🆔oxnet_ir%20🔒%20SS-TCP-TLS%20🇩🇪%20DE%20124ms
 ss://caaf0e88-9139-48c2-b712-fcacde7a3a45@ping.hamzah.shop:31086?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔oxnet_ir%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20281ms
 ss://dnlqfaqqrn@91.99.130.121:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=dnlqfaqqrn-9199130121-direct.khastehnabashi.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=none#NASNET%20%7C%2016
@@ -16,6 +15,7 @@ ss://ke7hz36ewz@104.18.26.90:2053?encryption=none&security=tls&sni=ke7hz36ewz-45
 ss://ms5fu66ofs@104.18.26.90:2053?encryption=none&security=tls&sni=ms5fu66ofs-4515017477.mashallahbet.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=ms5fu66ofs-4515017477.mashallahbet.com&path=%2Fclouvider%2Fcdn#NASNET%20%7C%2013
 ss://spcmpkl14a@91.99.150.242:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=spcmpkl14a-9199150242-direct.khastehnabashi.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=none#NASNET%20%7C%2019
 ss://xju96kntfj@104.18.26.90:2053?encryption=none&security=tls&sni=xju96kntfj-4515017478.mashallahbet.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=xju96kntfj-4515017478.mashallahbet.com&path=%2Fclouvider%2Fcdn#NASNET%20%7C%2015
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40NETMelliAnti&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#%40NETMelliAnti
 vless://2k5piwlwxg@104.18.26.90:2053?encryption=none&security=tls&sni=2k5piwlwxg-259134157.khastehnabashi.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=2k5piwlwxg-259134157.khastehnabashi.com&path=%2Favoro%2Fcdn#NASNET%20%7C%203
 vless://2k5piwlwxg@2k5piwlwxg-259134157-direct.khastehnabashi.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=2k5piwlwxg-259134157-direct.khastehnabashi.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=none#NASNET%20%7C%201
 vless://2u7opi5sqg@104.18.26.90:2053?encryption=none&security=tls&sni=2u7opi5sqg-4515017476.mashallahbet.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=2u7opi5sqg-4515017476.mashallahbet.com&path=%2Fclouvider%2Fcdn#NASNET%20%7C%2011

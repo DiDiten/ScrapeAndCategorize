@@ -1,0 +1,2 @@
+ss://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpnserverrr&security=&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#%F0%9F%94%B9%EF%B8%8F%40ekantTM%20%E2%AD%95%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpnserverrr&security=&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#%F0%9F%94%B9%EF%B8%8F%40ekantTM%20%E2%AD%95%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
