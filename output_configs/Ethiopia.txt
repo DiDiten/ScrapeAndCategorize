@@ -1,13 +1,7 @@
 ss://2k5piwlwxg@104.18.26.90:2053?encryption=none&security=tls&sni=2k5piwlwxg-259134157.khastehnabashi.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=2k5piwlwxg-259134157.khastehnabashi.com&path=%2Favoro%2Fcdn#NASNET%20%7C%203
 ss://2k5piwlwxg@2k5piwlwxg-259134157-direct.khastehnabashi.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=2k5piwlwxg-259134157-direct.khastehnabashi.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=none#NASNET%20%7C%201
 ss://2u7opi5sqg@104.18.26.90:2053?encryption=none&security=tls&sni=2u7opi5sqg-4515017476.mashallahbet.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=2u7opi5sqg-4515017476.mashallahbet.com&path=%2Fclouvider%2Fcdn#NASNET%20%7C%2011
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.28.137:2377#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.28.60:2377#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.2:2377#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.59:2377#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@18.176.215.63:2377#@Hope_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.60:2377#@Hope_Net
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@18.176.215.63:2377#@Hope_Net
 ss://dnlqfaqqrn@91.99.130.121:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=dnlqfaqqrn-9199130121-direct.khastehnabashi.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=none#NASNET%20%7C%2016
 ss://gvnskxwiko@104.18.26.90:2053?encryption=none&security=tls&sni=gvnskxwiko-4515017474.mashallahbet.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=gvnskxwiko-4515017474.mashallahbet.com&path=%2Fclouvider%2Fcdn#NASNET%20%7C%207
 ss://hxsjjqm71a@104.18.26.90:2053?encryption=none&security=tls&sni=hxsjjqm71a-4515017475.mashallahbet.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=hxsjjqm71a-4515017475.mashallahbet.com&path=%2Fclouvider%2Fcdn#NASNET%20%7C%209
