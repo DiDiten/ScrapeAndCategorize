@@ -17,7 +17,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4 # Checks out your repository code
         with:
-          fetch-depth: 0 # این خط اضافه شد: برای دریافت کامل تاریخچه گیت، که برای pull_strategy نیاز است.
+          fetch-depth: 0 # این خط برای دریافت کامل تاریخچه گیت است که برای pull/rebase نیاز است.
 
       - name: Set up Python
         uses: actions/setup-python@v5 # Sets up a Python environment
@@ -27,21 +27,29 @@ jobs:
       - name: Install Dependencies
         run: pip install pyyaml requests # Installs necessary Python packages
 
+      - name: Fetch and Pull latest changes
+        # این مرحله برای همگام‌سازی شاخه لوکال با ریموت قبل از تولید فایل‌های جدید است.
+        # این کار از خطای "non-fast-forward" جلوگیری می‌کند.
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git pull --rebase origin main # تغییرات از origin/main را دریافت و rebase می‌کند.
+
       - name: Run Config Generator
-        # Correct path to your Python script based on your repository structure:
+        # مسیر صحیح به اسکریپت پایتون شما بر اساس ساختار مخزن:
         # https://github.com/DiDiten/ScrapeAndCategorize/blob/main/Clash/scripts/generator.py
         run: python Clash/scripts/generator.py
         env:
-          GITHUB_REPOSITORY: ${{ github.repository }} # Passes the repository name as an environment variable
+          GITHUB_REPOSITORY: ${{ github.repository }} # نام مخزن را به عنوان یک متغیر محیطی ارسال می‌کند.
 
       - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v5 # Action to automatically commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5 # اکشن برای کامیت خودکار تغییرات
         with:
-          commit_message: "chore: auto-generate configs via updated format" # Commit message
-          # File patterns to commit - all must reference paths within the 'Clash' directory
-          # Using "Clash/" directly for all files.
+          commit_message: "chore: auto-generate configs via updated format" # پیام کامیت
+          # الگوهای فایل برای کامیت - همه باید به مسیرهای داخل دایرکتوری 'Clash' اشاره کنند.
+          # استفاده مستقیم از "Clash/" برای همه فایل‌ها.
           file_pattern: "Clash/output/*.yaml Clash/providers/*.txt Clash/README.md Clash/*.txt Clash/*.yaml"
           commit_user_name: GitHub Actions Bot
           commit_user_email: actions@github.com
           commit_author: GitHub Actions Bot <actions@github.com>
-          pull_strategy: "rebase" # این خط اضافه شد: برای ادغام تغییرات راه دور قبل از پوش.
+          # pull_strategy: "rebase" # این خط در نسخه v5 معتبر نیست و حذف شد.
