@@ -1,19 +1,111 @@
+Global-client-fingerprint: chrome
 port: 7890
 socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7894
 allow-lan: true
-mode: rule
-log-level: info
-external-controller: :9090
+tcp-concurrent: true
+enable-process: true
+find-process-mode: strict
+ipv6: true
+log-level: debug
+geo-auto-update: true
+geo-update-interval: 168
+secret: ""
+bind-address: "*"
+unified-delay: false
+disable-keep-alive: false
+keep-alive-idle: 30
+keep-alive-interval: 30
+profile:
+  store-selected: true
+  store-fake-ip: true
 dns:
   enable: true
-  nameserver:
-    - 119.29.29.29
-    - 223.5.5.5
-  fallback:
+  ipv6: true
+  respect-rules: false
+  prefer-h3: false
+  cache-algorithm: arc
+  use-system-hosts: true
+  use-host: true
+  listen: 0.0.0.0:53
+  enhanced-mode: fake-ip
+  fake-ip-filter-mode: blacklist
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - "*.localdomain"
+    - "*.invalid"
+    - "*.localhost"
+    - "*.test"
+    - "*.local"
+    - "*.home.arpa"
+    - time.*.com
+    - ntp.*.com
+    - "*.ir"
+  default-nameserver:
     - 8.8.8.8
     - 8.8.4.4
-    - tls://1.0.0.1:853
-    - tls://dns.google:853
+    - 1.0.0.1
+    - 1.1.1.1
+    - 9.9.9.9
+    - 9.9.9.11
+    - 9.9.9.10
+    - 94.140.14.15
+    - 94.140.15.15
+    - 223.5.5.5
+    - 77.88.8.8
+    - 208.67.222.222
+    - 208.67.220.220
+    - 209.244.0.3
+    - 209.224.0.4
+    - 74.82.42.42
+  nameserver:
+    - https://dns.nextdns.io/15441b
+    - tls://15441b.dns.nextdns.io
+  direct-nameserver:
+    - 78.157.42.100
+    - 78.157.42.101
+  proxy-server-nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+    - 8.8.4.4
+    - 9.9.9.9
+    - 223.5.5.5
+    - 77.88.8.8
+    - 208.67.222.222
+    - 208.67.220.220
+    - 209.244.0.3
+    - 209.224.0.4
+    - 74.82.42.42
+sniffer:
+  enable: true
+  force-dns-mapping: true
+  parse-pure-ip: true
+  override-destination: false
+  sniff:
+    HTTP:
+      ports: [80, 8080, 8880, 2052, 2082, 2086, 2095]
+    TLS:
+      ports: [443, 8443, 2053, 2083, 2087, 2096]
+tun:
+  enable: true
+  stack: mixed
+  auto-route: true
+  auto-detect-interface: true
+  auto-redir: true
+  dns-hijack:
+    - any:53
+    - tcp://any:53
+rule-providers:
+  apps:
+    type: http
+    format: yaml
+    behavior: classical
+    url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/apps.yaml
+    path: ./ruleset/apps.yaml
+    interval: 86400
 proxies:
   - {name: vless-257c6397 (Belize), server: 45.131.5.226, port: 80, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: 45.131.5.226, network: ws, ws-opts: {path: /, headers: {Host: uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz}}, udp: true}
   - {name: vless-8632c12b (United Arab Emirates), server: Sd.mciickoir.ir, port: 9620, client-fingerprint: chrome, type: vless, uuid: 3ed3966a-ca0e-4a46-a437-8000836fa495, tls: true, tfo: false, skip-cert-verify: false, servername: Sd.mciickoir.ir, network: tcp, udp: true}
@@ -247,11 +339,16 @@ proxies:
   - {name: 🇺🇸 vless-d7bb619b (United States), server: 168.100.6.8, port: 80, client-fingerprint: chrome, type: vless, uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9, tls: true, tfo: false, skip-cert-verify: false, servername: 168.100.6.8, network: ws, ws-opts: {path: "Telegram:@ShadowProxy66/?ed=2560", headers: {Host: uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz}}, udp: true}
   - {name: 🇺🇸 vless-e4531538 (United States), server: 185.236.232.237, port: 1001, client-fingerprint: chrome, type: vless, uuid: c7c922da-ab54-433c-8046-1f9bf9d95c23, tls: true, tfo: false, skip-cert-verify: false, servername: telewebion.com, network: tcp, udp: true}
 proxy-groups:
-  - name: 🔰 节点选择
+  - name: نوع انتخاب پروکسی 🔀
     type: select
     proxies:
-      - ♻️ 自动选择
-      - 🎯 全球直连
+      - خودکار (بهترین پینگ) 🤖
+      - دستی 🤏🏻
+      - پشتیبان (در صورت قطعی) 🧯
+      - بدون فیلترشکن 🛡️
+  - name: دستی 🤏🏻
+    type: select
+    proxies:
       - vless-257c6397 (Belize)
       - vless-8632c12b (United Arab Emirates)
       - vless-8a2e48dd (United Arab Emirates)
@@ -483,10 +580,10 @@ proxy-groups:
       - 🇺🇸 vless-d0f19925 (United States)
       - 🇺🇸 vless-d7bb619b (United States)
       - 🇺🇸 vless-e4531538 (United States)
-  - name: ♻️ 自动选择
+  - name: خودکار (بهترین پینگ) 🤖
     type: url-test
-    url: http://www.gstatic.com/generate_204
-    interval: 300
+    url: http://cp.cloudflare.com/generate_204
+    interval: 600
     proxies:
       - vless-257c6397 (Belize)
       - vless-8632c12b (United Arab Emirates)
@@ -719,12 +816,11 @@ proxy-groups:
       - 🇺🇸 vless-d0f19925 (United States)
       - 🇺🇸 vless-d7bb619b (United States)
       - 🇺🇸 vless-e4531538 (United States)
-  - name: 🌍 国外媒体
-    type: select
+  - name: پشتیبان (در صورت قطعی) 🧯
+    type: fallback
+    url: http://cp.cloudflare.com/generate_204
+    interval: 600
     proxies:
-      - 🔰 节点选择
-      - ♻️ 自动选择
-      - 🎯 全球直连
       - vless-257c6397 (Belize)
       - vless-8632c12b (United Arab Emirates)
       - vless-8a2e48dd (United Arab Emirates)
@@ -956,1177 +1052,43 @@ proxy-groups:
       - 🇺🇸 vless-d0f19925 (United States)
       - 🇺🇸 vless-d7bb619b (United States)
       - 🇺🇸 vless-e4531538 (United States)
-  - name: 🌏 国内媒体
+  - name: تلگرام 💬
     type: select
     proxies:
-      - 🎯 全球直连
-      - 🔰 节点选择
-  - name: Ⓜ️ 微软服务
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - خودکار (بهترین پینگ) 🤖
+      - دستی 🤏🏻
+      - پشتیبان (در صورت قطعی) 🧯
+      - اجازه ندادن 🚫
+  - name: سایتای ایرانی 🇮🇷
     type: select
     proxies:
-      - 🎯 全球直连
-      - 🔰 节点选择
-      - vless-257c6397 (Belize)
-      - vless-8632c12b (United Arab Emirates)
-      - vless-8a2e48dd (United Arab Emirates)
-      - vless-d1a25a54 (Armenia)
-      - 🇦🇱 vless-3eaaab6a (Albania)
-      - 🇦🇹 vless-ee8fd179 (Austria)
-      - 🇨🇦 vless-04b6db6a (Canada)
-      - 🇨🇦 vless-0856c499 (Canada)
-      - 🇨🇦 vless-0a52327a (Canada)
-      - 🇨🇦 vless-0b783e7f (Canada)
-      - 🇨🇦 vless-0c75d868 (Canada)
-      - 🇨🇦 vless-0f8fbddd (Canada)
-      - 🇨🇦 vless-0fbba1a4 (Canada)
-      - 🇨🇦 vless-10676dd7 (Canada)
-      - 🇨🇦 vless-116a34d3 (Canada)
-      - 🇨🇦 vless-11b0a006 (Canada)
-      - 🇨🇦 vless-123e7a5c (Canada)
-      - 🇨🇦 vless-13b4a0e7 (Canada)
-      - 🇨🇦 vless-171c800a (Canada)
-      - 🇨🇦 vless-18b5662c (Canada)
-      - 🇨🇦 vless-1c31de58 (Canada)
-      - 🇨🇦 vless-1c88c781 (Canada)
-      - 🇨🇦 vless-28c6cbd9 (Canada)
-      - 🇨🇦 vless-2ab6a551 (Canada)
-      - 🇨🇦 vless-2bbb1bda (Canada)
-      - 🇨🇦 vless-2cade2e3 (Canada)
-      - 🇨🇦 vless-2e3818f9 (Canada)
-      - 🇨🇦 vless-306ea638 (Canada)
-      - 🇨🇦 vless-308a5e33 (Canada)
-      - 🇨🇦 vless-32633e2d (Canada)
-      - 🇨🇦 vless-32c51168 (Canada)
-      - 🇨🇦 vless-331d40bc (Canada)
-      - 🇨🇦 vless-3347d391 (Canada)
-      - 🇨🇦 vless-3398cf85 (Canada)
-      - 🇨🇦 vless-35bd592c (Canada)
-      - 🇨🇦 vless-37fdebde (Canada)
-      - 🇨🇦 vless-38930a7f (Canada)
-      - 🇨🇦 vless-3a4f7a9f (Canada)
-      - 🇨🇦 vless-3b0dc1ad (Canada)
-      - 🇨🇦 vless-3ee64fba (Canada)
-      - 🇨🇦 vless-3fdc918b (Canada)
-      - 🇨🇦 vless-442f850a (Canada)
-      - 🇨🇦 vless-44527625 (Canada)
-      - 🇨🇦 vless-458f5946 (Canada)
-      - 🇨🇦 vless-45c279c9 (Canada)
-      - 🇨🇦 vless-46cddb9e (Canada)
-      - 🇨🇦 vless-4790c06f (Canada)
-      - 🇨🇦 vless-4d41231a (Canada)
-      - 🇨🇦 vless-4d5310a8 (Canada)
-      - 🇨🇦 vless-4ef2b097 (Canada)
-      - 🇨🇦 vless-569ac8a6 (Canada)
-      - 🇨🇦 vless-58cbffb9 (Canada)
-      - 🇨🇦 vless-5f6b5c07 (Canada)
-      - 🇨🇦 vless-61a0c9db (Canada)
-      - 🇨🇦 vless-62becea4 (Canada)
-      - 🇨🇦 vless-65e2bdcb (Canada)
-      - 🇨🇦 vless-69e59ea3 (Canada)
-      - 🇨🇦 vless-6a71d546 (Canada)
-      - 🇨🇦 vless-6cf3c23b (Canada)
-      - 🇨🇦 vless-6e9304a4 (Canada)
-      - 🇨🇦 vless-6f38f797 (Canada)
-      - 🇨🇦 vless-733d0779 (Canada)
-      - 🇨🇦 vless-7717e44b (Canada)
-      - 🇨🇦 vless-7a96966d (Canada)
-      - 🇨🇦 vless-7c44f3ef (Canada)
-      - 🇨🇦 vless-7fb55b57 (Canada)
-      - 🇨🇦 vless-80700b3c (Canada)
-      - 🇨🇦 vless-839709dc (Canada)
-      - 🇨🇦 vless-8436ff42 (Canada)
-      - 🇨🇦 vless-857bc9b8 (Canada)
-      - 🇨🇦 vless-857ff1fc (Canada)
-      - 🇨🇦 vless-8722b4af (Canada)
-      - 🇨🇦 vless-87a38130 (Canada)
-      - 🇨🇦 vless-8e90ce76 (Canada)
-      - 🇨🇦 vless-9261019a (Canada)
-      - 🇨🇦 vless-9375c5d1 (Canada)
-      - 🇨🇦 vless-94e03a99 (Canada)
-      - 🇨🇦 vless-9752407c (Canada)
-      - 🇨🇦 vless-a102e99e (Canada)
-      - 🇨🇦 vless-a2202a9d (Canada)
-      - 🇨🇦 vless-a89030d3 (Canada)
-      - 🇨🇦 vless-ac794ba9 (Canada)
-      - 🇨🇦 vless-ad614d89 (Canada)
-      - 🇨🇦 vless-add5ba4a (Canada)
-      - 🇨🇦 vless-adf67dab (Canada)
-      - 🇨🇦 vless-b14cf0d1 (Canada)
-      - 🇨🇦 vless-b3cfac05 (Canada)
-      - 🇨🇦 vless-b49abd87 (Canada)
-      - 🇨🇦 vless-b58d068f (Canada)
-      - 🇨🇦 vless-b944f655 (Canada)
-      - 🇨🇦 vless-ba39ca6f (Canada)
-      - 🇨🇦 vless-bcd7a97e (Canada)
-      - 🇨🇦 vless-bec13326 (Canada)
-      - 🇨🇦 vless-bf92c1f2 (Canada)
-      - 🇨🇦 vless-c11a9c85 (Canada)
-      - 🇨🇦 vless-c266e8b6 (Canada)
-      - 🇨🇦 vless-c5ece4a6 (Canada)
-      - 🇨🇦 vless-c7de44c1 (Canada)
-      - 🇨🇦 vless-cbc7117d (Canada)
-      - 🇨🇦 vless-cc3bb701 (Canada)
-      - 🇨🇦 vless-cc956ef1 (Canada)
-      - 🇨🇦 vless-cdfa0a98 (Canada)
-      - 🇨🇦 vless-d19d0319 (Canada)
-      - 🇨🇦 vless-d1e9f368 (Canada)
-      - 🇨🇦 vless-d62ac7ef (Canada)
-      - 🇨🇦 vless-d9f168f8 (Canada)
-      - 🇨🇦 vless-da7e378c (Canada)
-      - 🇨🇦 vless-da897ffe (Canada)
-      - 🇨🇦 vless-db010fe4 (Canada)
-      - 🇨🇦 vless-db4c2f7d (Canada)
-      - 🇨🇦 vless-dbc611a9 (Canada)
-      - 🇨🇦 vless-de3408a8 (Canada)
-      - 🇨🇦 vless-df30ef63 (Canada)
-      - 🇨🇦 vless-e19236e4 (Canada)
-      - 🇨🇦 vless-eb247416 (Canada)
-      - 🇨🇦 vless-ecbbe1b2 (Canada)
-      - 🇨🇦 vless-f2dd5fee (Canada)
-      - 🇨🇦 vless-f3922e78 (Canada)
-      - 🇨🇦 vless-f3dc12eb (Canada)
-      - 🇨🇦 vless-f42d2f90 (Canada)
-      - 🇨🇦 vless-f4774622 (Canada)
-      - 🇨🇦 vless-f6a81b69 (Canada)
-      - 🇨🇦 vless-f96d0122 (Canada)
-      - 🇨🇦 vless-faae6cdd (Canada)
-      - 🇨🇦 vmess-15457f40 (Canada)
-      - 🇨🇦 vmess-2609ded5 (Canada)
-      - 🇨🇦 vmess-3d07d8ae (Canada)
-      - 🇨🇦 vmess-3e53de6e (Canada)
-      - 🇨🇦 vmess-8a21ae92 (Canada)
-      - 🇨🇦 vmess-abda9812 (Canada)
-      - 🇨🇦 vmess-b16cb5d0 (Canada)
-      - 🇨🇦 vmess-cc29644c (Canada)
-      - 🇨🇦 vmess-d569a31c (Canada)
-      - 🇨🇦 vmess-ed5d0bec (Canada)
-      - 🇨🇦 vmess-f0c2e519 (Canada)
-      - 🇨🇦 vmess-f7b5ab61 (Canada)
-      - 🇨🇳 vmess-f3f620f3 (China)
-      - 🇩🇪 ss-c2c9fe51 (Germany)
-      - 🇩🇪 vless-060f2a87 (Germany)
-      - 🇩🇪 vless-06b4b455 (Germany)
-      - 🇩🇪 vless-07109a57 (Germany)
-      - 🇩🇪 vless-0f03411b (Germany)
-      - 🇩🇪 vless-204e18fc (Germany)
-      - 🇩🇪 vless-a2eef68e (Germany)
-      - 🇩🇪 vless-aa767eb2 (Germany)
-      - 🇩🇪 vless-c53f6a7d (Germany)
-      - 🇩🇪 vless-d61a23a2 (Germany)
-      - 🇩🇪 vmess-0b67eeb6 (Germany)
-      - 🇩🇪 vmess-1917024d (Germany)
-      - 🇩🇪 vmess-6fd5155e (Germany)
-      - 🇩🇪 vmess-95ba6e42 (Germany)
-      - 🇩🇪 vmess-a6289630 (Germany)
-      - 🇩🇪 vmess-bfa3b188 (Germany)
-      - 🇩🇪 vmess-c865da7c (Germany)
-      - 🇪🇸 trojan-73dbbdcd (Spain)
-      - 🇫🇮 vless-2329b845 (Finland)
-      - 🇫🇮 vless-2c46b377 (Finland)
-      - 🇫🇮 vless-2d66f0d8 (Finland)
-      - 🇫🇮 vless-3fedc4fe (Finland)
-      - 🇫🇮 vless-47c26648 (Finland)
-      - 🇫🇮 vless-4f1dbc99 (Finland)
-      - 🇫🇮 vless-a2d38a57 (Finland)
-      - 🇫🇮 vless-bf2cdb37 (Finland)
-      - 🇫🇮 vless-c4cf1cf0 (Finland)
-      - 🇫🇷 hysteria2-980be7de (France)
-      - 🇫🇷 vless-070d0bce (France)
-      - 🇬🇧 ss-25ecc86a (United Kingdom)
-      - 🇬🇧 ss-6468644a (United Kingdom)
-      - 🇬🇧 ss-6e7b8f77 (United Kingdom)
-      - 🇬🇧 ss-76f18916 (United Kingdom)
-      - 🇬🇧 ss-7f1bd499 (United Kingdom)
-      - 🇬🇧 ss-86dc83ae (United Kingdom)
-      - 🇬🇧 ss-9a5a2349 (United Kingdom)
-      - 🇬🇧 ss-ac0ade15 (United Kingdom)
-      - 🇬🇧 ss-c44ad443 (United Kingdom)
-      - 🇬🇧 ss-e23ab72d (United Kingdom)
-      - 🇬🇧 ss-ff916d81 (United Kingdom)
-      - 🇬🇧 vless-d4352e4b (United Kingdom)
-      - 🇭🇰 vless-c8333454 (Hong Kong)
-      - 🇭🇰 vless-cc8ab4f6 (Hong Kong)
-      - 🇭🇺 vless-405ebd50 (Hungary)
-      - 🇮🇳 vmess-61c92c50 (India)
-      - 🇮🇷 vless-23a5c0e4 (Iran)
-      - 🇮🇷 vless-3092614a (Iran)
-      - 🇮🇷 vless-33ee4483 (Iran)
-      - 🇮🇷 vless-4fb3fdd6 (Iran)
-      - 🇮🇷 vless-51651a0c (Iran)
-      - 🇮🇷 vless-53d0e964 (Iran)
-      - 🇮🇷 vless-5565ed71 (Iran)
-      - 🇮🇷 vless-5e78d944 (Iran)
-      - 🇮🇷 vless-6c876c5d (Iran)
-      - 🇮🇷 vless-86e24bbc (Iran)
-      - 🇮🇷 vless-9a3ee5a7 (Iran)
-      - 🇮🇷 vless-b421017b (Iran)
-      - 🇮🇷 vless-b9a8f733 (Iran)
-      - 🇮🇷 vmess-8836f76c (Iran)
-      - 🇯🇵 vless-70b7dc82 (Japan)
-      - 🇰🇷 trojan-18cd5cf6 (South Korea)
-      - 🇰🇿 vless-2b364be5 (Kazakhstan)
-      - 🇳🇱 hysteria2-9008c514 (The Netherlands)
-      - 🇳🇱 hysteria2-d0dbcd9e (The Netherlands)
-      - 🇳🇱 hysteria2-e1c6b2b2 (The Netherlands)
-      - 🇳🇱 vless-0f9dcec9 (The Netherlands)
-      - 🇳🇱 vless-7d96c338 (The Netherlands)
-      - 🇳🇱 vless-fc50d538 (The Netherlands)
-      - 🇵🇱 ss-8c45adc3 (Poland)
-      - 🇵🇹 vless-885adffd (Portugal)
-      - 🇷🇺 vless-aae86ad2 (Russia)
-      - 🇸🇪 ss-cd22746b (Sweden)
-      - 🇸🇪 vless-028a320e (Sweden)
-      - 🇸🇪 vless-46e9a2f0 (Sweden)
-      - 🇸🇬 vless-26862772 (Singapore)
-      - 🇹🇷 ss-d0284b6d (Türkiye)
-      - 🇹🇷 vless-9d13bedc (Türkiye)
-      - 🇺🇦 ss-5e98ee62 (Ukraine)
-      - 🇺🇸 hysteria2-e9b23b52 (United States)
-      - 🇺🇸 ss-7ac0c48f (United States)
-      - 🇺🇸 ss-7c53aa6a (United States)
-      - 🇺🇸 ss-9ae8b2db (United States)
-      - 🇺🇸 ss-c68852c5 (United States)
-      - 🇺🇸 trojan-172ec3db (United States)
-      - 🇺🇸 vless-20b4e80f (United States)
-      - 🇺🇸 vless-3242a480 (United States)
-      - 🇺🇸 vless-771d34de (United States)
-      - 🇺🇸 vless-7941d028 (United States)
-      - 🇺🇸 vless-bcfc66c3 (United States)
-      - 🇺🇸 vless-bd31f956 (United States)
-      - 🇺🇸 vless-c0c2e1f6 (United States)
-      - 🇺🇸 vless-d0f19925 (United States)
-      - 🇺🇸 vless-d7bb619b (United States)
-      - 🇺🇸 vless-e4531538 (United States)
-  - name: 📲 电报信息
-    type: select
-    proxies:
-      - 🔰 节点选择
-      - 🎯 全球直连
-      - vless-257c6397 (Belize)
-      - vless-8632c12b (United Arab Emirates)
-      - vless-8a2e48dd (United Arab Emirates)
-      - vless-d1a25a54 (Armenia)
-      - 🇦🇱 vless-3eaaab6a (Albania)
-      - 🇦🇹 vless-ee8fd179 (Austria)
-      - 🇨🇦 vless-04b6db6a (Canada)
-      - 🇨🇦 vless-0856c499 (Canada)
-      - 🇨🇦 vless-0a52327a (Canada)
-      - 🇨🇦 vless-0b783e7f (Canada)
-      - 🇨🇦 vless-0c75d868 (Canada)
-      - 🇨🇦 vless-0f8fbddd (Canada)
-      - 🇨🇦 vless-0fbba1a4 (Canada)
-      - 🇨🇦 vless-10676dd7 (Canada)
-      - 🇨🇦 vless-116a34d3 (Canada)
-      - 🇨🇦 vless-11b0a006 (Canada)
-      - 🇨🇦 vless-123e7a5c (Canada)
-      - 🇨🇦 vless-13b4a0e7 (Canada)
-      - 🇨🇦 vless-171c800a (Canada)
-      - 🇨🇦 vless-18b5662c (Canada)
-      - 🇨🇦 vless-1c31de58 (Canada)
-      - 🇨🇦 vless-1c88c781 (Canada)
-      - 🇨🇦 vless-28c6cbd9 (Canada)
-      - 🇨🇦 vless-2ab6a551 (Canada)
-      - 🇨🇦 vless-2bbb1bda (Canada)
-      - 🇨🇦 vless-2cade2e3 (Canada)
-      - 🇨🇦 vless-2e3818f9 (Canada)
-      - 🇨🇦 vless-306ea638 (Canada)
-      - 🇨🇦 vless-308a5e33 (Canada)
-      - 🇨🇦 vless-32633e2d (Canada)
-      - 🇨🇦 vless-32c51168 (Canada)
-      - 🇨🇦 vless-331d40bc (Canada)
-      - 🇨🇦 vless-3347d391 (Canada)
-      - 🇨🇦 vless-3398cf85 (Canada)
-      - 🇨🇦 vless-35bd592c (Canada)
-      - 🇨🇦 vless-37fdebde (Canada)
-      - 🇨🇦 vless-38930a7f (Canada)
-      - 🇨🇦 vless-3a4f7a9f (Canada)
-      - 🇨🇦 vless-3b0dc1ad (Canada)
-      - 🇨🇦 vless-3ee64fba (Canada)
-      - 🇨🇦 vless-3fdc918b (Canada)
-      - 🇨🇦 vless-442f850a (Canada)
-      - 🇨🇦 vless-44527625 (Canada)
-      - 🇨🇦 vless-458f5946 (Canada)
-      - 🇨🇦 vless-45c279c9 (Canada)
-      - 🇨🇦 vless-46cddb9e (Canada)
-      - 🇨🇦 vless-4790c06f (Canada)
-      - 🇨🇦 vless-4d41231a (Canada)
-      - 🇨🇦 vless-4d5310a8 (Canada)
-      - 🇨🇦 vless-4ef2b097 (Canada)
-      - 🇨🇦 vless-569ac8a6 (Canada)
-      - 🇨🇦 vless-58cbffb9 (Canada)
-      - 🇨🇦 vless-5f6b5c07 (Canada)
-      - 🇨🇦 vless-61a0c9db (Canada)
-      - 🇨🇦 vless-62becea4 (Canada)
-      - 🇨🇦 vless-65e2bdcb (Canada)
-      - 🇨🇦 vless-69e59ea3 (Canada)
-      - 🇨🇦 vless-6a71d546 (Canada)
-      - 🇨🇦 vless-6cf3c23b (Canada)
-      - 🇨🇦 vless-6e9304a4 (Canada)
-      - 🇨🇦 vless-6f38f797 (Canada)
-      - 🇨🇦 vless-733d0779 (Canada)
-      - 🇨🇦 vless-7717e44b (Canada)
-      - 🇨🇦 vless-7a96966d (Canada)
-      - 🇨🇦 vless-7c44f3ef (Canada)
-      - 🇨🇦 vless-7fb55b57 (Canada)
-      - 🇨🇦 vless-80700b3c (Canada)
-      - 🇨🇦 vless-839709dc (Canada)
-      - 🇨🇦 vless-8436ff42 (Canada)
-      - 🇨🇦 vless-857bc9b8 (Canada)
-      - 🇨🇦 vless-857ff1fc (Canada)
-      - 🇨🇦 vless-8722b4af (Canada)
-      - 🇨🇦 vless-87a38130 (Canada)
-      - 🇨🇦 vless-8e90ce76 (Canada)
-      - 🇨🇦 vless-9261019a (Canada)
-      - 🇨🇦 vless-9375c5d1 (Canada)
-      - 🇨🇦 vless-94e03a99 (Canada)
-      - 🇨🇦 vless-9752407c (Canada)
-      - 🇨🇦 vless-a102e99e (Canada)
-      - 🇨🇦 vless-a2202a9d (Canada)
-      - 🇨🇦 vless-a89030d3 (Canada)
-      - 🇨🇦 vless-ac794ba9 (Canada)
-      - 🇨🇦 vless-ad614d89 (Canada)
-      - 🇨🇦 vless-add5ba4a (Canada)
-      - 🇨🇦 vless-adf67dab (Canada)
-      - 🇨🇦 vless-b14cf0d1 (Canada)
-      - 🇨🇦 vless-b3cfac05 (Canada)
-      - 🇨🇦 vless-b49abd87 (Canada)
-      - 🇨🇦 vless-b58d068f (Canada)
-      - 🇨🇦 vless-b944f655 (Canada)
-      - 🇨🇦 vless-ba39ca6f (Canada)
-      - 🇨🇦 vless-bcd7a97e (Canada)
-      - 🇨🇦 vless-bec13326 (Canada)
-      - 🇨🇦 vless-bf92c1f2 (Canada)
-      - 🇨🇦 vless-c11a9c85 (Canada)
-      - 🇨🇦 vless-c266e8b6 (Canada)
-      - 🇨🇦 vless-c5ece4a6 (Canada)
-      - 🇨🇦 vless-c7de44c1 (Canada)
-      - 🇨🇦 vless-cbc7117d (Canada)
-      - 🇨🇦 vless-cc3bb701 (Canada)
-      - 🇨🇦 vless-cc956ef1 (Canada)
-      - 🇨🇦 vless-cdfa0a98 (Canada)
-      - 🇨🇦 vless-d19d0319 (Canada)
-      - 🇨🇦 vless-d1e9f368 (Canada)
-      - 🇨🇦 vless-d62ac7ef (Canada)
-      - 🇨🇦 vless-d9f168f8 (Canada)
-      - 🇨🇦 vless-da7e378c (Canada)
-      - 🇨🇦 vless-da897ffe (Canada)
-      - 🇨🇦 vless-db010fe4 (Canada)
-      - 🇨🇦 vless-db4c2f7d (Canada)
-      - 🇨🇦 vless-dbc611a9 (Canada)
-      - 🇨🇦 vless-de3408a8 (Canada)
-      - 🇨🇦 vless-df30ef63 (Canada)
-      - 🇨🇦 vless-e19236e4 (Canada)
-      - 🇨🇦 vless-eb247416 (Canada)
-      - 🇨🇦 vless-ecbbe1b2 (Canada)
-      - 🇨🇦 vless-f2dd5fee (Canada)
-      - 🇨🇦 vless-f3922e78 (Canada)
-      - 🇨🇦 vless-f3dc12eb (Canada)
-      - 🇨🇦 vless-f42d2f90 (Canada)
-      - 🇨🇦 vless-f4774622 (Canada)
-      - 🇨🇦 vless-f6a81b69 (Canada)
-      - 🇨🇦 vless-f96d0122 (Canada)
-      - 🇨🇦 vless-faae6cdd (Canada)
-      - 🇨🇦 vmess-15457f40 (Canada)
-      - 🇨🇦 vmess-2609ded5 (Canada)
-      - 🇨🇦 vmess-3d07d8ae (Canada)
-      - 🇨🇦 vmess-3e53de6e (Canada)
-      - 🇨🇦 vmess-8a21ae92 (Canada)
-      - 🇨🇦 vmess-abda9812 (Canada)
-      - 🇨🇦 vmess-b16cb5d0 (Canada)
-      - 🇨🇦 vmess-cc29644c (Canada)
-      - 🇨🇦 vmess-d569a31c (Canada)
-      - 🇨🇦 vmess-ed5d0bec (Canada)
-      - 🇨🇦 vmess-f0c2e519 (Canada)
-      - 🇨🇦 vmess-f7b5ab61 (Canada)
-      - 🇨🇳 vmess-f3f620f3 (China)
-      - 🇩🇪 ss-c2c9fe51 (Germany)
-      - 🇩🇪 vless-060f2a87 (Germany)
-      - 🇩🇪 vless-06b4b455 (Germany)
-      - 🇩🇪 vless-07109a57 (Germany)
-      - 🇩🇪 vless-0f03411b (Germany)
-      - 🇩🇪 vless-204e18fc (Germany)
-      - 🇩🇪 vless-a2eef68e (Germany)
-      - 🇩🇪 vless-aa767eb2 (Germany)
-      - 🇩🇪 vless-c53f6a7d (Germany)
-      - 🇩🇪 vless-d61a23a2 (Germany)
-      - 🇩🇪 vmess-0b67eeb6 (Germany)
-      - 🇩🇪 vmess-1917024d (Germany)
-      - 🇩🇪 vmess-6fd5155e (Germany)
-      - 🇩🇪 vmess-95ba6e42 (Germany)
-      - 🇩🇪 vmess-a6289630 (Germany)
-      - 🇩🇪 vmess-bfa3b188 (Germany)
-      - 🇩🇪 vmess-c865da7c (Germany)
-      - 🇪🇸 trojan-73dbbdcd (Spain)
-      - 🇫🇮 vless-2329b845 (Finland)
-      - 🇫🇮 vless-2c46b377 (Finland)
-      - 🇫🇮 vless-2d66f0d8 (Finland)
-      - 🇫🇮 vless-3fedc4fe (Finland)
-      - 🇫🇮 vless-47c26648 (Finland)
-      - 🇫🇮 vless-4f1dbc99 (Finland)
-      - 🇫🇮 vless-a2d38a57 (Finland)
-      - 🇫🇮 vless-bf2cdb37 (Finland)
-      - 🇫🇮 vless-c4cf1cf0 (Finland)
-      - 🇫🇷 hysteria2-980be7de (France)
-      - 🇫🇷 vless-070d0bce (France)
-      - 🇬🇧 ss-25ecc86a (United Kingdom)
-      - 🇬🇧 ss-6468644a (United Kingdom)
-      - 🇬🇧 ss-6e7b8f77 (United Kingdom)
-      - 🇬🇧 ss-76f18916 (United Kingdom)
-      - 🇬🇧 ss-7f1bd499 (United Kingdom)
-      - 🇬🇧 ss-86dc83ae (United Kingdom)
-      - 🇬🇧 ss-9a5a2349 (United Kingdom)
-      - 🇬🇧 ss-ac0ade15 (United Kingdom)
-      - 🇬🇧 ss-c44ad443 (United Kingdom)
-      - 🇬🇧 ss-e23ab72d (United Kingdom)
-      - 🇬🇧 ss-ff916d81 (United Kingdom)
-      - 🇬🇧 vless-d4352e4b (United Kingdom)
-      - 🇭🇰 vless-c8333454 (Hong Kong)
-      - 🇭🇰 vless-cc8ab4f6 (Hong Kong)
-      - 🇭🇺 vless-405ebd50 (Hungary)
-      - 🇮🇳 vmess-61c92c50 (India)
-      - 🇮🇷 vless-23a5c0e4 (Iran)
-      - 🇮🇷 vless-3092614a (Iran)
-      - 🇮🇷 vless-33ee4483 (Iran)
-      - 🇮🇷 vless-4fb3fdd6 (Iran)
-      - 🇮🇷 vless-51651a0c (Iran)
-      - 🇮🇷 vless-53d0e964 (Iran)
-      - 🇮🇷 vless-5565ed71 (Iran)
-      - 🇮🇷 vless-5e78d944 (Iran)
-      - 🇮🇷 vless-6c876c5d (Iran)
-      - 🇮🇷 vless-86e24bbc (Iran)
-      - 🇮🇷 vless-9a3ee5a7 (Iran)
-      - 🇮🇷 vless-b421017b (Iran)
-      - 🇮🇷 vless-b9a8f733 (Iran)
-      - 🇮🇷 vmess-8836f76c (Iran)
-      - 🇯🇵 vless-70b7dc82 (Japan)
-      - 🇰🇷 trojan-18cd5cf6 (South Korea)
-      - 🇰🇿 vless-2b364be5 (Kazakhstan)
-      - 🇳🇱 hysteria2-9008c514 (The Netherlands)
-      - 🇳🇱 hysteria2-d0dbcd9e (The Netherlands)
-      - 🇳🇱 hysteria2-e1c6b2b2 (The Netherlands)
-      - 🇳🇱 vless-0f9dcec9 (The Netherlands)
-      - 🇳🇱 vless-7d96c338 (The Netherlands)
-      - 🇳🇱 vless-fc50d538 (The Netherlands)
-      - 🇵🇱 ss-8c45adc3 (Poland)
-      - 🇵🇹 vless-885adffd (Portugal)
-      - 🇷🇺 vless-aae86ad2 (Russia)
-      - 🇸🇪 ss-cd22746b (Sweden)
-      - 🇸🇪 vless-028a320e (Sweden)
-      - 🇸🇪 vless-46e9a2f0 (Sweden)
-      - 🇸🇬 vless-26862772 (Singapore)
-      - 🇹🇷 ss-d0284b6d (Türkiye)
-      - 🇹🇷 vless-9d13bedc (Türkiye)
-      - 🇺🇦 ss-5e98ee62 (Ukraine)
-      - 🇺🇸 hysteria2-e9b23b52 (United States)
-      - 🇺🇸 ss-7ac0c48f (United States)
-      - 🇺🇸 ss-7c53aa6a (United States)
-      - 🇺🇸 ss-9ae8b2db (United States)
-      - 🇺🇸 ss-c68852c5 (United States)
-      - 🇺🇸 trojan-172ec3db (United States)
-      - 🇺🇸 vless-20b4e80f (United States)
-      - 🇺🇸 vless-3242a480 (United States)
-      - 🇺🇸 vless-771d34de (United States)
-      - 🇺🇸 vless-7941d028 (United States)
-      - 🇺🇸 vless-bcfc66c3 (United States)
-      - 🇺🇸 vless-bd31f956 (United States)
-      - 🇺🇸 vless-c0c2e1f6 (United States)
-      - 🇺🇸 vless-d0f19925 (United States)
-      - 🇺🇸 vless-d7bb619b (United States)
-      - 🇺🇸 vless-e4531538 (United States)
-  - name: 🍎 苹果服务
-    type: select
-    proxies:
-      - 🔰 节点选择
-      - 🎯 全球直连
-      - ♻️ 自动选择
-      - vless-257c6397 (Belize)
-      - vless-8632c12b (United Arab Emirates)
-      - vless-8a2e48dd (United Arab Emirates)
-      - vless-d1a25a54 (Armenia)
-      - 🇦🇱 vless-3eaaab6a (Albania)
-      - 🇦🇹 vless-ee8fd179 (Austria)
-      - 🇨🇦 vless-04b6db6a (Canada)
-      - 🇨🇦 vless-0856c499 (Canada)
-      - 🇨🇦 vless-0a52327a (Canada)
-      - 🇨🇦 vless-0b783e7f (Canada)
-      - 🇨🇦 vless-0c75d868 (Canada)
-      - 🇨🇦 vless-0f8fbddd (Canada)
-      - 🇨🇦 vless-0fbba1a4 (Canada)
-      - 🇨🇦 vless-10676dd7 (Canada)
-      - 🇨🇦 vless-116a34d3 (Canada)
-      - 🇨🇦 vless-11b0a006 (Canada)
-      - 🇨🇦 vless-123e7a5c (Canada)
-      - 🇨🇦 vless-13b4a0e7 (Canada)
-      - 🇨🇦 vless-171c800a (Canada)
-      - 🇨🇦 vless-18b5662c (Canada)
-      - 🇨🇦 vless-1c31de58 (Canada)
-      - 🇨🇦 vless-1c88c781 (Canada)
-      - 🇨🇦 vless-28c6cbd9 (Canada)
-      - 🇨🇦 vless-2ab6a551 (Canada)
-      - 🇨🇦 vless-2bbb1bda (Canada)
-      - 🇨🇦 vless-2cade2e3 (Canada)
-      - 🇨🇦 vless-2e3818f9 (Canada)
-      - 🇨🇦 vless-306ea638 (Canada)
-      - 🇨🇦 vless-308a5e33 (Canada)
-      - 🇨🇦 vless-32633e2d (Canada)
-      - 🇨🇦 vless-32c51168 (Canada)
-      - 🇨🇦 vless-331d40bc (Canada)
-      - 🇨🇦 vless-3347d391 (Canada)
-      - 🇨🇦 vless-3398cf85 (Canada)
-      - 🇨🇦 vless-35bd592c (Canada)
-      - 🇨🇦 vless-37fdebde (Canada)
-      - 🇨🇦 vless-38930a7f (Canada)
-      - 🇨🇦 vless-3a4f7a9f (Canada)
-      - 🇨🇦 vless-3b0dc1ad (Canada)
-      - 🇨🇦 vless-3ee64fba (Canada)
-      - 🇨🇦 vless-3fdc918b (Canada)
-      - 🇨🇦 vless-442f850a (Canada)
-      - 🇨🇦 vless-44527625 (Canada)
-      - 🇨🇦 vless-458f5946 (Canada)
-      - 🇨🇦 vless-45c279c9 (Canada)
-      - 🇨🇦 vless-46cddb9e (Canada)
-      - 🇨🇦 vless-4790c06f (Canada)
-      - 🇨🇦 vless-4d41231a (Canada)
-      - 🇨🇦 vless-4d5310a8 (Canada)
-      - 🇨🇦 vless-4ef2b097 (Canada)
-      - 🇨🇦 vless-569ac8a6 (Canada)
-      - 🇨🇦 vless-58cbffb9 (Canada)
-      - 🇨🇦 vless-5f6b5c07 (Canada)
-      - 🇨🇦 vless-61a0c9db (Canada)
-      - 🇨🇦 vless-62becea4 (Canada)
-      - 🇨🇦 vless-65e2bdcb (Canada)
-      - 🇨🇦 vless-69e59ea3 (Canada)
-      - 🇨🇦 vless-6a71d546 (Canada)
-      - 🇨🇦 vless-6cf3c23b (Canada)
-      - 🇨🇦 vless-6e9304a4 (Canada)
-      - 🇨🇦 vless-6f38f797 (Canada)
-      - 🇨🇦 vless-733d0779 (Canada)
-      - 🇨🇦 vless-7717e44b (Canada)
-      - 🇨🇦 vless-7a96966d (Canada)
-      - 🇨🇦 vless-7c44f3ef (Canada)
-      - 🇨🇦 vless-7fb55b57 (Canada)
-      - 🇨🇦 vless-80700b3c (Canada)
-      - 🇨🇦 vless-839709dc (Canada)
-      - 🇨🇦 vless-8436ff42 (Canada)
-      - 🇨🇦 vless-857bc9b8 (Canada)
-      - 🇨🇦 vless-857ff1fc (Canada)
-      - 🇨🇦 vless-8722b4af (Canada)
-      - 🇨🇦 vless-87a38130 (Canada)
-      - 🇨🇦 vless-8e90ce76 (Canada)
-      - 🇨🇦 vless-9261019a (Canada)
-      - 🇨🇦 vless-9375c5d1 (Canada)
-      - 🇨🇦 vless-94e03a99 (Canada)
-      - 🇨🇦 vless-9752407c (Canada)
-      - 🇨🇦 vless-a102e99e (Canada)
-      - 🇨🇦 vless-a2202a9d (Canada)
-      - 🇨🇦 vless-a89030d3 (Canada)
-      - 🇨🇦 vless-ac794ba9 (Canada)
-      - 🇨🇦 vless-ad614d89 (Canada)
-      - 🇨🇦 vless-add5ba4a (Canada)
-      - 🇨🇦 vless-adf67dab (Canada)
-      - 🇨🇦 vless-b14cf0d1 (Canada)
-      - 🇨🇦 vless-b3cfac05 (Canada)
-      - 🇨🇦 vless-b49abd87 (Canada)
-      - 🇨🇦 vless-b58d068f (Canada)
-      - 🇨🇦 vless-b944f655 (Canada)
-      - 🇨🇦 vless-ba39ca6f (Canada)
-      - 🇨🇦 vless-bcd7a97e (Canada)
-      - 🇨🇦 vless-bec13326 (Canada)
-      - 🇨🇦 vless-bf92c1f2 (Canada)
-      - 🇨🇦 vless-c11a9c85 (Canada)
-      - 🇨🇦 vless-c266e8b6 (Canada)
-      - 🇨🇦 vless-c5ece4a6 (Canada)
-      - 🇨🇦 vless-c7de44c1 (Canada)
-      - 🇨🇦 vless-cbc7117d (Canada)
-      - 🇨🇦 vless-cc3bb701 (Canada)
-      - 🇨🇦 vless-cc956ef1 (Canada)
-      - 🇨🇦 vless-cdfa0a98 (Canada)
-      - 🇨🇦 vless-d19d0319 (Canada)
-      - 🇨🇦 vless-d1e9f368 (Canada)
-      - 🇨🇦 vless-d62ac7ef (Canada)
-      - 🇨🇦 vless-d9f168f8 (Canada)
-      - 🇨🇦 vless-da7e378c (Canada)
-      - 🇨🇦 vless-da897ffe (Canada)
-      - 🇨🇦 vless-db010fe4 (Canada)
-      - 🇨🇦 vless-db4c2f7d (Canada)
-      - 🇨🇦 vless-dbc611a9 (Canada)
-      - 🇨🇦 vless-de3408a8 (Canada)
-      - 🇨🇦 vless-df30ef63 (Canada)
-      - 🇨🇦 vless-e19236e4 (Canada)
-      - 🇨🇦 vless-eb247416 (Canada)
-      - 🇨🇦 vless-ecbbe1b2 (Canada)
-      - 🇨🇦 vless-f2dd5fee (Canada)
-      - 🇨🇦 vless-f3922e78 (Canada)
-      - 🇨🇦 vless-f3dc12eb (Canada)
-      - 🇨🇦 vless-f42d2f90 (Canada)
-      - 🇨🇦 vless-f4774622 (Canada)
-      - 🇨🇦 vless-f6a81b69 (Canada)
-      - 🇨🇦 vless-f96d0122 (Canada)
-      - 🇨🇦 vless-faae6cdd (Canada)
-      - 🇨🇦 vmess-15457f40 (Canada)
-      - 🇨🇦 vmess-2609ded5 (Canada)
-      - 🇨🇦 vmess-3d07d8ae (Canada)
-      - 🇨🇦 vmess-3e53de6e (Canada)
-      - 🇨🇦 vmess-8a21ae92 (Canada)
-      - 🇨🇦 vmess-abda9812 (Canada)
-      - 🇨🇦 vmess-b16cb5d0 (Canada)
-      - 🇨🇦 vmess-cc29644c (Canada)
-      - 🇨🇦 vmess-d569a31c (Canada)
-      - 🇨🇦 vmess-ed5d0bec (Canada)
-      - 🇨🇦 vmess-f0c2e519 (Canada)
-      - 🇨🇦 vmess-f7b5ab61 (Canada)
-      - 🇨🇳 vmess-f3f620f3 (China)
-      - 🇩🇪 ss-c2c9fe51 (Germany)
-      - 🇩🇪 vless-060f2a87 (Germany)
-      - 🇩🇪 vless-06b4b455 (Germany)
-      - 🇩🇪 vless-07109a57 (Germany)
-      - 🇩🇪 vless-0f03411b (Germany)
-      - 🇩🇪 vless-204e18fc (Germany)
-      - 🇩🇪 vless-a2eef68e (Germany)
-      - 🇩🇪 vless-aa767eb2 (Germany)
-      - 🇩🇪 vless-c53f6a7d (Germany)
-      - 🇩🇪 vless-d61a23a2 (Germany)
-      - 🇩🇪 vmess-0b67eeb6 (Germany)
-      - 🇩🇪 vmess-1917024d (Germany)
-      - 🇩🇪 vmess-6fd5155e (Germany)
-      - 🇩🇪 vmess-95ba6e42 (Germany)
-      - 🇩🇪 vmess-a6289630 (Germany)
-      - 🇩🇪 vmess-bfa3b188 (Germany)
-      - 🇩🇪 vmess-c865da7c (Germany)
-      - 🇪🇸 trojan-73dbbdcd (Spain)
-      - 🇫🇮 vless-2329b845 (Finland)
-      - 🇫🇮 vless-2c46b377 (Finland)
-      - 🇫🇮 vless-2d66f0d8 (Finland)
-      - 🇫🇮 vless-3fedc4fe (Finland)
-      - 🇫🇮 vless-47c26648 (Finland)
-      - 🇫🇮 vless-4f1dbc99 (Finland)
-      - 🇫🇮 vless-a2d38a57 (Finland)
-      - 🇫🇮 vless-bf2cdb37 (Finland)
-      - 🇫🇮 vless-c4cf1cf0 (Finland)
-      - 🇫🇷 hysteria2-980be7de (France)
-      - 🇫🇷 vless-070d0bce (France)
-      - 🇬🇧 ss-25ecc86a (United Kingdom)
-      - 🇬🇧 ss-6468644a (United Kingdom)
-      - 🇬🇧 ss-6e7b8f77 (United Kingdom)
-      - 🇬🇧 ss-76f18916 (United Kingdom)
-      - 🇬🇧 ss-7f1bd499 (United Kingdom)
-      - 🇬🇧 ss-86dc83ae (United Kingdom)
-      - 🇬🇧 ss-9a5a2349 (United Kingdom)
-      - 🇬🇧 ss-ac0ade15 (United Kingdom)
-      - 🇬🇧 ss-c44ad443 (United Kingdom)
-      - 🇬🇧 ss-e23ab72d (United Kingdom)
-      - 🇬🇧 ss-ff916d81 (United Kingdom)
-      - 🇬🇧 vless-d4352e4b (United Kingdom)
-      - 🇭🇰 vless-c8333454 (Hong Kong)
-      - 🇭🇰 vless-cc8ab4f6 (Hong Kong)
-      - 🇭🇺 vless-405ebd50 (Hungary)
-      - 🇮🇳 vmess-61c92c50 (India)
-      - 🇮🇷 vless-23a5c0e4 (Iran)
-      - 🇮🇷 vless-3092614a (Iran)
-      - 🇮🇷 vless-33ee4483 (Iran)
-      - 🇮🇷 vless-4fb3fdd6 (Iran)
-      - 🇮🇷 vless-51651a0c (Iran)
-      - 🇮🇷 vless-53d0e964 (Iran)
-      - 🇮🇷 vless-5565ed71 (Iran)
-      - 🇮🇷 vless-5e78d944 (Iran)
-      - 🇮🇷 vless-6c876c5d (Iran)
-      - 🇮🇷 vless-86e24bbc (Iran)
-      - 🇮🇷 vless-9a3ee5a7 (Iran)
-      - 🇮🇷 vless-b421017b (Iran)
-      - 🇮🇷 vless-b9a8f733 (Iran)
-      - 🇮🇷 vmess-8836f76c (Iran)
-      - 🇯🇵 vless-70b7dc82 (Japan)
-      - 🇰🇷 trojan-18cd5cf6 (South Korea)
-      - 🇰🇿 vless-2b364be5 (Kazakhstan)
-      - 🇳🇱 hysteria2-9008c514 (The Netherlands)
-      - 🇳🇱 hysteria2-d0dbcd9e (The Netherlands)
-      - 🇳🇱 hysteria2-e1c6b2b2 (The Netherlands)
-      - 🇳🇱 vless-0f9dcec9 (The Netherlands)
-      - 🇳🇱 vless-7d96c338 (The Netherlands)
-      - 🇳🇱 vless-fc50d538 (The Netherlands)
-      - 🇵🇱 ss-8c45adc3 (Poland)
-      - 🇵🇹 vless-885adffd (Portugal)
-      - 🇷🇺 vless-aae86ad2 (Russia)
-      - 🇸🇪 ss-cd22746b (Sweden)
-      - 🇸🇪 vless-028a320e (Sweden)
-      - 🇸🇪 vless-46e9a2f0 (Sweden)
-      - 🇸🇬 vless-26862772 (Singapore)
-      - 🇹🇷 ss-d0284b6d (Türkiye)
-      - 🇹🇷 vless-9d13bedc (Türkiye)
-      - 🇺🇦 ss-5e98ee62 (Ukraine)
-      - 🇺🇸 hysteria2-e9b23b52 (United States)
-      - 🇺🇸 ss-7ac0c48f (United States)
-      - 🇺🇸 ss-7c53aa6a (United States)
-      - 🇺🇸 ss-9ae8b2db (United States)
-      - 🇺🇸 ss-c68852c5 (United States)
-      - 🇺🇸 trojan-172ec3db (United States)
-      - 🇺🇸 vless-20b4e80f (United States)
-      - 🇺🇸 vless-3242a480 (United States)
-      - 🇺🇸 vless-771d34de (United States)
-      - 🇺🇸 vless-7941d028 (United States)
-      - 🇺🇸 vless-bcfc66c3 (United States)
-      - 🇺🇸 vless-bd31f956 (United States)
-      - 🇺🇸 vless-c0c2e1f6 (United States)
-      - 🇺🇸 vless-d0f19925 (United States)
-      - 🇺🇸 vless-d7bb619b (United States)
-      - 🇺🇸 vless-e4531538 (United States)
-  - name: 🎯 全球直连
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+      - خودکار (بهترین پینگ) 🤖
+      - دستی 🤏🏻
+      - پشتیبان (در صورت قطعی) 🧯
+  - name: بدون فیلترشکن 🛡️
     type: select
     proxies:
       - DIRECT
-  - name: 🛑 全球拦截
+  - name: اجازه ندادن 🚫
     type: select
     proxies:
       - REJECT
-      - DIRECT
-  - name: 🐟 漏网之鱼
-    type: select
-    proxies:
-      - 🔰 节点选择
-      - 🎯 全球直连
-      - ♻️ 自动选择
-      - vless-257c6397 (Belize)
-      - vless-8632c12b (United Arab Emirates)
-      - vless-8a2e48dd (United Arab Emirates)
-      - vless-d1a25a54 (Armenia)
-      - 🇦🇱 vless-3eaaab6a (Albania)
-      - 🇦🇹 vless-ee8fd179 (Austria)
-      - 🇨🇦 vless-04b6db6a (Canada)
-      - 🇨🇦 vless-0856c499 (Canada)
-      - 🇨🇦 vless-0a52327a (Canada)
-      - 🇨🇦 vless-0b783e7f (Canada)
-      - 🇨🇦 vless-0c75d868 (Canada)
-      - 🇨🇦 vless-0f8fbddd (Canada)
-      - 🇨🇦 vless-0fbba1a4 (Canada)
-      - 🇨🇦 vless-10676dd7 (Canada)
-      - 🇨🇦 vless-116a34d3 (Canada)
-      - 🇨🇦 vless-11b0a006 (Canada)
-      - 🇨🇦 vless-123e7a5c (Canada)
-      - 🇨🇦 vless-13b4a0e7 (Canada)
-      - 🇨🇦 vless-171c800a (Canada)
-      - 🇨🇦 vless-18b5662c (Canada)
-      - 🇨🇦 vless-1c31de58 (Canada)
-      - 🇨🇦 vless-1c88c781 (Canada)
-      - 🇨🇦 vless-28c6cbd9 (Canada)
-      - 🇨🇦 vless-2ab6a551 (Canada)
-      - 🇨🇦 vless-2bbb1bda (Canada)
-      - 🇨🇦 vless-2cade2e3 (Canada)
-      - 🇨🇦 vless-2e3818f9 (Canada)
-      - 🇨🇦 vless-306ea638 (Canada)
-      - 🇨🇦 vless-308a5e33 (Canada)
-      - 🇨🇦 vless-32633e2d (Canada)
-      - 🇨🇦 vless-32c51168 (Canada)
-      - 🇨🇦 vless-331d40bc (Canada)
-      - 🇨🇦 vless-3347d391 (Canada)
-      - 🇨🇦 vless-3398cf85 (Canada)
-      - 🇨🇦 vless-35bd592c (Canada)
-      - 🇨🇦 vless-37fdebde (Canada)
-      - 🇨🇦 vless-38930a7f (Canada)
-      - 🇨🇦 vless-3a4f7a9f (Canada)
-      - 🇨🇦 vless-3b0dc1ad (Canada)
-      - 🇨🇦 vless-3ee64fba (Canada)
-      - 🇨🇦 vless-3fdc918b (Canada)
-      - 🇨🇦 vless-442f850a (Canada)
-      - 🇨🇦 vless-44527625 (Canada)
-      - 🇨🇦 vless-458f5946 (Canada)
-      - 🇨🇦 vless-45c279c9 (Canada)
-      - 🇨🇦 vless-46cddb9e (Canada)
-      - 🇨🇦 vless-4790c06f (Canada)
-      - 🇨🇦 vless-4d41231a (Canada)
-      - 🇨🇦 vless-4d5310a8 (Canada)
-      - 🇨🇦 vless-4ef2b097 (Canada)
-      - 🇨🇦 vless-569ac8a6 (Canada)
-      - 🇨🇦 vless-58cbffb9 (Canada)
-      - 🇨🇦 vless-5f6b5c07 (Canada)
-      - 🇨🇦 vless-61a0c9db (Canada)
-      - 🇨🇦 vless-62becea4 (Canada)
-      - 🇨🇦 vless-65e2bdcb (Canada)
-      - 🇨🇦 vless-69e59ea3 (Canada)
-      - 🇨🇦 vless-6a71d546 (Canada)
-      - 🇨🇦 vless-6cf3c23b (Canada)
-      - 🇨🇦 vless-6e9304a4 (Canada)
-      - 🇨🇦 vless-6f38f797 (Canada)
-      - 🇨🇦 vless-733d0779 (Canada)
-      - 🇨🇦 vless-7717e44b (Canada)
-      - 🇨🇦 vless-7a96966d (Canada)
-      - 🇨🇦 vless-7c44f3ef (Canada)
-      - 🇨🇦 vless-7fb55b57 (Canada)
-      - 🇨🇦 vless-80700b3c (Canada)
-      - 🇨🇦 vless-839709dc (Canada)
-      - 🇨🇦 vless-8436ff42 (Canada)
-      - 🇨🇦 vless-857bc9b8 (Canada)
-      - 🇨🇦 vless-857ff1fc (Canada)
-      - 🇨🇦 vless-8722b4af (Canada)
-      - 🇨🇦 vless-87a38130 (Canada)
-      - 🇨🇦 vless-8e90ce76 (Canada)
-      - 🇨🇦 vless-9261019a (Canada)
-      - 🇨🇦 vless-9375c5d1 (Canada)
-      - 🇨🇦 vless-94e03a99 (Canada)
-      - 🇨🇦 vless-9752407c (Canada)
-      - 🇨🇦 vless-a102e99e (Canada)
-      - 🇨🇦 vless-a2202a9d (Canada)
-      - 🇨🇦 vless-a89030d3 (Canada)
-      - 🇨🇦 vless-ac794ba9 (Canada)
-      - 🇨🇦 vless-ad614d89 (Canada)
-      - 🇨🇦 vless-add5ba4a (Canada)
-      - 🇨🇦 vless-adf67dab (Canada)
-      - 🇨🇦 vless-b14cf0d1 (Canada)
-      - 🇨🇦 vless-b3cfac05 (Canada)
-      - 🇨🇦 vless-b49abd87 (Canada)
-      - 🇨🇦 vless-b58d068f (Canada)
-      - 🇨🇦 vless-b944f655 (Canada)
-      - 🇨🇦 vless-ba39ca6f (Canada)
-      - 🇨🇦 vless-bcd7a97e (Canada)
-      - 🇨🇦 vless-bec13326 (Canada)
-      - 🇨🇦 vless-bf92c1f2 (Canada)
-      - 🇨🇦 vless-c11a9c85 (Canada)
-      - 🇨🇦 vless-c266e8b6 (Canada)
-      - 🇨🇦 vless-c5ece4a6 (Canada)
-      - 🇨🇦 vless-c7de44c1 (Canada)
-      - 🇨🇦 vless-cbc7117d (Canada)
-      - 🇨🇦 vless-cc3bb701 (Canada)
-      - 🇨🇦 vless-cc956ef1 (Canada)
-      - 🇨🇦 vless-cdfa0a98 (Canada)
-      - 🇨🇦 vless-d19d0319 (Canada)
-      - 🇨🇦 vless-d1e9f368 (Canada)
-      - 🇨🇦 vless-d62ac7ef (Canada)
-      - 🇨🇦 vless-d9f168f8 (Canada)
-      - 🇨🇦 vless-da7e378c (Canada)
-      - 🇨🇦 vless-da897ffe (Canada)
-      - 🇨🇦 vless-db010fe4 (Canada)
-      - 🇨🇦 vless-db4c2f7d (Canada)
-      - 🇨🇦 vless-dbc611a9 (Canada)
-      - 🇨🇦 vless-de3408a8 (Canada)
-      - 🇨🇦 vless-df30ef63 (Canada)
-      - 🇨🇦 vless-e19236e4 (Canada)
-      - 🇨🇦 vless-eb247416 (Canada)
-      - 🇨🇦 vless-ecbbe1b2 (Canada)
-      - 🇨🇦 vless-f2dd5fee (Canada)
-      - 🇨🇦 vless-f3922e78 (Canada)
-      - 🇨🇦 vless-f3dc12eb (Canada)
-      - 🇨🇦 vless-f42d2f90 (Canada)
-      - 🇨🇦 vless-f4774622 (Canada)
-      - 🇨🇦 vless-f6a81b69 (Canada)
-      - 🇨🇦 vless-f96d0122 (Canada)
-      - 🇨🇦 vless-faae6cdd (Canada)
-      - 🇨🇦 vmess-15457f40 (Canada)
-      - 🇨🇦 vmess-2609ded5 (Canada)
-      - 🇨🇦 vmess-3d07d8ae (Canada)
-      - 🇨🇦 vmess-3e53de6e (Canada)
-      - 🇨🇦 vmess-8a21ae92 (Canada)
-      - 🇨🇦 vmess-abda9812 (Canada)
-      - 🇨🇦 vmess-b16cb5d0 (Canada)
-      - 🇨🇦 vmess-cc29644c (Canada)
-      - 🇨🇦 vmess-d569a31c (Canada)
-      - 🇨🇦 vmess-ed5d0bec (Canada)
-      - 🇨🇦 vmess-f0c2e519 (Canada)
-      - 🇨🇦 vmess-f7b5ab61 (Canada)
-      - 🇨🇳 vmess-f3f620f3 (China)
-      - 🇩🇪 ss-c2c9fe51 (Germany)
-      - 🇩🇪 vless-060f2a87 (Germany)
-      - 🇩🇪 vless-06b4b455 (Germany)
-      - 🇩🇪 vless-07109a57 (Germany)
-      - 🇩🇪 vless-0f03411b (Germany)
-      - 🇩🇪 vless-204e18fc (Germany)
-      - 🇩🇪 vless-a2eef68e (Germany)
-      - 🇩🇪 vless-aa767eb2 (Germany)
-      - 🇩🇪 vless-c53f6a7d (Germany)
-      - 🇩🇪 vless-d61a23a2 (Germany)
-      - 🇩🇪 vmess-0b67eeb6 (Germany)
-      - 🇩🇪 vmess-1917024d (Germany)
-      - 🇩🇪 vmess-6fd5155e (Germany)
-      - 🇩🇪 vmess-95ba6e42 (Germany)
-      - 🇩🇪 vmess-a6289630 (Germany)
-      - 🇩🇪 vmess-bfa3b188 (Germany)
-      - 🇩🇪 vmess-c865da7c (Germany)
-      - 🇪🇸 trojan-73dbbdcd (Spain)
-      - 🇫🇮 vless-2329b845 (Finland)
-      - 🇫🇮 vless-2c46b377 (Finland)
-      - 🇫🇮 vless-2d66f0d8 (Finland)
-      - 🇫🇮 vless-3fedc4fe (Finland)
-      - 🇫🇮 vless-47c26648 (Finland)
-      - 🇫🇮 vless-4f1dbc99 (Finland)
-      - 🇫🇮 vless-a2d38a57 (Finland)
-      - 🇫🇮 vless-bf2cdb37 (Finland)
-      - 🇫🇮 vless-c4cf1cf0 (Finland)
-      - 🇫🇷 hysteria2-980be7de (France)
-      - 🇫🇷 vless-070d0bce (France)
-      - 🇬🇧 ss-25ecc86a (United Kingdom)
-      - 🇬🇧 ss-6468644a (United Kingdom)
-      - 🇬🇧 ss-6e7b8f77 (United Kingdom)
-      - 🇬🇧 ss-76f18916 (United Kingdom)
-      - 🇬🇧 ss-7f1bd499 (United Kingdom)
-      - 🇬🇧 ss-86dc83ae (United Kingdom)
-      - 🇬🇧 ss-9a5a2349 (United Kingdom)
-      - 🇬🇧 ss-ac0ade15 (United Kingdom)
-      - 🇬🇧 ss-c44ad443 (United Kingdom)
-      - 🇬🇧 ss-e23ab72d (United Kingdom)
-      - 🇬🇧 ss-ff916d81 (United Kingdom)
-      - 🇬🇧 vless-d4352e4b (United Kingdom)
-      - 🇭🇰 vless-c8333454 (Hong Kong)
-      - 🇭🇰 vless-cc8ab4f6 (Hong Kong)
-      - 🇭🇺 vless-405ebd50 (Hungary)
-      - 🇮🇳 vmess-61c92c50 (India)
-      - 🇮🇷 vless-23a5c0e4 (Iran)
-      - 🇮🇷 vless-3092614a (Iran)
-      - 🇮🇷 vless-33ee4483 (Iran)
-      - 🇮🇷 vless-4fb3fdd6 (Iran)
-      - 🇮🇷 vless-51651a0c (Iran)
-      - 🇮🇷 vless-53d0e964 (Iran)
-      - 🇮🇷 vless-5565ed71 (Iran)
-      - 🇮🇷 vless-5e78d944 (Iran)
-      - 🇮🇷 vless-6c876c5d (Iran)
-      - 🇮🇷 vless-86e24bbc (Iran)
-      - 🇮🇷 vless-9a3ee5a7 (Iran)
-      - 🇮🇷 vless-b421017b (Iran)
-      - 🇮🇷 vless-b9a8f733 (Iran)
-      - 🇮🇷 vmess-8836f76c (Iran)
-      - 🇯🇵 vless-70b7dc82 (Japan)
-      - 🇰🇷 trojan-18cd5cf6 (South Korea)
-      - 🇰🇿 vless-2b364be5 (Kazakhstan)
-      - 🇳🇱 hysteria2-9008c514 (The Netherlands)
-      - 🇳🇱 hysteria2-d0dbcd9e (The Netherlands)
-      - 🇳🇱 hysteria2-e1c6b2b2 (The Netherlands)
-      - 🇳🇱 vless-0f9dcec9 (The Netherlands)
-      - 🇳🇱 vless-7d96c338 (The Netherlands)
-      - 🇳🇱 vless-fc50d538 (The Netherlands)
-      - 🇵🇱 ss-8c45adc3 (Poland)
-      - 🇵🇹 vless-885adffd (Portugal)
-      - 🇷🇺 vless-aae86ad2 (Russia)
-      - 🇸🇪 ss-cd22746b (Sweden)
-      - 🇸🇪 vless-028a320e (Sweden)
-      - 🇸🇪 vless-46e9a2f0 (Sweden)
-      - 🇸🇬 vless-26862772 (Singapore)
-      - 🇹🇷 ss-d0284b6d (Türkiye)
-      - 🇹🇷 vless-9d13bedc (Türkiye)
-      - 🇺🇦 ss-5e98ee62 (Ukraine)
-      - 🇺🇸 hysteria2-e9b23b52 (United States)
-      - 🇺🇸 ss-7ac0c48f (United States)
-      - 🇺🇸 ss-7c53aa6a (United States)
-      - 🇺🇸 ss-9ae8b2db (United States)
-      - 🇺🇸 ss-c68852c5 (United States)
-      - 🇺🇸 trojan-172ec3db (United States)
-      - 🇺🇸 vless-20b4e80f (United States)
-      - 🇺🇸 vless-3242a480 (United States)
-      - 🇺🇸 vless-771d34de (United States)
-      - 🇺🇸 vless-7941d028 (United States)
-      - 🇺🇸 vless-bcfc66c3 (United States)
-      - 🇺🇸 vless-bd31f956 (United States)
-      - 🇺🇸 vless-c0c2e1f6 (United States)
-      - 🇺🇸 vless-d0f19925 (United States)
-      - 🇺🇸 vless-d7bb619b (United States)
-      - 🇺🇸 vless-e4531538 (United States)
 rules:
-  - RULE-SET,LocalAreaNetwork_domain,🎯 全球直连
-  - RULE-SET,LocalAreaNetwork_ipcidr,🎯 全球直连,no-resolve
-  - DOMAIN-KEYWORD,1drv,Ⓜ️ 微软服务
-  - DOMAIN-KEYWORD,microsoft,Ⓜ️ 微软服务
-  - RULE-SET,MSServices_domain,Ⓜ️ 微软服务
-  - RULE-SET,Unbreak_domain,🎯 全球直连
-  - RULE-SET,AdRule_domain,🛑 全球拦截
-  - RULE-SET,AdRule_ipcidr,🛑 全球拦截,no-resolve
-  - RULE-SET,Hijacking_domain,🛑 全球拦截
-  - RULE-SET,Hijacking_ipcidr,🛑 全球拦截,no-resolve
-  - DOMAIN-KEYWORD,jooxweb-api,🌍 国外媒体
-  - DOMAIN-KEYWORD,spotify.com,🌍 国外媒体
-  - DOMAIN-KEYWORD,-spotify-com,🌍 国外媒体
-  - DOMAIN-KEYWORD,abematv.akamaized.net,🌍 国外媒体
-  - DOMAIN-KEYWORD,avoddashs,🌍 国外媒体
-  - DOMAIN-KEYWORD,bbcfmt,🌍 国外媒体
-  - DOMAIN-KEYWORD,uk-live,🌍 国外媒体
-  - DOMAIN-KEYWORD,voddazn,🌍 国外媒体
-  - DOMAIN-KEYWORD,discovery.uplynk.com,🌍 国外媒体
-  - DOMAIN-KEYWORD,hamivideo.cdn.hinet.net,🌍 国外媒体
-  - DOMAIN-KEYWORD,.hbogoasia.,🌍 国外媒体
-  - DOMAIN-KEYWORD,netflixdnstest,🌍 国外媒体
-  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,🌍 国外媒体
-  - DOMAIN-KEYWORD,dualstack.apiproxy-,🌍 国外媒体
-  - DOMAIN-KEYWORD,tiktokcdn-,🌍 国外媒体
-  - RULE-SET,Streaming_domain,🌍 国外媒体
-  - RULE-SET,Streaming_ipcidr,🌍 国外媒体,no-resolve
-  - RULE-SET,Bilibili_domain,🌏 国内媒体
-  - RULE-SET,iQiyi_domain,🌏 国内媒体
-  - RULE-SET,iQiyi_ipcidr,🌏 国内媒体,no-resolve
-  - RULE-SET,Letv_domain,🌏 国内媒体
-  - RULE-SET,Tencent Video_domain,🌏 国内媒体
-  - RULE-SET,Youku_domain,🌏 国内媒体
-  - RULE-SET,Youku_ipcidr,🌏 国内媒体,no-resolve
-  - RULE-SET,Telegram_domain,📲 电报信息
-  - RULE-SET,Telegram_ipcidr,📲 电报信息,no-resolve
-  - DOMAIN-KEYWORD,google,🔰 节点选择
-  - DOMAIN-KEYWORD,.blogspot.,🔰 节点选择
-  - DOMAIN-KEYWORD,.facebook.,🔰 节点选择
-  - DOMAIN-KEYWORD,.pinterest.,🔰 节点选择
-  - RULE-SET,Global_domain,🔰 节点选择
-  - RULE-SET,Global_ipcidr,🔰 节点选择,no-resolve
-  - DOMAIN-KEYWORD,apple.com.akadns.net,🍎 苹果服务
-  - DOMAIN-KEYWORD,apple.com.edgekey.net,🍎 苹果服务
-  - DOMAIN-KEYWORD,apple-support.akadns.net,🍎 苹果服务
-  - DOMAIN-KEYWORD,icloud.com.akadns.net,🍎 苹果服务
-  - RULE-SET,Apple_domain,🍎 苹果服务
-  - RULE-SET,China_domain,🎯 全球直连
-  - RULE-SET,China_ipcidr,🎯 全球直连,no-resolve
-  - DOMAIN-KEYWORD,aria2,🎯 全球直连
-  - DOMAIN-KEYWORD,xunlei,🎯 全球直连
-  - DOMAIN-KEYWORD,yunpan,🎯 全球直连
-  - DOMAIN-KEYWORD,Thunder,🎯 全球直连
-  - DOMAIN-KEYWORD,XLLiveUD,🎯 全球直连
-  - GEOIP,CN,🎯 全球直连
-  - MATCH,🐟 漏网之鱼
-rule-providers:
-  LocalAreaNetwork_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvTG9jYWxBcmVhTmV0d29yay5saXN0"
-    path: ./providers/rule-provider_LocalAreaNetwork_domain.yaml
-    interval: 86400
-  LocalAreaNetwork_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvTG9jYWxBcmVhTmV0d29yay5saXN0"
-    path: ./providers/rule-provider_LocalAreaNetwork_ipcidr.yaml
-    interval: 86400
-  MSServices_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvTVNTZXJ2aWNlcy5saXN0"
-    path: ./providers/rule-provider_MSServices_domain.yaml
-    interval: 86400
-  Unbreak_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvVW5icmVhay5saXN0"
-    path: ./providers/rule-provider_Unbreak_domain.yaml
-    interval: 86400
-  AdRule_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvTm9ieURhL1N1cmdlL0FkUnVsZS5saXN0"
-    path: ./providers/rule-provider_AdRule_domain.yaml
-    interval: 86400
-  AdRule_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvTm9ieURhL1N1cmdlL0FkUnVsZS5saXN0"
-    path: ./providers/rule-provider_AdRule_ipcidr.yaml
-    interval: 86400
-  Hijacking_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR3VhcmQvSGlqYWNraW5nLmxpc3Q"
-    path: ./providers/rule-provider_Hijacking_domain.yaml
-    interval: 86400
-  Hijacking_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR3VhcmQvSGlqYWNraW5nLmxpc3Q"
-    path: ./providers/rule-provider_Hijacking_ipcidr.yaml
-    interval: 86400
-  Streaming_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvU3RyZWFtaW5nTWVkaWEvU3RyZWFtaW5nLmxpc3Q"
-    path: ./providers/rule-provider_Streaming_domain.yaml
-    interval: 86400
-  Streaming_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvU3RyZWFtaW5nTWVkaWEvU3RyZWFtaW5nLmxpc3Q"
-    path: ./providers/rule-provider_Streaming_ipcidr.yaml
-    interval: 86400
-  Bilibili_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9CaWxpYmlsaS5saXN0"
-    path: ./providers/rule-provider_Bilibili_domain.yaml
-    interval: 86400
-  iQiyi_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9pUWl5aS5saXN0"
-    path: ./providers/rule-provider_iQiyi_domain.yaml
-    interval: 86400
-  iQiyi_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9pUWl5aS5saXN0"
-    path: ./providers/rule-provider_iQiyi_ipcidr.yaml
-    interval: 86400
-  Letv_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9MZXR2Lmxpc3Q"
-    path: ./providers/rule-provider_Letv_domain.yaml
-    interval: 86400
-  MOO:
-    type: http
-    behavior: classical
-    url: "https://url.v1.mk/getruleset?type=6&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9NT08ubGlzdA"
-    path: ./providers/rule-provider_MOO.yaml
-    interval: 86400
-  Tencent Video_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9UZW5jZW50IFZpZGVvLmxpc3Q"
-    path: ./providers/rule-provider_Tencent Video_domain.yaml
-    interval: 86400
-  Youku_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9Zb3VrdS5saXN0"
-    path: ./providers/rule-provider_Youku_domain.yaml
-    interval: 86400
-  Youku_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9Zb3VrdS5saXN0"
-    path: ./providers/rule-provider_Youku_ipcidr.yaml
-    interval: 86400
-  Telegram_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvVGVsZWdyYW0vVGVsZWdyYW0ubGlzdA"
-    path: ./providers/rule-provider_Telegram_domain.yaml
-    interval: 86400
-  Telegram_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvVGVsZWdyYW0vVGVsZWdyYW0ubGlzdA"
-    path: ./providers/rule-provider_Telegram_ipcidr.yaml
-    interval: 86400
-  Global_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR2xvYmFsLmxpc3Q"
-    path: ./providers/rule-provider_Global_domain.yaml
-    interval: 86400
-  Global_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR2xvYmFsLmxpc3Q"
-    path: ./providers/rule-provider_Global_ipcidr.yaml
-    interval: 86400
-  Apple_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvQXBwbGUvQXBwbGUubGlzdA"
-    path: ./providers/rule-provider_Apple_domain.yaml
-    interval: 86400
-  China_domain:
-    type: http
-    behavior: domain
-    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvQ2hpbmEubGlzdA"
-    path: ./providers/rule-provider_China_domain.yaml
-    interval: 86400
-  China_ipcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvQ2hpbmEubGlzdA"
-    path: ./providers/rule-provider_China_ipcidr.yaml
-    interval: 86400
-  Download:
-    type: http
-    behavior: classical
-    url: "https://url.v1.mk/getruleset?type=6&url=cnVsZXMvTm9ieURhL1N1cmdlL0Rvd25sb2FkLmxpc3Q"
-    path: ./providers/rule-provider_Download.yaml
-    interval: 86400
+  - PROCESS-NAME,Telegram.exe,تلگرام 💬
+  - PROCESS-NAME,org.telegram.messenger,تلگرام 💬
+  - PROCESS-NAME,org.telegram.messenger.web,تلگرام 💬
+  - IP-CIDR,10.10.34.0/24,نوع انتخاب پروکسی 🔀
+  - DOMAIN-SUFFIX,ir,سایتای ایرانی 🇮🇷
+  - GEOIP,ir,سایتای ایرانی 🇮🇷
+  - RULE-SET,apps,سایتای ایرانی 🇮🇷
+  - MATCH,نوع انتخاب پروکسی 🔀
+ntp:
+  enable: true
+  server: time.apple.com
+  port: 123
+  interval: 30
