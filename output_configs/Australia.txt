@@ -1,5 +1,0 @@
-ss://0001691a-e408-461c-9a09-96e46c156bdb@hydrovpnsrv1.craftedrpg.ir:443?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40Aurora_vpn
-ss://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#%40Aurora_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#%40Aurora_vpn
-vless://0001691a-e408-461c-9a09-96e46c156bdb@hydrovpnsrv1.craftedrpg.ir:443?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40Aurora_vpn
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#%40Aurora_vpn
