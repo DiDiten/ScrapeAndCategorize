@@ -1,0 +1,2 @@
+ss://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?mode=auto&path=%2Fadmin%3Fed%3D2048&security=&encryption=none&host=speedy_lool.global.ssl.fastly.net&type=xhttp#it6mnnk5
+vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?mode=auto&path=%2Fadmin%3Fed%3D2048&security=&encryption=none&host=speedy_lool.global.ssl.fastly.net&type=xhttp#it6mnnk5
