@@ -1,5 +1,3 @@
-ss://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20276ms
-ss://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20301ms
-vless://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20276ms
-vless://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20301ms
+ss://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20257ms
+vless://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20257ms
 vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImYua2hpbGVpLmNvTSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJGcmFuY2UiLCJzY3kiOiJhdXRvIiwic25pIjoiZi5raGlsZWkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
