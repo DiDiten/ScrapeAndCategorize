@@ -1,21 +1,18 @@
 ss://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.99:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135011033.sec21org.com#@VIProxys
+ss://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.187.172:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135011033.sec21org.com&fp=chrome#@VIProxys
 ss://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.194:80?security=none&type=ws&host=digitalscientificresearchgroup.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@VIProxys
-ss://55520747-311e-4015-83ce-be46e2060ce3@130.250.137.73:443/?type=ws&encryption=none&flow=&host=ls.bgm2024.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=ls.bgm2024.dpdns.org#@VIProxys
-ss://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.45:443/?type=ws&encryption=none&flow=&host=ls.bgm2024.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=ls.bgm2024.dpdns.org#@VIProxys
-ss://55520747-311e-4015-83ce-be46e2060ce3@160.79.105.78:443/?type=ws&encryption=none&flow=&host=ls.bgm2024.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=ls.bgm2024.dpdns.org#@VIProxys
-ss://55520747-311e-4015-83ce-be46e2060ce3@63.141.128.140:443/?type=ws&encryption=none&flow=&host=ls.bgm2024.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=ls.bgm2024.dpdns.org#@VIProxys
+ss://49d4b99d-7d99-416a-9778-2c75d79100bb@172.66.47.92:443/?type=ws&encryption=none&flow=&host=Work-YUU00.pageS.dEv&path=%2F&security=tls&sni=Work-YUU00.pageS.dEv#@VIProxys
 ss://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443/?type=ws&encryption=none&flow=&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome#@VIProxys
+ss://7300363f-c18f-4bcf-a5a9-2ad35220505e@213.35.108.22:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=buylite.music.apple.com&fp=chrome&security=reality&pbk=IPno1w9GUxhRN2JY_yIka2DNlnuJHQeb3_0yOCM4pQg&sid=3ae54db4833c#@VIProxys
+ss://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495/?type=tcp&encryption=none&flow=&sni=dl.google.com&fp=chrome&security=reality&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#@VIProxys
 ss://9314580d-c11e-4f32-d544-566e6142565a@104.26.12.31:8080/?type=ws&encryption=none&flow=&host=0612.heweiyi.dpdns.org&path=%2F#@VIProxys
+ss://9314580d-c11e-4f32-d544-566e6142565a@172.67.75.172:8080/?type=ws&encryption=none&flow=&host=0612.heweiyi.dpdns.org&path=%2F#@VIProxys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#@VIProxys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#@VIProxys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#@VIProxys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#%40V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%40V2RAYROZ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%40V2RAYROZ💠@V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU=@5.187.51.212:40030#@VIProxys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%40V2RAYROZ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%40V2RAYROZ💠@V2RAYROZ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#TeleProxyTele
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%40V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40V2RAYROZ%20%7C@V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%40V2RAYROZ💠@V2RAYROZ
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.99:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135011033.sec21org.com#@VIProxys
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.187.172:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135011033.sec21org.com&fp=chrome#@VIProxys
