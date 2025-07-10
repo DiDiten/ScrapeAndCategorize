@@ -23,11 +23,11 @@ ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryp
 ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM&headerType=http&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#🆔vpn4everyone%20🔒%20VL-XHTTP-%20🇩🇪%20DE%20down
+ss://85387693-7c6c-48f1-a8dd-48d67bfb4012@91.99.234.129:38385?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://8d79afe9-30be-4d5b-9c2e-b8559bb2d990@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=&encryption=none&host=mmad-patrick.global.ssl.fastly.net&type=xhttp#🆔oxnet_ir%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 ss://8d79afe9-30be-4d5b-9c2e-b8559bb2d990@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=none&encryption=none&host=mmad-patrick.global.ssl.fastly.net&type=xhttp#🆔vpn4everyone%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#🆔vpn4everyone%20🔒%20SS-TCP-TLS%20🇸🇪%20SE%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@85.210.223.82:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔vpn4everyone%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.165.94.205:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
@@ -67,6 +67,7 @@ vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&enc
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM&headerType=http&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&path=%2Fv2raybluecrystal&security=reality&encryption=none&pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&host=v2raybluecrystal.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5426024033df45#🆔vpn4everyone%20🔒%20VL-XHTTP-%20🇩🇪%20DE%20down
+vless://85387693-7c6c-48f1-a8dd-48d67bfb4012@91.99.234.129:38385?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://8d79afe9-30be-4d5b-9c2e-b8559bb2d990@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=&encryption=none&host=mmad-patrick.global.ssl.fastly.net&type=xhttp#🆔oxnet_ir%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 vless://8d79afe9-30be-4d5b-9c2e-b8559bb2d990@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=none&encryption=none&host=mmad-patrick.global.ssl.fastly.net&type=xhttp#🆔vpn4everyone%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 vless://aaf7709c-4f6a-45d4-8c79-e9917dfca010@Irancloud.okamii.ir:2095?security=&encryption=none&headerType=&type=tcp#🆔asrnovin_ir%20🔓%20VL-TCP-N/A%20🇱🇰%20LK%20down
