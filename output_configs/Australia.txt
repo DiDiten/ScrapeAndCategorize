@@ -1,0 +1,2 @@
+ss://612c98e8-8f3e-4cd9-b4fb-ca86b8295313@au-1-rvp.medicaldream.ir:443?security=tls&sni=au-1-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=au-1-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20WSCT%20-%20AU%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+vless://612c98e8-8f3e-4cd9-b4fb-ca86b8295313@au-1-rvp.medicaldream.ir:443?security=tls&sni=au-1-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=au-1-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20WSCT%20-%20AU%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
