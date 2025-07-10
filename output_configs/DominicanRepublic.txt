@@ -12,6 +12,8 @@ ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&encr
 ss://346264b7-975c-4891-8f7b-dcd6e5707a42@kernel.panel.cactusv2.xyz:4434?type=grpc&mode=multi&serviceName=cactusservice&security=reality&fp=chrome&sni=journalofbigdata.springeropen.com&pbk=qlXAzsjjzUjqcfuZcd-oUlLLIFVEVqs454P_F3BvQwI&sid=f10dcd45&spx=%2F#🆔fr33c0nfig%20🔒%20VL-GRPC-%20🇳🇱%20NL%20down
 ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+ss://397d3af1-ab9e-4239-8494-cba34fc8534e@94.130.170.105:30864?security=none&encryption=none&host=ripe.net&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+ss://440e80b3-8122-4e56-b5bf-9b92bd79a510@Op.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://489ed7c4-103d-46a9-9a3e-370e0af56976@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=&encryption=none&host=mmad-jeta.global.ssl.fastly.net&type=xhttp#🆔oxnet_ir%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 ss://6b436c99-bd25-4c66-af50-55c9a1c5d7f6@c4.spadgaming.ir:8283?security=none&encryption=none&headerType=none&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://6d05705a-54b9-41ca-94fb-d70bbcf861a5@188.227.84.78:8443?security=reality&encryption=none&pbk=M9324bKRwuFoPbjfhXHmCdRa3gZdXtYPJAN5sSX1JHU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=08d8a4e0#🆔oxnet_ir%20🔒%20VL-TCP-%20🇳🇱%20NL%20down
@@ -27,9 +29,7 @@ ss://8d79afe9-30be-4d5b-9c2e-b8559bb2d990@fast.peace.lemoex.blog:80?mode=auto&pa
 ss://8d79afe9-30be-4d5b-9c2e-b8559bb2d990@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=none&encryption=none&host=mmad-patrick.global.ssl.fastly.net&type=xhttp#🆔vpn4everyone%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05UcEtZMU5WV1hCbmNsWk5ablJqVVZodE9HTnFkMjltYkhGUE1tMU1SV1F3Y1ZsSFYxRktValZ1Y1VNMFBRJTNEJTNEOg==@david.lemoex.blog:8080#🆔express_freevpn%20🔒%20SS-TCP-TLS%20🇩🇪%20DE%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#🆔vpn4everyone%20🔒%20SS-TCP-TLS%20🇸🇪%20SE%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.188.29:443#🆔express_freevpn%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#🆔express_freevpn%20🔒%20SS-TCP-TLS%20🇷🇺%20RU%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.165.94.205:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@131.145.123.5:443#🆔vpn4everyone%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
@@ -58,6 +58,8 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&e
 vless://346264b7-975c-4891-8f7b-dcd6e5707a42@kernel.panel.cactusv2.xyz:4434?type=grpc&mode=multi&serviceName=cactusservice&security=reality&fp=chrome&sni=journalofbigdata.springeropen.com&pbk=qlXAzsjjzUjqcfuZcd-oUlLLIFVEVqs454P_F3BvQwI&sid=f10dcd45&spx=%2F#🆔fr33c0nfig%20🔒%20VL-GRPC-%20🇳🇱%20NL%20down
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+vless://397d3af1-ab9e-4239-8494-cba34fc8534e@94.130.170.105:30864?security=none&encryption=none&host=ripe.net&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+vless://440e80b3-8122-4e56-b5bf-9b92bd79a510@Op.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://489ed7c4-103d-46a9-9a3e-370e0af56976@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=&encryption=none&host=mmad-jeta.global.ssl.fastly.net&type=xhttp#🆔oxnet_ir%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 vless://6b436c99-bd25-4c66-af50-55c9a1c5d7f6@c4.spadgaming.ir:8283?security=none&encryption=none&headerType=none&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://6d05705a-54b9-41ca-94fb-d70bbcf861a5@188.227.84.78:8443?security=reality&encryption=none&pbk=M9324bKRwuFoPbjfhXHmCdRa3gZdXtYPJAN5sSX1JHU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=08d8a4e0#🆔oxnet_ir%20🔒%20VL-TCP-%20🇳🇱%20NL%20down
