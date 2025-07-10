@@ -1,5 +1,8 @@
+ss://02690c4d-fa55-4bbe-9703-10e027562bf2@91.107.180.100:45489?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40skiVpn%E2%81%B4%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%8F%82
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40skiVpn%C2%B9%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%8F%82
 ss://c87e429a-5ada-47b1-b4e5-d170648a1e6e@104.18.26.90:8080?encryption=none&security=none&type=ws&host=h4.GraSsoRy.shop&path=%2F#KIAN-7
 ss://c87e429a-5ada-47b1-b4e5-d170648a1e6e@104.18.26.90:8080?encryption=none&security=none&type=ws&host=h4.GraSsory.shop&path=%2F#KIAN-6
+vless://02690c4d-fa55-4bbe-9703-10e027562bf2@91.107.180.100:45489?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40skiVpn%E2%81%B4%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%8F%82
 vless://c87e429a-5ada-47b1-b4e5-d170648a1e6e@104.18.26.90:8080?encryption=none&security=none&type=ws&host=h4.GraSsoRy.shop&path=%2F#KIAN-7
 vless://c87e429a-5ada-47b1-b4e5-d170648a1e6e@104.18.26.90:8080?encryption=none&security=none&type=ws&host=h4.GraSsory.shop&path=%2F#KIAN-6
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIktJQU4tMSIsDQogICJhZGQiOiAiMTA0LjE4LjI2LjkwIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiOTVhYmZhNTAtZjFkOS00ZTdkLThhN2EtNTBjMmVlOWE3MzY1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJoNC5HcmFTc29yeS5zaG9wIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
