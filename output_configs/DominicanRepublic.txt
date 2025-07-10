@@ -1,7 +1,6 @@
 ss://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-ss://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?security=none&encryption=none&host=confingplus&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+ss://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔anty_filter%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
-ss://0cb5df67-bd29-4d1b-a311-1c7e92f7d2c8@amirt1.amirmh.shop:2083?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://10ef892d-9026-428a-8691-a7ddc14879e6@ka.pilebaghala.top:1237?security=reality&encryption=none&pbk=O2Au0u6WmVby1LqsE9sohM-QKS7T6_6W5M4L4_FpGT0&headerType=none&fp=firefox&spx=%2Foauth20_authorize.srf&type=tcp&sni=call1.tgju.org&sid=b7ac#🆔speeds_vpn1%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://1625ad92-8b3a-44b5-a719-08a5a73fd3af@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&security=&encryption=none&host=Aeza.net&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20❔%20XX%20down
@@ -13,6 +12,7 @@ ss://346264b7-975c-4891-8f7b-dcd6e5707a42@kernel.panel.cactusv2.xyz:4434?type=gr
 ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://489ed7c4-103d-46a9-9a3e-370e0af56976@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=&encryption=none&host=mmad-jeta.global.ssl.fastly.net&type=xhttp#🆔oxnet_ir%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
+ss://6683e519-99b1-4df8-9d20-f39a2a7ed1b0@217.60.236.41:3134?path=%2F&security=none&encryption=none&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
 ss://6b436c99-bd25-4c66-af50-55c9a1c5d7f6@c4.spadgaming.ir:8283?security=none&encryption=none&headerType=none&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://6d05705a-54b9-41ca-94fb-d70bbcf861a5@188.227.84.78:8443?security=reality&encryption=none&pbk=M9324bKRwuFoPbjfhXHmCdRa3gZdXtYPJAN5sSX1JHU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=08d8a4e0#🆔oxnet_ir%20🔒%20VL-TCP-%20🇳🇱%20NL%20down
 ss://76ed13e5-b315-4055-971a-7accddae57a5@svir1.craftedsmp.ir:443?security=none&encryption=none&host=anten.ir&headerType=none&type=tcp#🆔oxnet_ir%20🔓%20VL-TCP-N/A%20❔%20XX%20down
@@ -43,9 +43,8 @@ ss://dfa6d4e8-6448-c007-d480-0ce73c7461a5@moshkel-dari.com.studentcp.ir:49371?se
 ss://e766c326-69fc-4f8e-b62e-0b8308999d52@91.99.156.174:58382?security=reality&encryption=none&pbk=Cnofk5A5RVK2iDxlBkZY72er8JY-VdRjya8920MvsFg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=cfdee2f6c5a3a6#🆔oxnet_ir%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
 ss://f73e9865-80c3-45ba-8391-597139c37bdc@91.99.129.82:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔oxnet_ir%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-vless://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?security=none&encryption=none&host=confingplus&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔anty_filter%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
-vless://0cb5df67-bd29-4d1b-a311-1c7e92f7d2c8@amirt1.amirmh.shop:2083?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://10ef892d-9026-428a-8691-a7ddc14879e6@ka.pilebaghala.top:1237?security=reality&encryption=none&pbk=O2Au0u6WmVby1LqsE9sohM-QKS7T6_6W5M4L4_FpGT0&headerType=none&fp=firefox&spx=%2Foauth20_authorize.srf&type=tcp&sni=call1.tgju.org&sid=b7ac#🆔speeds_vpn1%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://1625ad92-8b3a-44b5-a719-08a5a73fd3af@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&security=&encryption=none&host=Aeza.net&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20❔%20XX%20down
@@ -57,6 +56,7 @@ vless://346264b7-975c-4891-8f7b-dcd6e5707a42@kernel.panel.cactusv2.xyz:4434?type
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://489ed7c4-103d-46a9-9a3e-370e0af56976@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=&encryption=none&host=mmad-jeta.global.ssl.fastly.net&type=xhttp#🆔oxnet_ir%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
+vless://6683e519-99b1-4df8-9d20-f39a2a7ed1b0@217.60.236.41:3134?path=%2F&security=none&encryption=none&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
 vless://6b436c99-bd25-4c66-af50-55c9a1c5d7f6@c4.spadgaming.ir:8283?security=none&encryption=none&headerType=none&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://6d05705a-54b9-41ca-94fb-d70bbcf861a5@188.227.84.78:8443?security=reality&encryption=none&pbk=M9324bKRwuFoPbjfhXHmCdRa3gZdXtYPJAN5sSX1JHU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=08d8a4e0#🆔oxnet_ir%20🔒%20VL-TCP-%20🇳🇱%20NL%20down
 vless://76ed13e5-b315-4055-971a-7accddae57a5@svir1.craftedsmp.ir:443?security=none&encryption=none&host=anten.ir&headerType=none&type=tcp#🆔oxnet_ir%20🔓%20VL-TCP-N/A%20❔%20XX%20down
@@ -78,4 +78,3 @@ vless://dfa6d4e8-6448-c007-d480-0ce73c7461a5@185.49.105.26:39822?security=none&t
 vless://dfa6d4e8-6448-c007-d480-0ce73c7461a5@moshkel-dari.com.studentcp.ir:49371?security=none&type=tcp&headerType=http&path=%2F&host=aparat.com#🆔fr33c0nfig%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://e766c326-69fc-4f8e-b62e-0b8308999d52@91.99.156.174:58382?security=reality&encryption=none&pbk=Cnofk5A5RVK2iDxlBkZY72er8JY-VdRjya8920MvsFg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=cfdee2f6c5a3a6#🆔oxnet_ir%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
 vless://f73e9865-80c3-45ba-8391-597139c37bdc@91.99.129.82:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔oxnet_ir%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
-vmess://eyJhZGQiOiI5My4xMTUuMTcyLjE3NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2hleXBvb3IuY29tIiwiaWQiOiIwNTZkM2QzNS1hNzI5LTRhYjQtYmJhZS1kNzFkODQ1OGFmMTkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMTI1NDAiLCJwcyI6Ilx1ZDgzY1x1ZGQ5NHYycmF5MV9uZyBcdWQ4M2RcdWRkMTMgVk0tVENQLU5cL0EgXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIE5MIGRvd24iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
