@@ -1,2 +1,4 @@
+ss://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?security=none&encryption=none&headerType=none&type=tcp#%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%88%20%D8%B1%D9%88%D8%A8%DB%8C%DA%A9%D8%A7%20%F0%9F%8C%AA%EF%B8%8F%F0%9F%92%A5%20v2box_config
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%40server_nekobox
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40server_nekobox
+vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?security=none&encryption=none&headerType=none&type=tcp#%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%88%20%D8%B1%D9%88%D8%A8%DB%8C%DA%A9%D8%A7%20%F0%9F%8C%AA%EF%B8%8F%F0%9F%92%A5%20v2box_config
