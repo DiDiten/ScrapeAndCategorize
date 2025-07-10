@@ -1,2 +1,0 @@
-ss://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=mylearn-8zx.pages.dev&fp=random&type=ws&sni=mylearn-8zx.pages.dev#🆔mrsoulb%20🔒%20VL-WS-N/A%20🇨🇷%20CR%202ms
-vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=mylearn-8zx.pages.dev&fp=random&type=ws&sni=mylearn-8zx.pages.dev#🆔mrsoulb%20🔒%20VL-WS-N/A%20🇨🇷%20CR%202ms
