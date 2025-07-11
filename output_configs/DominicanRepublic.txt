@@ -34,6 +34,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#🆔express_freevpn%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#🆔express_freevpn%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5clp0VUVsR2hMOHhmZWFOMGhJSXpR@193.228.139.250:1080#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇩🇪%20DE%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@74.177.199.135:443#🆔express_freevpn%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://c264aa9e-ade2-43c9-be14-ff25059fd107@91.99.104.110:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔oxnet_ir%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
