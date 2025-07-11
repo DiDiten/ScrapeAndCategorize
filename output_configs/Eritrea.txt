@@ -1,4 +1,5 @@
 ss://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#%40Fserverd_vpn
+ss://0a38192c-599f-46ac-a2c0-77dc75bd88a7@193.111.76.78:2082?encryption=none&security=none&type=ws&host=bam.ir&path=%2F%3Fed%3D2052#%F0%9F%9F%A2%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%20%DA%A9%D8%A7%D9%86%DA%A9%D8%AA%20%D8%A8%D9%85%D9%88%D9%86%DB%8C%3A%20%40nethers_vpn
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20113ms
 ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20113ms
 ss://69e67252-c0c2-4c16-a811-40864cb5c87a@ir01.oghabvps.com:2096?path=%2F&security=none&encryption=none&type=ws#🆔vpn4everyone%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20146ms
@@ -23,6 +24,7 @@ ss://d843b700-0e0d-5ad9-72d9-46ced5785cd1@komaki.sibrayane.store:2054?security=n
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔vpn4everyone%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20105ms
 trojan://e1af7ee1-4be9-4d82-ad25-695ce8d6c9de@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#🆔vpn4everyone%20🔒%20TR-GRPC-N/A%20🇮🇷%20IR%20182ms
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#%40Fserverd_vpn
+vless://0a38192c-599f-46ac-a2c0-77dc75bd88a7@193.111.76.78:2082?encryption=none&security=none&type=ws&host=bam.ir&path=%2F%3Fed%3D2052#%F0%9F%9F%A2%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%20%DA%A9%D8%A7%D9%86%DA%A9%D8%AA%20%D8%A8%D9%85%D9%88%D9%86%DB%8C%3A%20%40nethers_vpn
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20113ms
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20113ms
 vless://69e67252-c0c2-4c16-a811-40864cb5c87a@ir01.oghabvps.com:2096?path=%2F&security=none&encryption=none&type=ws#🆔vpn4everyone%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20146ms
@@ -31,4 +33,5 @@ vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?security=none&e
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@komaki.sibrayane.store:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20328ms
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@komaki.sibrayane.store:2054?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20318ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔vpn4everyone%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20105ms
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLaqdin2YbZgduM2q8g2KzYp9uM2LLZhyAtINi52LbZiCDYtNmIIEBzaWx2ZXJfdHVubmVsIiwKICAiYWRkIjogIjg3LjI0OC4xNTQuMTMzIiwKICAicG9ydCI6IDQ2MjY0LAogICJpZCI6ICI3ODEwMjg4MC04ZGU5LTRhZDItYjhiNS1iMmM3ZTAwOGU1NDIiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIKfQ==
 vmess://eyJhZGQiOiJ0ZWNoLnRlMTQ1MC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI4ZGI2MzhiOS0xMTNhLTRlMjctOGU1Yy1jNjM1MmQ0YmU5ZDQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4OCIsInBzIjoiXHVkODNjXHVkZDk0dnBuc2VydmVycnIgXHVkODNkXHVkZDEzIFZNLVRDUC1OXC9BIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJUiAyOTJtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
