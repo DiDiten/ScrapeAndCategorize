@@ -5,9 +5,9 @@ ss://32895c66-fe57-49ad-ba5a-1936f2d5a7a8@m1.darkkabir.site:8080?path=%2F&securi
 ss://5011a449-a2f9-4a98-a0da-7ef0d927e3d2@50.7.87.86:443?path=%2Fhajmi%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=nb-fi.nitter.ir&fp=chrome&type=ws&sni=nitter.ir#🆔oxnet_ir%20🔒%20VL-WS-N/A%20🇩🇪%20DE%20124ms
 ss://62915088-0f71-4592-bf82-3f02d4db1239@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Germany.ss.ss&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20108ms
 ss://83b3d135-0ab9-4898-8fbf-b0334681b8fb@146.75.55.82:80?path=%2Fdownload%3Fed%3D2560&security=&encryption=none&host=rtakp.ir&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20110ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2027%20days
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM5MDM@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2027%20days
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk4Mzc@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2027%20days
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2026%20days
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM5MDM@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2026%20days
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk4Mzc@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2026%20days
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#🆔oxnet_ir%20🔒%20SS-TCP-TLS%20🇩🇪%20DE%20107ms
 ss://caaf0e88-9139-48c2-b712-fcacde7a3a45@ping.hamzah.shop:31086?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔oxnet_ir%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20344ms
 vless://2k5piwlwxg@104.18.26.90:2053?encryption=none&security=tls&sni=2k5piwlwxg-259134157.khastehnabashi.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=2k5piwlwxg-259134157.khastehnabashi.com&path=%2Favoro%2Fcdn#NASNET%20%7C%203
