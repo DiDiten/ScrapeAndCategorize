@@ -1,4 +1,0 @@
-ss://4beb7608-6bd0-4a40-a74a-47df46bd6f73@uae-01.cloxynode.com:35515?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=&fp=chrome#UAE-Dubai-01
-ss://784ff7cf-86ba-4a8d-acf2-f5e881a73903@uae-01.cloxynode.com:35515?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=&fp=chrome#UAE-Dubai-01
-vless://4beb7608-6bd0-4a40-a74a-47df46bd6f73@uae-01.cloxynode.com:35515?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=&fp=chrome#UAE-Dubai-01
-vless://784ff7cf-86ba-4a8d-acf2-f5e881a73903@uae-01.cloxynode.com:35515?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=&fp=chrome#UAE-Dubai-01
