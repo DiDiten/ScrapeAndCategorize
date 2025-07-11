@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZmNzM@vn-01.cloxynode.com:35515#VN-Hanoi-01
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM5MDM@vn-01.cloxynode.com:35515#VN-Hanoi-01
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk4Mzc@vn-01.cloxynode.com:35515#VN-Hanoi-01
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@vn-01.cloxynode.com:35515#VN-Hanoi-01
 wireguard://QEVkHK4j7aNKNWpAQfRn8mO%2BZ9Bkdv2y11cAUbdgZ2c%3D@188.114.99.25:955?address=172.16.0.2%2F32&reserved=111%2C45%2C194&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
 wireguard://UMdoTOoTt6LDelnhwHuTDb%2BOdHo0pLP72ZSfAcE1LWc%3D@188.114.96.161:988?address=172.16.0.2%2F32&reserved=82%2C170%2C166&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon1
 wireguard://eOtcPqasJlwRLQ30FU6JvMBMOYIqU9IzGvP1utxgo3Y%3D@188.114.96.220:1018?address=172.16.0.2%2F32&reserved=201%2C244%2C195&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon2

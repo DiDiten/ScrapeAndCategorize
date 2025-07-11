@@ -9,7 +9,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YmViNzYwOC02YmQwLTRhNDAtYTc0YS00N2RmNDZiZDZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODRmZjdjZi04NmJhLTRhOGQtYWNmMi1mNWU4ODFhNzM5MDM@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2027%20days
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Nzk2YjI3OC03MDljLTRmYTctOWFhNC00YTRkZThkZTk4Mzc@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2027%20days
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#🆔oxnet_ir%20🔒%20SS-TCP-TLS%20🇩🇪%20DE%20122ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTk0YzI2Yi0zM2I3LTQ4MmItYjczMy1hYzc4OGZmZDQ4ZWQ@us-01.cloxynode.com:35515#Time%20remaining%20until%20next%20reset%3A%2027%20days
 ss://caaf0e88-9139-48c2-b712-fcacde7a3a45@ping.hamzah.shop:31086?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔oxnet_ir%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20325ms
 vless://2k5piwlwxg@104.18.26.90:2053?encryption=none&security=tls&sni=2k5piwlwxg-259134157.khastehnabashi.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=2k5piwlwxg-259134157.khastehnabashi.com&path=%2Favoro%2Fcdn#NASNET%20%7C%203
 vless://2k5piwlwxg@2k5piwlwxg-259134157-direct.khastehnabashi.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=2k5piwlwxg-259134157-direct.khastehnabashi.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=none#NASNET%20%7C%201
