@@ -9,6 +9,7 @@ ss://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@45.131.5.70:443?path=%2FTel-%40V2ray_A
 ss://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@www.speedtest.net:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=freedom.zistarvinbiotech.ir&fp=randomized&type=ws&sni=FREEDOm.ZiStarvInbioTeCh.ir#@meli_proxyy
 ss://0aec2ba3-6201-4605-83e9-3a4b1c88f04a@109.207.172.165:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
 ss://146518a9-c8b5-43f2-a3e2-3fb3b697369a@ep1.rolexcloud.net:443?mode=auto&path=%2Fasiatech.ir&security=reality&encryption=none&pbk=gAwjo7y5nfNWyQIKu8BZSeEHyx03bTJymjVzEFRmahk&host=ep1.rolexcloud.net&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=13664108#@meli_proxyy
+ss://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.188.29:443#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI%3D@92.38.171.215:31348#@meli_proxyy
 trojan://100b5163-fbb8-425d-9621-44d119555aa4@104.21.75.120:2053?path=%2FtrWCuRIwSn9S6fDZGE%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&security=tls&alpn=http%2F1.1&host=mahsa2.cfform.site&fp=randomized&type=ws&sni=MaHSA2.cffoRm.SitE#@meli_proxyy
@@ -23,3 +24,4 @@ vless://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@45.131.5.70:443?path=%2FTel-%40V2ra
 vless://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@www.speedtest.net:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=freedom.zistarvinbiotech.ir&fp=randomized&type=ws&sni=FREEDOm.ZiStarvInbioTeCh.ir#@meli_proxyy
 vless://0aec2ba3-6201-4605-83e9-3a4b1c88f04a@109.207.172.165:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
 vless://146518a9-c8b5-43f2-a3e2-3fb3b697369a@ep1.rolexcloud.net:443?mode=auto&path=%2Fasiatech.ir&security=reality&encryption=none&pbk=gAwjo7y5nfNWyQIKu8BZSeEHyx03bTJymjVzEFRmahk&host=ep1.rolexcloud.net&fp=chrome&spx=%2F&type=xhttp&sni=yahoo.com&sid=13664108#@meli_proxyy
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
