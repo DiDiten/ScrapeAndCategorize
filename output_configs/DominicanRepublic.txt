@@ -1,6 +1,7 @@
 ss://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+ss://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?security=none&encryption=none&host=confingplus&headerType=http&type=tcp#🆔express_freevpn%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔anty_filter%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.84.87:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇫🇷%20FR%20down
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.166.9:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇩🇪%20DE%20down
 ss://10ef892d-9026-428a-8691-a7ddc14879e6@ka.pilebaghala.top:1237?security=reality&encryption=none&pbk=O2Au0u6WmVby1LqsE9sohM-QKS7T6_6W5M4L4_FpGT0&headerType=none&fp=firefox&spx=%2Foauth20_authorize.srf&type=tcp&sni=call1.tgju.org&sid=b7ac#🆔speeds_vpn1%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://1625ad92-8b3a-44b5-a719-08a5a73fd3af@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&security=&encryption=none&host=Aeza.net&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20❔%20XX%20down
@@ -35,8 +36,9 @@ ss://dfa6d4e8-6448-c007-d480-0ce73c7461a5@moshkel-dari.com.studentcp.ir:49371?se
 ss://e766c326-69fc-4f8e-b62e-0b8308999d52@91.99.156.174:58382?security=reality&encryption=none&pbk=Cnofk5A5RVK2iDxlBkZY72er8JY-VdRjya8920MvsFg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=cfdee2f6c5a3a6#🆔oxnet_ir%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
 ss://f73e9865-80c3-45ba-8391-597139c37bdc@91.99.129.82:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔oxnet_ir%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+vless://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?security=none&encryption=none&host=confingplus&headerType=http&type=tcp#🆔express_freevpn%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔anty_filter%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.84.87:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇫🇷%20FR%20down
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.166.9:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇩🇪%20DE%20down
 vless://10ef892d-9026-428a-8691-a7ddc14879e6@ka.pilebaghala.top:1237?security=reality&encryption=none&pbk=O2Au0u6WmVby1LqsE9sohM-QKS7T6_6W5M4L4_FpGT0&headerType=none&fp=firefox&spx=%2Foauth20_authorize.srf&type=tcp&sni=call1.tgju.org&sid=b7ac#🆔speeds_vpn1%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://1625ad92-8b3a-44b5-a719-08a5a73fd3af@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&security=&encryption=none&host=Aeza.net&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20❔%20XX%20down
