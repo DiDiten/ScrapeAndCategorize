@@ -1,7 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔kvetch_matin%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2080ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🆔kvetch_matin%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2078ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#🆔kvetch_matin%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2080ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔kvetch_matin%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2080ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#🆔kvetch_matin%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2080ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔kvetch_matin%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20149ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#🆔kvetch_matin%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20149ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#🆔kvetch_matin%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20149ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔kvetch_matin%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20149ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#🆔kvetch_matin%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20151ms
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-21-TIR-1404
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Sat-21-TIR-1404
