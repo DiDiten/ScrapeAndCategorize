@@ -1,6 +1,8 @@
 ss://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#%D9%82%D8%A8%D9%84%20%D9%85%D9%84%DB%8C%20%D8%B4%D8%AF%D9%86%20%D9%86%D8%AA%20%D8%B9%D8%B6%D9%88%20%D8%B4%DB%8C%D8%AF%20%F0%9F%9A%80%F0%9F%9A%80%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%AE%F0%9F%87%B7
-ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20887ms
+ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20617ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20299ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20535ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20513ms
+ss://c864efe6-e460-42f9-a74c-02737c19d858@194.135.46.24:443?type=tcp&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20163ms
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#%D9%82%D8%A8%D9%84%20%D9%85%D9%84%DB%8C%20%D8%B4%D8%AF%D9%86%20%D9%86%D8%AA%20%D8%B9%D8%B6%D9%88%20%D8%B4%DB%8C%D8%AF%20%F0%9F%9A%80%F0%9F%9A%80%F0%9F%87%AE%F0%9F%87%B7%F0%9F%87%AE%F0%9F%87%B7
-vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20887ms
+vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20617ms
+vless://c864efe6-e460-42f9-a74c-02737c19d858@194.135.46.24:443?type=tcp&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20163ms
