@@ -1,4 +1,2 @@
-ss://923e670e-647d-4e42-bf53-63c27d6c99a0@log.twixspace.com:443?mode=gun&security=reality&encryption=none&pbk=dUCso1FAr-zors9NhEC__IqYI3fEjyfLvRqksj9lmxw&fp=chrome&type=grpc&sni=wordpress.org&sid=f99c4b933314ec6d#🆔proxyiranip%20🔒%20VL-GRPC-%20🇹🇷%20TR%20182ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%2097ms
-vless://923e670e-647d-4e42-bf53-63c27d6c99a0@log.twixspace.com:443?mode=gun&security=reality&encryption=none&pbk=dUCso1FAr-zors9NhEC__IqYI3fEjyfLvRqksj9lmxw&fp=chrome&type=grpc&sni=wordpress.org&sid=f99c4b933314ec6d#🆔proxyiranip%20🔒%20VL-GRPC-%20🇹🇷%20TR%20182ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%2097ms
