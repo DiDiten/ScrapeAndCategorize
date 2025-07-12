@@ -1,2 +1,0 @@
-ss://1a5f369a-6ade-4809-b35a-75847938b537@s7.nimhub.ir:24443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%40MyProooxy+%F0%9F%A9%B5%F0%9F%90%A6
-vless://1a5f369a-6ade-4809-b35a-75847938b537@s7.nimhub.ir:24443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%40MyProooxy+%F0%9F%A9%B5%F0%9F%90%A6
