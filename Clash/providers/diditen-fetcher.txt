@@ -1,111 +1,19 @@
-Global-client-fingerprint: chrome
 port: 7890
 socks-port: 7891
-redir-port: 7892
-mixed-port: 7893
-tproxy-port: 7894
 allow-lan: true
-tcp-concurrent: true
-enable-process: true
-find-process-mode: strict
-ipv6: true
-log-level: debug
-geo-auto-update: true
-geo-update-interval: 168
-secret: ""
-bind-address: "*"
-unified-delay: false
-disable-keep-alive: false
-keep-alive-idle: 30
-keep-alive-interval: 30
-profile:
-  store-selected: true
-  store-fake-ip: true
+mode: rule
+log-level: info
+external-controller: :9090
 dns:
   enable: true
-  ipv6: true
-  respect-rules: false
-  prefer-h3: false
-  cache-algorithm: arc
-  use-system-hosts: true
-  use-host: true
-  listen: 0.0.0.0:53
-  enhanced-mode: fake-ip
-  fake-ip-filter-mode: blacklist
-  fake-ip-range: 198.18.0.1/16
-  fake-ip-filter:
-    - "*.lan"
-    - "*.localdomain"
-    - "*.invalid"
-    - "*.localhost"
-    - "*.test"
-    - "*.local"
-    - "*.home.arpa"
-    - time.*.com
-    - ntp.*.com
-    - "*.ir"
-  default-nameserver:
-    - 8.8.8.8
-    - 8.8.4.4
-    - 1.0.0.1
-    - 1.1.1.1
-    - 9.9.9.9
-    - 9.9.9.11
-    - 9.9.9.10
-    - 94.140.14.15
-    - 94.140.15.15
-    - 223.5.5.5
-    - 77.88.8.8
-    - 208.67.222.222
-    - 208.67.220.220
-    - 209.244.0.3
-    - 209.224.0.4
-    - 74.82.42.42
   nameserver:
-    - https://dns.nextdns.io/15441b
-    - tls://15441b.dns.nextdns.io
-  direct-nameserver:
-    - 78.157.42.100
-    - 78.157.42.101
-  proxy-server-nameserver:
-    - 1.1.1.1
+    - 119.29.29.29
+    - 223.5.5.5
+  fallback:
     - 8.8.8.8
     - 8.8.4.4
-    - 9.9.9.9
-    - 223.5.5.5
-    - 77.88.8.8
-    - 208.67.222.222
-    - 208.67.220.220
-    - 209.244.0.3
-    - 209.224.0.4
-    - 74.82.42.42
-sniffer:
-  enable: true
-  force-dns-mapping: true
-  parse-pure-ip: true
-  override-destination: false
-  sniff:
-    HTTP:
-      ports: [80, 8080, 8880, 2052, 2082, 2086, 2095]
-    TLS:
-      ports: [443, 8443, 2053, 2083, 2087, 2096]
-tun:
-  enable: true
-  stack: mixed
-  auto-route: true
-  auto-detect-interface: true
-  auto-redir: true
-  dns-hijack:
-    - any:53
-    - tcp://any:53
-rule-providers:
-  apps:
-    type: http
-    format: yaml
-    behavior: classical
-    url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/apps.yaml
-    path: ./ruleset/apps.yaml
-    interval: 86400
+    - tls://1.0.0.1:853
+    - tls://dns.google:853
 proxies:
   - {name: vless-715152b3 (Armenia), server: 5.10.214.138, port: 8880, client-fingerprint: chrome, type: vless, uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049, tls: true, tfo: false, skip-cert-verify: false, servername: 5.10.214.138, network: ws, ws-opts: {path: "Telegram🇮🇷 @ShadowProxy66 /?ed=2560", headers: {Host: reedfree8mahsang2.redorg.ir}}, udp: true}
   - {name: vless-89f6ec3a (Belize), server: 45.131.211.135, port: 8880, client-fingerprint: chrome, type: vless, uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049, tls: true, tfo: false, skip-cert-verify: false, servername: 45.131.211.135, network: ws, ws-opts: {path: "/Channel id: @ShadowProxy66?ed=2560", headers: {Host: reedfree8mahsang2.redorg.ir}}, udp: true}
@@ -418,16 +326,11 @@ proxies:
   - {name: 🇺🇸 vless-ed223b79 (United States), server: power.teampluss.ir, port: 80, client-fingerprint: chrome, type: vless, uuid: 1445889a-5fa6-4de3-b09a-918a37d000c1, tls: true, tfo: false, skip-cert-verify: false, servername: power.teampluss.ir, network: ws, ws-opts: {path: "/Pak91jqn-Mehskl.ir.shop.com?ed=2048", headers: {Host: Boy9ja.abdo.fr}}, udp: true}
   - {name: 🇺🇸 vless-fc12c823 (United States), server: 151.101.67.8, port: 80, client-fingerprint: chrome, type: vless, uuid: 8088c605-e0c2-4774-9ee4-7fa7e47b6112, tls: true, tfo: false, skip-cert-verify: false, servername: 151.101.67.8, network: tcp, udp: true}
 proxy-groups:
-  - name: نوع انتخاب پروکسی 🔀
+  - name: 🔰 节点选择
     type: select
     proxies:
-      - خودکار (بهترین پینگ) 🤖
-      - دستی 🤏🏻
-      - پشتیبان (در صورت قطعی) 🧯
-      - بدون فیلترشکن 🛡️
-  - name: دستی 🤏🏻
-    type: select
-    proxies:
+      - ♻️ 自动选择
+      - 🎯 全球直连
       - vless-715152b3 (Armenia)
       - vless-89f6ec3a (Belize)
       - vless-b373c141 (Belize)
@@ -738,10 +641,10 @@ proxy-groups:
       - 🇺🇸 vless-d7306d74 (United States)
       - 🇺🇸 vless-ed223b79 (United States)
       - 🇺🇸 vless-fc12c823 (United States)
-  - name: خودکار (بهترین پینگ) 🤖
+  - name: ♻️ 自动选择
     type: url-test
-    url: http://cp.cloudflare.com/generate_204
-    interval: 600
+    url: http://www.gstatic.com/generate_204
+    interval: 300
     proxies:
       - vless-715152b3 (Armenia)
       - vless-89f6ec3a (Belize)
@@ -1053,11 +956,12 @@ proxy-groups:
       - 🇺🇸 vless-d7306d74 (United States)
       - 🇺🇸 vless-ed223b79 (United States)
       - 🇺🇸 vless-fc12c823 (United States)
-  - name: پشتیبان (در صورت قطعی) 🧯
-    type: fallback
-    url: http://cp.cloudflare.com/generate_204
-    interval: 600
+  - name: 🌍 国外媒体
+    type: select
     proxies:
+      - 🔰 节点选择
+      - ♻️ 自动选择
+      - 🎯 全球直连
       - vless-715152b3 (Armenia)
       - vless-89f6ec3a (Belize)
       - vless-b373c141 (Belize)
@@ -1368,43 +1272,1493 @@ proxy-groups:
       - 🇺🇸 vless-d7306d74 (United States)
       - 🇺🇸 vless-ed223b79 (United States)
       - 🇺🇸 vless-fc12c823 (United States)
-  - name: تلگرام 💬
+  - name: 🌏 国内媒体
     type: select
     proxies:
-      - نوع انتخاب پروکسی 🔀
-      - بدون فیلترشکن 🛡️
-      - خودکار (بهترین پینگ) 🤖
-      - دستی 🤏🏻
-      - پشتیبان (در صورت قطعی) 🧯
-      - اجازه ندادن 🚫
-  - name: سایتای ایرانی 🇮🇷
+      - 🎯 全球直连
+      - 🔰 节点选择
+  - name: Ⓜ️ 微软服务
     type: select
     proxies:
-      - بدون فیلترشکن 🛡️
-      - اجازه ندادن 🚫
-      - نوع انتخاب پروکسی 🔀
-      - خودکار (بهترین پینگ) 🤖
-      - دستی 🤏🏻
-      - پشتیبان (در صورت قطعی) 🧯
-  - name: بدون فیلترشکن 🛡️
+      - 🎯 全球直连
+      - 🔰 节点选择
+      - vless-715152b3 (Armenia)
+      - vless-89f6ec3a (Belize)
+      - vless-b373c141 (Belize)
+      - vless-cd2f6f98 (Armenia)
+      - ️ vless-90a8e1b4 (Unknown)
+      - ️ vless-9959f873 (Unknown)
+      - ️ vless-ad9c36d1 (Unknown)
+      - ️ vless-ee709843 (Unknown)
+      - ️ vmess-0e5d49d8 (Unknown)
+      - ️ vmess-22ef6cc0 (Unknown)
+      - ️ vmess-e38ca05f (Unknown)
+      - 🇦🇱 vless-89965c28 (Albania)
+      - 🇦🇺 vless-679f8a9c (Australia)
+      - 🇧🇬 vless-cb2d6d56 (Bulgaria)
+      - 🇨🇦 hysteria2-856a752a (Canada)
+      - 🇨🇦 trojan-036f33a6 (Canada)
+      - 🇨🇦 trojan-d84bb6b4 (Canada)
+      - 🇨🇦 vless-02703525 (Canada)
+      - 🇨🇦 vless-05982b9f (Canada)
+      - 🇨🇦 vless-07582c80 (Canada)
+      - 🇨🇦 vless-0aad74a7 (Canada)
+      - 🇨🇦 vless-0e95bde5 (Canada)
+      - 🇨🇦 vless-108dd9e3 (Canada)
+      - 🇨🇦 vless-13a4e3ad (Canada)
+      - 🇨🇦 vless-13ab01b6 (Canada)
+      - 🇨🇦 vless-145a59c4 (Canada)
+      - 🇨🇦 vless-18f7aebe (Canada)
+      - 🇨🇦 vless-19e4d5cd (Canada)
+      - 🇨🇦 vless-221aa679 (Canada)
+      - 🇨🇦 vless-27bf9968 (Canada)
+      - 🇨🇦 vless-39a2a7a7 (Canada)
+      - 🇨🇦 vless-3b1b312d (Canada)
+      - 🇨🇦 vless-3b8776d3 (Canada)
+      - 🇨🇦 vless-3f6042b1 (Canada)
+      - 🇨🇦 vless-407288c8 (Canada)
+      - 🇨🇦 vless-4142b896 (Canada)
+      - 🇨🇦 vless-4a74eded (Canada)
+      - 🇨🇦 vless-4ae0a7bf (Canada)
+      - 🇨🇦 vless-4c777e40 (Canada)
+      - 🇨🇦 vless-4fae349c (Canada)
+      - 🇨🇦 vless-51a8c173 (Canada)
+      - 🇨🇦 vless-5895ef71 (Canada)
+      - 🇨🇦 vless-598e8f40 (Canada)
+      - 🇨🇦 vless-5a44bcf5 (Canada)
+      - 🇨🇦 vless-5b267180 (Canada)
+      - 🇨🇦 vless-5c7457ee (Canada)
+      - 🇨🇦 vless-5d656b9e (Canada)
+      - 🇨🇦 vless-5f826e16 (Canada)
+      - 🇨🇦 vless-6240153a (Canada)
+      - 🇨🇦 vless-653eef09 (Canada)
+      - 🇨🇦 vless-6bb4a67d (Canada)
+      - 🇨🇦 vless-71e0e60b (Canada)
+      - 🇨🇦 vless-74142da6 (Canada)
+      - 🇨🇦 vless-777e48bd (Canada)
+      - 🇨🇦 vless-779b3fcc (Canada)
+      - 🇨🇦 vless-785a17e3 (Canada)
+      - 🇨🇦 vless-7a610538 (Canada)
+      - 🇨🇦 vless-7b4c6aa4 (Canada)
+      - 🇨🇦 vless-80d36f1b (Canada)
+      - 🇨🇦 vless-81a9327d (Canada)
+      - 🇨🇦 vless-82af0f13 (Canada)
+      - 🇨🇦 vless-82e81c75 (Canada)
+      - 🇨🇦 vless-84bd604f (Canada)
+      - 🇨🇦 vless-85d5c5c3 (Canada)
+      - 🇨🇦 vless-8994005a (Canada)
+      - 🇨🇦 vless-89f47707 (Canada)
+      - 🇨🇦 vless-92192fff (Canada)
+      - 🇨🇦 vless-940e27cf (Canada)
+      - 🇨🇦 vless-941a4f05 (Canada)
+      - 🇨🇦 vless-94faf217 (Canada)
+      - 🇨🇦 vless-960294ed (Canada)
+      - 🇨🇦 vless-973bc8c8 (Canada)
+      - 🇨🇦 vless-989b7cff (Canada)
+      - 🇨🇦 vless-9cee4e75 (Canada)
+      - 🇨🇦 vless-a5c7d2be (Canada)
+      - 🇨🇦 vless-a76a5bbb (Canada)
+      - 🇨🇦 vless-a9852b73 (Canada)
+      - 🇨🇦 vless-aab549c3 (Canada)
+      - 🇨🇦 vless-abb24d5b (Canada)
+      - 🇨🇦 vless-ad1ae761 (Canada)
+      - 🇨🇦 vless-ae861eb9 (Canada)
+      - 🇨🇦 vless-af78cfd6 (Canada)
+      - 🇨🇦 vless-b2c942cb (Canada)
+      - 🇨🇦 vless-b2e407d5 (Canada)
+      - 🇨🇦 vless-b3b96a0a (Canada)
+      - 🇨🇦 vless-b7153225 (Canada)
+      - 🇨🇦 vless-c6998c0c (Canada)
+      - 🇨🇦 vless-c7dafafc (Canada)
+      - 🇨🇦 vless-cbecb682 (Canada)
+      - 🇨🇦 vless-ccdc9748 (Canada)
+      - 🇨🇦 vless-cfb5252e (Canada)
+      - 🇨🇦 vless-d06c0fea (Canada)
+      - 🇨🇦 vless-d183757c (Canada)
+      - 🇨🇦 vless-d46575b6 (Canada)
+      - 🇨🇦 vless-d53cd11e (Canada)
+      - 🇨🇦 vless-d58b074e (Canada)
+      - 🇨🇦 vless-d7af0806 (Canada)
+      - 🇨🇦 vless-d9c62d79 (Canada)
+      - 🇨🇦 vless-df8c8f62 (Canada)
+      - 🇨🇦 vless-e0d8669e (Canada)
+      - 🇨🇦 vless-e20df495 (Canada)
+      - 🇨🇦 vless-e34e1a24 (Canada)
+      - 🇨🇦 vless-e50b374a (Canada)
+      - 🇨🇦 vless-e61be56e (Canada)
+      - 🇨🇦 vless-ebca96ac (Canada)
+      - 🇨🇦 vless-ec4ea38b (Canada)
+      - 🇨🇦 vless-ecdb33ac (Canada)
+      - 🇨🇦 vless-eeaf657a (Canada)
+      - 🇨🇦 vless-f4b3334c (Canada)
+      - 🇨🇦 vless-f69809a0 (Canada)
+      - 🇨🇦 vless-f72466e6 (Canada)
+      - 🇨🇦 vless-fbd502da (Canada)
+      - 🇨🇦 vmess-0eba7475 (Canada)
+      - 🇨🇦 vmess-177948b4 (Canada)
+      - 🇨🇦 vmess-51597655 (Canada)
+      - 🇨🇦 vmess-52ba7cb5 (Canada)
+      - 🇨🇦 vmess-56aa62fd (Canada)
+      - 🇨🇦 vmess-6b2f3537 (Canada)
+      - 🇨🇦 vmess-bc87a657 (Canada)
+      - 🇨🇦 vmess-fd49a5f7 (Canada)
+      - 🇩🇪 hysteria2-2a89907d (Germany)
+      - 🇩🇪 trojan-eafcfb3f (Germany)
+      - 🇩🇪 vless-1d6b2af4 (Germany)
+      - 🇩🇪 vless-1f84f1f9 (Germany)
+      - 🇩🇪 vless-413a6800 (Germany)
+      - 🇩🇪 vless-7a80f076 (Germany)
+      - 🇩🇪 vless-958a8982 (Germany)
+      - 🇩🇪 vless-b5b52bc7 (Germany)
+      - 🇩🇪 vless-baed7496 (Germany)
+      - 🇩🇪 vless-e1f2112c (Germany)
+      - 🇩🇪 vmess-23d9ac51 (Germany)
+      - 🇩🇪 vmess-5d7121b7 (Germany)
+      - 🇩🇪 vmess-85ddd665 (Germany)
+      - 🇩🇪 vmess-9171c3c5 (Germany)
+      - 🇩🇪 vmess-9426c541 (Germany)
+      - 🇩🇪 vmess-9c034d0e (Germany)
+      - 🇩🇪 vmess-ad063e67 (Germany)
+      - 🇩🇪 vmess-c6121514 (Germany)
+      - 🇪🇪 vless-84fa2a29 (Estonia)
+      - 🇪🇸 vless-c353c0b7 (Spain)
+      - 🇫🇮 vless-39d72ffa (Finland)
+      - 🇫🇮 vless-440ec9b0 (Finland)
+      - 🇫🇮 vless-4dd77dc8 (Finland)
+      - 🇫🇮 vless-6eb7e845 (Finland)
+      - 🇫🇮 vless-a1045cdb (Finland)
+      - 🇫🇮 vless-a5c197e8 (Finland)
+      - 🇫🇷 hysteria2-011a4bf5 (France)
+      - 🇫🇷 hysteria2-12ccd28b (France)
+      - 🇫🇷 hysteria2-2fe34298 (France)
+      - 🇫🇷 hysteria2-3177d916 (France)
+      - 🇫🇷 hysteria2-36fd5f2d (France)
+      - 🇫🇷 hysteria2-4ac1ccfc (France)
+      - 🇫🇷 hysteria2-4d8daf15 (France)
+      - 🇫🇷 hysteria2-5126a807 (France)
+      - 🇫🇷 hysteria2-63439843 (France)
+      - 🇫🇷 hysteria2-6da0019b (France)
+      - 🇫🇷 hysteria2-83a47345 (France)
+      - 🇫🇷 hysteria2-85e06f28 (France)
+      - 🇫🇷 hysteria2-9b8351d1 (France)
+      - 🇫🇷 hysteria2-ae139388 (France)
+      - 🇫🇷 hysteria2-b10775eb (France)
+      - 🇫🇷 hysteria2-bdcbbf5c (France)
+      - 🇫🇷 hysteria2-c1f11f19 (France)
+      - 🇫🇷 hysteria2-d2fb2b5c (France)
+      - 🇫🇷 hysteria2-dc55af2c (France)
+      - 🇫🇷 hysteria2-f2c9577d (France)
+      - 🇫🇷 vless-05fc437f (France)
+      - 🇫🇷 vless-0a018970 (France)
+      - 🇫🇷 vless-2caec812 (France)
+      - 🇫🇷 vless-c58fafd5 (France)
+      - 🇫🇷 vless-d375eabf (France)
+      - 🇬🇧 hysteria2-a965cbd4 (United Kingdom)
+      - 🇬🇧 hysteria2-dcfe3568 (United Kingdom)
+      - 🇬🇧 ss-003785f6 (United Kingdom)
+      - 🇬🇧 ss-0e6d0d47 (United Kingdom)
+      - 🇬🇧 ss-23f2ca58 (United Kingdom)
+      - 🇬🇧 ss-2a116c90 (United Kingdom)
+      - 🇬🇧 ss-47bd7279 (United Kingdom)
+      - 🇬🇧 ss-5c0ee384 (United Kingdom)
+      - 🇬🇧 ss-739b6792 (United Kingdom)
+      - 🇬🇧 ss-74cbefff (United Kingdom)
+      - 🇬🇧 ss-7933eb8f (United Kingdom)
+      - 🇬🇧 ss-9a3bf2cb (United Kingdom)
+      - 🇬🇧 ss-b3f83b47 (United Kingdom)
+      - 🇬🇧 ss-cd5fe3f5 (United Kingdom)
+      - 🇬🇧 ss-e346a0bf (United Kingdom)
+      - 🇬🇧 ss-ee530cf2 (United Kingdom)
+      - 🇬🇧 ss-f1f483ba (United Kingdom)
+      - 🇬🇧 vless-825a1b7b (United Kingdom)
+      - 🇬🇧 vless-960d4b08 (United Kingdom)
+      - 🇬🇧 vless-f81ef414 (United Kingdom)
+      - 🇭🇰 hysteria2-30e0be80 (Hong Kong)
+      - 🇭🇰 hysteria2-51c368a4 (Hong Kong)
+      - 🇭🇰 hysteria2-653efadd (Hong Kong)
+      - 🇭🇰 hysteria2-8b6167ab (Hong Kong)
+      - 🇭🇰 hysteria2-ae7ddb80 (Hong Kong)
+      - 🇭🇰 hysteria2-bbf6cb8a (Hong Kong)
+      - 🇭🇰 hysteria2-c3b11516 (Hong Kong)
+      - 🇭🇰 hysteria2-d96b0fce (Hong Kong)
+      - 🇭🇰 hysteria2-e6914672 (Hong Kong)
+      - 🇮🇳 vless-beb47b5c (India)
+      - 🇮🇷 ss-44418a13 (Iran)
+      - 🇮🇷 vless-1d38112a (Iran)
+      - 🇮🇷 vless-21f49b86 (Iran)
+      - 🇮🇷 vless-3bfd2c5b (Iran)
+      - 🇮🇷 vless-63898842 (Iran)
+      - 🇮🇷 vless-7a10128b (Iran)
+      - 🇮🇷 vless-7df55eb9 (Iran)
+      - 🇮🇷 vless-87c2f3e1 (Iran)
+      - 🇮🇷 vless-d116a481 (Iran)
+      - 🇮🇷 vless-d78c6df2 (Iran)
+      - 🇮🇷 vless-f4554909 (Iran)
+      - 🇮🇷 vmess-325b0a91 (Iran)
+      - 🇮🇷 vmess-e3eda14a (Iran)
+      - 🇮🇹 hysteria2-0bc63983 (Italy)
+      - 🇮🇹 hysteria2-199f1da0 (Italy)
+      - 🇮🇹 hysteria2-5008c195 (Italy)
+      - 🇮🇹 hysteria2-663f830b (Italy)
+      - 🇮🇹 hysteria2-6f223155 (Italy)
+      - 🇮🇹 hysteria2-713b423c (Italy)
+      - 🇮🇹 hysteria2-748bbb8f (Italy)
+      - 🇮🇹 hysteria2-8aa89256 (Italy)
+      - 🇮🇹 hysteria2-8cda65ff (Italy)
+      - 🇮🇹 hysteria2-8ce56d8c (Italy)
+      - 🇮🇹 hysteria2-99fb6bd7 (Italy)
+      - 🇮🇹 hysteria2-9d87b07d (Italy)
+      - 🇮🇹 hysteria2-b31a5ad2 (Italy)
+      - 🇮🇹 hysteria2-b47e5238 (Italy)
+      - 🇮🇹 hysteria2-b69eb5b8 (Italy)
+      - 🇮🇹 hysteria2-cc2cfce7 (Italy)
+      - 🇮🇹 hysteria2-e905d79c (Italy)
+      - 🇮🇹 hysteria2-eb0ad08a (Italy)
+      - 🇮🇹 hysteria2-ec9c1fb5 (Italy)
+      - 🇯🇵 hysteria2-0bd702cc (Japan)
+      - 🇯🇵 hysteria2-565707be (Japan)
+      - 🇯🇵 hysteria2-6d5c1c46 (Japan)
+      - 🇯🇵 hysteria2-9b205c57 (Japan)
+      - 🇯🇵 hysteria2-cc470024 (Japan)
+      - 🇰🇷 hysteria2-49c24e7e (South Korea)
+      - 🇰🇷 vless-0bde6c6f (South Korea)
+      - 🇱🇺 vless-8f64e5df (Luxembourg)
+      - 🇲🇽 vless-dca96cb0 (Mexico)
+      - 🇲🇾 vless-3520aca5 (Malaysia)
+      - 🇳🇱 hysteria2-1fe70b27 (The Netherlands)
+      - 🇳🇱 hysteria2-83e2f472 (The Netherlands)
+      - 🇳🇱 hysteria2-8a2108f3 (The Netherlands)
+      - 🇳🇱 hysteria2-c3f730ba (The Netherlands)
+      - 🇳🇱 ss-66ad8680 (The Netherlands)
+      - 🇳🇱 ss-d26983d5 (The Netherlands)
+      - 🇳🇱 vless-1d87a32b (The Netherlands)
+      - 🇳🇱 vless-4a265784 (Netherlands)
+      - 🇳🇱 vless-5a155ffe (The Netherlands)
+      - 🇳🇱 vless-8873f77f (The Netherlands)
+      - 🇳🇱 vless-d4bc917b (The Netherlands)
+      - 🇳🇿 vless-803ea87e (New Zealand)
+      - 🇷🇺 hysteria2-c780524c (Russia)
+      - 🇷🇺 trojan-3f10a88a (Russia)
+      - 🇷🇺 vless-43985567 (Russia)
+      - 🇷🇺 vless-4740ef80 (Russia)
+      - 🇷🇺 vless-c69f3b61 (Russia)
+      - 🇸🇪 vmess-c2dc1647 (Sweden)
+      - 🇸🇬 vless-71eafd4a (Singapore)
+      - 🇹🇷 vless-3f9f72fb (Türkiye)
+      - 🇹🇷 vless-843b87f8 (Türkiye)
+      - 🇺🇦 hysteria2-108f61c3 (Ukraine)
+      - 🇺🇦 hysteria2-2a8aecf5 (Ukraine)
+      - 🇺🇦 hysteria2-35be810b (Ukraine)
+      - 🇺🇦 hysteria2-35e9c16d (Ukraine)
+      - 🇺🇦 hysteria2-4af6fd87 (Ukraine)
+      - 🇺🇦 hysteria2-5067e8e3 (Ukraine)
+      - 🇺🇦 hysteria2-54b57923 (Ukraine)
+      - 🇺🇦 hysteria2-57f676d9 (Ukraine)
+      - 🇺🇦 hysteria2-5bfa8f8f (Ukraine)
+      - 🇺🇦 hysteria2-6113e763 (Ukraine)
+      - 🇺🇦 hysteria2-67508bf2 (Ukraine)
+      - 🇺🇦 hysteria2-9caaf99f (Ukraine)
+      - 🇺🇦 hysteria2-9f2f9655 (Ukraine)
+      - 🇺🇦 hysteria2-9fe44dfa (Ukraine)
+      - 🇺🇦 hysteria2-a413496e (Ukraine)
+      - 🇺🇦 hysteria2-a6512877 (Ukraine)
+      - 🇺🇦 hysteria2-b4a7f535 (Ukraine)
+      - 🇺🇦 hysteria2-bfd4818c (Ukraine)
+      - 🇺🇦 hysteria2-c642c3f1 (Ukraine)
+      - 🇺🇸 hysteria2-0240cc13 (United States)
+      - 🇺🇸 hysteria2-0ac95b24 (United States)
+      - 🇺🇸 hysteria2-1ba33ba4 (United States)
+      - 🇺🇸 hysteria2-3b21a2aa (United States)
+      - 🇺🇸 hysteria2-41778f4f (United States)
+      - 🇺🇸 hysteria2-57cb1fd2 (United States)
+      - 🇺🇸 hysteria2-68e2ed03 (United States)
+      - 🇺🇸 hysteria2-6c4ad6af (United States)
+      - 🇺🇸 hysteria2-884e54f0 (United States)
+      - 🇺🇸 hysteria2-9bd3b654 (United States)
+      - 🇺🇸 hysteria2-ab8ac1a4 (United States)
+      - 🇺🇸 hysteria2-e70d00d3 (United States)
+      - 🇺🇸 hysteria2-ec591fe3 (United States)
+      - 🇺🇸 hysteria2-f1868fd8 (United States)
+      - 🇺🇸 vless-06ab9ff1 (United States)
+      - 🇺🇸 vless-59475887 (United States)
+      - 🇺🇸 vless-5f5b1d91 (United States)
+      - 🇺🇸 vless-686cd071 (United States)
+      - 🇺🇸 vless-6c8df151 (United States)
+      - 🇺🇸 vless-6de08816 (United States)
+      - 🇺🇸 vless-a2fec52f (United States)
+      - 🇺🇸 vless-a3fc9cc3 (United States)
+      - 🇺🇸 vless-aa3083f8 (United States)
+      - 🇺🇸 vless-b6641944 (United States)
+      - 🇺🇸 vless-d7306d74 (United States)
+      - 🇺🇸 vless-ed223b79 (United States)
+      - 🇺🇸 vless-fc12c823 (United States)
+  - name: 📲 电报信息
+    type: select
+    proxies:
+      - 🔰 节点选择
+      - 🎯 全球直连
+      - vless-715152b3 (Armenia)
+      - vless-89f6ec3a (Belize)
+      - vless-b373c141 (Belize)
+      - vless-cd2f6f98 (Armenia)
+      - ️ vless-90a8e1b4 (Unknown)
+      - ️ vless-9959f873 (Unknown)
+      - ️ vless-ad9c36d1 (Unknown)
+      - ️ vless-ee709843 (Unknown)
+      - ️ vmess-0e5d49d8 (Unknown)
+      - ️ vmess-22ef6cc0 (Unknown)
+      - ️ vmess-e38ca05f (Unknown)
+      - 🇦🇱 vless-89965c28 (Albania)
+      - 🇦🇺 vless-679f8a9c (Australia)
+      - 🇧🇬 vless-cb2d6d56 (Bulgaria)
+      - 🇨🇦 hysteria2-856a752a (Canada)
+      - 🇨🇦 trojan-036f33a6 (Canada)
+      - 🇨🇦 trojan-d84bb6b4 (Canada)
+      - 🇨🇦 vless-02703525 (Canada)
+      - 🇨🇦 vless-05982b9f (Canada)
+      - 🇨🇦 vless-07582c80 (Canada)
+      - 🇨🇦 vless-0aad74a7 (Canada)
+      - 🇨🇦 vless-0e95bde5 (Canada)
+      - 🇨🇦 vless-108dd9e3 (Canada)
+      - 🇨🇦 vless-13a4e3ad (Canada)
+      - 🇨🇦 vless-13ab01b6 (Canada)
+      - 🇨🇦 vless-145a59c4 (Canada)
+      - 🇨🇦 vless-18f7aebe (Canada)
+      - 🇨🇦 vless-19e4d5cd (Canada)
+      - 🇨🇦 vless-221aa679 (Canada)
+      - 🇨🇦 vless-27bf9968 (Canada)
+      - 🇨🇦 vless-39a2a7a7 (Canada)
+      - 🇨🇦 vless-3b1b312d (Canada)
+      - 🇨🇦 vless-3b8776d3 (Canada)
+      - 🇨🇦 vless-3f6042b1 (Canada)
+      - 🇨🇦 vless-407288c8 (Canada)
+      - 🇨🇦 vless-4142b896 (Canada)
+      - 🇨🇦 vless-4a74eded (Canada)
+      - 🇨🇦 vless-4ae0a7bf (Canada)
+      - 🇨🇦 vless-4c777e40 (Canada)
+      - 🇨🇦 vless-4fae349c (Canada)
+      - 🇨🇦 vless-51a8c173 (Canada)
+      - 🇨🇦 vless-5895ef71 (Canada)
+      - 🇨🇦 vless-598e8f40 (Canada)
+      - 🇨🇦 vless-5a44bcf5 (Canada)
+      - 🇨🇦 vless-5b267180 (Canada)
+      - 🇨🇦 vless-5c7457ee (Canada)
+      - 🇨🇦 vless-5d656b9e (Canada)
+      - 🇨🇦 vless-5f826e16 (Canada)
+      - 🇨🇦 vless-6240153a (Canada)
+      - 🇨🇦 vless-653eef09 (Canada)
+      - 🇨🇦 vless-6bb4a67d (Canada)
+      - 🇨🇦 vless-71e0e60b (Canada)
+      - 🇨🇦 vless-74142da6 (Canada)
+      - 🇨🇦 vless-777e48bd (Canada)
+      - 🇨🇦 vless-779b3fcc (Canada)
+      - 🇨🇦 vless-785a17e3 (Canada)
+      - 🇨🇦 vless-7a610538 (Canada)
+      - 🇨🇦 vless-7b4c6aa4 (Canada)
+      - 🇨🇦 vless-80d36f1b (Canada)
+      - 🇨🇦 vless-81a9327d (Canada)
+      - 🇨🇦 vless-82af0f13 (Canada)
+      - 🇨🇦 vless-82e81c75 (Canada)
+      - 🇨🇦 vless-84bd604f (Canada)
+      - 🇨🇦 vless-85d5c5c3 (Canada)
+      - 🇨🇦 vless-8994005a (Canada)
+      - 🇨🇦 vless-89f47707 (Canada)
+      - 🇨🇦 vless-92192fff (Canada)
+      - 🇨🇦 vless-940e27cf (Canada)
+      - 🇨🇦 vless-941a4f05 (Canada)
+      - 🇨🇦 vless-94faf217 (Canada)
+      - 🇨🇦 vless-960294ed (Canada)
+      - 🇨🇦 vless-973bc8c8 (Canada)
+      - 🇨🇦 vless-989b7cff (Canada)
+      - 🇨🇦 vless-9cee4e75 (Canada)
+      - 🇨🇦 vless-a5c7d2be (Canada)
+      - 🇨🇦 vless-a76a5bbb (Canada)
+      - 🇨🇦 vless-a9852b73 (Canada)
+      - 🇨🇦 vless-aab549c3 (Canada)
+      - 🇨🇦 vless-abb24d5b (Canada)
+      - 🇨🇦 vless-ad1ae761 (Canada)
+      - 🇨🇦 vless-ae861eb9 (Canada)
+      - 🇨🇦 vless-af78cfd6 (Canada)
+      - 🇨🇦 vless-b2c942cb (Canada)
+      - 🇨🇦 vless-b2e407d5 (Canada)
+      - 🇨🇦 vless-b3b96a0a (Canada)
+      - 🇨🇦 vless-b7153225 (Canada)
+      - 🇨🇦 vless-c6998c0c (Canada)
+      - 🇨🇦 vless-c7dafafc (Canada)
+      - 🇨🇦 vless-cbecb682 (Canada)
+      - 🇨🇦 vless-ccdc9748 (Canada)
+      - 🇨🇦 vless-cfb5252e (Canada)
+      - 🇨🇦 vless-d06c0fea (Canada)
+      - 🇨🇦 vless-d183757c (Canada)
+      - 🇨🇦 vless-d46575b6 (Canada)
+      - 🇨🇦 vless-d53cd11e (Canada)
+      - 🇨🇦 vless-d58b074e (Canada)
+      - 🇨🇦 vless-d7af0806 (Canada)
+      - 🇨🇦 vless-d9c62d79 (Canada)
+      - 🇨🇦 vless-df8c8f62 (Canada)
+      - 🇨🇦 vless-e0d8669e (Canada)
+      - 🇨🇦 vless-e20df495 (Canada)
+      - 🇨🇦 vless-e34e1a24 (Canada)
+      - 🇨🇦 vless-e50b374a (Canada)
+      - 🇨🇦 vless-e61be56e (Canada)
+      - 🇨🇦 vless-ebca96ac (Canada)
+      - 🇨🇦 vless-ec4ea38b (Canada)
+      - 🇨🇦 vless-ecdb33ac (Canada)
+      - 🇨🇦 vless-eeaf657a (Canada)
+      - 🇨🇦 vless-f4b3334c (Canada)
+      - 🇨🇦 vless-f69809a0 (Canada)
+      - 🇨🇦 vless-f72466e6 (Canada)
+      - 🇨🇦 vless-fbd502da (Canada)
+      - 🇨🇦 vmess-0eba7475 (Canada)
+      - 🇨🇦 vmess-177948b4 (Canada)
+      - 🇨🇦 vmess-51597655 (Canada)
+      - 🇨🇦 vmess-52ba7cb5 (Canada)
+      - 🇨🇦 vmess-56aa62fd (Canada)
+      - 🇨🇦 vmess-6b2f3537 (Canada)
+      - 🇨🇦 vmess-bc87a657 (Canada)
+      - 🇨🇦 vmess-fd49a5f7 (Canada)
+      - 🇩🇪 hysteria2-2a89907d (Germany)
+      - 🇩🇪 trojan-eafcfb3f (Germany)
+      - 🇩🇪 vless-1d6b2af4 (Germany)
+      - 🇩🇪 vless-1f84f1f9 (Germany)
+      - 🇩🇪 vless-413a6800 (Germany)
+      - 🇩🇪 vless-7a80f076 (Germany)
+      - 🇩🇪 vless-958a8982 (Germany)
+      - 🇩🇪 vless-b5b52bc7 (Germany)
+      - 🇩🇪 vless-baed7496 (Germany)
+      - 🇩🇪 vless-e1f2112c (Germany)
+      - 🇩🇪 vmess-23d9ac51 (Germany)
+      - 🇩🇪 vmess-5d7121b7 (Germany)
+      - 🇩🇪 vmess-85ddd665 (Germany)
+      - 🇩🇪 vmess-9171c3c5 (Germany)
+      - 🇩🇪 vmess-9426c541 (Germany)
+      - 🇩🇪 vmess-9c034d0e (Germany)
+      - 🇩🇪 vmess-ad063e67 (Germany)
+      - 🇩🇪 vmess-c6121514 (Germany)
+      - 🇪🇪 vless-84fa2a29 (Estonia)
+      - 🇪🇸 vless-c353c0b7 (Spain)
+      - 🇫🇮 vless-39d72ffa (Finland)
+      - 🇫🇮 vless-440ec9b0 (Finland)
+      - 🇫🇮 vless-4dd77dc8 (Finland)
+      - 🇫🇮 vless-6eb7e845 (Finland)
+      - 🇫🇮 vless-a1045cdb (Finland)
+      - 🇫🇮 vless-a5c197e8 (Finland)
+      - 🇫🇷 hysteria2-011a4bf5 (France)
+      - 🇫🇷 hysteria2-12ccd28b (France)
+      - 🇫🇷 hysteria2-2fe34298 (France)
+      - 🇫🇷 hysteria2-3177d916 (France)
+      - 🇫🇷 hysteria2-36fd5f2d (France)
+      - 🇫🇷 hysteria2-4ac1ccfc (France)
+      - 🇫🇷 hysteria2-4d8daf15 (France)
+      - 🇫🇷 hysteria2-5126a807 (France)
+      - 🇫🇷 hysteria2-63439843 (France)
+      - 🇫🇷 hysteria2-6da0019b (France)
+      - 🇫🇷 hysteria2-83a47345 (France)
+      - 🇫🇷 hysteria2-85e06f28 (France)
+      - 🇫🇷 hysteria2-9b8351d1 (France)
+      - 🇫🇷 hysteria2-ae139388 (France)
+      - 🇫🇷 hysteria2-b10775eb (France)
+      - 🇫🇷 hysteria2-bdcbbf5c (France)
+      - 🇫🇷 hysteria2-c1f11f19 (France)
+      - 🇫🇷 hysteria2-d2fb2b5c (France)
+      - 🇫🇷 hysteria2-dc55af2c (France)
+      - 🇫🇷 hysteria2-f2c9577d (France)
+      - 🇫🇷 vless-05fc437f (France)
+      - 🇫🇷 vless-0a018970 (France)
+      - 🇫🇷 vless-2caec812 (France)
+      - 🇫🇷 vless-c58fafd5 (France)
+      - 🇫🇷 vless-d375eabf (France)
+      - 🇬🇧 hysteria2-a965cbd4 (United Kingdom)
+      - 🇬🇧 hysteria2-dcfe3568 (United Kingdom)
+      - 🇬🇧 ss-003785f6 (United Kingdom)
+      - 🇬🇧 ss-0e6d0d47 (United Kingdom)
+      - 🇬🇧 ss-23f2ca58 (United Kingdom)
+      - 🇬🇧 ss-2a116c90 (United Kingdom)
+      - 🇬🇧 ss-47bd7279 (United Kingdom)
+      - 🇬🇧 ss-5c0ee384 (United Kingdom)
+      - 🇬🇧 ss-739b6792 (United Kingdom)
+      - 🇬🇧 ss-74cbefff (United Kingdom)
+      - 🇬🇧 ss-7933eb8f (United Kingdom)
+      - 🇬🇧 ss-9a3bf2cb (United Kingdom)
+      - 🇬🇧 ss-b3f83b47 (United Kingdom)
+      - 🇬🇧 ss-cd5fe3f5 (United Kingdom)
+      - 🇬🇧 ss-e346a0bf (United Kingdom)
+      - 🇬🇧 ss-ee530cf2 (United Kingdom)
+      - 🇬🇧 ss-f1f483ba (United Kingdom)
+      - 🇬🇧 vless-825a1b7b (United Kingdom)
+      - 🇬🇧 vless-960d4b08 (United Kingdom)
+      - 🇬🇧 vless-f81ef414 (United Kingdom)
+      - 🇭🇰 hysteria2-30e0be80 (Hong Kong)
+      - 🇭🇰 hysteria2-51c368a4 (Hong Kong)
+      - 🇭🇰 hysteria2-653efadd (Hong Kong)
+      - 🇭🇰 hysteria2-8b6167ab (Hong Kong)
+      - 🇭🇰 hysteria2-ae7ddb80 (Hong Kong)
+      - 🇭🇰 hysteria2-bbf6cb8a (Hong Kong)
+      - 🇭🇰 hysteria2-c3b11516 (Hong Kong)
+      - 🇭🇰 hysteria2-d96b0fce (Hong Kong)
+      - 🇭🇰 hysteria2-e6914672 (Hong Kong)
+      - 🇮🇳 vless-beb47b5c (India)
+      - 🇮🇷 ss-44418a13 (Iran)
+      - 🇮🇷 vless-1d38112a (Iran)
+      - 🇮🇷 vless-21f49b86 (Iran)
+      - 🇮🇷 vless-3bfd2c5b (Iran)
+      - 🇮🇷 vless-63898842 (Iran)
+      - 🇮🇷 vless-7a10128b (Iran)
+      - 🇮🇷 vless-7df55eb9 (Iran)
+      - 🇮🇷 vless-87c2f3e1 (Iran)
+      - 🇮🇷 vless-d116a481 (Iran)
+      - 🇮🇷 vless-d78c6df2 (Iran)
+      - 🇮🇷 vless-f4554909 (Iran)
+      - 🇮🇷 vmess-325b0a91 (Iran)
+      - 🇮🇷 vmess-e3eda14a (Iran)
+      - 🇮🇹 hysteria2-0bc63983 (Italy)
+      - 🇮🇹 hysteria2-199f1da0 (Italy)
+      - 🇮🇹 hysteria2-5008c195 (Italy)
+      - 🇮🇹 hysteria2-663f830b (Italy)
+      - 🇮🇹 hysteria2-6f223155 (Italy)
+      - 🇮🇹 hysteria2-713b423c (Italy)
+      - 🇮🇹 hysteria2-748bbb8f (Italy)
+      - 🇮🇹 hysteria2-8aa89256 (Italy)
+      - 🇮🇹 hysteria2-8cda65ff (Italy)
+      - 🇮🇹 hysteria2-8ce56d8c (Italy)
+      - 🇮🇹 hysteria2-99fb6bd7 (Italy)
+      - 🇮🇹 hysteria2-9d87b07d (Italy)
+      - 🇮🇹 hysteria2-b31a5ad2 (Italy)
+      - 🇮🇹 hysteria2-b47e5238 (Italy)
+      - 🇮🇹 hysteria2-b69eb5b8 (Italy)
+      - 🇮🇹 hysteria2-cc2cfce7 (Italy)
+      - 🇮🇹 hysteria2-e905d79c (Italy)
+      - 🇮🇹 hysteria2-eb0ad08a (Italy)
+      - 🇮🇹 hysteria2-ec9c1fb5 (Italy)
+      - 🇯🇵 hysteria2-0bd702cc (Japan)
+      - 🇯🇵 hysteria2-565707be (Japan)
+      - 🇯🇵 hysteria2-6d5c1c46 (Japan)
+      - 🇯🇵 hysteria2-9b205c57 (Japan)
+      - 🇯🇵 hysteria2-cc470024 (Japan)
+      - 🇰🇷 hysteria2-49c24e7e (South Korea)
+      - 🇰🇷 vless-0bde6c6f (South Korea)
+      - 🇱🇺 vless-8f64e5df (Luxembourg)
+      - 🇲🇽 vless-dca96cb0 (Mexico)
+      - 🇲🇾 vless-3520aca5 (Malaysia)
+      - 🇳🇱 hysteria2-1fe70b27 (The Netherlands)
+      - 🇳🇱 hysteria2-83e2f472 (The Netherlands)
+      - 🇳🇱 hysteria2-8a2108f3 (The Netherlands)
+      - 🇳🇱 hysteria2-c3f730ba (The Netherlands)
+      - 🇳🇱 ss-66ad8680 (The Netherlands)
+      - 🇳🇱 ss-d26983d5 (The Netherlands)
+      - 🇳🇱 vless-1d87a32b (The Netherlands)
+      - 🇳🇱 vless-4a265784 (Netherlands)
+      - 🇳🇱 vless-5a155ffe (The Netherlands)
+      - 🇳🇱 vless-8873f77f (The Netherlands)
+      - 🇳🇱 vless-d4bc917b (The Netherlands)
+      - 🇳🇿 vless-803ea87e (New Zealand)
+      - 🇷🇺 hysteria2-c780524c (Russia)
+      - 🇷🇺 trojan-3f10a88a (Russia)
+      - 🇷🇺 vless-43985567 (Russia)
+      - 🇷🇺 vless-4740ef80 (Russia)
+      - 🇷🇺 vless-c69f3b61 (Russia)
+      - 🇸🇪 vmess-c2dc1647 (Sweden)
+      - 🇸🇬 vless-71eafd4a (Singapore)
+      - 🇹🇷 vless-3f9f72fb (Türkiye)
+      - 🇹🇷 vless-843b87f8 (Türkiye)
+      - 🇺🇦 hysteria2-108f61c3 (Ukraine)
+      - 🇺🇦 hysteria2-2a8aecf5 (Ukraine)
+      - 🇺🇦 hysteria2-35be810b (Ukraine)
+      - 🇺🇦 hysteria2-35e9c16d (Ukraine)
+      - 🇺🇦 hysteria2-4af6fd87 (Ukraine)
+      - 🇺🇦 hysteria2-5067e8e3 (Ukraine)
+      - 🇺🇦 hysteria2-54b57923 (Ukraine)
+      - 🇺🇦 hysteria2-57f676d9 (Ukraine)
+      - 🇺🇦 hysteria2-5bfa8f8f (Ukraine)
+      - 🇺🇦 hysteria2-6113e763 (Ukraine)
+      - 🇺🇦 hysteria2-67508bf2 (Ukraine)
+      - 🇺🇦 hysteria2-9caaf99f (Ukraine)
+      - 🇺🇦 hysteria2-9f2f9655 (Ukraine)
+      - 🇺🇦 hysteria2-9fe44dfa (Ukraine)
+      - 🇺🇦 hysteria2-a413496e (Ukraine)
+      - 🇺🇦 hysteria2-a6512877 (Ukraine)
+      - 🇺🇦 hysteria2-b4a7f535 (Ukraine)
+      - 🇺🇦 hysteria2-bfd4818c (Ukraine)
+      - 🇺🇦 hysteria2-c642c3f1 (Ukraine)
+      - 🇺🇸 hysteria2-0240cc13 (United States)
+      - 🇺🇸 hysteria2-0ac95b24 (United States)
+      - 🇺🇸 hysteria2-1ba33ba4 (United States)
+      - 🇺🇸 hysteria2-3b21a2aa (United States)
+      - 🇺🇸 hysteria2-41778f4f (United States)
+      - 🇺🇸 hysteria2-57cb1fd2 (United States)
+      - 🇺🇸 hysteria2-68e2ed03 (United States)
+      - 🇺🇸 hysteria2-6c4ad6af (United States)
+      - 🇺🇸 hysteria2-884e54f0 (United States)
+      - 🇺🇸 hysteria2-9bd3b654 (United States)
+      - 🇺🇸 hysteria2-ab8ac1a4 (United States)
+      - 🇺🇸 hysteria2-e70d00d3 (United States)
+      - 🇺🇸 hysteria2-ec591fe3 (United States)
+      - 🇺🇸 hysteria2-f1868fd8 (United States)
+      - 🇺🇸 vless-06ab9ff1 (United States)
+      - 🇺🇸 vless-59475887 (United States)
+      - 🇺🇸 vless-5f5b1d91 (United States)
+      - 🇺🇸 vless-686cd071 (United States)
+      - 🇺🇸 vless-6c8df151 (United States)
+      - 🇺🇸 vless-6de08816 (United States)
+      - 🇺🇸 vless-a2fec52f (United States)
+      - 🇺🇸 vless-a3fc9cc3 (United States)
+      - 🇺🇸 vless-aa3083f8 (United States)
+      - 🇺🇸 vless-b6641944 (United States)
+      - 🇺🇸 vless-d7306d74 (United States)
+      - 🇺🇸 vless-ed223b79 (United States)
+      - 🇺🇸 vless-fc12c823 (United States)
+  - name: 🍎 苹果服务
+    type: select
+    proxies:
+      - 🔰 节点选择
+      - 🎯 全球直连
+      - ♻️ 自动选择
+      - vless-715152b3 (Armenia)
+      - vless-89f6ec3a (Belize)
+      - vless-b373c141 (Belize)
+      - vless-cd2f6f98 (Armenia)
+      - ️ vless-90a8e1b4 (Unknown)
+      - ️ vless-9959f873 (Unknown)
+      - ️ vless-ad9c36d1 (Unknown)
+      - ️ vless-ee709843 (Unknown)
+      - ️ vmess-0e5d49d8 (Unknown)
+      - ️ vmess-22ef6cc0 (Unknown)
+      - ️ vmess-e38ca05f (Unknown)
+      - 🇦🇱 vless-89965c28 (Albania)
+      - 🇦🇺 vless-679f8a9c (Australia)
+      - 🇧🇬 vless-cb2d6d56 (Bulgaria)
+      - 🇨🇦 hysteria2-856a752a (Canada)
+      - 🇨🇦 trojan-036f33a6 (Canada)
+      - 🇨🇦 trojan-d84bb6b4 (Canada)
+      - 🇨🇦 vless-02703525 (Canada)
+      - 🇨🇦 vless-05982b9f (Canada)
+      - 🇨🇦 vless-07582c80 (Canada)
+      - 🇨🇦 vless-0aad74a7 (Canada)
+      - 🇨🇦 vless-0e95bde5 (Canada)
+      - 🇨🇦 vless-108dd9e3 (Canada)
+      - 🇨🇦 vless-13a4e3ad (Canada)
+      - 🇨🇦 vless-13ab01b6 (Canada)
+      - 🇨🇦 vless-145a59c4 (Canada)
+      - 🇨🇦 vless-18f7aebe (Canada)
+      - 🇨🇦 vless-19e4d5cd (Canada)
+      - 🇨🇦 vless-221aa679 (Canada)
+      - 🇨🇦 vless-27bf9968 (Canada)
+      - 🇨🇦 vless-39a2a7a7 (Canada)
+      - 🇨🇦 vless-3b1b312d (Canada)
+      - 🇨🇦 vless-3b8776d3 (Canada)
+      - 🇨🇦 vless-3f6042b1 (Canada)
+      - 🇨🇦 vless-407288c8 (Canada)
+      - 🇨🇦 vless-4142b896 (Canada)
+      - 🇨🇦 vless-4a74eded (Canada)
+      - 🇨🇦 vless-4ae0a7bf (Canada)
+      - 🇨🇦 vless-4c777e40 (Canada)
+      - 🇨🇦 vless-4fae349c (Canada)
+      - 🇨🇦 vless-51a8c173 (Canada)
+      - 🇨🇦 vless-5895ef71 (Canada)
+      - 🇨🇦 vless-598e8f40 (Canada)
+      - 🇨🇦 vless-5a44bcf5 (Canada)
+      - 🇨🇦 vless-5b267180 (Canada)
+      - 🇨🇦 vless-5c7457ee (Canada)
+      - 🇨🇦 vless-5d656b9e (Canada)
+      - 🇨🇦 vless-5f826e16 (Canada)
+      - 🇨🇦 vless-6240153a (Canada)
+      - 🇨🇦 vless-653eef09 (Canada)
+      - 🇨🇦 vless-6bb4a67d (Canada)
+      - 🇨🇦 vless-71e0e60b (Canada)
+      - 🇨🇦 vless-74142da6 (Canada)
+      - 🇨🇦 vless-777e48bd (Canada)
+      - 🇨🇦 vless-779b3fcc (Canada)
+      - 🇨🇦 vless-785a17e3 (Canada)
+      - 🇨🇦 vless-7a610538 (Canada)
+      - 🇨🇦 vless-7b4c6aa4 (Canada)
+      - 🇨🇦 vless-80d36f1b (Canada)
+      - 🇨🇦 vless-81a9327d (Canada)
+      - 🇨🇦 vless-82af0f13 (Canada)
+      - 🇨🇦 vless-82e81c75 (Canada)
+      - 🇨🇦 vless-84bd604f (Canada)
+      - 🇨🇦 vless-85d5c5c3 (Canada)
+      - 🇨🇦 vless-8994005a (Canada)
+      - 🇨🇦 vless-89f47707 (Canada)
+      - 🇨🇦 vless-92192fff (Canada)
+      - 🇨🇦 vless-940e27cf (Canada)
+      - 🇨🇦 vless-941a4f05 (Canada)
+      - 🇨🇦 vless-94faf217 (Canada)
+      - 🇨🇦 vless-960294ed (Canada)
+      - 🇨🇦 vless-973bc8c8 (Canada)
+      - 🇨🇦 vless-989b7cff (Canada)
+      - 🇨🇦 vless-9cee4e75 (Canada)
+      - 🇨🇦 vless-a5c7d2be (Canada)
+      - 🇨🇦 vless-a76a5bbb (Canada)
+      - 🇨🇦 vless-a9852b73 (Canada)
+      - 🇨🇦 vless-aab549c3 (Canada)
+      - 🇨🇦 vless-abb24d5b (Canada)
+      - 🇨🇦 vless-ad1ae761 (Canada)
+      - 🇨🇦 vless-ae861eb9 (Canada)
+      - 🇨🇦 vless-af78cfd6 (Canada)
+      - 🇨🇦 vless-b2c942cb (Canada)
+      - 🇨🇦 vless-b2e407d5 (Canada)
+      - 🇨🇦 vless-b3b96a0a (Canada)
+      - 🇨🇦 vless-b7153225 (Canada)
+      - 🇨🇦 vless-c6998c0c (Canada)
+      - 🇨🇦 vless-c7dafafc (Canada)
+      - 🇨🇦 vless-cbecb682 (Canada)
+      - 🇨🇦 vless-ccdc9748 (Canada)
+      - 🇨🇦 vless-cfb5252e (Canada)
+      - 🇨🇦 vless-d06c0fea (Canada)
+      - 🇨🇦 vless-d183757c (Canada)
+      - 🇨🇦 vless-d46575b6 (Canada)
+      - 🇨🇦 vless-d53cd11e (Canada)
+      - 🇨🇦 vless-d58b074e (Canada)
+      - 🇨🇦 vless-d7af0806 (Canada)
+      - 🇨🇦 vless-d9c62d79 (Canada)
+      - 🇨🇦 vless-df8c8f62 (Canada)
+      - 🇨🇦 vless-e0d8669e (Canada)
+      - 🇨🇦 vless-e20df495 (Canada)
+      - 🇨🇦 vless-e34e1a24 (Canada)
+      - 🇨🇦 vless-e50b374a (Canada)
+      - 🇨🇦 vless-e61be56e (Canada)
+      - 🇨🇦 vless-ebca96ac (Canada)
+      - 🇨🇦 vless-ec4ea38b (Canada)
+      - 🇨🇦 vless-ecdb33ac (Canada)
+      - 🇨🇦 vless-eeaf657a (Canada)
+      - 🇨🇦 vless-f4b3334c (Canada)
+      - 🇨🇦 vless-f69809a0 (Canada)
+      - 🇨🇦 vless-f72466e6 (Canada)
+      - 🇨🇦 vless-fbd502da (Canada)
+      - 🇨🇦 vmess-0eba7475 (Canada)
+      - 🇨🇦 vmess-177948b4 (Canada)
+      - 🇨🇦 vmess-51597655 (Canada)
+      - 🇨🇦 vmess-52ba7cb5 (Canada)
+      - 🇨🇦 vmess-56aa62fd (Canada)
+      - 🇨🇦 vmess-6b2f3537 (Canada)
+      - 🇨🇦 vmess-bc87a657 (Canada)
+      - 🇨🇦 vmess-fd49a5f7 (Canada)
+      - 🇩🇪 hysteria2-2a89907d (Germany)
+      - 🇩🇪 trojan-eafcfb3f (Germany)
+      - 🇩🇪 vless-1d6b2af4 (Germany)
+      - 🇩🇪 vless-1f84f1f9 (Germany)
+      - 🇩🇪 vless-413a6800 (Germany)
+      - 🇩🇪 vless-7a80f076 (Germany)
+      - 🇩🇪 vless-958a8982 (Germany)
+      - 🇩🇪 vless-b5b52bc7 (Germany)
+      - 🇩🇪 vless-baed7496 (Germany)
+      - 🇩🇪 vless-e1f2112c (Germany)
+      - 🇩🇪 vmess-23d9ac51 (Germany)
+      - 🇩🇪 vmess-5d7121b7 (Germany)
+      - 🇩🇪 vmess-85ddd665 (Germany)
+      - 🇩🇪 vmess-9171c3c5 (Germany)
+      - 🇩🇪 vmess-9426c541 (Germany)
+      - 🇩🇪 vmess-9c034d0e (Germany)
+      - 🇩🇪 vmess-ad063e67 (Germany)
+      - 🇩🇪 vmess-c6121514 (Germany)
+      - 🇪🇪 vless-84fa2a29 (Estonia)
+      - 🇪🇸 vless-c353c0b7 (Spain)
+      - 🇫🇮 vless-39d72ffa (Finland)
+      - 🇫🇮 vless-440ec9b0 (Finland)
+      - 🇫🇮 vless-4dd77dc8 (Finland)
+      - 🇫🇮 vless-6eb7e845 (Finland)
+      - 🇫🇮 vless-a1045cdb (Finland)
+      - 🇫🇮 vless-a5c197e8 (Finland)
+      - 🇫🇷 hysteria2-011a4bf5 (France)
+      - 🇫🇷 hysteria2-12ccd28b (France)
+      - 🇫🇷 hysteria2-2fe34298 (France)
+      - 🇫🇷 hysteria2-3177d916 (France)
+      - 🇫🇷 hysteria2-36fd5f2d (France)
+      - 🇫🇷 hysteria2-4ac1ccfc (France)
+      - 🇫🇷 hysteria2-4d8daf15 (France)
+      - 🇫🇷 hysteria2-5126a807 (France)
+      - 🇫🇷 hysteria2-63439843 (France)
+      - 🇫🇷 hysteria2-6da0019b (France)
+      - 🇫🇷 hysteria2-83a47345 (France)
+      - 🇫🇷 hysteria2-85e06f28 (France)
+      - 🇫🇷 hysteria2-9b8351d1 (France)
+      - 🇫🇷 hysteria2-ae139388 (France)
+      - 🇫🇷 hysteria2-b10775eb (France)
+      - 🇫🇷 hysteria2-bdcbbf5c (France)
+      - 🇫🇷 hysteria2-c1f11f19 (France)
+      - 🇫🇷 hysteria2-d2fb2b5c (France)
+      - 🇫🇷 hysteria2-dc55af2c (France)
+      - 🇫🇷 hysteria2-f2c9577d (France)
+      - 🇫🇷 vless-05fc437f (France)
+      - 🇫🇷 vless-0a018970 (France)
+      - 🇫🇷 vless-2caec812 (France)
+      - 🇫🇷 vless-c58fafd5 (France)
+      - 🇫🇷 vless-d375eabf (France)
+      - 🇬🇧 hysteria2-a965cbd4 (United Kingdom)
+      - 🇬🇧 hysteria2-dcfe3568 (United Kingdom)
+      - 🇬🇧 ss-003785f6 (United Kingdom)
+      - 🇬🇧 ss-0e6d0d47 (United Kingdom)
+      - 🇬🇧 ss-23f2ca58 (United Kingdom)
+      - 🇬🇧 ss-2a116c90 (United Kingdom)
+      - 🇬🇧 ss-47bd7279 (United Kingdom)
+      - 🇬🇧 ss-5c0ee384 (United Kingdom)
+      - 🇬🇧 ss-739b6792 (United Kingdom)
+      - 🇬🇧 ss-74cbefff (United Kingdom)
+      - 🇬🇧 ss-7933eb8f (United Kingdom)
+      - 🇬🇧 ss-9a3bf2cb (United Kingdom)
+      - 🇬🇧 ss-b3f83b47 (United Kingdom)
+      - 🇬🇧 ss-cd5fe3f5 (United Kingdom)
+      - 🇬🇧 ss-e346a0bf (United Kingdom)
+      - 🇬🇧 ss-ee530cf2 (United Kingdom)
+      - 🇬🇧 ss-f1f483ba (United Kingdom)
+      - 🇬🇧 vless-825a1b7b (United Kingdom)
+      - 🇬🇧 vless-960d4b08 (United Kingdom)
+      - 🇬🇧 vless-f81ef414 (United Kingdom)
+      - 🇭🇰 hysteria2-30e0be80 (Hong Kong)
+      - 🇭🇰 hysteria2-51c368a4 (Hong Kong)
+      - 🇭🇰 hysteria2-653efadd (Hong Kong)
+      - 🇭🇰 hysteria2-8b6167ab (Hong Kong)
+      - 🇭🇰 hysteria2-ae7ddb80 (Hong Kong)
+      - 🇭🇰 hysteria2-bbf6cb8a (Hong Kong)
+      - 🇭🇰 hysteria2-c3b11516 (Hong Kong)
+      - 🇭🇰 hysteria2-d96b0fce (Hong Kong)
+      - 🇭🇰 hysteria2-e6914672 (Hong Kong)
+      - 🇮🇳 vless-beb47b5c (India)
+      - 🇮🇷 ss-44418a13 (Iran)
+      - 🇮🇷 vless-1d38112a (Iran)
+      - 🇮🇷 vless-21f49b86 (Iran)
+      - 🇮🇷 vless-3bfd2c5b (Iran)
+      - 🇮🇷 vless-63898842 (Iran)
+      - 🇮🇷 vless-7a10128b (Iran)
+      - 🇮🇷 vless-7df55eb9 (Iran)
+      - 🇮🇷 vless-87c2f3e1 (Iran)
+      - 🇮🇷 vless-d116a481 (Iran)
+      - 🇮🇷 vless-d78c6df2 (Iran)
+      - 🇮🇷 vless-f4554909 (Iran)
+      - 🇮🇷 vmess-325b0a91 (Iran)
+      - 🇮🇷 vmess-e3eda14a (Iran)
+      - 🇮🇹 hysteria2-0bc63983 (Italy)
+      - 🇮🇹 hysteria2-199f1da0 (Italy)
+      - 🇮🇹 hysteria2-5008c195 (Italy)
+      - 🇮🇹 hysteria2-663f830b (Italy)
+      - 🇮🇹 hysteria2-6f223155 (Italy)
+      - 🇮🇹 hysteria2-713b423c (Italy)
+      - 🇮🇹 hysteria2-748bbb8f (Italy)
+      - 🇮🇹 hysteria2-8aa89256 (Italy)
+      - 🇮🇹 hysteria2-8cda65ff (Italy)
+      - 🇮🇹 hysteria2-8ce56d8c (Italy)
+      - 🇮🇹 hysteria2-99fb6bd7 (Italy)
+      - 🇮🇹 hysteria2-9d87b07d (Italy)
+      - 🇮🇹 hysteria2-b31a5ad2 (Italy)
+      - 🇮🇹 hysteria2-b47e5238 (Italy)
+      - 🇮🇹 hysteria2-b69eb5b8 (Italy)
+      - 🇮🇹 hysteria2-cc2cfce7 (Italy)
+      - 🇮🇹 hysteria2-e905d79c (Italy)
+      - 🇮🇹 hysteria2-eb0ad08a (Italy)
+      - 🇮🇹 hysteria2-ec9c1fb5 (Italy)
+      - 🇯🇵 hysteria2-0bd702cc (Japan)
+      - 🇯🇵 hysteria2-565707be (Japan)
+      - 🇯🇵 hysteria2-6d5c1c46 (Japan)
+      - 🇯🇵 hysteria2-9b205c57 (Japan)
+      - 🇯🇵 hysteria2-cc470024 (Japan)
+      - 🇰🇷 hysteria2-49c24e7e (South Korea)
+      - 🇰🇷 vless-0bde6c6f (South Korea)
+      - 🇱🇺 vless-8f64e5df (Luxembourg)
+      - 🇲🇽 vless-dca96cb0 (Mexico)
+      - 🇲🇾 vless-3520aca5 (Malaysia)
+      - 🇳🇱 hysteria2-1fe70b27 (The Netherlands)
+      - 🇳🇱 hysteria2-83e2f472 (The Netherlands)
+      - 🇳🇱 hysteria2-8a2108f3 (The Netherlands)
+      - 🇳🇱 hysteria2-c3f730ba (The Netherlands)
+      - 🇳🇱 ss-66ad8680 (The Netherlands)
+      - 🇳🇱 ss-d26983d5 (The Netherlands)
+      - 🇳🇱 vless-1d87a32b (The Netherlands)
+      - 🇳🇱 vless-4a265784 (Netherlands)
+      - 🇳🇱 vless-5a155ffe (The Netherlands)
+      - 🇳🇱 vless-8873f77f (The Netherlands)
+      - 🇳🇱 vless-d4bc917b (The Netherlands)
+      - 🇳🇿 vless-803ea87e (New Zealand)
+      - 🇷🇺 hysteria2-c780524c (Russia)
+      - 🇷🇺 trojan-3f10a88a (Russia)
+      - 🇷🇺 vless-43985567 (Russia)
+      - 🇷🇺 vless-4740ef80 (Russia)
+      - 🇷🇺 vless-c69f3b61 (Russia)
+      - 🇸🇪 vmess-c2dc1647 (Sweden)
+      - 🇸🇬 vless-71eafd4a (Singapore)
+      - 🇹🇷 vless-3f9f72fb (Türkiye)
+      - 🇹🇷 vless-843b87f8 (Türkiye)
+      - 🇺🇦 hysteria2-108f61c3 (Ukraine)
+      - 🇺🇦 hysteria2-2a8aecf5 (Ukraine)
+      - 🇺🇦 hysteria2-35be810b (Ukraine)
+      - 🇺🇦 hysteria2-35e9c16d (Ukraine)
+      - 🇺🇦 hysteria2-4af6fd87 (Ukraine)
+      - 🇺🇦 hysteria2-5067e8e3 (Ukraine)
+      - 🇺🇦 hysteria2-54b57923 (Ukraine)
+      - 🇺🇦 hysteria2-57f676d9 (Ukraine)
+      - 🇺🇦 hysteria2-5bfa8f8f (Ukraine)
+      - 🇺🇦 hysteria2-6113e763 (Ukraine)
+      - 🇺🇦 hysteria2-67508bf2 (Ukraine)
+      - 🇺🇦 hysteria2-9caaf99f (Ukraine)
+      - 🇺🇦 hysteria2-9f2f9655 (Ukraine)
+      - 🇺🇦 hysteria2-9fe44dfa (Ukraine)
+      - 🇺🇦 hysteria2-a413496e (Ukraine)
+      - 🇺🇦 hysteria2-a6512877 (Ukraine)
+      - 🇺🇦 hysteria2-b4a7f535 (Ukraine)
+      - 🇺🇦 hysteria2-bfd4818c (Ukraine)
+      - 🇺🇦 hysteria2-c642c3f1 (Ukraine)
+      - 🇺🇸 hysteria2-0240cc13 (United States)
+      - 🇺🇸 hysteria2-0ac95b24 (United States)
+      - 🇺🇸 hysteria2-1ba33ba4 (United States)
+      - 🇺🇸 hysteria2-3b21a2aa (United States)
+      - 🇺🇸 hysteria2-41778f4f (United States)
+      - 🇺🇸 hysteria2-57cb1fd2 (United States)
+      - 🇺🇸 hysteria2-68e2ed03 (United States)
+      - 🇺🇸 hysteria2-6c4ad6af (United States)
+      - 🇺🇸 hysteria2-884e54f0 (United States)
+      - 🇺🇸 hysteria2-9bd3b654 (United States)
+      - 🇺🇸 hysteria2-ab8ac1a4 (United States)
+      - 🇺🇸 hysteria2-e70d00d3 (United States)
+      - 🇺🇸 hysteria2-ec591fe3 (United States)
+      - 🇺🇸 hysteria2-f1868fd8 (United States)
+      - 🇺🇸 vless-06ab9ff1 (United States)
+      - 🇺🇸 vless-59475887 (United States)
+      - 🇺🇸 vless-5f5b1d91 (United States)
+      - 🇺🇸 vless-686cd071 (United States)
+      - 🇺🇸 vless-6c8df151 (United States)
+      - 🇺🇸 vless-6de08816 (United States)
+      - 🇺🇸 vless-a2fec52f (United States)
+      - 🇺🇸 vless-a3fc9cc3 (United States)
+      - 🇺🇸 vless-aa3083f8 (United States)
+      - 🇺🇸 vless-b6641944 (United States)
+      - 🇺🇸 vless-d7306d74 (United States)
+      - 🇺🇸 vless-ed223b79 (United States)
+      - 🇺🇸 vless-fc12c823 (United States)
+  - name: 🎯 全球直连
     type: select
     proxies:
       - DIRECT
-  - name: اجازه ندادن 🚫
+  - name: 🛑 全球拦截
     type: select
     proxies:
       - REJECT
+      - DIRECT
+  - name: 🐟 漏网之鱼
+    type: select
+    proxies:
+      - 🔰 节点选择
+      - 🎯 全球直连
+      - ♻️ 自动选择
+      - vless-715152b3 (Armenia)
+      - vless-89f6ec3a (Belize)
+      - vless-b373c141 (Belize)
+      - vless-cd2f6f98 (Armenia)
+      - ️ vless-90a8e1b4 (Unknown)
+      - ️ vless-9959f873 (Unknown)
+      - ️ vless-ad9c36d1 (Unknown)
+      - ️ vless-ee709843 (Unknown)
+      - ️ vmess-0e5d49d8 (Unknown)
+      - ️ vmess-22ef6cc0 (Unknown)
+      - ️ vmess-e38ca05f (Unknown)
+      - 🇦🇱 vless-89965c28 (Albania)
+      - 🇦🇺 vless-679f8a9c (Australia)
+      - 🇧🇬 vless-cb2d6d56 (Bulgaria)
+      - 🇨🇦 hysteria2-856a752a (Canada)
+      - 🇨🇦 trojan-036f33a6 (Canada)
+      - 🇨🇦 trojan-d84bb6b4 (Canada)
+      - 🇨🇦 vless-02703525 (Canada)
+      - 🇨🇦 vless-05982b9f (Canada)
+      - 🇨🇦 vless-07582c80 (Canada)
+      - 🇨🇦 vless-0aad74a7 (Canada)
+      - 🇨🇦 vless-0e95bde5 (Canada)
+      - 🇨🇦 vless-108dd9e3 (Canada)
+      - 🇨🇦 vless-13a4e3ad (Canada)
+      - 🇨🇦 vless-13ab01b6 (Canada)
+      - 🇨🇦 vless-145a59c4 (Canada)
+      - 🇨🇦 vless-18f7aebe (Canada)
+      - 🇨🇦 vless-19e4d5cd (Canada)
+      - 🇨🇦 vless-221aa679 (Canada)
+      - 🇨🇦 vless-27bf9968 (Canada)
+      - 🇨🇦 vless-39a2a7a7 (Canada)
+      - 🇨🇦 vless-3b1b312d (Canada)
+      - 🇨🇦 vless-3b8776d3 (Canada)
+      - 🇨🇦 vless-3f6042b1 (Canada)
+      - 🇨🇦 vless-407288c8 (Canada)
+      - 🇨🇦 vless-4142b896 (Canada)
+      - 🇨🇦 vless-4a74eded (Canada)
+      - 🇨🇦 vless-4ae0a7bf (Canada)
+      - 🇨🇦 vless-4c777e40 (Canada)
+      - 🇨🇦 vless-4fae349c (Canada)
+      - 🇨🇦 vless-51a8c173 (Canada)
+      - 🇨🇦 vless-5895ef71 (Canada)
+      - 🇨🇦 vless-598e8f40 (Canada)
+      - 🇨🇦 vless-5a44bcf5 (Canada)
+      - 🇨🇦 vless-5b267180 (Canada)
+      - 🇨🇦 vless-5c7457ee (Canada)
+      - 🇨🇦 vless-5d656b9e (Canada)
+      - 🇨🇦 vless-5f826e16 (Canada)
+      - 🇨🇦 vless-6240153a (Canada)
+      - 🇨🇦 vless-653eef09 (Canada)
+      - 🇨🇦 vless-6bb4a67d (Canada)
+      - 🇨🇦 vless-71e0e60b (Canada)
+      - 🇨🇦 vless-74142da6 (Canada)
+      - 🇨🇦 vless-777e48bd (Canada)
+      - 🇨🇦 vless-779b3fcc (Canada)
+      - 🇨🇦 vless-785a17e3 (Canada)
+      - 🇨🇦 vless-7a610538 (Canada)
+      - 🇨🇦 vless-7b4c6aa4 (Canada)
+      - 🇨🇦 vless-80d36f1b (Canada)
+      - 🇨🇦 vless-81a9327d (Canada)
+      - 🇨🇦 vless-82af0f13 (Canada)
+      - 🇨🇦 vless-82e81c75 (Canada)
+      - 🇨🇦 vless-84bd604f (Canada)
+      - 🇨🇦 vless-85d5c5c3 (Canada)
+      - 🇨🇦 vless-8994005a (Canada)
+      - 🇨🇦 vless-89f47707 (Canada)
+      - 🇨🇦 vless-92192fff (Canada)
+      - 🇨🇦 vless-940e27cf (Canada)
+      - 🇨🇦 vless-941a4f05 (Canada)
+      - 🇨🇦 vless-94faf217 (Canada)
+      - 🇨🇦 vless-960294ed (Canada)
+      - 🇨🇦 vless-973bc8c8 (Canada)
+      - 🇨🇦 vless-989b7cff (Canada)
+      - 🇨🇦 vless-9cee4e75 (Canada)
+      - 🇨🇦 vless-a5c7d2be (Canada)
+      - 🇨🇦 vless-a76a5bbb (Canada)
+      - 🇨🇦 vless-a9852b73 (Canada)
+      - 🇨🇦 vless-aab549c3 (Canada)
+      - 🇨🇦 vless-abb24d5b (Canada)
+      - 🇨🇦 vless-ad1ae761 (Canada)
+      - 🇨🇦 vless-ae861eb9 (Canada)
+      - 🇨🇦 vless-af78cfd6 (Canada)
+      - 🇨🇦 vless-b2c942cb (Canada)
+      - 🇨🇦 vless-b2e407d5 (Canada)
+      - 🇨🇦 vless-b3b96a0a (Canada)
+      - 🇨🇦 vless-b7153225 (Canada)
+      - 🇨🇦 vless-c6998c0c (Canada)
+      - 🇨🇦 vless-c7dafafc (Canada)
+      - 🇨🇦 vless-cbecb682 (Canada)
+      - 🇨🇦 vless-ccdc9748 (Canada)
+      - 🇨🇦 vless-cfb5252e (Canada)
+      - 🇨🇦 vless-d06c0fea (Canada)
+      - 🇨🇦 vless-d183757c (Canada)
+      - 🇨🇦 vless-d46575b6 (Canada)
+      - 🇨🇦 vless-d53cd11e (Canada)
+      - 🇨🇦 vless-d58b074e (Canada)
+      - 🇨🇦 vless-d7af0806 (Canada)
+      - 🇨🇦 vless-d9c62d79 (Canada)
+      - 🇨🇦 vless-df8c8f62 (Canada)
+      - 🇨🇦 vless-e0d8669e (Canada)
+      - 🇨🇦 vless-e20df495 (Canada)
+      - 🇨🇦 vless-e34e1a24 (Canada)
+      - 🇨🇦 vless-e50b374a (Canada)
+      - 🇨🇦 vless-e61be56e (Canada)
+      - 🇨🇦 vless-ebca96ac (Canada)
+      - 🇨🇦 vless-ec4ea38b (Canada)
+      - 🇨🇦 vless-ecdb33ac (Canada)
+      - 🇨🇦 vless-eeaf657a (Canada)
+      - 🇨🇦 vless-f4b3334c (Canada)
+      - 🇨🇦 vless-f69809a0 (Canada)
+      - 🇨🇦 vless-f72466e6 (Canada)
+      - 🇨🇦 vless-fbd502da (Canada)
+      - 🇨🇦 vmess-0eba7475 (Canada)
+      - 🇨🇦 vmess-177948b4 (Canada)
+      - 🇨🇦 vmess-51597655 (Canada)
+      - 🇨🇦 vmess-52ba7cb5 (Canada)
+      - 🇨🇦 vmess-56aa62fd (Canada)
+      - 🇨🇦 vmess-6b2f3537 (Canada)
+      - 🇨🇦 vmess-bc87a657 (Canada)
+      - 🇨🇦 vmess-fd49a5f7 (Canada)
+      - 🇩🇪 hysteria2-2a89907d (Germany)
+      - 🇩🇪 trojan-eafcfb3f (Germany)
+      - 🇩🇪 vless-1d6b2af4 (Germany)
+      - 🇩🇪 vless-1f84f1f9 (Germany)
+      - 🇩🇪 vless-413a6800 (Germany)
+      - 🇩🇪 vless-7a80f076 (Germany)
+      - 🇩🇪 vless-958a8982 (Germany)
+      - 🇩🇪 vless-b5b52bc7 (Germany)
+      - 🇩🇪 vless-baed7496 (Germany)
+      - 🇩🇪 vless-e1f2112c (Germany)
+      - 🇩🇪 vmess-23d9ac51 (Germany)
+      - 🇩🇪 vmess-5d7121b7 (Germany)
+      - 🇩🇪 vmess-85ddd665 (Germany)
+      - 🇩🇪 vmess-9171c3c5 (Germany)
+      - 🇩🇪 vmess-9426c541 (Germany)
+      - 🇩🇪 vmess-9c034d0e (Germany)
+      - 🇩🇪 vmess-ad063e67 (Germany)
+      - 🇩🇪 vmess-c6121514 (Germany)
+      - 🇪🇪 vless-84fa2a29 (Estonia)
+      - 🇪🇸 vless-c353c0b7 (Spain)
+      - 🇫🇮 vless-39d72ffa (Finland)
+      - 🇫🇮 vless-440ec9b0 (Finland)
+      - 🇫🇮 vless-4dd77dc8 (Finland)
+      - 🇫🇮 vless-6eb7e845 (Finland)
+      - 🇫🇮 vless-a1045cdb (Finland)
+      - 🇫🇮 vless-a5c197e8 (Finland)
+      - 🇫🇷 hysteria2-011a4bf5 (France)
+      - 🇫🇷 hysteria2-12ccd28b (France)
+      - 🇫🇷 hysteria2-2fe34298 (France)
+      - 🇫🇷 hysteria2-3177d916 (France)
+      - 🇫🇷 hysteria2-36fd5f2d (France)
+      - 🇫🇷 hysteria2-4ac1ccfc (France)
+      - 🇫🇷 hysteria2-4d8daf15 (France)
+      - 🇫🇷 hysteria2-5126a807 (France)
+      - 🇫🇷 hysteria2-63439843 (France)
+      - 🇫🇷 hysteria2-6da0019b (France)
+      - 🇫🇷 hysteria2-83a47345 (France)
+      - 🇫🇷 hysteria2-85e06f28 (France)
+      - 🇫🇷 hysteria2-9b8351d1 (France)
+      - 🇫🇷 hysteria2-ae139388 (France)
+      - 🇫🇷 hysteria2-b10775eb (France)
+      - 🇫🇷 hysteria2-bdcbbf5c (France)
+      - 🇫🇷 hysteria2-c1f11f19 (France)
+      - 🇫🇷 hysteria2-d2fb2b5c (France)
+      - 🇫🇷 hysteria2-dc55af2c (France)
+      - 🇫🇷 hysteria2-f2c9577d (France)
+      - 🇫🇷 vless-05fc437f (France)
+      - 🇫🇷 vless-0a018970 (France)
+      - 🇫🇷 vless-2caec812 (France)
+      - 🇫🇷 vless-c58fafd5 (France)
+      - 🇫🇷 vless-d375eabf (France)
+      - 🇬🇧 hysteria2-a965cbd4 (United Kingdom)
+      - 🇬🇧 hysteria2-dcfe3568 (United Kingdom)
+      - 🇬🇧 ss-003785f6 (United Kingdom)
+      - 🇬🇧 ss-0e6d0d47 (United Kingdom)
+      - 🇬🇧 ss-23f2ca58 (United Kingdom)
+      - 🇬🇧 ss-2a116c90 (United Kingdom)
+      - 🇬🇧 ss-47bd7279 (United Kingdom)
+      - 🇬🇧 ss-5c0ee384 (United Kingdom)
+      - 🇬🇧 ss-739b6792 (United Kingdom)
+      - 🇬🇧 ss-74cbefff (United Kingdom)
+      - 🇬🇧 ss-7933eb8f (United Kingdom)
+      - 🇬🇧 ss-9a3bf2cb (United Kingdom)
+      - 🇬🇧 ss-b3f83b47 (United Kingdom)
+      - 🇬🇧 ss-cd5fe3f5 (United Kingdom)
+      - 🇬🇧 ss-e346a0bf (United Kingdom)
+      - 🇬🇧 ss-ee530cf2 (United Kingdom)
+      - 🇬🇧 ss-f1f483ba (United Kingdom)
+      - 🇬🇧 vless-825a1b7b (United Kingdom)
+      - 🇬🇧 vless-960d4b08 (United Kingdom)
+      - 🇬🇧 vless-f81ef414 (United Kingdom)
+      - 🇭🇰 hysteria2-30e0be80 (Hong Kong)
+      - 🇭🇰 hysteria2-51c368a4 (Hong Kong)
+      - 🇭🇰 hysteria2-653efadd (Hong Kong)
+      - 🇭🇰 hysteria2-8b6167ab (Hong Kong)
+      - 🇭🇰 hysteria2-ae7ddb80 (Hong Kong)
+      - 🇭🇰 hysteria2-bbf6cb8a (Hong Kong)
+      - 🇭🇰 hysteria2-c3b11516 (Hong Kong)
+      - 🇭🇰 hysteria2-d96b0fce (Hong Kong)
+      - 🇭🇰 hysteria2-e6914672 (Hong Kong)
+      - 🇮🇳 vless-beb47b5c (India)
+      - 🇮🇷 ss-44418a13 (Iran)
+      - 🇮🇷 vless-1d38112a (Iran)
+      - 🇮🇷 vless-21f49b86 (Iran)
+      - 🇮🇷 vless-3bfd2c5b (Iran)
+      - 🇮🇷 vless-63898842 (Iran)
+      - 🇮🇷 vless-7a10128b (Iran)
+      - 🇮🇷 vless-7df55eb9 (Iran)
+      - 🇮🇷 vless-87c2f3e1 (Iran)
+      - 🇮🇷 vless-d116a481 (Iran)
+      - 🇮🇷 vless-d78c6df2 (Iran)
+      - 🇮🇷 vless-f4554909 (Iran)
+      - 🇮🇷 vmess-325b0a91 (Iran)
+      - 🇮🇷 vmess-e3eda14a (Iran)
+      - 🇮🇹 hysteria2-0bc63983 (Italy)
+      - 🇮🇹 hysteria2-199f1da0 (Italy)
+      - 🇮🇹 hysteria2-5008c195 (Italy)
+      - 🇮🇹 hysteria2-663f830b (Italy)
+      - 🇮🇹 hysteria2-6f223155 (Italy)
+      - 🇮🇹 hysteria2-713b423c (Italy)
+      - 🇮🇹 hysteria2-748bbb8f (Italy)
+      - 🇮🇹 hysteria2-8aa89256 (Italy)
+      - 🇮🇹 hysteria2-8cda65ff (Italy)
+      - 🇮🇹 hysteria2-8ce56d8c (Italy)
+      - 🇮🇹 hysteria2-99fb6bd7 (Italy)
+      - 🇮🇹 hysteria2-9d87b07d (Italy)
+      - 🇮🇹 hysteria2-b31a5ad2 (Italy)
+      - 🇮🇹 hysteria2-b47e5238 (Italy)
+      - 🇮🇹 hysteria2-b69eb5b8 (Italy)
+      - 🇮🇹 hysteria2-cc2cfce7 (Italy)
+      - 🇮🇹 hysteria2-e905d79c (Italy)
+      - 🇮🇹 hysteria2-eb0ad08a (Italy)
+      - 🇮🇹 hysteria2-ec9c1fb5 (Italy)
+      - 🇯🇵 hysteria2-0bd702cc (Japan)
+      - 🇯🇵 hysteria2-565707be (Japan)
+      - 🇯🇵 hysteria2-6d5c1c46 (Japan)
+      - 🇯🇵 hysteria2-9b205c57 (Japan)
+      - 🇯🇵 hysteria2-cc470024 (Japan)
+      - 🇰🇷 hysteria2-49c24e7e (South Korea)
+      - 🇰🇷 vless-0bde6c6f (South Korea)
+      - 🇱🇺 vless-8f64e5df (Luxembourg)
+      - 🇲🇽 vless-dca96cb0 (Mexico)
+      - 🇲🇾 vless-3520aca5 (Malaysia)
+      - 🇳🇱 hysteria2-1fe70b27 (The Netherlands)
+      - 🇳🇱 hysteria2-83e2f472 (The Netherlands)
+      - 🇳🇱 hysteria2-8a2108f3 (The Netherlands)
+      - 🇳🇱 hysteria2-c3f730ba (The Netherlands)
+      - 🇳🇱 ss-66ad8680 (The Netherlands)
+      - 🇳🇱 ss-d26983d5 (The Netherlands)
+      - 🇳🇱 vless-1d87a32b (The Netherlands)
+      - 🇳🇱 vless-4a265784 (Netherlands)
+      - 🇳🇱 vless-5a155ffe (The Netherlands)
+      - 🇳🇱 vless-8873f77f (The Netherlands)
+      - 🇳🇱 vless-d4bc917b (The Netherlands)
+      - 🇳🇿 vless-803ea87e (New Zealand)
+      - 🇷🇺 hysteria2-c780524c (Russia)
+      - 🇷🇺 trojan-3f10a88a (Russia)
+      - 🇷🇺 vless-43985567 (Russia)
+      - 🇷🇺 vless-4740ef80 (Russia)
+      - 🇷🇺 vless-c69f3b61 (Russia)
+      - 🇸🇪 vmess-c2dc1647 (Sweden)
+      - 🇸🇬 vless-71eafd4a (Singapore)
+      - 🇹🇷 vless-3f9f72fb (Türkiye)
+      - 🇹🇷 vless-843b87f8 (Türkiye)
+      - 🇺🇦 hysteria2-108f61c3 (Ukraine)
+      - 🇺🇦 hysteria2-2a8aecf5 (Ukraine)
+      - 🇺🇦 hysteria2-35be810b (Ukraine)
+      - 🇺🇦 hysteria2-35e9c16d (Ukraine)
+      - 🇺🇦 hysteria2-4af6fd87 (Ukraine)
+      - 🇺🇦 hysteria2-5067e8e3 (Ukraine)
+      - 🇺🇦 hysteria2-54b57923 (Ukraine)
+      - 🇺🇦 hysteria2-57f676d9 (Ukraine)
+      - 🇺🇦 hysteria2-5bfa8f8f (Ukraine)
+      - 🇺🇦 hysteria2-6113e763 (Ukraine)
+      - 🇺🇦 hysteria2-67508bf2 (Ukraine)
+      - 🇺🇦 hysteria2-9caaf99f (Ukraine)
+      - 🇺🇦 hysteria2-9f2f9655 (Ukraine)
+      - 🇺🇦 hysteria2-9fe44dfa (Ukraine)
+      - 🇺🇦 hysteria2-a413496e (Ukraine)
+      - 🇺🇦 hysteria2-a6512877 (Ukraine)
+      - 🇺🇦 hysteria2-b4a7f535 (Ukraine)
+      - 🇺🇦 hysteria2-bfd4818c (Ukraine)
+      - 🇺🇦 hysteria2-c642c3f1 (Ukraine)
+      - 🇺🇸 hysteria2-0240cc13 (United States)
+      - 🇺🇸 hysteria2-0ac95b24 (United States)
+      - 🇺🇸 hysteria2-1ba33ba4 (United States)
+      - 🇺🇸 hysteria2-3b21a2aa (United States)
+      - 🇺🇸 hysteria2-41778f4f (United States)
+      - 🇺🇸 hysteria2-57cb1fd2 (United States)
+      - 🇺🇸 hysteria2-68e2ed03 (United States)
+      - 🇺🇸 hysteria2-6c4ad6af (United States)
+      - 🇺🇸 hysteria2-884e54f0 (United States)
+      - 🇺🇸 hysteria2-9bd3b654 (United States)
+      - 🇺🇸 hysteria2-ab8ac1a4 (United States)
+      - 🇺🇸 hysteria2-e70d00d3 (United States)
+      - 🇺🇸 hysteria2-ec591fe3 (United States)
+      - 🇺🇸 hysteria2-f1868fd8 (United States)
+      - 🇺🇸 vless-06ab9ff1 (United States)
+      - 🇺🇸 vless-59475887 (United States)
+      - 🇺🇸 vless-5f5b1d91 (United States)
+      - 🇺🇸 vless-686cd071 (United States)
+      - 🇺🇸 vless-6c8df151 (United States)
+      - 🇺🇸 vless-6de08816 (United States)
+      - 🇺🇸 vless-a2fec52f (United States)
+      - 🇺🇸 vless-a3fc9cc3 (United States)
+      - 🇺🇸 vless-aa3083f8 (United States)
+      - 🇺🇸 vless-b6641944 (United States)
+      - 🇺🇸 vless-d7306d74 (United States)
+      - 🇺🇸 vless-ed223b79 (United States)
+      - 🇺🇸 vless-fc12c823 (United States)
 rules:
-  - PROCESS-NAME,Telegram.exe,تلگرام 💬
-  - PROCESS-NAME,org.telegram.messenger,تلگرام 💬
-  - PROCESS-NAME,org.telegram.messenger.web,تلگرام 💬
-  - IP-CIDR,10.10.34.0/24,نوع انتخاب پروکسی 🔀
-  - DOMAIN-SUFFIX,ir,سایتای ایرانی 🇮🇷
-  - GEOIP,ir,سایتای ایرانی 🇮🇷
-  - RULE-SET,apps,سایتای ایرانی 🇮🇷
-  - MATCH,نوع انتخاب پروکسی 🔀
-ntp:
-  enable: true
-  server: time.apple.com
-  port: 123
-  interval: 30
+  - RULE-SET,LocalAreaNetwork_domain,🎯 全球直连
+  - RULE-SET,LocalAreaNetwork_ipcidr,🎯 全球直连,no-resolve
+  - DOMAIN-KEYWORD,1drv,Ⓜ️ 微软服务
+  - DOMAIN-KEYWORD,microsoft,Ⓜ️ 微软服务
+  - RULE-SET,MSServices_domain,Ⓜ️ 微软服务
+  - RULE-SET,Unbreak_domain,🎯 全球直连
+  - RULE-SET,AdRule_domain,🛑 全球拦截
+  - RULE-SET,AdRule_ipcidr,🛑 全球拦截,no-resolve
+  - RULE-SET,Hijacking_domain,🛑 全球拦截
+  - RULE-SET,Hijacking_ipcidr,🛑 全球拦截,no-resolve
+  - DOMAIN-KEYWORD,jooxweb-api,🌍 国外媒体
+  - DOMAIN-KEYWORD,spotify.com,🌍 国外媒体
+  - DOMAIN-KEYWORD,-spotify-com,🌍 国外媒体
+  - DOMAIN-KEYWORD,abematv.akamaized.net,🌍 国外媒体
+  - DOMAIN-KEYWORD,avoddashs,🌍 国外媒体
+  - DOMAIN-KEYWORD,bbcfmt,🌍 国外媒体
+  - DOMAIN-KEYWORD,uk-live,🌍 国外媒体
+  - DOMAIN-KEYWORD,voddazn,🌍 国外媒体
+  - DOMAIN-KEYWORD,discovery.uplynk.com,🌍 国外媒体
+  - DOMAIN-KEYWORD,hamivideo.cdn.hinet.net,🌍 国外媒体
+  - DOMAIN-KEYWORD,.hbogoasia.,🌍 国外媒体
+  - DOMAIN-KEYWORD,netflixdnstest,🌍 国外媒体
+  - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-,🌍 国外媒体
+  - DOMAIN-KEYWORD,dualstack.apiproxy-,🌍 国外媒体
+  - DOMAIN-KEYWORD,tiktokcdn-,🌍 国外媒体
+  - RULE-SET,Streaming_domain,🌍 国外媒体
+  - RULE-SET,Streaming_ipcidr,🌍 国外媒体,no-resolve
+  - RULE-SET,Bilibili_domain,🌏 国内媒体
+  - RULE-SET,iQiyi_domain,🌏 国内媒体
+  - RULE-SET,iQiyi_ipcidr,🌏 国内媒体,no-resolve
+  - RULE-SET,Letv_domain,🌏 国内媒体
+  - RULE-SET,Tencent Video_domain,🌏 国内媒体
+  - RULE-SET,Youku_domain,🌏 国内媒体
+  - RULE-SET,Youku_ipcidr,🌏 国内媒体,no-resolve
+  - RULE-SET,Telegram_domain,📲 电报信息
+  - RULE-SET,Telegram_ipcidr,📲 电报信息,no-resolve
+  - DOMAIN-KEYWORD,google,🔰 节点选择
+  - DOMAIN-KEYWORD,.blogspot.,🔰 节点选择
+  - DOMAIN-KEYWORD,.facebook.,🔰 节点选择
+  - DOMAIN-KEYWORD,.pinterest.,🔰 节点选择
+  - RULE-SET,Global_domain,🔰 节点选择
+  - RULE-SET,Global_ipcidr,🔰 节点选择,no-resolve
+  - DOMAIN-KEYWORD,apple.com.akadns.net,🍎 苹果服务
+  - DOMAIN-KEYWORD,apple.com.edgekey.net,🍎 苹果服务
+  - DOMAIN-KEYWORD,apple-support.akadns.net,🍎 苹果服务
+  - DOMAIN-KEYWORD,icloud.com.akadns.net,🍎 苹果服务
+  - RULE-SET,Apple_domain,🍎 苹果服务
+  - RULE-SET,China_domain,🎯 全球直连
+  - RULE-SET,China_ipcidr,🎯 全球直连,no-resolve
+  - DOMAIN-KEYWORD,aria2,🎯 全球直连
+  - DOMAIN-KEYWORD,xunlei,🎯 全球直连
+  - DOMAIN-KEYWORD,yunpan,🎯 全球直连
+  - DOMAIN-KEYWORD,Thunder,🎯 全球直连
+  - DOMAIN-KEYWORD,XLLiveUD,🎯 全球直连
+  - GEOIP,CN,🎯 全球直连
+  - MATCH,🐟 漏网之鱼
+rule-providers:
+  LocalAreaNetwork_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvTG9jYWxBcmVhTmV0d29yay5saXN0"
+    path: ./providers/rule-provider_LocalAreaNetwork_domain.yaml
+    interval: 86400
+  LocalAreaNetwork_ipcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvTG9jYWxBcmVhTmV0d29yay5saXN0"
+    path: ./providers/rule-provider_LocalAreaNetwork_ipcidr.yaml
+    interval: 86400
+  MSServices_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvTVNTZXJ2aWNlcy5saXN0"
+    path: ./providers/rule-provider_MSServices_domain.yaml
+    interval: 86400
+  Unbreak_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvVW5icmVhay5saXN0"
+    path: ./providers/rule-provider_Unbreak_domain.yaml
+    interval: 86400
+  AdRule_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvTm9ieURhL1N1cmdlL0FkUnVsZS5saXN0"
+    path: ./providers/rule-provider_AdRule_domain.yaml
+    interval: 86400
+  AdRule_ipcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvTm9ieURhL1N1cmdlL0FkUnVsZS5saXN0"
+    path: ./providers/rule-provider_AdRule_ipcidr.yaml
+    interval: 86400
+  Hijacking_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR3VhcmQvSGlqYWNraW5nLmxpc3Q"
+    path: ./providers/rule-provider_Hijacking_domain.yaml
+    interval: 86400
+  Hijacking_ipcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR3VhcmQvSGlqYWNraW5nLmxpc3Q"
+    path: ./providers/rule-provider_Hijacking_ipcidr.yaml
+    interval: 86400
+  Streaming_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvU3RyZWFtaW5nTWVkaWEvU3RyZWFtaW5nLmxpc3Q"
+    path: ./providers/rule-provider_Streaming_domain.yaml
+    interval: 86400
+  Streaming_ipcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvU3RyZWFtaW5nTWVkaWEvU3RyZWFtaW5nLmxpc3Q"
+    path: ./providers/rule-provider_Streaming_ipcidr.yaml
+    interval: 86400
+  Bilibili_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9CaWxpYmlsaS5saXN0"
+    path: ./providers/rule-provider_Bilibili_domain.yaml
+    interval: 86400
+  iQiyi_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9pUWl5aS5saXN0"
+    path: ./providers/rule-provider_iQiyi_domain.yaml
+    interval: 86400
+  iQiyi_ipcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9pUWl5aS5saXN0"
+    path: ./providers/rule-provider_iQiyi_ipcidr.yaml
+    interval: 86400
+  Letv_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9MZXR2Lmxpc3Q"
+    path: ./providers/rule-provider_Letv_domain.yaml
+    interval: 86400
+  MOO:
+    type: http
+    behavior: classical
+    url: "https://url.v1.mk/getruleset?type=6&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9NT08ubGlzdA"
+    path: ./providers/rule-provider_MOO.yaml
+    interval: 86400
+  Tencent Video_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9UZW5jZW50IFZpZGVvLmxpc3Q"
+    path: ./providers/rule-provider_Tencent Video_domain.yaml
+    interval: 86400
+  Youku_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9Zb3VrdS5saXN0"
+    path: ./providers/rule-provider_Youku_domain.yaml
+    interval: 86400
+  Youku_ipcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvbGhpZTEvU3VyZ2UvU3VyZ2UgMy9Qcm92aWRlci9NZWRpYS9Zb3VrdS5saXN0"
+    path: ./providers/rule-provider_Youku_ipcidr.yaml
+    interval: 86400
+  Telegram_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvVGVsZWdyYW0vVGVsZWdyYW0ubGlzdA"
+    path: ./providers/rule-provider_Telegram_domain.yaml
+    interval: 86400
+  Telegram_ipcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvVGVsZWdyYW0vVGVsZWdyYW0ubGlzdA"
+    path: ./providers/rule-provider_Telegram_ipcidr.yaml
+    interval: 86400
+  Global_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR2xvYmFsLmxpc3Q"
+    path: ./providers/rule-provider_Global_domain.yaml
+    interval: 86400
+  Global_ipcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvR2xvYmFsLmxpc3Q"
+    path: ./providers/rule-provider_Global_ipcidr.yaml
+    interval: 86400
+  Apple_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvRXh0cmEvQXBwbGUvQXBwbGUubGlzdA"
+    path: ./providers/rule-provider_Apple_domain.yaml
+    interval: 86400
+  China_domain:
+    type: http
+    behavior: domain
+    url: "https://url.v1.mk/getruleset?type=3&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvQ2hpbmEubGlzdA"
+    path: ./providers/rule-provider_China_domain.yaml
+    interval: 86400
+  China_ipcidr:
+    type: http
+    behavior: ipcidr
+    url: "https://url.v1.mk/getruleset?type=4&url=cnVsZXMvRGl2aW5lRW5naW5lL1N1cmdlL1J1bGVzZXQvQ2hpbmEubGlzdA"
+    path: ./providers/rule-provider_China_ipcidr.yaml
+    interval: 86400
+  Download:
+    type: http
+    behavior: classical
+    url: "https://url.v1.mk/getruleset?type=6&url=cnVsZXMvTm9ieURhL1N1cmdlL0Rvd25sb2FkLmxpc3Q"
+    path: ./providers/rule-provider_Download.yaml
+    interval: 86400
