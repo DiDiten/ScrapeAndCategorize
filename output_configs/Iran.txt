@@ -1,8 +1,10 @@
-ss://60d8f9b7-8e41-4016-8663-5162db6c9cc3@t1.tsto.ir:10090?security=reality&encryption=none&pbk=hHZ10XaArKwEuk-vi6cAIZTrTwHNMOWIgls2e5TLbwU&host=arshitrayaneh.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=arshitrayaneh.com&sid=8dfa217df2ef0db9#🆔proxyiranip%20🔒%20VL-TCP-%20🇹🇷%20TR%20428ms
-ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20520ms
 ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20856ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20279ms
+ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20905ms
+ss://9fd7188a-7f79-4bb5-a29e-ba544899042d@194.135.46.24:443?type=tcp&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20154ms
+ss://9fd7188a-7f79-4bb5-a29e-ba544899042d@194.135.46.24:443?type=tcp&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20155ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20450ms
-vless://60d8f9b7-8e41-4016-8663-5162db6c9cc3@t1.tsto.ir:10090?security=reality&encryption=none&pbk=hHZ10XaArKwEuk-vi6cAIZTrTwHNMOWIgls2e5TLbwU&host=arshitrayaneh.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=arshitrayaneh.com&sid=8dfa217df2ef0db9#🆔proxyiranip%20🔒%20VL-TCP-%20🇹🇷%20TR%20428ms
-vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20520ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20525ms
 vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20856ms
+vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20905ms
+vless://9fd7188a-7f79-4bb5-a29e-ba544899042d@194.135.46.24:443?type=tcp&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20154ms
+vless://9fd7188a-7f79-4bb5-a29e-ba544899042d@194.135.46.24:443?type=tcp&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20155ms

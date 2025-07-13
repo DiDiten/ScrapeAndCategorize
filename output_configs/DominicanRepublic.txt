@@ -7,7 +7,6 @@ ss://346264b7-975c-4891-8f7b-dcd6e5707a42@kernel.panel.cactusv2.xyz:4434?type=gr
 ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://489ed7c4-103d-46a9-9a3e-370e0af56976@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=&encryption=none&host=mmad-jeta.global.ssl.fastly.net&type=xhttp#🆔oxnet_ir%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 ss://5155a0c4-24d5-40c4-cd26-6c4d4a9ddc3a@85.9.102.245:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-ss://65a9d513-94a2-48f8-a237-37e017a8b48b@142.132.227.65:443?security=none&encryption=none&headerType=none&type=tcp#🆔express_freevpn%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://6d05705a-54b9-41ca-94fb-d70bbcf861a5@188.227.84.78:8443?security=reality&encryption=none&pbk=M9324bKRwuFoPbjfhXHmCdRa3gZdXtYPJAN5sSX1JHU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=08d8a4e0#🆔oxnet_ir%20🔒%20VL-TCP-%20🇳🇱%20NL%20down
 ss://76ed13e5-b315-4055-971a-7accddae57a5@svir1.craftedsmp.ir:443?security=none&encryption=none&host=anten.ir&headerType=none&type=tcp#🆔oxnet_ir%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 ss://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#🆔fr33c0nfig%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
@@ -40,7 +39,6 @@ vless://346264b7-975c-4891-8f7b-dcd6e5707a42@kernel.panel.cactusv2.xyz:4434?type
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://489ed7c4-103d-46a9-9a3e-370e0af56976@fast.peace.lemoex.blog:80?mode=auto&path=%2F&security=&encryption=none&host=mmad-jeta.global.ssl.fastly.net&type=xhttp#🆔oxnet_ir%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 vless://5155a0c4-24d5-40c4-cd26-6c4d4a9ddc3a@85.9.102.245:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-vless://65a9d513-94a2-48f8-a237-37e017a8b48b@142.132.227.65:443?security=none&encryption=none&headerType=none&type=tcp#🆔express_freevpn%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://6d05705a-54b9-41ca-94fb-d70bbcf861a5@188.227.84.78:8443?security=reality&encryption=none&pbk=M9324bKRwuFoPbjfhXHmCdRa3gZdXtYPJAN5sSX1JHU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=08d8a4e0#🆔oxnet_ir%20🔒%20VL-TCP-%20🇳🇱%20NL%20down
 vless://76ed13e5-b315-4055-971a-7accddae57a5@svir1.craftedsmp.ir:443?security=none&encryption=none&host=anten.ir&headerType=none&type=tcp#🆔oxnet_ir%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#🆔fr33c0nfig%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
