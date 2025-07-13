@@ -1,12 +1,10 @@
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.30.32:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇫🇷%20FR%20137ms
 ss://WVdWekxURXlPQzFuWTIwNmIwOUhabEJKWmpGQ1ZGTm1Ta1JxU2taV1dWSjVSU3RRWVVoTGRHVkhWMEpWZW5CS1VERlBNMmxoV1QwJTNEOg==@51.91.210.89:8080#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇫🇷%20FR%20235ms
-ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0=@51.91.210.89:8080#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇫🇷%20FR%20195ms
+ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0=@51.91.210.89:8080#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇫🇷%20FR%20218ms
 ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0=@51.91.210.89:8080#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇫🇷%20FR%20249ms
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20134ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20147ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20149ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20149ms
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.30.32:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇫🇷%20FR%20137ms
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20134ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20147ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20149ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20149ms
 vmess://eyJhZGQiOiI2Mi42MC4yNDYuODYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTAyNmE0Y2YtMjdmNS00YTM3LWI2ODItZDJjMWE0ZDExYTRjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNjYzNCIsInBzIjoi2YHYsdin2YbYs9mHIPCfh6vwn4e3IEBWMnhheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=

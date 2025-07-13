@@ -1,8 +1,6 @@
-ss://60d8f9b7-8e41-4016-8663-5162db6c9cc3@t1.tsto.ir:10090?security=reality&encryption=none&pbk=hHZ10XaArKwEuk-vi6cAIZTrTwHNMOWIgls2e5TLbwU&host=arshitrayaneh.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=arshitrayaneh.com&sid=8dfa217df2ef0db9#🆔proxyiranip%20🔒%20VL-TCP-%20🇹🇷%20TR%20467ms
 ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20308ms
-ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20833ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20526ms
+ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20590ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20407ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20527ms
-vless://60d8f9b7-8e41-4016-8663-5162db6c9cc3@t1.tsto.ir:10090?security=reality&encryption=none&pbk=hHZ10XaArKwEuk-vi6cAIZTrTwHNMOWIgls2e5TLbwU&host=arshitrayaneh.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=arshitrayaneh.com&sid=8dfa217df2ef0db9#🆔proxyiranip%20🔒%20VL-TCP-%20🇹🇷%20TR%20467ms
 vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20308ms
-vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20833ms
+vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20590ms
