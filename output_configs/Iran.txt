@@ -1,9 +1,6 @@
-ss://14ea615b-a8a0-4864-8b87-0012ab289179@2.59.117.173:2096?path=%2FfscsxfVgdzhrefjgsBgaa%3Fed%3D80&security=none&encryption=none&host=45f4d22d.Mareza.pages.dev&type=ws#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20214ms
-ss://14ea615b-a8a0-4864-8b87-0012ab289179@2.59.117.173:2096?path=%2FfscsxfVgdzhrefjgsBgaa%3Fed%3D80&security=none&encryption=none&host=45f4d22d.Mareza.pages.dev&type=ws#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20454ms
-ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20519ms
-ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20879ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20612ms
-vless://14ea615b-a8a0-4864-8b87-0012ab289179@2.59.117.173:2096?path=%2FfscsxfVgdzhrefjgsBgaa%3Fed%3D80&security=none&encryption=none&host=45f4d22d.Mareza.pages.dev&type=ws#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20214ms
-vless://14ea615b-a8a0-4864-8b87-0012ab289179@2.59.117.173:2096?path=%2FfscsxfVgdzhrefjgsBgaa%3Fed%3D80&security=none&encryption=none&host=45f4d22d.Mareza.pages.dev&type=ws#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20454ms
-vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20519ms
-vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20879ms
+ss://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?type=tcp&headerType=http&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20397ms
+ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20586ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20531ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20543ms
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?type=tcp&headerType=http&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20397ms
+vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20586ms
