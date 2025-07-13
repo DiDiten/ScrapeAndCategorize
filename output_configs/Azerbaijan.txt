@@ -1,4 +1,4 @@
-ss://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnbaz%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20166ms
-ss://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnbaz%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
-vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnbaz%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20166ms
-vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnbaz%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+ss://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnbaz%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20116ms
+ss://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnbaz%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2094ms
+vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnbaz%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20116ms
+vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnbaz%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2094ms
