@@ -1,2 +1,0 @@
-ss://123e22a5-f1db-48e5-9c4b-b03c2bd8e10d@de.hardgaming.xyz:45817?type=tcp&security=none&headerType=http&path=/&host=telewebion.com#mizban
-vless://123e22a5-f1db-48e5-9c4b-b03c2bd8e10d@de.hardgaming.xyz:45817?type=tcp&security=none&headerType=http&path=/&host=telewebion.com#mizban
