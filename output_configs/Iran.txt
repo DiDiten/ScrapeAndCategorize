@@ -1,10 +1,7 @@
-ss://5155a0c4-24d5-40c4-cd26-6c4d4a9ddc3a@85.9.102.245:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20287ms
-ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20545ms
-ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20628ms
-ss://9fd7188a-7f79-4bb5-a29e-ba544899042d@194.135.46.24:443?type=tcp&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%2088ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20310ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20390ms
-vless://5155a0c4-24d5-40c4-cd26-6c4d4a9ddc3a@85.9.102.245:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20287ms
-vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20545ms
-vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20628ms
-vless://9fd7188a-7f79-4bb5-a29e-ba544899042d@194.135.46.24:443?type=tcp&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%2088ms
+ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20519ms
+ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20848ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20510ms
+ss://b513838e-b2ed-41ed-a675-e4ca0428d6d1@78.109.193.198:59722?type=tcp&headerType=http&host=telewebion.com&path=%2F%3Fed%3D2048%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20305ms
+vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20519ms
+vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20848ms
+vless://b513838e-b2ed-41ed-a675-e4ca0428d6d1@78.109.193.198:59722?type=tcp&headerType=http&host=telewebion.com&path=%2F%3Fed%3D2048%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20305ms
