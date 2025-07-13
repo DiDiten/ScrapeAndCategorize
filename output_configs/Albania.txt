@@ -1,5 +1,4 @@
 ss://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@185.176.24.159:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=freedom.zistarvinbiotech.ir&fp=randomized&type=ws&sni=FREEDOm.ZiStarvInbioTeCh.ir#%40vpnaloo
-ss://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?security=reality&encryption=none&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pingless.com&sid=b6#🆔kvetch_matin%20🔒%20VL-TCP-%20🇦🇱%20AL%20159ms
 ss://172663dd-119d-4377-8f8f-d9c165037793@198.89.125.185:29380?security=reality&encryption=none&pbk=AqP0j7-muP7ik0-CM91y4-OA2bbffC6p75Z6D-it-ho&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6287b533dabc#%40vpnaloo
 ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#%40vpnaloo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@131.145.33.92:443#%40vpnaloo
@@ -8,6 +7,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5clp0VUVsR2hMOHhmZWFOMGhJSXpR@193.228.139.250:1080#%40vpnaloo
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#%40vpnaloo
 vless://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@185.176.24.159:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=freedom.zistarvinbiotech.ir&fp=randomized&type=ws&sni=FREEDOm.ZiStarvInbioTeCh.ir#%40vpnaloo
-vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?security=reality&encryption=none&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pingless.com&sid=b6#🆔kvetch_matin%20🔒%20VL-TCP-%20🇦🇱%20AL%20159ms
 vless://172663dd-119d-4377-8f8f-d9c165037793@198.89.125.185:29380?security=reality&encryption=none&pbk=AqP0j7-muP7ik0-CM91y4-OA2bbffC6p75Z6D-it-ho&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6287b533dabc#%40vpnaloo
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#%40vpnaloo
