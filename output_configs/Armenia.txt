@@ -18,7 +18,7 @@ ss://12b49c8c-2ba7-4fbd-9ab5-801f6c497609@v26.vxlimir.com:1370?security=reality&
 ss://13753795-cc6b-4110-83c9-5d11f5918508@185.58.242.84:8008?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram%3A%20%40vpnbaz
 ss://147d63c1-2f68-4f45-b3ea-cb3172fab133@198.62.62.4:2096?encryption=none&security=tls&sni=638878462229596707.ahvaz-prx-dnraaad.info&type=ws&alpn=&host=638878462229596707.ahvaz-prx-dnraaad.info&path=/jmgjhhws#telegram
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20114ms
-ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2093ms
+ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2095ms
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://199ff20d-9bb4-423a-b759-e538392a27b6@FXS.samiion73.ir:8080?type=tcp&security=reality&pbk=TcTr1oUPAg6fEwLl8NdVInMRQOb-74dRRxh6gwbZVkw&fp=chrome&sni=www.chatgpt.com&sid=a3f994823291&spx=%2F#telegram
 ss://280b829c-ce64-40ad-a077-952db225eeba@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=By6ie-4h9.com&type=ws#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B4
@@ -47,7 +47,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@131.145.97.104:443#%F0%9F%94%97%20Telegram%20%3A%20%40Viturey
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔ahwazigamingshop%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20117ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔ahwazigamingshop%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2080ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔ahwazigamingshop%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2083ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZXd4YzRiRjg3R2IyaEpXdGJNeXQx@167.172.89.195:8575#-WiFi-%20TelegramID%20%E2%8C%B2Express_freevpn%20%E2%9B%AA%DA%A9%D8%A7%D8%B1%D8%AE%D9%88%D9%86%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B3%D8%A7%D8%B2%DB%8C
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3Y0k4RFplMGVYU1MzdXBvcDFRalZC@128.199.236.104:57384#-WiFi-%20TelegramID%20%E2%8C%B2Express_freevpn%20%E2%9B%AA%DA%A9%D8%A7%D8%B1%D8%AE%D9%88%D9%86%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B3%D8%A7%D8%B2%DB%8C
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@172.187.109.127:443#-WiFi-%20TelegramID%20%E2%8C%B2Express_freevpn%20%E2%9B%AA%DA%A9%D8%A7%D8%B1%D8%AE%D9%88%D9%86%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B3%D8%A7%D8%B2%DB%8C
@@ -72,7 +72,7 @@ ss://aecb1f00-d8c8-4fe8-8a54-23045ff9b955@webbbb.grizzlyshoppp.shop:6050?securit
 ss://b5e0289d-1bb7-4c5b-f850-016298066cf8@media.samagazine.ir:8080?security=none&encryption=none&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20406ms
 ss://b5e0289d-1bb7-4c5b-f850-016298066cf8@media.samagazine.ir:8080?security=none&encryption=none&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20595ms
 ss://cacaabb-caba-abca-dabc-cbacacacbbab@127.0.0.1:8080?security=tls&type=tcp#🆔ahwazigamingshop%20🔒%20VL-TCP-N/A%20❔%20XX%20down
-ss://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20193ms
+ss://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20197ms
 ss://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20296ms
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#⚡Telegram
 trojan://1957909a-4f2a-4d9c-99ad-119d45f052c1@v01.gutingting.com:30002?security=tls&sni=v2tw01.fuqiangren.com#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
@@ -82,9 +82,9 @@ trojan://3763495894587285504@35.180.240.183:443?security=tls&sni=honest-cow.goat
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.211.32.110:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇭🇰%20HK%20down
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢
 trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20211ms
-trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20223ms
+trojan://89f84d5e-4170-4c64-bc78-ac99953b103a@5.83.221.31:50010#🆔ahwazigamingshop%20🔓%20TR--N/A%20🇭🇰%20HK%20221ms
 trojan://Aimer@146.56.155.102:20003?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20178ms
-trojan://Aimer@146.56.155.102:20003?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20196ms
+trojan://Aimer@146.56.155.102:20003?security=tls&type=tcp&sni=ngepo.ambercc.filegear-sg.me#🆔ahwazigamingshop%20🔒%20TR-TCP-N/A%20🇰🇷%20KR%20192ms
 vless://01abdb29-cca0-47c6-844d-9f4e29f21c56@151.101.2.219:80?host=www.club6621.org&mode=auto&path=%2FPossimusliberoEoscumque&security=none&type=xhttp#%40Ahmedhamoomi_Servers
 vless://01abdb29-cca0-47c6-844d-9f4e29f21c56@speedtest.net:80?host=www.club6621.org&mode=auto&path=%2FPossimusliberoEoscumque&security=none&type=xhttp#%40Ahmedhamoomi_Servers
 vless://01abdb29-cca0-47c6-844d-9f4e29f21c56@www.fast.hosting-ip.com:80?host=www.club6621.org&mode=auto&path=%2FPossimusliberoEoscumque&security=none&type=xhttp#%40Ahmedhamoomi_Servers
@@ -105,7 +105,7 @@ vless://12b49c8c-2ba7-4fbd-9ab5-801f6c497609@v26.vxlimir.com:1370?security=reali
 vless://13753795-cc6b-4110-83c9-5d11f5918508@185.58.242.84:8008?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram%3A%20%40vpnbaz
 vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@198.62.62.4:2096?encryption=none&security=tls&sni=638878462229596707.ahvaz-prx-dnraaad.info&type=ws&alpn=&host=638878462229596707.ahvaz-prx-dnraaad.info&path=/jmgjhhws#telegram
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20114ms
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2093ms
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2095ms
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://199ff20d-9bb4-423a-b759-e538392a27b6@FXS.samiion73.ir:8080?type=tcp&security=reality&pbk=TcTr1oUPAg6fEwLl8NdVInMRQOb-74dRRxh6gwbZVkw&fp=chrome&sni=www.chatgpt.com&sid=a3f994823291&spx=%2F#telegram
 vless://280b829c-ce64-40ad-a077-952db225eeba@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=By6ie-4h9.com&type=ws#Telegram+%3A+%40Mrsoulb+%F0%9F%8F%B3%F0%9F%8F%B4
@@ -133,7 +133,7 @@ vless://aecb1f00-d8c8-4fe8-8a54-23045ff9b955@webbbb.grizzlyshoppp.shop:6050?secu
 vless://b5e0289d-1bb7-4c5b-f850-016298066cf8@media.samagazine.ir:8080?security=none&encryption=none&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20406ms
 vless://b5e0289d-1bb7-4c5b-f850-016298066cf8@media.samagazine.ir:8080?security=none&encryption=none&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20595ms
 vless://cacaabb-caba-abca-dabc-cbacacacbbab@127.0.0.1:8080?security=tls&type=tcp#🆔ahwazigamingshop%20🔒%20VL-TCP-N/A%20❔%20XX%20down
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20193ms
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20197ms
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#🆔ahwazigamingshop%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20296ms
 vmess://eyJ2IjogIjIiLCAicHMiOiAi4pqh77iPVGVsZWdyYW0gPSBAU09Ta2V5TkVUIiwgImFkZCI6ICJzb21lYm9keS5zYW5hZWkxLm1pbHhieXdrYWl3bngueHl6IiwgInBvcnQiOiA1Mjk5NCwgImlkIjogIjRhNGY3OWQyLTJjOWMtNGZhMi04MmE3LTJlYWM1ZGQ4NjFmOSIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiaHR0cCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJjbG91ZGZsYXJlLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIOKaoe+4jyBEYWlseVYycnkiLCJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsInBvcnQiOjQ0MywiaWQiOiJiN2FjZjQ0Zi0zYzNhLTQzMGMtOGVkMC1mYjY0Y2NjOWExM2EiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJCTGFaRS1mUkEtNjQuQkxhWkVDTE91RC5zaXRFIiwicGF0aCI6IlwvbGlua3Zrd3NzIiwidGxzIjoidGxzIn0=
