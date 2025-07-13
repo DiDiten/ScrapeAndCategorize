@@ -1,6 +1,4 @@
-ss://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@188.42.89.145:443?encryption=none&security=tls&sni=rAyAn-12.LeIlA.DpDnS.OrG&fp=chrome&type=ws&host=rayan-12.leila.dpdns.org&path=%2F%40Rayan_Config#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇳🇱%20NL%203ms
-ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20641ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20317ms
+ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20660ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20465ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20531ms
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@188.42.89.145:443?encryption=none&security=tls&sni=rAyAn-12.LeIlA.DpDnS.OrG&fp=chrome&type=ws&host=rayan-12.leila.dpdns.org&path=%2F%40Rayan_Config#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇳🇱%20NL%203ms
-vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20641ms
+vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20660ms
