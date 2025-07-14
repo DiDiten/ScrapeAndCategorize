@@ -1,0 +1,2 @@
+ss://6046ac0b-57d9-46e9-980c-1e2d5ee27f69@mci2.irancdngame.com:2012?security=reality&type=tcp&headerType=&path=&host=&sni=www.pcmag.com&fp=firefox&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY&sid=#🆔proxyiranip%20🔒%20VL-TCP-%20🇨🇿%20CZ%20235ms
+vless://6046ac0b-57d9-46e9-980c-1e2d5ee27f69@mci2.irancdngame.com:2012?security=reality&type=tcp&headerType=&path=&host=&sni=www.pcmag.com&fp=firefox&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY&sid=#🆔proxyiranip%20🔒%20VL-TCP-%20🇨🇿%20CZ%20235ms
