@@ -2,6 +2,7 @@ ss://04d533ee-51ba-47cc-a703-6336470898ad@31.214.251.249:443?encryption=none&sec
 ss://1edd9e0f-703f-49ab-8ecd-0380f8b37da3@85.133.234.124:6000?encryption=none&security=none&type=ws&path=%2Fconnect%2Fws%2F#@VIProxys
 ss://1edd9e0f-703f-49ab-8ecd-0380f8b37da3@85.133.234.125:6000?encryption=none&security=none&type=ws&path=%2Fconnect%2Fws%2F#@VIProxys
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40V2RAYROZ
+ss://21317801-5ca5-44c3-acf3-a7c23c77ef4e@85.133.247.30:2086?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#@VIProxys
 ss://290be591-627c-4790-99ce-0d94f331141f@2.189.175.46:7073?encryption=none&security=none&type=tcp&headerType=http#@VIProxys
 ss://2b9fe769-ba91-4212-80c6-80dde4c030a3@62.60.160.184:31665?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#@VIProxys
 ss://35b4a572-56f6-494f-a6ba-747b7886d0ea@85.198.14.216:14242?encryption=none&security=none&type=tcp&headerType=http&host=ponisha.ir#@VIProxys
@@ -21,11 +22,11 @@ ss://805a5300-430a-489d-a87a-b160116987a1@2.188.224.82:45495?encryption=none&sec
 ss://825e6dbe-73f7-4f2f-a15e-93dce526c31d@185.206.92.209:5059?encryption=none&security=none&type=tcp&headerType=none#@VIProxys
 ss://93a62672-b506-407f-927d-d5226135344f@85.133.197.88:80?encryption=none&security=tls&sni=t1.atsariii.top&type=tcp&headerType=none#@VIProxys
 ss://99480324-c2a2-4909-9178-210428276912@89.33.129.244:443?encryption=none&security=tls&sni=fn1.faradarsi.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=tcp&headerType=http&host=fn1.faradarsi.com#@VIProxys
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:48172#%40V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@172.187.109.127:443#%40V2RAYROZ
 vless://04d533ee-51ba-47cc-a703-6336470898ad@31.214.251.249:443?encryption=none&security=tls&sni=mhsang2c3.afsharidempire.uk&alpn=http%2F1.1&fp=chrome&type=ws&host=mhsang2c3.afsharidempire.uk&path=%2F8Ku2BGY685PUNtppXQIC9t#@VIProxys
 vless://1edd9e0f-703f-49ab-8ecd-0380f8b37da3@85.133.234.125:6000?encryption=none&security=none&type=ws&path=%2Fconnect%2Fws%2F#@VIProxys
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40V2RAYROZ
+vless://21317801-5ca5-44c3-acf3-a7c23c77ef4e@85.133.247.30:2086?encryption=none&security=none&type=tcp&headerType=none&host=%2FBIA_CHANEL%40JOKERRVPN#@VIProxys
 vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiMTg1LjIxNS4yMjguNCIsInBvcnQiOiI1Mzc3MyIsImlkIjoiOWYyMTcwNDMtZWE0Ny00MGRlLWE5MzktY2FmZDQxNzliMDY1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiIiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiMzcuMjAyLjIzNy4zMSIsInBvcnQiOiIzNTg2NSIsImlkIjoiYjY3OTExMjgtNjNiZC00NmE5LWI4YTctN2Y1NmJjYTYwMDUxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiMzcuMjAyLjIzOS4yMDEiLCJwb3J0IjoiMTY5NiIsImlkIjoiYTBkMjIzODMtOWIwNi00ZTNkLWI4OTAtYjYyNTU3YTE3NmRkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
