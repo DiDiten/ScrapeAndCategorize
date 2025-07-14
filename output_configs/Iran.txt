@@ -1,2 +1,0 @@
-ss://f078eee8-86d0-47b1-8b67-12a570be17ad@146.103.99.75:443?security=reality&encryption=none&pbk=O9DMPpwicRcMofaplcvpQStNRogPS_HJY0s5_4EaKQc&host=%40v2_azad&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nu.nl#🆔proxyiranip%20🔒%20VL-TCP-%20🇳🇱%20NL%20102ms
-vless://f078eee8-86d0-47b1-8b67-12a570be17ad@146.103.99.75:443?security=reality&encryption=none&pbk=O9DMPpwicRcMofaplcvpQStNRogPS_HJY0s5_4EaKQc&host=%40v2_azad&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nu.nl#🆔proxyiranip%20🔒%20VL-TCP-%20🇳🇱%20NL%20102ms
