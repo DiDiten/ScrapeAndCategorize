@@ -1,9 +1,9 @@
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%20111ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%20150ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%20159ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%20113ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%20121ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%20126ms
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%20111ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%20150ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%20159ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%20113ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%20121ms
