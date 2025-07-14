@@ -1,1 +1,0 @@
-trojan://trojan@109.234.211.66:8443?path=%2F&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#🆔v2ray1_ng%20🔒%20TR-WS-N/A%20🇪🇸%20ES%202ms
