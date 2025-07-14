@@ -1,6 +1,10 @@
+ss://32622124-139e-4eab-8fb8-faaf021acd3f@poseidex.house0of1nyxora.top:2096?security=reality&encryption=none&pbk=jM7JL3cp1HdLpEuvRDGJlzI-zUXW_6z8FkQBqimt4BE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=88dfa714#🆔proxyiranip%20🔒%20VL-TCP-%20🇳🇱%20NL%20325ms
+ss://32622124-139e-4eab-8fb8-faaf021acd3f@poseidex.house0of1nyxora.top:2096?security=reality&encryption=none&pbk=jM7JL3cp1HdLpEuvRDGJlzI-zUXW_6z8FkQBqimt4BE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=88dfa714#🆔proxyiranip%20🔒%20VL-TCP-%20🇳🇱%20NL%20331ms
+ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20405ms
 ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20520ms
-ss://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20579ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20401ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20410ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWmJZVThOb3NaQ2k3enVVSTVoRGx3@dl.2046.shield-web.ir:2046#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇮🇷%20IR%20496ms
+vless://32622124-139e-4eab-8fb8-faaf021acd3f@poseidex.house0of1nyxora.top:2096?security=reality&encryption=none&pbk=jM7JL3cp1HdLpEuvRDGJlzI-zUXW_6z8FkQBqimt4BE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=88dfa714#🆔proxyiranip%20🔒%20VL-TCP-%20🇳🇱%20NL%20325ms
+vless://32622124-139e-4eab-8fb8-faaf021acd3f@poseidex.house0of1nyxora.top:2096?security=reality&encryption=none&pbk=jM7JL3cp1HdLpEuvRDGJlzI-zUXW_6z8FkQBqimt4BE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=88dfa714#🆔proxyiranip%20🔒%20VL-TCP-%20🇳🇱%20NL%20331ms
+vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20405ms
 vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20520ms
-vless://8c57716b-d545-47b3-981e-c3bbd5a09b3c@c1.lightxpro.ir:35775?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20579ms
