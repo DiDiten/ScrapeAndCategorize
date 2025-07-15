@@ -1,5 +1,4 @@
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2097ms
-ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#https%3A%2F%2Ft.me%2FVPN4EVERYONE
 ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2096ms
 ss://48113b57-8b64-465c-91ef-898f7577b312@v2shop2.bing-net.com:4902?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20284ms
 ss://69e67252-c0c2-4c16-a811-40864cb5c87a@ir01.oghabvps.com:2096?path=%2F&security=none&encryption=none&type=ws#🆔vpn4everyone%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20214ms
@@ -28,7 +27,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=no
 ss://faa98229-a17c-4ea6-d6b5-1b040cb9fa26@bmi.raheaiande.ir:1001?security=reality&encryption=none&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&headerType=http&fp=edge&spx=%2Fjoin_telegram-%40vpnserverrr%2Fjoin_telegram-%40vpnserverrr+join_telegram-%40vpnserverrr&type=tcp&sni=ea.com&sid=c7bc4d#🆔vpnserverrr%20🔒%20VL-TCP-%20🇩🇪%20DE%20308ms
 ss://fda9684c-3694-478f-8dba-d0b79026de7b@de.foxinonet.ir:443?path=%2Flw&security=tls&encryption=none&host=de.foxinonet.ir&fp=safari&type=ws&sni=de.foxinonet.ir#🆔vpnserverrr%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20314ms
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2097ms
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#https%3A%2F%2Ft.me%2FVPN4EVERYONE
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2096ms
 vless://48113b57-8b64-465c-91ef-898f7577b312@v2shop2.bing-net.com:4902?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20284ms
 vless://69e67252-c0c2-4c16-a811-40864cb5c87a@ir01.oghabvps.com:2096?path=%2F&security=none&encryption=none&type=ws#🆔vpn4everyone%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20214ms
