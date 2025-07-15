@@ -1,0 +1,2 @@
+ss://18449203-c21f-431a-911f-4affde2a321e@tr.x8net.world:443?security=reality&sni=www.trendyol.com&fp=chrome&pbk=olOllT4O_bCsezeLcO2byNkD4Qmu3PTL4WWMFBDotnk&sid=695020d9ce51f041&type=tcp&flow=xtls-rprx-vision&encryption=none#%E2%9C%85%20X8%20Turkey
+vless://18449203-c21f-431a-911f-4affde2a321e@tr.x8net.world:443?security=reality&sni=www.trendyol.com&fp=chrome&pbk=olOllT4O_bCsezeLcO2byNkD4Qmu3PTL4WWMFBDotnk&sid=695020d9ce51f041&type=tcp&flow=xtls-rprx-vision&encryption=none#%E2%9C%85%20X8%20Turkey
