@@ -1,2 +1,2 @@
-ss://e2403833-1d63-441b-be27-d2d309eecb65@145.249.115.53:443?type=tcp&security=reality&pbk=L8K_jdU-miVJuEf0lu9wCA8LMgHpOQjYLYVjzNEbRBA&fp=random&sni=pingless.com&sid=6622dfef0c43&spx=%2F&flow=xtls-rprx-vision#🆔proxyiranip%20🔒%20VL-TCP-%20🇳🇱%20NL%2090ms
-vless://e2403833-1d63-441b-be27-d2d309eecb65@145.249.115.53:443?type=tcp&security=reality&pbk=L8K_jdU-miVJuEf0lu9wCA8LMgHpOQjYLYVjzNEbRBA&fp=random&sni=pingless.com&sid=6622dfef0c43&spx=%2F&flow=xtls-rprx-vision#🆔proxyiranip%20🔒%20VL-TCP-%20🇳🇱%20NL%2090ms
+ss://9f3991c2-e4a2-4f4d-9702-9a8051954254@test.vipfastconnect.top:2053?security=none&type=tcp&headerType=http&path=%2F&host=telewebion.com#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20541ms
+vless://9f3991c2-e4a2-4f4d-9702-9a8051954254@test.vipfastconnect.top:2053?security=none&type=tcp&headerType=http&path=%2F&host=telewebion.com#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20541ms
