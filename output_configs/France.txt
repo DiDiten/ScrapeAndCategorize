@@ -1,11 +1,13 @@
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.56.86:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇫🇷%20FR%20102ms
 ss://WVdWekxURXlPQzFuWTIwNmIwOUhabEJKWmpGQ1ZGTm1Ta1JxU2taV1dWSjVSU3RRWVVoTGRHVkhWMEpWZW5CS1VERlBNMmxoV1QwJTNEOg==@51.91.210.89:8080#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇫🇷%20FR%20192ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20102ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2080ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2081ms
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20103ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20110ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2087ms
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.56.86:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇫🇷%20FR%20102ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20102ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2080ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2081ms
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20103ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20110ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2087ms
