@@ -1,4 +1,4 @@
-ss://18449203-c21f-431a-911f-4affde2a321e@kz.x8net.world:443?security=reality&sni=krisha.kz&fp=chrome&pbk=olOllT4O_bCsezeLcO2byNkD4Qmu3PTL4WWMFBDotnk&sid=695020d9ce51f041&type=tcp&flow=xtls-rprx-vision&encryption=none#%E2%9C%85%20X8%20Kazakhstan
 ss://9359969a-f79b-47fd-9d79-c7397d10af3d@213.176.121.239:57257?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔vpnbaz%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20167ms
-vless://18449203-c21f-431a-911f-4affde2a321e@kz.x8net.world:443?security=reality&sni=krisha.kz&fp=chrome&pbk=olOllT4O_bCsezeLcO2byNkD4Qmu3PTL4WWMFBDotnk&sid=695020d9ce51f041&type=tcp&flow=xtls-rprx-vision&encryption=none#%E2%9C%85%20X8%20Kazakhstan
+ss://9359969a-f79b-47fd-9d79-c7397d10af3d@213.176.121.239:57257?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔vpnbaz%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20187ms
 vless://9359969a-f79b-47fd-9d79-c7397d10af3d@213.176.121.239:57257?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔vpnbaz%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20167ms
+vless://9359969a-f79b-47fd-9d79-c7397d10af3d@213.176.121.239:57257?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔vpnbaz%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20187ms
