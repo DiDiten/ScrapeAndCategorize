@@ -1,6 +1,4 @@
 ss://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20230ms
-ss://fd374109-b4df-4a60-a3dc-4949adefdca8@dl2.mglinux.ir:2097?type=ws&path=%2FDwonloadAhng&host=www.speedtest.net&security=none#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20409ms
-ss://fd374109-b4df-4a60-a3dc-4949adefdca8@dl2.mglinux.ir:2097?type=ws&path=%2FDwonloadAhng&host=www.speedtest.net&security=none#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20519ms
+ss://fd374109-b4df-4a60-a3dc-4949adefdca8@dl2.mglinux.ir:2097?type=ws&path=%2FDwonloadAhng&host=www.speedtest.net&security=none#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20484ms
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20230ms
-vless://fd374109-b4df-4a60-a3dc-4949adefdca8@dl2.mglinux.ir:2097?type=ws&path=%2FDwonloadAhng&host=www.speedtest.net&security=none#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20409ms
-vless://fd374109-b4df-4a60-a3dc-4949adefdca8@dl2.mglinux.ir:2097?type=ws&path=%2FDwonloadAhng&host=www.speedtest.net&security=none#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20519ms
+vless://fd374109-b4df-4a60-a3dc-4949adefdca8@dl2.mglinux.ir:2097?type=ws&path=%2FDwonloadAhng&host=www.speedtest.net&security=none#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20484ms
