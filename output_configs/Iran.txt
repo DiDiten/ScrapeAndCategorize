@@ -1,6 +1,6 @@
-ss://0e64b00f-b722-47d4-aff3-b94c293680ae@83.217.9.233:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=0a6ba2716a409da6#🆔proxyiranip%20🔒%20VL-TCP-%20🇹🇷%20TR%20159ms
-ss://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20171ms
-ss://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20170ms
-vless://0e64b00f-b722-47d4-aff3-b94c293680ae@83.217.9.233:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=0a6ba2716a409da6#🆔proxyiranip%20🔒%20VL-TCP-%20🇹🇷%20TR%20159ms
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20171ms
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20170ms
+ss://33bed48e-78ad-4bba-9dcb-77587d7a184a@ir26.drinfoo.com:905?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=speedtest.net#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20374ms
+ss://bcf2ae66-9318-4450-8c96-e4fa1d128dcc@tanel.vpnmr.sub4u.site:1112?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20438ms
+ss://d7e0d7ef-9f98-44a2-b38f-60868396e7d8@irc.testvp2.sbs:443?encryption=none&security=none&type=tcp&headerType=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20320ms
+vless://33bed48e-78ad-4bba-9dcb-77587d7a184a@ir26.drinfoo.com:905?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=speedtest.net#🆔v2ray1_ng%20🔒%20VL-WS-N/A%20🇮🇷%20IR%20374ms
+vless://bcf2ae66-9318-4450-8c96-e4fa1d128dcc@tanel.vpnmr.sub4u.site:1112?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20438ms
+vless://d7e0d7ef-9f98-44a2-b38f-60868396e7d8@irc.testvp2.sbs:443?encryption=none&security=none&type=tcp&headerType=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20320ms

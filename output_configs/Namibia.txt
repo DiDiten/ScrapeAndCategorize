@@ -1,2 +1,0 @@
-ss://033a4982-a8c7-4bfb-9481-5a8a1c62cfd6@104.21.93.95:80?path=%2FiDE2j5JJnqTGPjmS%3Fed%3D2560&security=&encryption=none&host=azadnet.b0b723a182.workers.dev&type=ws#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.93.95%3A80
-vless://033a4982-a8c7-4bfb-9481-5a8a1c62cfd6@104.21.93.95:80?path=%2FiDE2j5JJnqTGPjmS%3Fed%3D2560&security=&encryption=none&host=azadnet.b0b723a182.workers.dev&type=ws#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.21.93.95%3A80
