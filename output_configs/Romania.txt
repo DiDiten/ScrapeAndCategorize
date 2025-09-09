@@ -1,11 +1,10 @@
-ss://1b739b3d-2ef9-4673-ab78-0b4e7bed89b9@FASTSHOVPNTELEGRAM2.vinamarketcenter.ir:80?path=%2FFASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM%3Fed%3D2048&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#%40V2RAYROZ
+ss://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%40V2RAYROZ
 ss://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=%2Faioproxybot%2F8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#%40V2RAYROZ
 ss://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%40V2RAYROZ
 ss://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.67.193:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%40V2RAYROZ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#%40V2RAYROZ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#ROSE%E2%80%9315🤯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%40V2RAYROZ
-vless://1b739b3d-2ef9-4673-ab78-0b4e7bed89b9@FASTSHOVPNTELEGRAM2.vinamarketcenter.ir:80?path=%2FFASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM%3Fed%3D2048&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#%40V2RAYROZ
+vless://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%40V2RAYROZ
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=%2Faioproxybot%2F8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#%40V2RAYROZ
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%40V2RAYROZ
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.67.193:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%40V2RAYROZ
-vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQkxhWkUtZlJBLTY0LkJMYVpFQ0xPdUQuc2l0RSIsImlkIjoiYjdhY2Y0NGYtM2MzYS00MzBjLThlZDAtZmI2NGNjYzlhMTNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2a3dzcyIsInBvcnQiOiI0NDMiLCJwcyI6IkBWMlJBWVJPWiIsInNjeSI6ImF1dG8iLCJzbmkiOiJCTGFaRS1mUkEtNjQuQkxhWkVDTE91RC5zaXRFIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
