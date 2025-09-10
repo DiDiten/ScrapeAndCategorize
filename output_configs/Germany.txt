@@ -20,7 +20,6 @@ ss://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryp
 ss://962bfec5-ef89-4180-8f5b-9209a7207668@51.195.31.95:80?path=%2Fwslinws%3Fed&security=none&encryption=none&host=wWw.speEDtEST.NeT&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇩🇪%20DE%20149ms
 ss://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20114ms
 ss://TWpBeU1pMWliR0ZyWlRNdFlXVnpMVEkxTmkxblkyMDZha2xHWnpVNU1XTnlRVmRwWW1JNWNETkZMM1E1VjJOelVqRnhXamhzYWxWeU1DODVjMFJoVW1aMk1EMDZlV000TW5sU1pXVlFUbXR2Y1d4SWFUZE9RVWRrY2xSa1NGUnNSV0pOTjBoNVRVSnVXR1JDVkcweFNUMCUzRDo=@91.107.134.230:50796#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇩🇪%20DE%20154ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1WlFoNHBzc1NrNGFLMUpHMVhoQlJn@84.200.91.228:1080#ROSE%E2%80%93DE44🤯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMGM2MjFjZi04MDQxLTQwMjktYWQzMS1iMTkxNzNiYjU3ZTA=@freem.vidalith.com:31471#3%7C%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD%20101%20%7C%201x%20DE
 ss://aac5267c-93e1-44d2-97a0-be936b98690a@m48a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20161ms
 ss://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20112ms
