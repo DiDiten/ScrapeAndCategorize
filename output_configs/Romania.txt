@@ -1,6 +1,8 @@
 ss://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%40V2RAYROZ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@id.vpnsparta.pro:57456#ROSE%E2%80%93412🤯
+ss://3c7a1227-5383-3a19-7084-76624ec8f84f@5.181.168.10:1443?security=reality&encryption=none&pbk=pFIyqIJ6RKofhtXRZJ0kcxPIolBHtDIcDYd5KvttUSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40V2RAYROZ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#ROSE%E2%80%930808🤯
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080#ROSE%E2%80%93L087🤯
 vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%40V2RAYROZ
+vless://3c7a1227-5383-3a19-7084-76624ec8f84f@5.181.168.10:1443?security=reality&encryption=none&pbk=pFIyqIJ6RKofhtXRZJ0kcxPIolBHtDIcDYd5KvttUSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40V2RAYROZ
 vmess://eyJhZGQiOiI0Ni4xMDEuMTUuMjA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE5OGU4NWY1LTJiMTktMjc2NC1kMzFhLWNmMDc1NTAzNTNkMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NiIsInBzIjoiQFYyUkFZUk9aIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI5MS45OC44OC4yNTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzk1MjY4YWQtNDA0ZC00OTA4LTg1NzMtZDhjYzUxNWEzMWM2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4ODgwIiwicHMiOiJAVjJSQVlST1oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI5MS45OS4xNTcuMTkzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQwZGM2NmM5LWUzYjEtNGUyZS1hY2JjLWNjMmJiYzkwOWRjMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MiIsInBzIjoiQFYyUkFZUk9aIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
