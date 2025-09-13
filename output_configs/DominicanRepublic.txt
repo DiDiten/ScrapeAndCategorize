@@ -1,7 +1,6 @@
 ss://00134d22-e7bc-4690-860a-05d2be0f6f06@sss31842.tas-bazi.com:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#🆔mrsoulb%20🔓%20VL-XHTTP-N/A%20🇩🇪%20DE%20down
 ss://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔express_freevpn%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.121.218:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇫🇷%20FR%20down
-ss://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?encryption=none&security=none&type=ws&host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560#hope%20of%20freedom%20-%20%40anotherme_night
 ss://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://1625ad92-8b3a-44b5-a719-08a5a73fd3af@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&security=&encryption=none&host=Aeza.net&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20❔%20XX%20down
 ss://2b3b9457-d4df-415c-b9be-189e8546f4b4@looutintl.outline360bot.com:443?security=reality&encryption=none&pbk=fv0Zz9FtroOmuK1Tsn0u98gXSq8XepZKtbdH3lDg9EU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ad2e#🆔v2ray1_ng%20🔒%20VL-TCP-%20🇬🇧%20GB%20down
@@ -27,7 +26,6 @@ ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05UcG5RamRQWlU1YVZrTlBjMXBIUzFSb2RrcHN
 ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05UcHVXVkpvVkVOYVpGRk1SWGhMTm1WM1ZraG5TRk15Yld4Mk5FWkRlWE5MZVdWNVZGUm1hRkprUldka1pXVlNUakElM0Q6@5.188.36.93:31348#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇹🇷%20TR%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#🆔express_freevpn%20🔒%20SS-TCP-TLS%20🇸🇪%20SE%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇸🇪%20SE%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@46.62.152.84:808#hope%20of%20freedom%20-%20%40anotherme_night
 ss://b9793e0b-b030-4ac6-a503-8f2081d1cada@m47a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.85.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://dfa6d4e8-6448-c007-d480-0ce73c7461a5@185.49.105.26:39822?security=none&type=tcp&headerType=http&path=%2F&host=aparat.com#🆔fr33c0nfig%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
@@ -39,7 +37,6 @@ ss://f5e384e0-676a-4f48-aaa1-7e2c83df7127@m62a.vip784.com:33801?security=none&en
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@sss31842.tas-bazi.com:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#🆔mrsoulb%20🔓%20VL-XHTTP-N/A%20🇩🇪%20DE%20down
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔express_freevpn%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.121.218:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇫🇷%20FR%20down
-vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?encryption=none&security=none&type=ws&host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560#hope%20of%20freedom%20-%20%40anotherme_night
 vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://1625ad92-8b3a-44b5-a719-08a5a73fd3af@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&security=&encryption=none&host=Aeza.net&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20❔%20XX%20down
 vless://2b3b9457-d4df-415c-b9be-189e8546f4b4@looutintl.outline360bot.com:443?security=reality&encryption=none&pbk=fv0Zz9FtroOmuK1Tsn0u98gXSq8XepZKtbdH3lDg9EU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ad2e#🆔v2ray1_ng%20🔒%20VL-TCP-%20🇬🇧%20GB%20down
