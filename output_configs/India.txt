@@ -6,9 +6,8 @@ ss://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality&encr
 ss://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss1175.tas-bazi.com:443?mode=stream-one&path=%2Fasd&security=none&encryption=none&type=xhttp#%40v2raying
 ss://26b34533-c067-4f30-b33f-029809a3b030@speedtestcustom.com:80?mode=auto&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#%40v2raying
 ss://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=%2Faioproxybot%2F8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#%40v2raying
+ss://3c7a1227-5383-3a19-7084-76624ec8f84f@213.232.123.10:443?security=reality&encryption=none&pbk=SnjXP0GFBVxg3C7sbWUJ5JqKpnlg_BNMXuqoE78YhVE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40v2raying
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#%40v2raying
-ss://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#%40v2raying
-ss://4ca18ce2-68a3-454c-aae8-aa5664ecd279@104.16.1.106:2082?path=%2F%3Fed%3D2052&security=none&encryption=none&host=www.yashar.ip-ddns.com&type=ws#%40v2raying
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphR090V29CTS10R0hWbktCX1ZneVVR@91.99.159.82:1080#%40v2raying
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMGM2MjFjZi04MDQxLTQwMjktYWQzMS1iMTkxNzNiYjU3ZTA=@freem.vidalith.com:31371#3%7C%F0%9F%87%AE%F0%9F%87%B3%E5%8D%B0%E5%BA%A6%20101%20%7C%201x%20IN
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#%40v2raying
@@ -19,7 +18,6 @@ vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality&e
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss1175.tas-bazi.com:443?mode=stream-one&path=%2Fasd&security=none&encryption=none&type=xhttp#%40v2raying
 vless://26b34533-c067-4f30-b33f-029809a3b030@speedtestcustom.com:80?mode=auto&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#%40v2raying
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=%2Faioproxybot%2F8.215.59.6-443&security=none&encryption=none&host=aio.loophole.Biz.iD&type=ws#%40v2raying
+vless://3c7a1227-5383-3a19-7084-76624ec8f84f@213.232.123.10:443?security=reality&encryption=none&pbk=SnjXP0GFBVxg3C7sbWUJ5JqKpnlg_BNMXuqoE78YhVE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40v2raying
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#%40v2raying
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#%40v2raying
-vless://4ca18ce2-68a3-454c-aae8-aa5664ecd279@104.16.1.106:2082?path=%2F%3Fed%3D2052&security=none&encryption=none&host=www.yashar.ip-ddns.com&type=ws#%40v2raying
 vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+HrvCfh7MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=

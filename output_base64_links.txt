@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Afghanistan.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Albania.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Andorra.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Angola.txt
@@ -25,7 +26,6 @@ https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/hea
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Finland.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/France.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Germany.txt
-https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Ghana.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Greece.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Haiti.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Iceland.txt
@@ -48,7 +48,5 @@ https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/hea
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/SouthKorea.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Spain.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Taiwan.txt
-https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Turkey.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/UK.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/USA.txt
-https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Ukraine.txt

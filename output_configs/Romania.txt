@@ -1,2 +1,4 @@
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=D36.alAnhiAho.CoM&type=ws&sni=D36.alAnhiAho.CoM#%40V2RAYROZ
+ss://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=d15.alanhiAhO.cOm&type=ws&sni=d15.alanhiAhO.cOm#%40V2RAYROZ
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=D36.alAnhiAho.CoM&type=ws&sni=D36.alAnhiAho.CoM#%40V2RAYROZ
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=d15.alanhiAhO.cOm&type=ws&sni=d15.alanhiAhO.cOm#%40V2RAYROZ
