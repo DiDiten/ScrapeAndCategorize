@@ -9,7 +9,6 @@ ss://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=%2Faioproxybot%2
 ss://3c7a1227-5383-3a19-7084-76624ec8f84f@213.232.123.10:443?security=reality&encryption=none&pbk=SnjXP0GFBVxg3C7sbWUJ5JqKpnlg_BNMXuqoE78YhVE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40v2raying
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#%40v2raying
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphR090V29CTS10R0hWbktCX1ZneVVR@91.99.159.82:1080#%40v2raying
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMGM2MjFjZi04MDQxLTQwMjktYWQzMS1iMTkxNzNiYjU3ZTA=@freem.vidalith.com:31371#3%7C%F0%9F%87%AE%F0%9F%87%B3%E5%8D%B0%E5%BA%A6%20101%20%7C%201x%20IN
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#%40v2raying
 vless://117ca567-3180-4d62-abcc-8fc0104c93ff@mci.dl101movis.ir:80?mode=auto&path=%2F%40num1_shop%40num1_shop%40num1_shop&security=none&encryption=none&host=realstatednum1shop.global.ssl.fastly.net&type=xhttp#%40v2raying
 vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#%40v2raying

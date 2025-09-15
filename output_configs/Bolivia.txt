@@ -10,5 +10,3 @@ vless://0503fa3c-f914-4421-a1e5-72c1f8d781a2@104.21.32.1:443?path=%2FwGEZwUQmT9l
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none=&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
 vless://75fde681-ec64-4654-86fa-30732e8e179c@162.159.129.11:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
 vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
-vmess://ewogICJhZGQiOiAiOTEuOTIuNDAuNzgiLAogICJhaWQiOiAwLAogICJpZCI6ICI2MGZkZmFjOC1hNWY0LTQ4NGEtOWVkNy03MzU2OGExOWE4ZDIiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDIwNjAsCiAgInBzIjogIkJPTEJPTFZQTiIsCiAgInRscyI6ICJub25lIiwKICAidiI6IDIKfQ==
-vmess://ewogICJhZGQiOiAiOTEuOTIuNDAuNzgiLAogICJhaWQiOiAwLAogICJpZCI6ICIxNGQxOWI2Zi00MmJhLTQ2N2MtYjkwZC00NWI0OGQwZDNmZGEiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDIwNjAsCiAgInBzIjogIkJPTEJPTFZQTiIsCiAgInRscyI6ICJub25lIiwKICAidiI6IDIKfQ==
