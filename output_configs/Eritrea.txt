@@ -1,3 +1,4 @@
+ss://2ae30bf2-1522-4b95-90ba-4ae253099c02@104.16.1.106:2082?path=%2F%3Fed%3D2052&security=none&encryption=none&host=www.yashar.ip-ddns.com&type=ws#https%3A%2F%2Ft.me%2FVPN4EVERYONE
 ss://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#🆔vpn4everyone%20🔓%20VL-XHTTP-N/A%20🇩🇪%20DE%20124ms
 ss://8ee1ace7-d1f3-4f98-b229-e5450702253f@download.record-point.com.au:8855?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20224ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-1
@@ -5,7 +6,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edge
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Wmg4RW91aElMWjRKWkNRZGFYczBj@195.96.156.9:14847#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20116ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.170:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%2841%29🤯
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxeFZvb21JeVpmVmZsTzBPa0YwS1JI@89.110.74.148:46271#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%20138ms
 ss://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#🆔vpnserverrr%20🔒%20VL-TCP-%20🇱🇻%20LV%20125ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&type=grpc#🆔vpnserverrr%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2098ms
@@ -14,6 +14,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=no
 ss://e3847ec6-b2fc-4eb2-b919-174d986f882c@poland20.clearorbitllc.com:443?security=reality&encryption=none&pbk=oNYCpjXjcYAV9qSWBt95N9dDUPhc_QnauJZ3kSJVeSQ&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=poland20.clearorbitllc.com&sid=2a22#🆔vpnserverrr%20🔒%20VL-TCP-%20🇵🇱%20PL%20189ms
 ss://e5979603-c215-4d5f-811a-316b45f6df17@167.71.8.192:23313?path=%2F&security=none&encryption=none&type=ws#🆔vpnserverrr%20🔓%20VL-WS-N/A%20🇳🇱%20NL%20100ms
 ss://f738632c-3cbc-4ea1-9b21-57d8b046ca79@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20113ms
+vless://2ae30bf2-1522-4b95-90ba-4ae253099c02@104.16.1.106:2082?path=%2F%3Fed%3D2052&security=none&encryption=none&host=www.yashar.ip-ddns.com&type=ws#https%3A%2F%2Ft.me%2FVPN4EVERYONE
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#🆔vpn4everyone%20🔓%20VL-XHTTP-N/A%20🇩🇪%20DE%20124ms
 vless://8ee1ace7-d1f3-4f98-b229-e5450702253f@download.record-point.com.au:8855?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpn4everyone%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20224ms
 vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#🆔vpnserverrr%20🔒%20VL-TCP-%20🇱🇻%20LV%20125ms
