@@ -12,4 +12,3 @@ vless://3c7a1227-5383-3a19-7084-76624ec8f84f@213.232.123.10:443?security=reality
 vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&encryption=none&headerType=none&type=tcp#%40vpnaloo
 vless://44cb3f8c-57a4-4f2b-a0ae-d9121e54a598@138.124.52.155:54567?path=%2F54567%2Fmvfkvk&security=none&encryption=none&type=ws#%40vpnaloo
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&headerType=none&type=tcp#%40vpnaloo
-vmess://eyJhZGQiOiI4Mi4xOTcuNjkuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVhODkzODZhLTgyN2ItNGY1NC04Nzc4LTJmMWI1MTIyYzZlZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzk2NzQiLCJwcyI6IkFsbC0tQElSQU5fVjJSQVkxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
