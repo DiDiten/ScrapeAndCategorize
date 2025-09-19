@@ -1,5 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#%F0%9F%87%AE%F0%9F%87%B7%20Meli🤯
 ss://bcf2ae66-9318-4450-8c96-e4fa1d128dcc@tanel.vpnmr.sub4u.site:1112?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20438ms
 ss://d7e0d7ef-9f98-44a2-b38f-60868396e7d8@irc.testvp2.sbs:443?encryption=none&security=none&type=tcp&headerType=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20320ms
 vless://bcf2ae66-9318-4450-8c96-e4fa1d128dcc@tanel.vpnmr.sub4u.site:1112?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20438ms
 vless://d7e0d7ef-9f98-44a2-b38f-60868396e7d8@irc.testvp2.sbs:443?encryption=none&security=none&type=tcp&headerType=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20320ms
+vmess://eyJhZGQiOiI1MS42OC4xOTEuMjMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImYwZWRhMDcyLTlhZTgtNDk0Yy1hNDk1LTIxNWZhNTcyOTQ2NyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IkBJUkFOX1YyUkFZMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
