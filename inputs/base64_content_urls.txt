@@ -1,3 +1,5 @@
-https://raw.githubusercontent.com/10ium/HiN-VPN/main/subscription/base64/mix
 https://raw.githubusercontent.com/DiDiten/HiN-VPN/main/subscription/base64/mix
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ir/mixed
+https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_base64_Sub.txt
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt
+https://robin.victoriacross.ir
+https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity
