@@ -4,24 +4,24 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:
+  workflow_dispatch: 
   schedule:
-    - cron: '20 * * * *'
+    - cron: '0 */7 * * *' 
 
 jobs:
   build-and-commit:
-    runs-on: ubuntu-latest # تغییر یافت: از ubuntu-24.04 به ubuntu-latest برای پایداری بیشتر.
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # این خط اضافه شد: برای دریافت کامل تاریخچه گیت، که برای git pull --rebase نیاز است.
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.13'
 
       - name: Install dependencies
         run: |
@@ -33,8 +33,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.name "NET Sentinel Bot"
+          git config --local user.email "224584266+NetSentinel-Bot@users.noreply.github.com"
           git add -A .
           git diff-index --quiet HEAD || git commit -m "Automated config refresh completed at: $(TZ='Asia/Tehran' date '+%H:%M:%S')"
           git pull --rebase origin main
