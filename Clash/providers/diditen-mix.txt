@@ -105,7 +105,7 @@ rule-providers:
     interval: 86400
 proxies:
   - {name: ahwazigamingshop 🔒 SS-TCP-TLS 🇧🇭 BH down, server: 157.241.91.146, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, tfo: false, udp: true}
-  - {name: ahwazigamingshop 🔒 VL-WS-N/A 🇮🇷 IR 335ms, server: ir8.boilersforpellets.com, port: 443, client-fingerprint: chrome, type: vless, uuid: 112e4e31-1cab-446c-8be4-c416f3b5470b, tls: true, tfo: false, skip-cert-verify: false, servername: ir8.boilersforpellets.com, network: ws, ws-opts: {path: /, headers: {Host: ir8.boilersforpellets.com}}, udp: true}
+  - {name: ahwazigamingshop 🔒 VL-WS-N/A 🇮🇷 IR 373ms, server: ir8.boilersforpellets.com, port: 443, client-fingerprint: chrome, type: vless, uuid: 112e4e31-1cab-446c-8be4-c416f3b5470b, tls: true, tfo: false, skip-cert-verify: false, servername: ir8.boilersforpellets.com, network: ws, ws-opts: {path: /, headers: {Host: ir8.boilersforpellets.com}}, udp: true}
   - {name: ahwazigamingshop 🔓 VL-TCP-N/A 🇮🇷 IR down, server: webbbb.grizzlyshoppp.shop, port: 6050, client-fingerprint: chrome, type: vless, uuid: aecb1f00-d8c8-4fe8-8a54-23045ff9b955, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [aparat.com]}}, udp: true}
   - {name: ahwazigamingshop 🔓 VL-TCP-N/A 🇮🇷 IR down 2, server: webbbb.grizzlyshoppp.shop, port: 6050, client-fingerprint: chrome, type: vless, uuid: aecb1f00-d8c8-4fe8-8a54-23045ff9b955, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [aparat.com]}}, udp: true}
   - {name: ahwazigamingshop 🔓 VL-TCP-N/A 🇮🇷 IR down 3, server: 84.47.233.110, port: 59761, client-fingerprint: chrome, type: vless, uuid: ae9539b5-70dd-41b5-9666-11a29559a840, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [Fast.com]}}, udp: true}
@@ -114,204 +114,194 @@ proxies:
   - {name: beau_vpn 🔓 VL-TCP-N/A 🇹🇷 TR down, server: 94.177.147.79, port: 38745, client-fingerprint: chrome, type: vless, uuid: 3ce4817f-9bab-47f1-9df5-1b037b35cbed, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.com]}}, udp: true}
   - {name: beau_vpn 🔓 VL-TCP-N/A 🇹🇷 TR down 2, server: 94.177.147.79, port: 38745, client-fingerprint: chrome, type: vless, uuid: aad43aea-6040-43cd-b500-f814347d6816, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.com]}}, udp: true}
   - {name: canfing_vpn 🔓 VL-WS-N/A ❔ XX down, server: dedicated-development.seotoolsforyou.co.uk, port: 80, client-fingerprint: chrome, type: vless, uuid: 2054405e-70ff-40a2-ae27-16b63d72390a, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: dedicated-development.seotoolsforyou.co.uk}}, udp: true}
-  - {name: capoit 🔓 VL-GRPC-N/A 🇦🇹 AT 166ms, server: 141.227.164.136, port: 52095, client-fingerprint: chrome, type: vless, uuid: 08a3325b-479e-4eae-a3e8-ba35ed880786, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
-  - {name: capoit 🔓 VL-GRPC-N/A 🇷🇴 RO 181ms, server: 141.227.180.211, port: 25365, client-fingerprint: chrome, type: vless, uuid: 1375d9a1-dece-4bbb-8131-29e06afd8ca4, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
-  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 312ms, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
-  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 313ms, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
-  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 314ms, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
-  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 314ms 2, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
-  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 315ms, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
-  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 321ms, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
-  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 321ms 2, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
-  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 321ms 3, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
-  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 321ms 4, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
-  - {name: configfa 🔓 VL-TCP-N/A 🇮🇷 IR 268ms, server: fi.navasar.sbs, port: 2087, client-fingerprint: chrome, type: vless, uuid: 46ef77d4-e420-45da-a2e7-928ec9fc407c, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [myket.ir]}}, udp: true}
-  - {name: configfa 🔓 VL-TCP-N/A 🇮🇷 IR 404ms, server: fi.navasar.sbs, port: 2087, client-fingerprint: chrome, type: vless, uuid: 46ef77d4-e420-45da-a2e7-928ec9fc407c, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [myket.ir]}}, udp: true}
+  - {name: capoit 🔓 VL-GRPC-N/A 🇦🇹 AT 167ms, server: 141.227.164.136, port: 52095, client-fingerprint: chrome, type: vless, uuid: 08a3325b-479e-4eae-a3e8-ba35ed880786, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
+  - {name: capoit 🔓 VL-GRPC-N/A 🇷🇴 RO 178ms, server: 141.227.180.211, port: 25365, client-fingerprint: chrome, type: vless, uuid: 1375d9a1-dece-4bbb-8131-29e06afd8ca4, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
+  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 284ms, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
+  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 289ms, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
+  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 291ms, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
+  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 292ms, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
+  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 295ms, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
+  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 295ms 2, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
+  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 301ms, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
+  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 301ms 2, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
+  - {name: configfa 🔒 VL-TCP- 🇮🇷 IR 341ms, server: 193.151.135.21, port: 44443, reality-opts: {public-key: XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ}, client-fingerprint: chrome, type: vless, uuid: 53fff6cc-b4ec-43e8-ade5-e0c42972fc33, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.speedtest.net, network: tcp, udp: true}
+  - {name: configfa 🔓 VL-TCP-N/A 🇮🇷 IR 250ms, server: fi.navasar.sbs, port: 2087, client-fingerprint: chrome, type: vless, uuid: 46ef77d4-e420-45da-a2e7-928ec9fc407c, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [myket.ir]}}, udp: true}
+  - {name: configfa 🔓 VL-TCP-N/A 🇮🇷 IR 260ms, server: fi.navasar.sbs, port: 2087, client-fingerprint: chrome, type: vless, uuid: 46ef77d4-e420-45da-a2e7-928ec9fc407c, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [myket.ir]}}, udp: true}
   - {name: fr33c0nfig 🔒 VL-TCP- 🇹🇷 TR down, server: 62.60.233.250, port: 443, reality-opts: {public-key: MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw, short-id: 4476a3}, client-fingerprint: chrome, type: vless, uuid: fd0cdd44-2361-11f0-9970-45e1d80c4039, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: images.apple.com, network: tcp, udp: true}
   - {name: fr33c0nfig 🔓 VL-TCP-N/A ❔ XX down, server: moshkel-dari.com.studentcp.ir, port: 49371, client-fingerprint: chrome, type: vless, uuid: dfa6d4e8-6448-c007-d480-0ce73c7461a5, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [aparat.com]}}, udp: true}
   - {name: fr33c0nfig 🔓 VL-TCP-N/A 🇮🇷 IR down, server: 185.49.105.26, port: 39822, client-fingerprint: chrome, type: vless, uuid: dfa6d4e8-6448-c007-d480-0ce73c7461a5, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [aparat.com]}}, udp: true}
-  - {name: freeconfigsplus 🔒 VL-TCP- 🇦🇹 AT 152ms, server: 5.181.21.152, port: 24170, reality-opts: {public-key: rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw, short-id: 200f99e321}, client-fingerprint: chrome, type: vless, uuid: 6a8ee307-a1fb-4801-92e2-86253ecdd88d, tls: true, tfo: false, skip-cert-verify: false, servername: yahoo.com, network: tcp, udp: true}
+  - {name: freeconfigsplus 🔒 VL-TCP- 🇦🇹 AT 151ms, server: 5.181.21.152, port: 24170, reality-opts: {public-key: rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw, short-id: 200f99e321}, client-fingerprint: chrome, type: vless, uuid: 6a8ee307-a1fb-4801-92e2-86253ecdd88d, tls: true, tfo: false, skip-cert-verify: false, servername: yahoo.com, network: tcp, udp: true}
   - {name: freeconfigsplus 🔒 VM-- ❔ XX down, server: "", port: 0, client-fingerprint: chrome, type: vmess, uuid: 00000000-0000-0000-0000-000000000000, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
   - {name: freeconfigsplus 🔓 VL-TCP-N/A ❔ XX down, server: Germany1.amirconfigpanelllll.com, port: 625, client-fingerprint: chrome, type: vless, uuid: 2197f2f3-7634-4609-a525-7361b1d4782d, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [zhaket.com]}}, udp: true}
-  - {name: madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 291ms, server: 638930966405437992.birjand-drc-dcrabj.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 305ms, server: 638932111805004627.rasht-drc-dcrabj.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 328ms, server: 638930966405437992.birjand-drc-dcrabj.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: madshopx 🔓 VL-TCP-N/A 🇮🇷 IR 274ms, server: luckypingout.bikofile.com, port: 48008, client-fingerprint: chrome, type: vless, uuid: 2ecc1c66-0808-174c-e51a-5274c1428b3c, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [myket.ir]}}, udp: true}
-  - {name: mrsoulb 🔓 VL-GRPC-N/A 🇱🇹 LT 290ms, server: 638935457407159576.birjand-drc-tusacae.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 280ms, server: 638930966405437992.birjand-drc-dcrabj.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 282ms, server: 638930966405437992.birjand-drc-dcrabj.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT down, server: 638932111805004627.rasht-drc-dcrabj.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: madshopx 🔓 VL-TCP-N/A 🇮🇷 IR 304ms, server: luckypingout.bikofile.com, port: 48008, client-fingerprint: chrome, type: vless, uuid: 2ecc1c66-0808-174c-e51a-5274c1428b3c, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [myket.ir]}}, udp: true}
+  - {name: mrsoulb 🔓 VL-GRPC-N/A 🇱🇹 LT 210ms, server: 638935457407159576.birjand-drc-tusacae.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
   - {name: mrsoulb 🔓 VL-TCP-N/A 🇫🇮 FI down, server: m45a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: 93382dc3-a897-402f-8f6a-261f867f1e43, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
   - {name: mrsoulb 🔓 VL-TCP-N/A 🇫🇮 FI down 2, server: m59a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: 8523c3f2-d5c7-4cce-9342-5c48a1afb3b9, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
   - {name: mrsoulb 🔓 VL-TCP-N/A 🇫🇮 FI down 3, server: m45a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: 93382dc3-a897-402f-8f6a-261f867f1e43, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
-  - {name: vless_config 🔒 VL-TCP- 🇫🇮 FI 181ms, server: 65.109.181.9, port: 2053, reality-opts: {public-key: QmtLPE3i1nbjawFI69QAgJec6il0X2mFdQZlHYp-DAU, short-id: 9f7b7e64e9}, client-fingerprint: chrome, type: vless, uuid: 1cdc4a9f-e509-4f5b-a4cf-3de5e8a682d5, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: mehrnews.com, network: tcp, udp: true}
-  - {name: vless_config 🔓 VL-TCP-N/A 🇮🇷 IR 394ms, server: 5.202.6.98, port: 38117, client-fingerprint: chrome, type: vless, uuid: 11eb8946-107a-4368-ad2c-ca70681b6aea, tls: false, tfo: false, skip-cert-verify: false, network: tcp, udp: true}
+  - {name: vless_config 🔒 VL-TCP- 🇫🇮 FI 179ms, server: 65.109.181.9, port: 2053, reality-opts: {public-key: QmtLPE3i1nbjawFI69QAgJec6il0X2mFdQZlHYp-DAU, short-id: 9f7b7e64e9}, client-fingerprint: chrome, type: vless, uuid: 1cdc4a9f-e509-4f5b-a4cf-3de5e8a682d5, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: mehrnews.com, network: tcp, udp: true}
+  - {name: vless_config 🔓 VL-TCP-N/A 🇮🇷 IR 374ms, server: 5.202.6.98, port: 38117, client-fingerprint: chrome, type: vless, uuid: 11eb8946-107a-4368-ad2c-ca70681b6aea, tls: false, tfo: false, skip-cert-verify: false, network: tcp, udp: true}
   - {name: vpn4everyone 🔒 VL-WS-N/A ❔ XX down, server: ava.game.naver.com.servpn.my.id, port: 443, client-fingerprint: randomized, type: vless, uuid: 4ca95fa5-8967-4bdc-a82d-3a65b44a3818, tls: true, tfo: false, skip-cert-verify: false, servername: ava.game.naver.com.servpn.my.id, network: ws, ws-opts: {path: "/sg4/??ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN", headers: {Host: ava.game.naver.com.servpn.my.id}}, udp: true}
   - {name: vpn4everyone 🔓 VL-TCP-N/A 🇮🇷 IR down, server: 94.182.169.148, port: 8412, client-fingerprint: chrome, type: vless, uuid: 965c6b5e-720f-4483-a12a-72cecdadf9f8, tls: false, tfo: false, skip-cert-verify: false, network: tcp, udp: true}
-  - {name: vpnserverrr 🔒 VL-TCP- 🇱🇻 LV 175ms, server: 94.131.104.178, port: 443, reality-opts: {public-key: LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw, short-id: 81e0b568}, client-fingerprint: firefox, type: vless, uuid: d5c1b5d7-055b-4457-bc3a-6e99919c1bcb, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: latvia6.clearorbitllc.com, network: tcp, udp: true}
   - {name: vpnserverrr 🔓 VL-TCP-N/A 🇫🇮 FI down, server: m59a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: 8523c3f2-d5c7-4cce-9342-5c48a1afb3b9, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
   - {name: vpnserverrr 🔓 VL-TCP-N/A 🇫🇮 FI down 2, server: m45a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: 93382dc3-a897-402f-8f6a-261f867f1e43, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
   - {name: 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE 157ms, server: 91.99.160.210, port: 443, client-fingerprint: chrome, type: vless, uuid: 2eaef053-5fd6-4def-b234-d760690355ff, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [zula.ir]}}, udp: true}
-  - {name: 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE 160ms, server: 91.99.207.21, port: 443, client-fingerprint: chrome, type: vless, uuid: 153ee04c-dcc1-4ef8-a146-8fb31cec1f48, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [zula.ir]}}, udp: true}
+  - {name: 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE 157ms 2, server: 91.99.207.21, port: 443, client-fingerprint: chrome, type: vless, uuid: 153ee04c-dcc1-4ef8-a146-8fb31cec1f48, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [zula.ir]}}, udp: true}
   - {name: 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE down, server: marzban56.boshrachoice.ir, port: 8443, client-fingerprint: chrome, type: vless, uuid: a61d2d34-b60c-4014-95f9-1208dc03b49a, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [www.speedtest.net]}}, udp: true}
   - {name: 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE down 2, server: 91.99.202.155, port: 443, client-fingerprint: chrome, type: vless, uuid: 2eaef053-5fd6-4def-b234-d760690355ff, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [zula.ir]}}, udp: true}
   - {name: 🇩🇪 astrovpn_official 🔒 TR-TCP-N/A 🇩🇪 DE 154ms, server: 213.108.198.158, port: 8441, client-fingerprint: chrome, type: trojan, password: tunnel-astrovpnofficial1828, sni: zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir, alpn: [http%2F1.1], skip-cert-verify: false, udp: true}
-  - {name: 🇩🇪 astrovpn_official 🔒 TR-TCP-N/A 🇩🇪 DE 157ms, server: 213.108.198.158, port: 8441, client-fingerprint: chrome, type: trojan, password: tunnel-astrovpn_official029, sni: zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir, alpn: [http%2F1.1], skip-cert-verify: false, udp: true}
+  - {name: 🇩🇪 astrovpn_official 🔒 TR-TCP-N/A 🇩🇪 DE 154ms 2, server: 213.108.198.158, port: 8441, client-fingerprint: chrome, type: trojan, password: tunnel-astrovpn_official029, sni: zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir, alpn: [http%2F1.1], skip-cert-verify: false, udp: true}
   - {name: 🇩🇪 canfing_vpn 🔓 VL-TCP-N/A 🇩🇪 DE down, server: 54.37.205.0, port: 59332, client-fingerprint: chrome, type: vless, uuid: d2dc2527-33d5-46f3-f39c-36da72fb1a62, tls: false, tfo: false, skip-cert-verify: false, network: tcp, udp: true}
-  - {name: 🇩🇪 canfing_vpn 🔓 VM-TCP-N/A 🇩🇪 DE 276ms, server: customers.tele-shop-too.studio, port: 33203, client-fingerprint: chrome, type: vmess, uuid: 695e359b-f44c-4701-9d70-84fc0e7cea0b, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 160ms, server: 91.99.196.0, port: 443, client-fingerprint: chrome, type: vless, uuid: 0711cb9e-5925-4425-b59d-eae99375fa27, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 207ms, server: 51.89.118.126, port: 25369, client-fingerprint: chrome, type: vless, uuid: 5fda29b6-0688-44e3-afdf-df533c800109, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
+  - {name: 🇩🇪 canfing_vpn 🔓 VM-TCP-N/A 🇩🇪 DE 172ms, server: customers.tele-shop-too.studio, port: 33203, client-fingerprint: chrome, type: vmess, uuid: 695e359b-f44c-4701-9d70-84fc0e7cea0b, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 154ms, server: 91.99.196.0, port: 443, client-fingerprint: chrome, type: vless, uuid: 0711cb9e-5925-4425-b59d-eae99375fa27, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 158ms, server: 51.89.118.126, port: 25369, client-fingerprint: chrome, type: vless, uuid: 5fda29b6-0688-44e3-afdf-df533c800109, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
   - {name: 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down, server: 54.36.117.130, port: 25367, client-fingerprint: chrome, type: vless, uuid: dc2f2d7b-a250-4dad-a4ec-1a3308886ca2, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
   - {name: 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down 2, server: 54.36.114.253, port: 25367, client-fingerprint: chrome, type: vless, uuid: 56961cae-002c-43ac-8d93-df0546303d6f, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
   - {name: 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down 3, server: 54.36.117.130, port: 25368, client-fingerprint: chrome, type: vless, uuid: 31391598-edc7-4ba1-8b34-cf9b9602396a, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
   - {name: 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down 4, server: 54.36.112.160, port: 38818, client-fingerprint: chrome, type: vless, uuid: 490aed2f-9c4e-43b0-ad77-34583bc335a7, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
-  - {name: 🇩🇪 configfa 🔒 VL-TCP- 🇩🇪 DE 161ms, server: de.axonet.ru, port: 443, reality-opts: {public-key: k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ, short-id: cd0b563c7e0ea754}, client-fingerprint: chrome, type: vless, uuid: c8faa9f1-8473-4034-acab-2c3bbdaf551c, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.chip.de, network: tcp, udp: true}
+  - {name: 🇩🇪 configfa 🔒 VL-TCP- 🇩🇪 DE 345ms, server: de.axonet.ru, port: 443, reality-opts: {public-key: k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ, short-id: cd0b563c7e0ea754}, client-fingerprint: chrome, type: vless, uuid: c8faa9f1-8473-4034-acab-2c3bbdaf551c, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: www.chip.de, network: tcp, udp: true}
   - {name: 🇩🇪 configfa 🔓 VL-GRPC-N/A 🇩🇪 DE down, server: 54.36.114.253, port: 25365, client-fingerprint: chrome, type: vless, uuid: c147dd48-2e81-4822-ace2-a60423209faa, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
-  - {name: 🇩🇪 configfa 🔓 VL-TCP-N/A 🇩🇪 DE 457ms, server: randomsecretcloud.ferdowsi-rgb.ir, port: 36802, client-fingerprint: chrome, type: vless, uuid: 2ef737f5-d66a-4788-98b4-6dff2850954d, tls: false, tfo: false, skip-cert-verify: false, network: tcp, udp: true}
-  - {name: 🇩🇪 fr33c0nfig 🔒 VL-TCP- 🇩🇪 DE 162ms, server: all32-vip.f-sub.com, port: 2434, reality-opts: {public-key: yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA}, client-fingerprint: chrome, type: vless, uuid: 738c5a04-817a-4f50-b327-893595010155, tls: true, tfo: false, skip-cert-verify: false, servername: chess.com, network: tcp, udp: true}
+  - {name: 🇩🇪 configfa 🔓 VL-TCP-N/A 🇩🇪 DE down, server: randomsecretcloud.ferdowsi-rgb.ir, port: 36802, client-fingerprint: chrome, type: vless, uuid: 2ef737f5-d66a-4788-98b4-6dff2850954d, tls: false, tfo: false, skip-cert-verify: false, network: tcp, udp: true}
+  - {name: 🇩🇪 fr33c0nfig 🔒 VL-TCP- 🇩🇪 DE down, server: all32-vip.f-sub.com, port: 2434, reality-opts: {public-key: yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA}, client-fingerprint: chrome, type: vless, uuid: 738c5a04-817a-4f50-b327-893595010155, tls: true, tfo: false, skip-cert-verify: false, servername: chess.com, network: tcp, udp: true}
   - {name: 🇩🇪 fr33c0nfig 🔓 VL-TCP-N/A 🇩🇪 DE down, server: 91.99.190.38, port: 51615, client-fingerprint: chrome, type: vless, uuid: 2eaef053-5fd6-4def-b234-d760690355ff, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [zula.ir]}}, udp: true}
-  - {name: 🇩🇪 fr33c0nfig 🔓 VM-TCP-N/A 🇩🇪 DE 171ms, server: customers.tele-shop-too.studio, port: 33203, client-fingerprint: chrome, type: vmess, uuid: eaae52d7-bc1a-4979-bd66-b6b428107173, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
-  - {name: 🇩🇪 hacknashid 🔒 VL-TCP- 🇩🇪 DE 200ms, server: 194.87.29.240, port: 443, reality-opts: {public-key: vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4, short-id: 82c8140feb118043}, client-fingerprint: chrome, type: vless, uuid: aa0a3771-d590-4702-9681-e8d69c7c2428, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: cdnjs.com, network: tcp, udp: true}
-  - {name: 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 156ms, server: 134.122.70.183, port: 30849, client-fingerprint: chrome, type: vless, uuid: 72146ebc-18cc-478a-a300-d6d3dac62ae0, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [JouRNaloFbIgdATA.SpRinGeropEn.coM.]}}, udp: true}
-  - {name: 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 158ms, server: 134.122.70.183, port: 1020, client-fingerprint: chrome, type: vless, uuid: 28aa9bb9-b94a-4e19-96fe-0a98f5a1f941, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/@Hacknashid/@Hacknashid/@Hacknashid/@Hacknashid/@Hacknashid]}, udp: true}
-  - {name: 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 164ms, server: 134.122.70.183, port: 30849, client-fingerprint: chrome, type: vless, uuid: b41b39a5-ce46-4cef-8436-003ea6d483e3, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [JouRNaloFbIgdATA.SpRinGeropEn.coM.]}}, udp: true}
-  - {name: 🇩🇪 madshopx 🔒 VL-TCP- 🇩🇪 DE 430ms, server: abri.abriabri.ir, port: 32167, reality-opts: {public-key: 8GR3JcYx9_MbgHhxdSAOt-PLsO7tFg4yidfCCwtbQ1E, short-id: e0}, client-fingerprint: firefox, type: vless, uuid: 0f1065c0-2c48-4d7c-b7da-1af5ca0e8af3, tls: true, tfo: false, skip-cert-verify: false, servername: www.tgju.org, network: tcp, udp: true}
+  - {name: 🇩🇪 fr33c0nfig 🔓 VM-TCP-N/A 🇩🇪 DE 562ms, server: customers.tele-shop-too.studio, port: 33203, client-fingerprint: chrome, type: vmess, uuid: eaae52d7-bc1a-4979-bd66-b6b428107173, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, udp: true}
+  - {name: 🇩🇪 hacknashid 🔒 VL-TCP- 🇩🇪 DE 297ms, server: 194.87.29.240, port: 443, reality-opts: {public-key: vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4, short-id: 82c8140feb118043}, client-fingerprint: chrome, type: vless, uuid: aa0a3771-d590-4702-9681-e8d69c7c2428, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: cdnjs.com, network: tcp, udp: true}
+  - {name: 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 161ms, server: 134.122.70.183, port: 1020, client-fingerprint: chrome, type: vless, uuid: 28aa9bb9-b94a-4e19-96fe-0a98f5a1f941, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/@Hacknashid/@Hacknashid/@Hacknashid/@Hacknashid/@Hacknashid]}, udp: true}
+  - {name: 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 164ms, server: 134.122.70.183, port: 30849, client-fingerprint: chrome, type: vless, uuid: 72146ebc-18cc-478a-a300-d6d3dac62ae0, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [JouRNaloFbIgdATA.SpRinGeropEn.coM.]}}, udp: true}
+  - {name: 🇩🇪 madshopx 🔒 VL-TCP- 🇩🇪 DE 493ms, server: abri.abriabri.ir, port: 32167, reality-opts: {public-key: 8GR3JcYx9_MbgHhxdSAOt-PLsO7tFg4yidfCCwtbQ1E, short-id: e0}, client-fingerprint: firefox, type: vless, uuid: 0f1065c0-2c48-4d7c-b7da-1af5ca0e8af3, tls: true, tfo: false, skip-cert-verify: false, servername: www.tgju.org, network: tcp, udp: true}
+  - {name: 🇩🇪 mrsoulb 🔓 VL-GRPC-N/A 🇩🇪 DE 168ms, server: 638938755008244100.vienna-drc-tusacaf.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE 168ms, server: m3a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: 7b311017-4c83-490d-87d1-5aeef15a5250, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
   - {name: 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down, server: m61a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: cc3afbee-5a0c-475e-85a0-fcb15236e2f7, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
   - {name: 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 2, server: m61a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: cc3afbee-5a0c-475e-85a0-fcb15236e2f7, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
   - {name: 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 3, server: m57a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: d4437242-7039-4e88-b83b-f383fa5ffda2, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
   - {name: 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 4, server: m61a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: cc3afbee-5a0c-475e-85a0-fcb15236e2f7, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
-  - {name: 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 5, server: m3a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: 7b311017-4c83-490d-87d1-5aeef15a5250, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
-  - {name: 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 162ms, server: 51.89.2.113, port: 8081, reality-opts: {public-key: nT4JZTeUVOw-XZ-htdqbFi1je4ZHeg-ALICrDk2usFE, short-id: d19d7a2d3da8595a}, client-fingerprint: chrome, type: vless, uuid: f924939e-2d9a-46b7-a3c2-67a225b7c027, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: yahoo.com, network: tcp, udp: true}
-  - {name: 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 175ms, server: hyperspeed.miniproxy.sbs, port: 57554, reality-opts: {public-key: AIXbyZcheUcFihE8a6xjBuV6R0Lu5QxMvFmANtBayjo, short-id: e6b8965784}, client-fingerprint: chrome, type: vless, uuid: bb680ef6-9c51-4492-a01a-5fed208981b4, tls: true, tfo: false, skip-cert-verify: false, servername: miro.com, network: http, http-opts: {method: GET, path: [/], headers: {Host: [miro.com]}}, udp: true}
-  - {name: 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 277ms, server: deu44.unlockedworld.org, port: 443, reality-opts: {public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs}, client-fingerprint: chrome, type: vless, uuid: b32d0323-b12b-4b63-aff3-00de09817f9d, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: yahoo.com, network: tcp, udp: true}
-  - {name: 🇩🇪 v2ray1_ng 🔓 VL-TCP-N/A 🇩🇪 DE 171ms, server: m10a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: 2e03cdd6-64e9-4aa6-bc00-ea522f845808, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
-  - {name: 🇩🇪 vpn4everyone 🔓 VL-TCP-N/A 🇩🇪 DE 339ms, server: download.record-point.com.au, port: 8855, client-fingerprint: chrome, type: vless, uuid: 8ee1ace7-d1f3-4f98-b229-e5450702253f, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [zula.ir]}}, udp: true}
+  - {name: 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 151ms, server: 51.89.2.113, port: 8081, reality-opts: {public-key: nT4JZTeUVOw-XZ-htdqbFi1je4ZHeg-ALICrDk2usFE, short-id: d19d7a2d3da8595a}, client-fingerprint: chrome, type: vless, uuid: f924939e-2d9a-46b7-a3c2-67a225b7c027, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: yahoo.com, network: tcp, udp: true}
+  - {name: 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 165ms, server: deu44.unlockedworld.org, port: 443, reality-opts: {public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs}, client-fingerprint: chrome, type: vless, uuid: b32d0323-b12b-4b63-aff3-00de09817f9d, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: yahoo.com, network: tcp, udp: true}
+  - {name: 🇩🇪 v2ray1_ng 🔒 VM-WS-TLS 🇩🇪 DE 138ms, server: kampong.org, port: 443, client-fingerprint: chrome, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true}
+  - {name: 🇩🇪 v2ray1_ng 🔓 VL-TCP-N/A 🇩🇪 DE 199ms, server: m10a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: 2e03cdd6-64e9-4aa6-bc00-ea522f845808, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
   - {name: 🇩🇪 vpn4everyone 🔓 VL-TCP-N/A 🇩🇪 DE down, server: 91.99.85.155, port: 443, client-fingerprint: chrome, type: vless, uuid: bc4f49dc-2c50-49ac-b8fa-d3020a5e65de, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [zula.ir]}}, udp: true}
-  - {name: 🇩🇪 vpnserverrr 🔓 VL-TCP-N/A 🇩🇪 DE down, server: 91.98.139.130, port: 55873, client-fingerprint: chrome, type: vless, uuid: a1a9906c-f387-4092-b73c-576dc510bad8, tls: false, tfo: false, skip-cert-verify: false, network: tcp, udp: true}
-  - {name: 🇩🇪 vpnserverrr 🔓 VL-TCP-N/A 🇩🇪 DE down 2, server: m57a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: d4437242-7039-4e88-b83b-f383fa5ffda2, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
-  - {name: 🇩🇪 vpnserverrr 🔓 VL-TCP-N/A 🇩🇪 DE down 3, server: 91.98.139.132, port: 44016, client-fingerprint: chrome, type: vless, uuid: 9cd93450-6100-4dcd-99f3-6c86b8c5431e, tls: false, tfo: false, skip-cert-verify: false, network: tcp, udp: true}
-  - {name: 🇪🇸 mrsoulb 🔓 VL-GRPC-N/A 🇪🇸 ES 356ms, server: 638937918607957654.paris-drc-tusacaf.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇫🇷 capoit 🔓 VL-GRPC-N/A 🇫🇷 FR 151ms, server: 51.178.223.140, port: 19822, client-fingerprint: chrome, type: vless, uuid: c79bbc2d-a020-4a2a-b12d-c288e018d9a0, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
-  - {name: 🇫🇷 configfa 🔓 VL-GRPC-N/A 🇫🇷 FR 268ms, server: 638929692855682011.lisbon-drc-tusabt.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
-  - {name: 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 170ms, server: 638927678654211750.rasht-drc-tusabn.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 265ms, server: 638937994136550920.prague-prx-dnraacl.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 280ms, server: 638938161486112816.warsaw-prx-dnraacl.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇫🇷 v2ray1_ng 🔒 VM-WS-TLS 🇫🇷 FR 276ms, server: kampong.org, port: 443, client-fingerprint: chrome, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true}
-  - {name: 🇫🇷 v2ray1_ng 🔓 VL-TCP-N/A 🇫🇷 FR 205ms, server: m38a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: 78bce666-8294-4029-96d0-a54b8260d0b2, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
-  - {name: 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 151ms, server: 195.42.233.69, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 168ms, server: 195.42.233.69, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇬🇧 ahwazigamingshop 🔒 SS-TCP-TLS 🇬🇧 GB 152ms, server: series-a2-mec.varzesh360.co, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, tfo: false, udp: true}
-  - {name: 🇬🇧 capoit 🔓 VL-GRPC-N/A 🇬🇧 GB 148ms, server: 141.227.174.30, port: 32657, client-fingerprint: chrome, type: vless, uuid: 24244970-2b14-47e6-b0c1-95cecc9bcc3c, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
-  - {name: 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB 147ms, server: 104.248.168.80, port: 80, client-fingerprint: chrome, type: vless, uuid: 30aa94de-0c4a-497c-b0b4-3a55d651c202, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /eahkfws}, udp: true}
-  - {name: 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB 148ms, server: 167.71.137.233, port: 80, client-fingerprint: chrome, type: vless, uuid: 586bb25e-30e7-4163-9d1b-79ffb263e090, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /zmnnzws}, udp: true}
-  - {name: 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB down, server: 161.35.175.165, port: 55769, client-fingerprint: chrome, type: vless, uuid: f622987c-b7ee-407d-acfe-07f45978012f, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇬🇧 vpnserverrr 🔒 SS-TCP-TLS 🇬🇧 GB 171ms, server: 195.96.156.9, port: 14847, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9Zh8EouhILZ4JZCQdaXs0c, tfo: false, udp: true}
+  - {name: 🇩🇪 vpn4everyone 🔓 VL-TCP-N/A 🇩🇪 DE down 2, server: download.record-point.com.au, port: 8855, client-fingerprint: chrome, type: vless, uuid: 8ee1ace7-d1f3-4f98-b229-e5450702253f, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [zula.ir]}}, udp: true}
+  - {name: 🇩🇪 vpnserverrr 🔓 VL-TCP-N/A 🇩🇪 DE down, server: m57a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: d4437242-7039-4e88-b83b-f383fa5ffda2, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
+  - {name: 🇩🇪 vpnserverrr 🔓 VL-TCP-N/A 🇩🇪 DE down 2, server: 91.98.139.132, port: 44016, client-fingerprint: chrome, type: vless, uuid: 9cd93450-6100-4dcd-99f3-6c86b8c5431e, tls: false, tfo: false, skip-cert-verify: false, network: tcp, udp: true}
+  - {name: 🇪🇸 mrsoulb 🔓 VL-GRPC-N/A 🇪🇸 ES 512ms, server: 638937918607957654.paris-drc-tusacaf.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇫🇷 capoit 🔓 VL-GRPC-N/A 🇫🇷 FR 154ms, server: 51.178.223.140, port: 19822, client-fingerprint: chrome, type: vless, uuid: c79bbc2d-a020-4a2a-b12d-c288e018d9a0, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
+  - {name: 🇫🇷 configfa 🔓 VL-GRPC-N/A 🇫🇷 FR down, server: 638929692855682011.lisbon-drc-tusabt.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
+  - {name: 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 165ms, server: 638927678654211750.rasht-drc-tusabn.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 261ms, server: 638938161486112816.warsaw-prx-dnraacl.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 277ms, server: 638937994136550920.prague-prx-dnraacl.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇫🇷 v2ray1_ng 🔓 VL-TCP-N/A 🇫🇷 FR 234ms, server: m38a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: 78bce666-8294-4029-96d0-a54b8260d0b2, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [varzesh3.ir]}}, udp: true}
+  - {name: 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 162ms, server: 195.42.233.69, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 164ms, server: 195.42.233.69, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇫🇷 vless_config 🔓 VL-TCP-N/A 🇫🇷 FR 239ms, server: m2a.vip784.com, port: 33801, client-fingerprint: chrome, type: vless, uuid: 56c3abea-507d-4559-b1bd-39f339fc4997, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [m2a.vip784.com]}}, udp: true}
+  - {name: 🇫🇷 vpnserverrr 🔓 VL-GRPC-N/A 🇫🇷 FR 155ms, server: 45.12.133.235, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇬🇧 ahwazigamingshop 🔒 SS-TCP-TLS 🇬🇧 GB 151ms, server: series-a2-mec.varzesh360.co, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, tfo: false, udp: true}
+  - {name: 🇬🇧 capoit 🔓 VL-GRPC-N/A 🇬🇧 GB 143ms, server: 141.227.174.30, port: 32657, client-fingerprint: chrome, type: vless, uuid: 24244970-2b14-47e6-b0c1-95cecc9bcc3c, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
+  - {name: 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB 146ms, server: 104.248.168.80, port: 80, client-fingerprint: chrome, type: vless, uuid: 30aa94de-0c4a-497c-b0b4-3a55d651c202, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /eahkfws}, udp: true}
+  - {name: 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB 147ms, server: 167.71.137.233, port: 80, client-fingerprint: chrome, type: vless, uuid: 586bb25e-30e7-4163-9d1b-79ffb263e090, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /zmnnzws}, udp: true}
   - {name: 🇭🇰 ahwazigamingshop 🔒 TR-TCP-N/A 🇭🇰 HK down, server: 103.211.32.110, port: 443, client-fingerprint: chrome, type: trojan, password: 3bcd9e33-8377-4b32-af33-217158577ff3, sni: kdlsupport.zendesk.com, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 ahwazigamingshop 🔓 TR--N/A 🇭🇰 HK 153ms, server: 5.83.221.31, port: 50010, client-fingerprint: chrome, type: trojan, password: 89f84d5e-4170-4c64-bc78-ac99953b103a, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 ahwazigamingshop 🔓 TR--N/A 🇭🇰 HK 158ms, server: 5.83.221.31, port: 50010, client-fingerprint: chrome, type: trojan, password: 89f84d5e-4170-4c64-bc78-ac99953b103a, skip-cert-verify: false, udp: true}
   - {name: 🇰🇷 ahwazigamingshop 🔒 TR-TCP-N/A 🇰🇷 KR down, server: 146.56.155.102, port: 20003, client-fingerprint: chrome, type: trojan, password: Aimer, sni: ngepo.ambercc.filegear-sg.me, skip-cert-verify: false, udp: true}
-  - {name: 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 157ms, server: 5.255.103.217, port: 37757, client-fingerprint: firefox, type: trojan, password: XWnVX2ASHl, sni: moshali.arshiacomplus.dpdns.org, alpn: [http%2F1.1], skip-cert-verify: false, network: ws, ws-opts: {path: /moshaliplus, headers: {Host: moshali.arshiacomplus.dpdns.org}}, udp: true}
-  - {name: 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 189ms, server: 5.255.103.217, port: 37757, client-fingerprint: firefox, type: trojan, password: XWnVX2ASHl, sni: moshali.arshiacomplus.dpdns.org, alpn: [http%2F1.1], skip-cert-verify: false, network: ws, ws-opts: {path: /moshaliplus, headers: {Host: moshali.arshiacomplus.dpdns.org}}, udp: true}
+  - {name: 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 217ms, server: 5.255.103.217, port: 37757, client-fingerprint: firefox, type: trojan, password: XWnVX2ASHl, sni: moshali.arshiacomplus.dpdns.org, alpn: [http%2F1.1], skip-cert-verify: false, network: ws, ws-opts: {path: /moshaliplus, headers: {Host: moshali.arshiacomplus.dpdns.org}}, udp: true}
+  - {name: 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 226ms, server: 5.255.103.217, port: 37757, client-fingerprint: firefox, type: trojan, password: XWnVX2ASHl, sni: moshali.arshiacomplus.dpdns.org, alpn: [http%2F1.1], skip-cert-verify: false, network: ws, ws-opts: {path: /moshaliplus, headers: {Host: moshali.arshiacomplus.dpdns.org}}, udp: true}
   - {name: 🇳🇱 configfa 🔒 TR-XHTTP-N/A 🇳🇱 NL down, server: 5.255.103.217, port: 58194, client-fingerprint: firefox, type: trojan, password: zL78LA0D5P, sni: moshali.arshiacomplus.dpdns.org.cer, alpn: [h3], skip-cert-verify: false, udp: true}
-  - {name: 🇳🇱 configfa 🔓 VL-GRPC-N/A 🇳🇱 NL 256ms, server: 638930382260455538.ahvaz-drc-tusabt.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇳🇱 configfa 🔓 VL-TCP-N/A 🇳🇱 NL 156ms, server: 159.223.209.139, port: 46964, client-fingerprint: chrome, type: vless, uuid: 4bb35928-40bb-4bf3-95f1-9efdc4169147, tls: false, tfo: false, skip-cert-verify: false, network: tcp, udp: true}
+  - {name: 🇳🇱 configfa 🔓 VL-GRPC-N/A 🇳🇱 NL down, server: 638930382260455538.ahvaz-drc-tusabt.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇳🇱 configfa 🔓 VL-TCP-N/A 🇳🇱 NL 152ms, server: 159.223.209.139, port: 46964, client-fingerprint: chrome, type: vless, uuid: 4bb35928-40bb-4bf3-95f1-9efdc4169147, tls: false, tfo: false, skip-cert-verify: false, network: tcp, udp: true}
   - {name: 🇳🇱 fr33c0nfig 🔒 VL-GRPC- 🇳🇱 NL down, server: kernel.panel.cactusv2.xyz, port: 4434, reality-opts: {public-key: qlXAzsjjzUjqcfuZcd-oUlLLIFVEVqs454P_F3BvQwI, short-id: f10dcd45}, client-fingerprint: chrome, type: vless, uuid: 346264b7-975c-4891-8f7b-dcd6e5707a42, tls: true, tfo: false, skip-cert-verify: false, servername: journalofbigdata.springeropen.com, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: cactusservice}, udp: true}
-  - {name: 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 151ms, server: 638936661878829611.ahvaz-drc-tusacae.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 262ms, server: 638936661878829611.ahvaz-drc-tusacae.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇳🇱 mrsoulb 🔓 VL-WS-N/A 🇳🇱 NL 155ms, server: 159.65.194.42, port: 55512, client-fingerprint: chrome, type: vless, uuid: 4c600df7-b464-4f01-8d61-85fc3c068215, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 🇳🇱 v2ray1_ng 🔓 VL-TCP-N/A 🇳🇱 NL 155ms, server: 165.22.200.45, port: 45323, client-fingerprint: chrome, type: vless, uuid: 3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d, tls: false, tfo: false, skip-cert-verify: false, network: tcp, udp: true}
-  - {name: 🇳🇱 vpnserverrr 🔒 SS-TCP-TLS 🇳🇱 NL down, server: 89.110.74.148, port: 46271, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: qxVoomIyZfVflO0OkF0KRH, tfo: false, udp: true}
-  - {name: 🇳🇱 yebekhe 🔒 TR-WS-N/A 🇳🇱 NL 198ms, server: 5.255.103.217, port: 37757, client-fingerprint: firefox, type: trojan, password: XWnVX2ASHl, sni: moshali.arshiacomplus.dpdns.org, alpn: [http%2F1.1], skip-cert-verify: false, network: ws, ws-opts: {path: /moshaliplus, headers: {Host: moshali.arshiacomplus.dpdns.org}}, udp: true}
+  - {name: 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 259ms, server: 638936661878829611.ahvaz-drc-tusacae.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 261ms, server: 638936661878829611.ahvaz-drc-tusacae.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇳🇱 mrsoulb 🔓 VL-WS-N/A 🇳🇱 NL 149ms, server: 159.65.194.42, port: 55512, client-fingerprint: chrome, type: vless, uuid: 4c600df7-b464-4f01-8d61-85fc3c068215, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇳🇱 vless_config 🔓 VL-WS-N/A 🇳🇱 NL 149ms, server: 159.65.194.42, port: 55512, client-fingerprint: chrome, type: vless, uuid: 4c600df7-b464-4f01-8d61-85fc3c068215, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 🇳🇱 yebekhe 🔒 TR-WS-N/A 🇳🇱 NL 183ms, server: 5.255.103.217, port: 37757, client-fingerprint: firefox, type: trojan, password: XWnVX2ASHl, sni: moshali.arshiacomplus.dpdns.org, alpn: [http%2F1.1], skip-cert-verify: false, network: ws, ws-opts: {path: /moshaliplus, headers: {Host: moshali.arshiacomplus.dpdns.org}}, udp: true}
   - {name: 🇵🇱 ahwazigamingshop 🔓 VM-WS-N/A 🇵🇱 PL down, server: 31.186.86.47, port: 2033, client-fingerprint: chrome, type: vmess, uuid: 301fad67-1288-47a9-b3ca-22b823e4e789, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/vmess-argo?ed=2048"}, udp: true}
   - {name: 🇵🇱 capoit 🔓 VL-GRPC-N/A 🇵🇱 PL down, server: 146.59.116.158, port: 42630, client-fingerprint: chrome, type: vless, uuid: 99dc9865-f909-4ee2-b9ec-eb4b4aca9bd7, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON}, udp: true}
-  - {name: 🇵🇱 vpnserverrr 🔒 VL-TCP- 🇵🇱 PL 264ms, server: poland20.clearorbitllc.com, port: 443, reality-opts: {public-key: oNYCpjXjcYAV9qSWBt95N9dDUPhc_QnauJZ3kSJVeSQ, short-id: 2a22}, client-fingerprint: firefox, type: vless, uuid: e3847ec6-b2fc-4eb2-b919-174d986f882c, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: poland20.clearorbitllc.com, network: tcp, udp: true}
-  - {name: 🇷🇺 v2ray1_ng 🔒 VL-TCP- 🇷🇺 RU 190ms, server: 176.114.86.241, port: 443, reality-opts: {public-key: J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8, short-id: 16895459a2c7768d}, client-fingerprint: chrome, type: vless, uuid: 6fae85ca-395a-4f27-9eb2-75123befc475, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: ru.sfasti.ru, network: tcp, udp: true}
-  - {name: 🇷🇺 v2ray1_ng 🔒 VL-TCP- 🇷🇺 RU 196ms, server: 212.41.11.152, port: 443, reality-opts: {public-key: J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8, short-id: 16895459a2c7768d}, client-fingerprint: chrome, type: vless, uuid: 1a6fe500-59da-4598-8576-256f06765ffb, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: ru.sfasti.ru, network: tcp, udp: true}
   - {name: 🇺🇸 ahwazigamingshop 🔒 SS-TCP-TLS 🇺🇸 US down, server: 66.94.108.69, port: 1100, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: QO0NynagVTFDu3nUrFCSzw, tfo: false, udp: true}
   - {name: 🇺🇸 ahwazigamingshop 🔒 TR-TCP-N/A 🇺🇸 US 9ms, server: 162.159.38.101, port: 2096, client-fingerprint: chrome, type: trojan, password: Aimer, sni: ngepo.ambercc.filegear-sg.me, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 ahwazigamingshop 🔒 TR-WS-N/A 🇺🇸 US 25ms, server: 52.32.90.142, port: 80, client-fingerprint: chrome, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ngepx.ambercc.filegear-sg.me}}, udp: true}
-  - {name: 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 10ms, server: 172.67.128.105, port: 80, client-fingerprint: chrome, type: vless, uuid: 4179c595-08ca-45cd-b555-91b6f1faeadc, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: di.dibdibini.dpdns.org}}, udp: true}
-  - {name: 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 1ms, server: 151.101.3.8, port: 80, client-fingerprint: chrome, type: vless, uuid: 5586c2a9-c92c-4974-9b70-ca44622c6c8c, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /containers/fi, headers: {Host: tsvCY5W4AP61qVbo.net}}, udp: true}
-  - {name: 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 28ms, server: SvnTeam.fast.hosting-ip.com, port: 80, client-fingerprint: chrome, type: vless, uuid: 0c2093a4-6250-42c8-9808-cb9138bc9881, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/@SvnProBot?ed=2560", headers: {Host: shad.ir}}, udp: true}
-  - {name: 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 2ms, server: 104.17.209.145, port: 80, client-fingerprint: random, type: vless, uuid: 92f481b6-ad92-43e4-a683-2bb0aeaa9846, tls: false, tfo: false, skip-cert-verify: false, servername: dw.alibichareh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: dw.alibichareh.dpdns.org}}, udp: true}
-  - {name: 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 2ms 2, server: 104.17.147.22, port: 80, client-fingerprint: chrome, type: vless, uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: redfree8mahsang6.redfree8.ir}}, udp: true}
-  - {name: 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 4ms, server: www.speedtest.net, port: 80, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/Telegram@Config_Rayegan/?ed=2560", headers: {Host: mail.ski1plag.ir}}, udp: true}
-  - {name: 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 9ms, server: 172.67.78.196, port: 80, client-fingerprint: chrome, type: vless, uuid: dfdf1c0a-5e52-4746-88bd-19d4e4ac7853, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tannaz.juveitaly.dpdns.org}}, udp: true}
-  - {name: 🇺🇸 beau_vpn 🔓 VL-WS-N/A 🇺🇸 US 8ms, server: codepen.io, port: 8880, client-fingerprint: chrome, type: vless, uuid: e99500c4-d9fd-4ec3-9730-9c401827b142, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /BeauVPN-BeauVPN-BeauVPN-BeauVPN-BeauVPN-BeauVPN-BeauVPN-BeauVPN-BeauVPN-BeauVPN-BeauVPN, headers: {Host: beau-vpn.naringlass.beauty}}, udp: true}
-  - {name: 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 10ms, server: 104.26.1.108, port: 443, client-fingerprint: chrome, type: vless, uuid: 6cc53dc5-55b2-4968-bb7c-ee84e1429c63, tls: true, tfo: false, skip-cert-verify: false, servername: ava.game.naver.com.servpn.my.id, network: ws, ws-opts: {path: "/kr1?ed=#TELEGRAM-MTMVPN---تلگرام-MTMVPN---تلگرام-@MTMVPN---TELEGRAM-@MTMVPN---TELEGRAM-@MTMVPN?ed=512", headers: {Host: ava.game.naver.com.servpn.my.id}}, udp: true}
-  - {name: 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 10ms 2, server: 104.21.67.12, port: 443, client-fingerprint: chrome, type: vless, uuid: 0fbf4f81-2598-4b6a-a623-0ead4cb9efa8, tls: true, tfo: false, skip-cert-verify: false, servername: privasi.turah.my.id, network: ws, ws-opts: {path: "/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN", headers: {Host: privasi.turah.my.id}}, udp: true}
-  - {name: 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 10ms 3, server: 172.67.67.178, port: 443, client-fingerprint: chrome, type: vless, uuid: a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b, tls: true, tfo: false, skip-cert-verify: false, servername: rAyAn-cOnFiG-09.rAyAn-iIi.dNs-dYnAmIc.nEt, network: ws, ws-opts: {path: /@Rayan_Config, headers: {Host: rAyAn-cOnFiG-09.rAyAn-iIi.dNs-dYnAmIc.nEt}}, udp: true}
-  - {name: 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 15ms, server: JOIN-RAIV2MMR-TELEGRAM-freeconf.koyeb.app, port: 443, client-fingerprint: chrome, type: vless, uuid: 5c9b6087-f955-4506-9c1d-67a5aae44bc9, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr, headers: {Host: JOIN-RAIV2MMR-TELEGRAM-freeconf.koyeb.app}}, udp: true}
+  - {name: 🇺🇸 ahwazigamingshop 🔒 TR-WS-N/A 🇺🇸 US 23ms, server: 52.32.90.142, port: 80, client-fingerprint: chrome, type: trojan, password: Aimer, sni: ngepx.ambercc.filegear-sg.me, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ngepx.ambercc.filegear-sg.me}}, udp: true}
+  - {name: 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 10ms, server: 104.17.147.22, port: 80, client-fingerprint: chrome, type: vless, uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: redfree8mahsang6.redfree8.ir}}, udp: true}
+  - {name: 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 10ms 2, server: 172.67.128.105, port: 80, client-fingerprint: chrome, type: vless, uuid: 4179c595-08ca-45cd-b555-91b6f1faeadc, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: di.dibdibini.dpdns.org}}, udp: true}
+  - {name: 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 12ms, server: 172.67.78.196, port: 80, client-fingerprint: chrome, type: vless, uuid: dfdf1c0a-5e52-4746-88bd-19d4e4ac7853, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tannaz.juveitaly.dpdns.org}}, udp: true}
+  - {name: 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 13ms, server: www.speedtest.net, port: 80, client-fingerprint: chrome, type: vless, uuid: 7c9e3c1d-a360-4429-9189-e45a98de7fde, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/Telegram@Config_Rayegan/?ed=2560", headers: {Host: mail.ski1plag.ir}}, udp: true}
+  - {name: 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 1ms, server: 104.17.209.145, port: 80, client-fingerprint: random, type: vless, uuid: 92f481b6-ad92-43e4-a683-2bb0aeaa9846, tls: false, tfo: false, skip-cert-verify: false, servername: dw.alibichareh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: dw.alibichareh.dpdns.org}}, udp: true}
+  - {name: 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 1ms 2, server: 151.101.3.8, port: 80, client-fingerprint: chrome, type: vless, uuid: 5586c2a9-c92c-4974-9b70-ca44622c6c8c, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /containers/fi, headers: {Host: tsvCY5W4AP61qVbo.net}}, udp: true}
+  - {name: 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 8ms, server: SvnTeam.fast.hosting-ip.com, port: 80, client-fingerprint: chrome, type: vless, uuid: 0c2093a4-6250-42c8-9808-cb9138bc9881, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/@SvnProBot?ed=2560", headers: {Host: shad.ir}}, udp: true}
+  - {name: 🇺🇸 beau_vpn 🔓 VL-WS-N/A 🇺🇸 US 119ms, server: codepen.io, port: 8880, client-fingerprint: chrome, type: vless, uuid: e99500c4-d9fd-4ec3-9730-9c401827b142, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /BeauVPN-BeauVPN-BeauVPN-BeauVPN-BeauVPN-BeauVPN-BeauVPN-BeauVPN-BeauVPN-BeauVPN-BeauVPN, headers: {Host: beau-vpn.naringlass.beauty}}, udp: true}
+  - {name: 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 10ms, server: 104.21.67.12, port: 443, client-fingerprint: chrome, type: vless, uuid: 0fbf4f81-2598-4b6a-a623-0ead4cb9efa8, tls: true, tfo: false, skip-cert-verify: false, servername: privasi.turah.my.id, network: ws, ws-opts: {path: "/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN---JOIN---MTMVPN", headers: {Host: privasi.turah.my.id}}, udp: true}
+  - {name: 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 14ms, server: JOIN-RAIV2MMR-TELEGRAM-freeconf.koyeb.app, port: 443, client-fingerprint: chrome, type: vless, uuid: 5c9b6087-f955-4506-9c1d-67a5aae44bc9, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr-@Raiv2mmr, headers: {Host: JOIN-RAIV2MMR-TELEGRAM-freeconf.koyeb.app}}, udp: true}
+  - {name: 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 1ms, server: 104.26.1.108, port: 443, client-fingerprint: chrome, type: vless, uuid: 6cc53dc5-55b2-4968-bb7c-ee84e1429c63, tls: true, tfo: false, skip-cert-verify: false, servername: ava.game.naver.com.servpn.my.id, network: ws, ws-opts: {path: "/kr1?ed=#TELEGRAM-MTMVPN---تلگرام-MTMVPN---تلگرام-@MTMVPN---TELEGRAM-@MTMVPN---TELEGRAM-@MTMVPN?ed=512", headers: {Host: ava.game.naver.com.servpn.my.id}}, udp: true}
   - {name: 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 2ms, server: 104.18.26.90, port: 443, client-fingerprint: chrome, type: vless, uuid: 5879d109-8c92-448a-801b-3f3989019934, tls: true, tfo: false, skip-cert-verify: false, servername: pages.dev, network: ws, ws-opts: {path: "/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048", headers: {Host: pages.dev}}, udp: true}
   - {name: 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 6ms, server: www.speedtest.net, port: 443, client-fingerprint: chrome, type: vless, uuid: 38046915-6d82-4d86-8510-b5bcc569d0ea, tls: true, tfo: false, skip-cert-verify: false, servername: PaGes.deV, network: ws, ws-opts: {path: "/@Prime_Verse?ed=2560", headers: {Host: PaGes.deV}}, udp: true}
-  - {name: 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 7ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 443, client-fingerprint: chrome, type: vless, uuid: 57f00763-7751-4e0c-a6c9-29d3176a74fb, tls: true, tfo: false, skip-cert-verify: false, servername: 638901504444939106.esfahan-prx-dnraabg.info, network: ws, ws-opts: {path: /urdpjvws, headers: {Host: 638901504444939106.esfahan-prx-dnraabg.info}}, udp: true}
-  - {name: 🇺🇸 canfing_vpn 🔓 VL-GRPC-N/A 🇺🇸 US 71ms, server: 185.236.232.243, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 21ms, server: fruitful-exchange.seotoolsforyou.co.uk, port: 80, client-fingerprint: chrome, type: vless, uuid: 9570a079-f83f-4454-88d0-884057c57a35, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fruitful-exchange.seotoolsforyou.co.uk}}, udp: true}
-  - {name: 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 9ms, server: 172.67.65.158, port: 8880, client-fingerprint: chrome, type: vless, uuid: e9979910-79d1-4621-a93c-b2a579c44ba7, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/Etb1L6YUdZFZuTOr?ed=2560", headers: {Host: VngSuPpLY.IP-Ddns.com}}, udp: true}
-  - {name: 🇺🇸 capoit 🔓 VL-WS-N/A 🇺🇸 US 2ms, server: 172.66.40.99, port: 8080, client-fingerprint: chrome, type: vless, uuid: ce3e5a3c-1001-4b3c-9008-a55644f9c5a7, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet, headers: {Host: "%CF%85%CF%81%CF%81%CF%83%D1%8F%D1%82-%E5%A4%9A%E8%A8%80%E8%AA%9E-%D8%AF%D8%B9%D9%85.snaptripupport.space."}}, udp: true}
-  - {name: 🇺🇸 configfa 🔒 VL-GRPC-N/A 🇺🇸 US 295ms, server: us1.projecthope.ir, port: 2053, client-fingerprint: chrome, type: vless, uuid: 8080748c-8053-4c25-88cc-9f9633ee3b3e, tls: true, alpn: [h2%2Chttp%2F1.1], tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 10ms, server: 172.66.40.99, port: 2096, client-fingerprint: chrome, type: vless, uuid: 502ce704-dcec-4f92-9489-505c99ce6c89, tls: true, tfo: false, skip-cert-verify: false, servername: d11.AlanHIAhO.cOM, network: ws, ws-opts: {path: /, headers: {Host: d11.AlanHIAhO.cOM}}, udp: true}
-  - {name: 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 10ms 2, server: 104.26.6.89, port: 8443, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: YjF03nNq0B.sOlEnTrAa.InFo, network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: YjF03nNq0B.sOlEnTrAa.InFo}}, udp: true}
-  - {name: 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 11ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: BtEvEjF8zI.sOlEnTrAa.InFo, network: ws, ws-opts: {path: /, headers: {Host: BtEvEjF8zI.sOlEnTrAa.InFo}}, udp: true}
-  - {name: 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 2ms, server: 104.18.50.21, port: 2087, client-fingerprint: random, type: vless, uuid: 5dc395f4-b434-4c57-88ab-31e793f0a5ce, tls: true, tfo: false, skip-cert-verify: false, servername: hp-71.pages.dev, network: ws, ws-opts: {path: /proxyip=5.61.32.186, headers: {Host: hp-71.pages.dev}}, udp: true}
-  - {name: 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 2ms 2, server: 104.19.193.139, port: 8443, client-fingerprint: random, type: vless, uuid: 5dc395f4-b434-4c57-88ab-31e793f0a5ce, tls: true, tfo: false, skip-cert-verify: false, servername: hp-71.pages.dev, network: ws, ws-opts: {path: /proxyip=5.61.32.186, headers: {Host: hp-71.pages.dev}}, udp: true}
-  - {name: 🇺🇸 configfa 🔓 VL-GRPC-N/A 🇺🇸 US 72ms, server: 185.236.232.148, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
-  - {name: 🇺🇸 fr33c0nfig 🔒 VL-WS-N/A 🇺🇸 US 2ms, server: 104.18.26.90, port: 443, client-fingerprint: randomized, type: vless, uuid: d300ae15-2ba2-4f91-b1b0-b4510912e4cc, tls: true, tfo: false, skip-cert-verify: false, servername: 2free2.aparatir.xyz, network: ws, ws-opts: {path: /admin, headers: {Host: 2free2.aparatir.xyz}}, udp: true}
-  - {name: 🇺🇸 fr33c0nfig 🔒 VL-WS-N/A 🇺🇸 US 2ms 2, server: 172.64.151.232, port: 443, client-fingerprint: random, type: vless, uuid: 30f2d443-af46-4dd6-83c9-b5e17299ebd2, tls: true, alpn: [h2%2Chttp%2F1.1], tfo: false, skip-cert-verify: false, servername: carlotta.shoorekeeper.cloudns.org, network: ws, ws-opts: {path: /, headers: {Host: carlotta.shoorekeeper.cloudns.org}}, udp: true}
-  - {name: 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 156ms, server: 101reel.com, port: 80, client-fingerprint: random, type: vless, uuid: 941d092e-8313-452a-ba21-c9995dcba79d, tls: false, tfo: false, skip-cert-verify: false, servername: havvas.shohreh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560/?BIA_CHANEL@MARAMBASHI_MARAMBASHI_MARAMBASHI", headers: {Host: havvas.shohreh.dpdns.org}}, udp: true}
-  - {name: 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms, server: 104.18.26.90, port: 80, client-fingerprint: chrome, type: vless, uuid: 6f690965-3be3-43bb-9331-3ead6efb20aa, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560/?BIA_CHANEL@JOKERRVPN", headers: {Host: sib.sibzamini.dpdns.org}}, udp: true}
-  - {name: 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms 2, server: 104.18.26.90, port: 80, client-fingerprint: chrome, type: vless, uuid: 6f690965-3be3-43bb-9331-3ead6efb20aa, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560/?BIA_CHANEL@JOKERRVPN", headers: {Host: sib.sibzamini.dpdns.org}}, udp: true}
-  - {name: 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms 3, server: 104.18.26.90, port: 80, client-fingerprint: chrome, type: vless, uuid: 6f690965-3be3-43bb-9331-3ead6efb20aa, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sib.sibzamini.dpdns.org}}, udp: true}
-  - {name: 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms 4, server: 104.18.26.90, port: 80, client-fingerprint: chrome, type: vless, uuid: 6f690965-3be3-43bb-9331-3ead6efb20aa, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN", headers: {Host: sib.sibzamini.dpdns.org}}, udp: true}
-  - {name: 🇺🇸 freeconfigsplus 🔒 SS-TCP-TLS 🇺🇸 US 75ms, server: us.vmagnum.win, port: 57456, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 360e21d21977dc11, tfo: false, udp: true}
+  - {name: 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 8ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 443, client-fingerprint: chrome, type: vless, uuid: 57f00763-7751-4e0c-a6c9-29d3176a74fb, tls: true, tfo: false, skip-cert-verify: false, servername: 638901504444939106.esfahan-prx-dnraabg.info, network: ws, ws-opts: {path: /urdpjvws, headers: {Host: 638901504444939106.esfahan-prx-dnraabg.info}}, udp: true}
+  - {name: 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 9ms, server: 172.67.67.178, port: 443, client-fingerprint: chrome, type: vless, uuid: a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b, tls: true, tfo: false, skip-cert-verify: false, servername: rAyAn-cOnFiG-09.rAyAn-iIi.dNs-dYnAmIc.nEt, network: ws, ws-opts: {path: /@Rayan_Config, headers: {Host: rAyAn-cOnFiG-09.rAyAn-iIi.dNs-dYnAmIc.nEt}}, udp: true}
+  - {name: 🇺🇸 canfing_vpn 🔓 VL-GRPC-N/A 🇺🇸 US 76ms, server: 185.236.232.243, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 10ms, server: 172.67.65.158, port: 8880, client-fingerprint: chrome, type: vless, uuid: e9979910-79d1-4621-a93c-b2a579c44ba7, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/Etb1L6YUdZFZuTOr?ed=2560", headers: {Host: VngSuPpLY.IP-Ddns.com}}, udp: true}
+  - {name: 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 23ms, server: fruitful-exchange.seotoolsforyou.co.uk, port: 80, client-fingerprint: chrome, type: vless, uuid: 9570a079-f83f-4454-88d0-884057c57a35, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fruitful-exchange.seotoolsforyou.co.uk}}, udp: true}
+  - {name: 🇺🇸 configfa 🔒 VL-GRPC-N/A 🇺🇸 US 301ms, server: us1.projecthope.ir, port: 2053, client-fingerprint: chrome, type: vless, uuid: 8080748c-8053-4c25-88cc-9f9633ee3b3e, tls: true, alpn: [h2%2Chttp%2F1.1], tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 1ms, server: 104.18.50.21, port: 2087, client-fingerprint: random, type: vless, uuid: 5dc395f4-b434-4c57-88ab-31e793f0a5ce, tls: true, tfo: false, skip-cert-verify: false, servername: hp-71.pages.dev, network: ws, ws-opts: {path: /proxyip=5.61.32.186, headers: {Host: hp-71.pages.dev}}, udp: true}
+  - {name: 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 2ms, server: 172.66.40.99, port: 2096, client-fingerprint: chrome, type: vless, uuid: 502ce704-dcec-4f92-9489-505c99ce6c89, tls: true, tfo: false, skip-cert-verify: false, servername: d11.AlanHIAhO.cOM, network: ws, ws-opts: {path: /, headers: {Host: d11.AlanHIAhO.cOM}}, udp: true}
+  - {name: 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 6ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: BtEvEjF8zI.sOlEnTrAa.InFo, network: ws, ws-opts: {path: /, headers: {Host: BtEvEjF8zI.sOlEnTrAa.InFo}}, udp: true}
+  - {name: 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 9ms, server: 104.19.193.139, port: 8443, client-fingerprint: random, type: vless, uuid: 5dc395f4-b434-4c57-88ab-31e793f0a5ce, tls: true, tfo: false, skip-cert-verify: false, servername: hp-71.pages.dev, network: ws, ws-opts: {path: /proxyip=5.61.32.186, headers: {Host: hp-71.pages.dev}}, udp: true}
+  - {name: 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 9ms 2, server: 104.26.6.89, port: 8443, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: YjF03nNq0B.sOlEnTrAa.InFo, network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: YjF03nNq0B.sOlEnTrAa.InFo}}, udp: true}
+  - {name: 🇺🇸 configfa 🔓 VL-GRPC-N/A 🇺🇸 US 65ms, server: 185.236.232.148, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
+  - {name: 🇺🇸 fr33c0nfig 🔒 VL-WS-N/A 🇺🇸 US 1ms, server: 104.18.26.90, port: 443, client-fingerprint: randomized, type: vless, uuid: d300ae15-2ba2-4f91-b1b0-b4510912e4cc, tls: true, tfo: false, skip-cert-verify: false, servername: 2free2.aparatir.xyz, network: ws, ws-opts: {path: /admin, headers: {Host: 2free2.aparatir.xyz}}, udp: true}
+  - {name: 🇺🇸 fr33c0nfig 🔒 VL-WS-N/A 🇺🇸 US 2ms, server: 172.64.151.232, port: 443, client-fingerprint: random, type: vless, uuid: 30f2d443-af46-4dd6-83c9-b5e17299ebd2, tls: true, alpn: [h2%2Chttp%2F1.1], tfo: false, skip-cert-verify: false, servername: carlotta.shoorekeeper.cloudns.org, network: ws, ws-opts: {path: /, headers: {Host: carlotta.shoorekeeper.cloudns.org}}, udp: true}
+  - {name: 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 10ms, server: 104.18.26.90, port: 80, client-fingerprint: chrome, type: vless, uuid: 6f690965-3be3-43bb-9331-3ead6efb20aa, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560/?BIA_CHANEL@JOKERRVPN", headers: {Host: sib.sibzamini.dpdns.org}}, udp: true}
+  - {name: 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 10ms 2, server: 104.18.26.90, port: 80, client-fingerprint: chrome, type: vless, uuid: 6f690965-3be3-43bb-9331-3ead6efb20aa, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560/?JOKERRVPNBIA_CHANEL@JOKERRVPN", headers: {Host: sib.sibzamini.dpdns.org}}, udp: true}
+  - {name: 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 27ms, server: 101reel.com, port: 80, client-fingerprint: random, type: vless, uuid: 941d092e-8313-452a-ba21-c9995dcba79d, tls: false, tfo: false, skip-cert-verify: false, servername: havvas.shohreh.dpdns.org, network: ws, ws-opts: {path: "/?ed=2560/?BIA_CHANEL@MARAMBASHI_MARAMBASHI_MARAMBASHI", headers: {Host: havvas.shohreh.dpdns.org}}, udp: true}
+  - {name: 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 9ms, server: 104.18.26.90, port: 80, client-fingerprint: chrome, type: vless, uuid: 6f690965-3be3-43bb-9331-3ead6efb20aa, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560/?BIA_CHANEL@JOKERRVPN", headers: {Host: sib.sibzamini.dpdns.org}}, udp: true}
+  - {name: 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 9ms 2, server: 104.18.26.90, port: 80, client-fingerprint: chrome, type: vless, uuid: 6f690965-3be3-43bb-9331-3ead6efb20aa, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sib.sibzamini.dpdns.org}}, udp: true}
+  - {name: 🇺🇸 freeconfigsplus 🔒 SS-TCP-TLS 🇺🇸 US 74ms, server: us.vmagnum.win, port: 57456, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 360e21d21977dc11, tfo: false, udp: true}
   - {name: 🇺🇸 freeconfigsplus 🔒 SS-TCP-TLS 🇺🇸 US down, server: hackney-latest-strike.freesocks.work, port: 443, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: XUMTygEM1jVYIvysXKqA5T, tfo: false, udp: true}
   - {name: 🇺🇸 freeconfigsplus 🔒 TR-TCP-N/A 🇺🇸 US 47ms, server: 192.3.107.252, port: 443, client-fingerprint: chrome, type: trojan, password: 2ee85121-31de-4581-a492-eb00f606e392, sni: rc8.freeguard.org, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 freeconfigsplus 🔒 VL-WS-N/A 🇺🇸 US 9ms, server: 104.16.53.11, port: 8443, client-fingerprint: chrome, type: vless, uuid: ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4, tls: true, tfo: false, skip-cert-verify: false, servername: hetzner-9.cfuk.name.ng, network: ws, ws-opts: {path: /, headers: {Host: hetzner-9.cfuk.name.ng}}, udp: true}
-  - {name: 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 71ms, server: 45.82.251.80, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
-  - {name: 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 84ms, server: pqh30v8.waipdirect.shop, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
-  - {name: 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 70ms, server: 185.236.232.72, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
-  - {name: 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 78ms, server: pqh37v6.avoipok.shop, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇺🇸 freeconfigsplus 🔒 VL-WS-N/A 🇺🇸 US 1ms, server: 104.16.53.11, port: 8443, client-fingerprint: chrome, type: vless, uuid: ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4, tls: true, tfo: false, skip-cert-verify: false, servername: hetzner-9.cfuk.name.ng, network: ws, ws-opts: {path: /, headers: {Host: hetzner-9.cfuk.name.ng}}, udp: true}
+  - {name: 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 66ms, server: 45.82.251.80, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
+  - {name: 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 79ms, server: pqh30v8.waipdirect.shop, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
+  - {name: 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 71ms, server: 185.236.232.72, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-service-name: /}, udp: true}
+  - {name: 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 80ms, server: pqh37v6.avoipok.shop, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
   - {name: 🇺🇸 madshopx 🔓 VL-WS-N/A 🇺🇸 US 13ms, server: www.speedtest.net, port: 8080, client-fingerprint: chrome, type: vless, uuid: e323c1bf-9e9a-0336-961a-b813ac35fd4b, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: laneone.modernstore3.ir}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 22ms, server: all.tellmethetrue.shop, port: 443, client-fingerprint: chrome, type: vless, uuid: 401374e6-df77-41fb-f638-dad8184f175b, tls: true, alpn: [h2], tfo: false, skip-cert-verify: false, servername: pqh24v5.hiddendom.shop, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 9ms, server: all.tellmethetrue.shop, port: 443, client-fingerprint: chrome, type: vless, uuid: 401374e6-df77-41fb-f638-dad8184f175b, tls: true, alpn: [h2], tfo: false, skip-cert-verify: false, servername: pqh24v5.hiddendom.shop, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 115ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: 502ce704-dcec-4f92-9489-505c99ce6c89, tls: true, tfo: false, skip-cert-verify: false, servername: GfN07.alaNHIAHo.COm, network: ws, ws-opts: {path: /, headers: {Host: GfN07.alaNHIAHo.COm}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 121ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: 502ce704-dcec-4f92-9489-505c99ce6c89, tls: true, tfo: false, skip-cert-verify: false, servername: gFn06.AlaNHIaHO.COM, network: ws, ws-opts: {path: /, headers: {Host: gFn06.AlaNHIaHO.COM}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 122ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: 502ce704-dcec-4f92-9489-505c99ce6c89, tls: true, tfo: false, skip-cert-verify: false, servername: DfN09.alANHiAhO.Com, network: ws, ws-opts: {path: /, headers: {Host: DfN09.alANHiAhO.Com}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 12ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: 502ce704-dcec-4f92-9489-505c99ce6c89, tls: true, tfo: false, skip-cert-verify: false, servername: GfN08.aLanHiAhO.com, network: ws, ws-opts: {path: /, headers: {Host: GfN08.aLanHiAhO.com}}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 11ms, server: all.tellmethetrue.shop, port: 443, client-fingerprint: chrome, type: vless, uuid: 401374e6-df77-41fb-f638-dad8184f175b, tls: true, alpn: [h2], tfo: false, skip-cert-verify: false, servername: pqh24v5.hiddendom.shop, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 20ms, server: all.tellmethetrue.shop, port: 443, client-fingerprint: chrome, type: vless, uuid: 401374e6-df77-41fb-f638-dad8184f175b, tls: true, alpn: [h2], tfo: false, skip-cert-verify: false, servername: pqh24v5.hiddendom.shop, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 10ms, server: 172.66.40.99, port: 8443, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: Rx2TfQ98lT.sOlEnTrAa.InFo, network: ws, ws-opts: {path: /, headers: {Host: Rx2TfQ98lT.sOlEnTrAa.InFo}}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 10ms 2, server: 172.66.40.99, port: 8443, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, tfo: false, skip-cert-verify: false, servername: Rx2TfQ98lT.sOlEnTrAa.InFo, network: ws, ws-opts: {path: /, headers: {Host: Rx2TfQ98lT.sOlEnTrAa.InFo}}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 10ms 3, server: 172.66.40.99, port: 8443, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, tfo: false, skip-cert-verify: false, servername: Rx2TfQ98lT.sOlEnTrAa.InFo, network: ws, ws-opts: {path: /, headers: {Host: Rx2TfQ98lT.sOlEnTrAa.InFo}}, udp: true}
   - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 14ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: 502ce704-dcec-4f92-9489-505c99ce6c89, tls: true, tfo: false, skip-cert-verify: false, servername: GfN07.alaNHIAHo.COm, network: ws, ws-opts: {path: /, headers: {Host: GfN07.alaNHIAHo.COm}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms, server: 104.18.35.85, port: 443, client-fingerprint: chrome, type: vless, uuid: 060a8fe8-7175-4ded-94a5-d9808bc645b6, tls: true, tfo: false, skip-cert-verify: false, servername: cf.vless.sandesh.fr, network: ws, ws-opts: {path: /, headers: {Host: cf.vless.sandesh.fr}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 29ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: 502ce704-dcec-4f92-9489-505c99ce6c89, tls: true, tfo: false, skip-cert-verify: false, servername: DFN10.ALaNhiaHO.CoM, network: ws, ws-opts: {path: /, headers: {Host: DFN10.ALaNhiaHO.CoM}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms, server: 172.66.40.99, port: 8443, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: Rx2TfQ98lT.sOlEnTrAa.InFo, network: ws, ws-opts: {path: /, headers: {Host: Rx2TfQ98lT.sOlEnTrAa.InFo}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 2, server: 104.18.26.90, port: 443, client-fingerprint: chrome, type: vless, uuid: 4b3d1517-204f-423a-8469-2d79444418a9, tls: true, tfo: false, skip-cert-verify: false, servername: bLAZE-GErmanY-246.MEtIKaPps.COm, network: ws, ws-opts: {path: /wsss, headers: {Host: bLAZE-GErmanY-246.MEtIKaPps.COm}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 3, server: 104.18.35.85, port: 443, client-fingerprint: chrome, type: vless, uuid: 060a8fe8-7175-4ded-94a5-d9808bc645b6, tls: true, tfo: false, skip-cert-verify: false, servername: cf.vless.sandesh.fr, network: ws, ws-opts: {path: /, headers: {Host: cf.vless.sandesh.fr}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 4, server: 172.66.40.99, port: 8443, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, tfo: false, skip-cert-verify: false, servername: Rx2TfQ98lT.sOlEnTrAa.InFo, network: ws, ws-opts: {path: /, headers: {Host: Rx2TfQ98lT.sOlEnTrAa.InFo}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 5, server: 104.18.35.85, port: 443, client-fingerprint: chrome, type: vless, uuid: 060a8fe8-7175-4ded-94a5-d9808bc645b6, tls: true, tfo: false, skip-cert-verify: false, servername: cf.vless.sandesh.fr, network: ws, ws-opts: {path: /, headers: {Host: cf.vless.sandesh.fr}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 3ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: 502ce704-dcec-4f92-9489-505c99ce6c89, tls: true, tfo: false, skip-cert-verify: false, servername: Gfn10.AlAnhIAho.com, network: ws, ws-opts: {path: /, headers: {Host: Gfn10.AlAnhIAho.com}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 9ms, server: 104.25.35.227, port: 443, client-fingerprint: chrome, type: vless, uuid: 060a8fe8-7175-4ded-94a5-d9808bc645b6, tls: true, tfo: false, skip-cert-verify: false, servername: cf.vless.sandesh.fr, network: ws, ws-opts: {path: /, headers: {Host: cf.vless.sandesh.fr}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 9ms 2, server: 172.66.40.99, port: 8443, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, tfo: false, skip-cert-verify: false, servername: Rx2TfQ98lT.sOlEnTrAa.InFo, network: ws, ws-opts: {path: /, headers: {Host: Rx2TfQ98lT.sOlEnTrAa.InFo}}, udp: true}
-  - {name: 🇺🇸 mrsoulb 🔓 VL-GRPC-N/A 🇺🇸 US 184ms, server: 638938332607497744.madrid-drc-tusacaf.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 15ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: 502ce704-dcec-4f92-9489-505c99ce6c89, tls: true, tfo: false, skip-cert-verify: false, servername: DfN09.alANHiAhO.Com, network: ws, ws-opts: {path: /, headers: {Host: DfN09.alANHiAhO.Com}}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms, server: 104.18.26.90, port: 443, client-fingerprint: chrome, type: vless, uuid: 4b3d1517-204f-423a-8469-2d79444418a9, tls: true, tfo: false, skip-cert-verify: false, servername: bLAZE-GErmanY-246.MEtIKaPps.COm, network: ws, ws-opts: {path: /wsss, headers: {Host: bLAZE-GErmanY-246.MEtIKaPps.COm}}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 2, server: 104.25.35.227, port: 443, client-fingerprint: chrome, type: vless, uuid: 060a8fe8-7175-4ded-94a5-d9808bc645b6, tls: true, tfo: false, skip-cert-verify: false, servername: cf.vless.sandesh.fr, network: ws, ws-opts: {path: /, headers: {Host: cf.vless.sandesh.fr}}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 3, server: 104.18.35.85, port: 443, client-fingerprint: chrome, type: vless, uuid: 060a8fe8-7175-4ded-94a5-d9808bc645b6, tls: true, tfo: false, skip-cert-verify: false, servername: cf.vless.sandesh.fr, network: ws, ws-opts: {path: /, headers: {Host: cf.vless.sandesh.fr}}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 4, server: 104.18.35.85, port: 443, client-fingerprint: chrome, type: vless, uuid: 060a8fe8-7175-4ded-94a5-d9808bc645b6, tls: true, tfo: false, skip-cert-verify: false, servername: cf.vless.sandesh.fr, network: ws, ws-opts: {path: /, headers: {Host: cf.vless.sandesh.fr}}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 5, server: 104.18.35.85, port: 443, client-fingerprint: chrome, type: vless, uuid: 060a8fe8-7175-4ded-94a5-d9808bc645b6, tls: true, tfo: false, skip-cert-verify: false, servername: cf.vless.sandesh.fr, network: ws, ws-opts: {path: /, headers: {Host: cf.vless.sandesh.fr}}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 6, server: 104.18.35.85, port: 443, client-fingerprint: chrome, type: vless, uuid: 060a8fe8-7175-4ded-94a5-d9808bc645b6, tls: true, tfo: false, skip-cert-verify: false, servername: cf.vless.sandesh.fr, network: ws, ws-opts: {path: /, headers: {Host: cf.vless.sandesh.fr}}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 23ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: 502ce704-dcec-4f92-9489-505c99ce6c89, tls: true, tfo: false, skip-cert-verify: false, servername: gFn06.AlaNHIaHO.COM, network: ws, ws-opts: {path: /, headers: {Host: gFn06.AlaNHIaHO.COM}}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 4ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: 502ce704-dcec-4f92-9489-505c99ce6c89, tls: true, tfo: false, skip-cert-verify: false, servername: Gfn10.AlAnhIAho.com, network: ws, ws-opts: {path: /, headers: {Host: Gfn10.AlAnhIAho.com}}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 4ms 2, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: 502ce704-dcec-4f92-9489-505c99ce6c89, tls: true, tfo: false, skip-cert-verify: false, servername: GfN08.aLanHiAhO.com, network: ws, ws-opts: {path: /, headers: {Host: GfN08.aLanHiAhO.com}}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 6ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: 502ce704-dcec-4f92-9489-505c99ce6c89, tls: true, tfo: false, skip-cert-verify: false, servername: DFN10.ALaNhiaHO.CoM, network: ws, ws-opts: {path: /, headers: {Host: DFN10.ALaNhiaHO.CoM}}, udp: true}
+  - {name: 🇺🇸 mrsoulb 🔓 VL-GRPC-N/A 🇺🇸 US 186ms, server: 638938332607497744.madrid-drc-tusacaf.info, port: 8880, client-fingerprint: chrome, type: vless, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
   - {name: 🇺🇸 v2ray1_ng 🔒 VL-GRPC-N/A 🇺🇸 US 10ms, server: zula.ir, port: 2096, client-fingerprint: chrome, type: vless, uuid: d7859fc2-2e71-4004-924b-4f79cb74e8f2, tls: true, alpn: [h2%2Chttp%2F1.1], tfo: false, skip-cert-verify: false, servername: hydra.miniproxy.sbs, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: hydra.miniproxy.sbs}, udp: true}
-  - {name: 🇺🇸 v2ray1_ng 🔒 VL-GRPC-N/A 🇺🇸 US 11ms, server: zula.ir, port: 2096, client-fingerprint: chrome, type: vless, uuid: d7859fc2-2e71-4004-924b-4f79cb74e8f2, tls: true, alpn: [h2%2Chttp%2F1.1], tfo: false, skip-cert-verify: false, servername: hydra.miniproxy.sbs, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: hydra.miniproxy.sbs}, udp: true}
-  - {name: 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 10ms, server: 172.66.40.99, port: 2096, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: 0JtLb8H7bM.sOlEnTrAa.InFo, network: ws, ws-opts: {path: /, headers: {Host: 0JtLb8H7bM.sOlEnTrAa.InFo}}, udp: true}
-  - {name: 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 115ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 8443, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: S5eW9e55Sx.SoLeNtRaA.iNfO, network: ws, ws-opts: {path: /, headers: {Host: S5eW9e55Sx.SoLeNtRaA.iNfO}}, udp: true}
-  - {name: 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 135ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: 0JtLb8H7bM.sOlEnTrAa.InFo, network: ws, ws-opts: {path: /, headers: {Host: 0JtLb8H7bM.sOlEnTrAa.InFo}}, udp: true}
-  - {name: 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 15ms, server: zula.ir, port: 2096, client-fingerprint: chrome, type: vless, uuid: 97909ffd-6da0-4893-9d63-00e72ad55256, tls: true, tfo: false, skip-cert-verify: false, servername: frAgteSt.JaHANGiRKh.eU.orG, network: ws, ws-opts: {path: /, headers: {Host: frAgteSt.JaHANGiRKh.eU.orG}}, udp: true}
-  - {name: 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 1ms, server: 104.18.35.85, port: 443, client-fingerprint: chrome, type: vless, uuid: 060a8fe8-7175-4ded-94a5-d9808bc645b6, tls: true, tfo: false, skip-cert-verify: false, servername: cf.vless.sandesh.fr, network: ws, ws-opts: {path: /, headers: {Host: cf.vless.sandesh.fr}}, udp: true}
-  - {name: 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 2ms, server: 172.66.40.99, port: 8443, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: D0dTpVg4Z3.sOlEnTrAa.InFo, network: ws, ws-opts: {path: /, headers: {Host: D0dTpVg4Z3.sOlEnTrAa.InFo}}, udp: true}
-  - {name: 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 2ms 2, server: 172.66.40.99, port: 2096, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: 6Dd1Xt31Qm.SoLeNtRaA.iNfO, network: ws, ws-opts: {path: /, headers: {Host: 6Dd1Xt31Qm.SoLeNtRaA.iNfO}}, udp: true}
-  - {name: 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 4ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 8443, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: S5eW9e55Sx.SoLeNtRaA.iNfO, network: ws, ws-opts: {path: /, headers: {Host: S5eW9e55Sx.SoLeNtRaA.iNfO}}, udp: true}
-  - {name: 🇺🇸 v2ray1_ng 🔓 VL-GRPC-N/A 🇺🇸 US 85ms, server: pqh37v6.avoipok.shop, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇺🇸 v2ray1_ng 🔓 VL-WS-N/A 🇺🇸 US 17ms, server: fearless-change.oneeat.co, port: 80, client-fingerprint: chrome, type: vless, uuid: b055036a-2d81-4d46-ab18-4e1898b58cec, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fearless-change.oneeat.co}}, udp: true}
+  - {name: 🇺🇸 v2ray1_ng 🔒 VL-GRPC-N/A 🇺🇸 US 10ms 2, server: zula.ir, port: 2096, client-fingerprint: chrome, type: vless, uuid: d7859fc2-2e71-4004-924b-4f79cb74e8f2, tls: true, alpn: [h2%2Chttp%2F1.1], tfo: false, skip-cert-verify: false, servername: hydra.miniproxy.sbs, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: hydra.miniproxy.sbs}, udp: true}
+  - {name: 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 10ms, server: 172.66.40.99, port: 8443, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: D0dTpVg4Z3.sOlEnTrAa.InFo, network: ws, ws-opts: {path: /, headers: {Host: D0dTpVg4Z3.sOlEnTrAa.InFo}}, udp: true}
+  - {name: 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 10ms 2, server: 172.66.40.99, port: 2096, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: 6Dd1Xt31Qm.SoLeNtRaA.iNfO, network: ws, ws-opts: {path: /, headers: {Host: 6Dd1Xt31Qm.SoLeNtRaA.iNfO}}, udp: true}
+  - {name: 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 15ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2096, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: 0JtLb8H7bM.sOlEnTrAa.InFo, network: ws, ws-opts: {path: /, headers: {Host: 0JtLb8H7bM.sOlEnTrAa.InFo}}, udp: true}
+  - {name: 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 1ms, server: 172.66.40.99, port: 2096, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: 0JtLb8H7bM.sOlEnTrAa.InFo, network: ws, ws-opts: {path: /, headers: {Host: 0JtLb8H7bM.sOlEnTrAa.InFo}}, udp: true}
+  - {name: 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 364ms, server: zula.ir, port: 2096, client-fingerprint: chrome, type: vless, uuid: 97909ffd-6da0-4893-9d63-00e72ad55256, tls: true, tfo: false, skip-cert-verify: false, servername: frAgteSt.JaHANGiRKh.eU.orG, network: ws, ws-opts: {path: /, headers: {Host: frAgteSt.JaHANGiRKh.eU.orG}}, udp: true}
+  - {name: 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 3ms, server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 8443, client-fingerprint: chrome, type: vless, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, tls: true, alpn: [h3%2Ch2], tfo: false, skip-cert-verify: false, servername: S5eW9e55Sx.SoLeNtRaA.iNfO, network: ws, ws-opts: {path: /, headers: {Host: S5eW9e55Sx.SoLeNtRaA.iNfO}}, udp: true}
+  - {name: 🇺🇸 v2ray1_ng 🔓 VL-GRPC-N/A 🇺🇸 US 72ms, server: pqh37v6.avoipok.shop, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇺🇸 v2ray1_ng 🔓 VL-WS-N/A 🇺🇸 US 19ms, server: fearless-change.oneeat.co, port: 80, client-fingerprint: chrome, type: vless, uuid: b055036a-2d81-4d46-ab18-4e1898b58cec, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: fearless-change.oneeat.co}}, udp: true}
   - {name: 🇺🇸 vpn4everyone 🔒 SS-TCP-TLS 🇺🇸 US 151ms, server: 45.87.175.65, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false, udp: true}
-  - {name: 🇺🇸 vpn4everyone 🔒 SS-TCP-TLS 🇺🇸 US 152ms, server: 45.87.175.65, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false, udp: true}
-  - {name: 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 10ms, server: 172.67.74.133, port: 443, client-fingerprint: randomized, type: vless, uuid: 41b8c97a-7fac-4191-8922-f58d42a9acf7, tls: true, tfo: false, skip-cert-verify: false, servername: app-stg.gopay.co.id.servpn.my.id, network: ws, ws-opts: {path: "/id5?ed=2560/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN", headers: {Host: app-stg.gopay.co.id.servpn.my.id}}, udp: true}
-  - {name: 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 10ms 2, server: 104.26.0.108, port: 443, client-fingerprint: chrome, type: vless, uuid: 6780a3c0-a98c-4622-b894-8e34167f7b31, tls: true, tfo: false, skip-cert-verify: false, servername: blog.ruangguru.com.servpn.my.id, network: ws, ws-opts: {path: "/id5?ed=2560/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN", headers: {Host: blog.ruangguru.com.servpn.my.id}}, udp: true}
-  - {name: 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 9ms, server: 104.26.0.108, port: 443, client-fingerprint: randomized, type: vless, uuid: 3d7dd548-5456-4f28-8019-393fbfab3312, tls: true, tfo: false, skip-cert-verify: false, servername: app-stg.gopay.co.id.servpn.my.id, network: ws, ws-opts: {path: "/sg3?ed=2560/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN", headers: {Host: app-stg.gopay.co.id.servpn.my.id}}, udp: true}
-  - {name: 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 9ms 2, server: 104.26.1.108, port: 443, client-fingerprint: randomized, type: vless, uuid: 65a32d27-7a02-45a8-b90a-29f6bebc87ae, tls: true, tfo: false, skip-cert-verify: false, servername: blog.ruangguru.com.servpn.my.id, network: ws, ws-opts: {path: "/sg3?ed=2560/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN", headers: {Host: blog.ruangguru.com.servpn.my.id}}, udp: true}
-  - {name: 🇺🇸 vpn4everyone 🔓 VL-GRPC-N/A 🇺🇸 US 70ms, server: 185.236.232.240, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇺🇸 vpn4everyone 🔓 VL-GRPC-N/A 🇺🇸 US 72ms, server: 185.236.232.243, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
-  - {name: 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 10ms, server: 172.66.40.99, port: 80, client-fingerprint: chrome, type: vless, uuid: 4ab4fc4a-855d-4aef-870b-1cf4314cbfb7, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480", headers: {Host: Vmessorg.paradoxone.ir}}, udp: true}
-  - {name: 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 11ms, server: 104.16.1.106, port: 2082, client-fingerprint: chrome, type: vless, uuid: 2ae30bf2-1522-4b95-90ba-4ae253099c02, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2052", headers: {Host: www.yashar.ip-ddns.com}}, udp: true}
+  - {name: 🇺🇸 vpn4everyone 🔒 SS-TCP-TLS 🇺🇸 US 151ms 2, server: 45.87.175.65, port: 8080, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, tfo: false, udp: true}
+  - {name: 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 2ms, server: 104.26.1.108, port: 443, client-fingerprint: randomized, type: vless, uuid: 65a32d27-7a02-45a8-b90a-29f6bebc87ae, tls: true, tfo: false, skip-cert-verify: false, servername: blog.ruangguru.com.servpn.my.id, network: ws, ws-opts: {path: "/sg3?ed=2560/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN", headers: {Host: blog.ruangguru.com.servpn.my.id}}, udp: true}
+  - {name: 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 9ms, server: 172.67.74.133, port: 443, client-fingerprint: randomized, type: vless, uuid: 41b8c97a-7fac-4191-8922-f58d42a9acf7, tls: true, tfo: false, skip-cert-verify: false, servername: app-stg.gopay.co.id.servpn.my.id, network: ws, ws-opts: {path: "/id5?ed=2560/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN", headers: {Host: app-stg.gopay.co.id.servpn.my.id}}, udp: true}
+  - {name: 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 9ms 2, server: 104.26.0.108, port: 443, client-fingerprint: chrome, type: vless, uuid: 6780a3c0-a98c-4622-b894-8e34167f7b31, tls: true, tfo: false, skip-cert-verify: false, servername: blog.ruangguru.com.servpn.my.id, network: ws, ws-opts: {path: "/id5?ed=2560/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN", headers: {Host: blog.ruangguru.com.servpn.my.id}}, udp: true}
+  - {name: 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 9ms 3, server: 104.26.0.108, port: 443, client-fingerprint: randomized, type: vless, uuid: 3d7dd548-5456-4f28-8019-393fbfab3312, tls: true, tfo: false, skip-cert-verify: false, servername: app-stg.gopay.co.id.servpn.my.id, network: ws, ws-opts: {path: "/sg3?ed=2560/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN", headers: {Host: app-stg.gopay.co.id.servpn.my.id}}, udp: true}
+  - {name: 🇺🇸 vpn4everyone 🔓 VL-GRPC-N/A 🇺🇸 US 65ms, server: 185.236.232.240, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇺🇸 vpn4everyone 🔓 VL-GRPC-N/A 🇺🇸 US 70ms, server: 185.236.232.243, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 10ms, server: 172.67.65.158, port: 8880, client-fingerprint: chrome, type: vless, uuid: e9979910-79d1-4621-a93c-b2a579c44ba7, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/Etb1L6YUdZFZuTOr?ed=2560", headers: {Host: VngSuPpLY.IP-DdnS.com}}, udp: true}
+  - {name: 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 10ms 2, server: 104.16.1.106, port: 2082, client-fingerprint: chrome, type: vless, uuid: 2ae30bf2-1522-4b95-90ba-4ae253099c02, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2052", headers: {Host: www.yashar.ip-ddns.com}}, udp: true}
   - {name: 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 1ms, server: 104.16.86.73, port: 8880, client-fingerprint: chrome, type: vless, uuid: e9979910-79d1-4621-a93c-b2a579c44ba7, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/J5aLQOY1R9ONWYCM?ed=2560", headers: {Host: vngsupply.ip-ddns.com}}, udp: true}
-  - {name: 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 2ms, server: 104.16.1.106, port: 2082, client-fingerprint: chrome, type: vless, uuid: 2ae30bf2-1522-4b95-90ba-4ae253099c02, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2052", headers: {Host: www.yashar.ip-ddns.com}}, udp: true}
-  - {name: 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 9ms, server: 172.67.65.158, port: 8880, client-fingerprint: chrome, type: vless, uuid: e9979910-79d1-4621-a93c-b2a579c44ba7, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/Etb1L6YUdZFZuTOr?ed=2560", headers: {Host: VngSuPpLY.IP-DdnS.com}}, udp: true}
-  - {name: 🇺🇸 vpnserverrr 🔓 VL-GRPC-N/A 🇺🇸 US 71ms, server: 45.82.251.114, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
+  - {name: 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 2ms, server: 172.66.40.99, port: 80, client-fingerprint: chrome, type: vless, uuid: 4ab4fc4a-855d-4aef-870b-1cf4314cbfb7, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480", headers: {Host: Vmessorg.paradoxone.ir}}, udp: true}
+  - {name: 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 3ms, server: 104.16.1.106, port: 2082, client-fingerprint: chrome, type: vless, uuid: 2ae30bf2-1522-4b95-90ba-4ae253099c02, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2052", headers: {Host: www.yashar.ip-ddns.com}}, udp: true}
+  - {name: 🇺🇸 vpnserverrr 🔓 VL-GRPC-N/A 🇺🇸 US 70ms, server: 45.82.251.114, port: 8880, client-fingerprint: chrome, type: vless, uuid: e4824193-4f54-453b-d037-88368e85ef0e, tls: false, tfo: false, skip-cert-verify: false, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, udp: true}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -324,7 +314,7 @@ proxy-groups:
     type: select
     proxies:
       - ahwazigamingshop 🔒 SS-TCP-TLS 🇧🇭 BH down
-      - ahwazigamingshop 🔒 VL-WS-N/A 🇮🇷 IR 335ms
+      - ahwazigamingshop 🔒 VL-WS-N/A 🇮🇷 IR 373ms
       - ahwazigamingshop 🔓 VL-TCP-N/A 🇮🇷 IR down
       - ahwazigamingshop 🔓 VL-TCP-N/A 🇮🇷 IR down 2
       - ahwazigamingshop 🔓 VL-TCP-N/A 🇮🇷 IR down 3
@@ -333,211 +323,201 @@ proxy-groups:
       - beau_vpn 🔓 VL-TCP-N/A 🇹🇷 TR down
       - beau_vpn 🔓 VL-TCP-N/A 🇹🇷 TR down 2
       - canfing_vpn 🔓 VL-WS-N/A ❔ XX down
-      - capoit 🔓 VL-GRPC-N/A 🇦🇹 AT 166ms
-      - capoit 🔓 VL-GRPC-N/A 🇷🇴 RO 181ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 312ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 313ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 314ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 314ms 2
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 315ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 321ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 321ms 2
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 321ms 3
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 321ms 4
-      - configfa 🔓 VL-TCP-N/A 🇮🇷 IR 268ms
-      - configfa 🔓 VL-TCP-N/A 🇮🇷 IR 404ms
+      - capoit 🔓 VL-GRPC-N/A 🇦🇹 AT 167ms
+      - capoit 🔓 VL-GRPC-N/A 🇷🇴 RO 178ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 284ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 289ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 291ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 292ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 295ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 295ms 2
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 301ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 301ms 2
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 341ms
+      - configfa 🔓 VL-TCP-N/A 🇮🇷 IR 250ms
+      - configfa 🔓 VL-TCP-N/A 🇮🇷 IR 260ms
       - fr33c0nfig 🔒 VL-TCP- 🇹🇷 TR down
       - fr33c0nfig 🔓 VL-TCP-N/A ❔ XX down
       - fr33c0nfig 🔓 VL-TCP-N/A 🇮🇷 IR down
-      - freeconfigsplus 🔒 VL-TCP- 🇦🇹 AT 152ms
+      - freeconfigsplus 🔒 VL-TCP- 🇦🇹 AT 151ms
       - freeconfigsplus 🔒 VM-- ❔ XX down
       - freeconfigsplus 🔓 VL-TCP-N/A ❔ XX down
-      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 291ms
-      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 305ms
-      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 328ms
-      - madshopx 🔓 VL-TCP-N/A 🇮🇷 IR 274ms
-      - mrsoulb 🔓 VL-GRPC-N/A 🇱🇹 LT 290ms
+      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 280ms
+      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 282ms
+      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT down
+      - madshopx 🔓 VL-TCP-N/A 🇮🇷 IR 304ms
+      - mrsoulb 🔓 VL-GRPC-N/A 🇱🇹 LT 210ms
       - mrsoulb 🔓 VL-TCP-N/A 🇫🇮 FI down
       - mrsoulb 🔓 VL-TCP-N/A 🇫🇮 FI down 2
       - mrsoulb 🔓 VL-TCP-N/A 🇫🇮 FI down 3
-      - vless_config 🔒 VL-TCP- 🇫🇮 FI 181ms
-      - vless_config 🔓 VL-TCP-N/A 🇮🇷 IR 394ms
+      - vless_config 🔒 VL-TCP- 🇫🇮 FI 179ms
+      - vless_config 🔓 VL-TCP-N/A 🇮🇷 IR 374ms
       - vpn4everyone 🔒 VL-WS-N/A ❔ XX down
       - vpn4everyone 🔓 VL-TCP-N/A 🇮🇷 IR down
-      - vpnserverrr 🔒 VL-TCP- 🇱🇻 LV 175ms
       - vpnserverrr 🔓 VL-TCP-N/A 🇫🇮 FI down
       - vpnserverrr 🔓 VL-TCP-N/A 🇫🇮 FI down 2
       - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE 157ms
-      - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE 160ms
+      - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE 157ms 2
       - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE down
       - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE down 2
       - 🇩🇪 astrovpn_official 🔒 TR-TCP-N/A 🇩🇪 DE 154ms
-      - 🇩🇪 astrovpn_official 🔒 TR-TCP-N/A 🇩🇪 DE 157ms
+      - 🇩🇪 astrovpn_official 🔒 TR-TCP-N/A 🇩🇪 DE 154ms 2
       - 🇩🇪 canfing_vpn 🔓 VL-TCP-N/A 🇩🇪 DE down
-      - 🇩🇪 canfing_vpn 🔓 VM-TCP-N/A 🇩🇪 DE 276ms
-      - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 160ms
-      - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 207ms
+      - 🇩🇪 canfing_vpn 🔓 VM-TCP-N/A 🇩🇪 DE 172ms
+      - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 154ms
+      - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 158ms
       - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down
       - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down 2
       - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down 3
       - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down 4
-      - 🇩🇪 configfa 🔒 VL-TCP- 🇩🇪 DE 161ms
+      - 🇩🇪 configfa 🔒 VL-TCP- 🇩🇪 DE 345ms
       - 🇩🇪 configfa 🔓 VL-GRPC-N/A 🇩🇪 DE down
-      - 🇩🇪 configfa 🔓 VL-TCP-N/A 🇩🇪 DE 457ms
-      - 🇩🇪 fr33c0nfig 🔒 VL-TCP- 🇩🇪 DE 162ms
+      - 🇩🇪 configfa 🔓 VL-TCP-N/A 🇩🇪 DE down
+      - 🇩🇪 fr33c0nfig 🔒 VL-TCP- 🇩🇪 DE down
       - 🇩🇪 fr33c0nfig 🔓 VL-TCP-N/A 🇩🇪 DE down
-      - 🇩🇪 fr33c0nfig 🔓 VM-TCP-N/A 🇩🇪 DE 171ms
-      - 🇩🇪 hacknashid 🔒 VL-TCP- 🇩🇪 DE 200ms
-      - 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 156ms
-      - 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 158ms
+      - 🇩🇪 fr33c0nfig 🔓 VM-TCP-N/A 🇩🇪 DE 562ms
+      - 🇩🇪 hacknashid 🔒 VL-TCP- 🇩🇪 DE 297ms
+      - 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 161ms
       - 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 164ms
-      - 🇩🇪 madshopx 🔒 VL-TCP- 🇩🇪 DE 430ms
+      - 🇩🇪 madshopx 🔒 VL-TCP- 🇩🇪 DE 493ms
+      - 🇩🇪 mrsoulb 🔓 VL-GRPC-N/A 🇩🇪 DE 168ms
+      - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE 168ms
       - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down
       - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 2
       - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 3
       - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 4
-      - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 5
-      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 162ms
-      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 175ms
-      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 277ms
-      - 🇩🇪 v2ray1_ng 🔓 VL-TCP-N/A 🇩🇪 DE 171ms
-      - 🇩🇪 vpn4everyone 🔓 VL-TCP-N/A 🇩🇪 DE 339ms
+      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 151ms
+      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 165ms
+      - 🇩🇪 v2ray1_ng 🔒 VM-WS-TLS 🇩🇪 DE 138ms
+      - 🇩🇪 v2ray1_ng 🔓 VL-TCP-N/A 🇩🇪 DE 199ms
       - 🇩🇪 vpn4everyone 🔓 VL-TCP-N/A 🇩🇪 DE down
+      - 🇩🇪 vpn4everyone 🔓 VL-TCP-N/A 🇩🇪 DE down 2
       - 🇩🇪 vpnserverrr 🔓 VL-TCP-N/A 🇩🇪 DE down
       - 🇩🇪 vpnserverrr 🔓 VL-TCP-N/A 🇩🇪 DE down 2
-      - 🇩🇪 vpnserverrr 🔓 VL-TCP-N/A 🇩🇪 DE down 3
-      - 🇪🇸 mrsoulb 🔓 VL-GRPC-N/A 🇪🇸 ES 356ms
-      - 🇫🇷 capoit 🔓 VL-GRPC-N/A 🇫🇷 FR 151ms
-      - 🇫🇷 configfa 🔓 VL-GRPC-N/A 🇫🇷 FR 268ms
-      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 170ms
-      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 265ms
-      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 280ms
-      - 🇫🇷 v2ray1_ng 🔒 VM-WS-TLS 🇫🇷 FR 276ms
-      - 🇫🇷 v2ray1_ng 🔓 VL-TCP-N/A 🇫🇷 FR 205ms
-      - 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 151ms
-      - 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 168ms
-      - 🇬🇧 ahwazigamingshop 🔒 SS-TCP-TLS 🇬🇧 GB 152ms
-      - 🇬🇧 capoit 🔓 VL-GRPC-N/A 🇬🇧 GB 148ms
+      - 🇪🇸 mrsoulb 🔓 VL-GRPC-N/A 🇪🇸 ES 512ms
+      - 🇫🇷 capoit 🔓 VL-GRPC-N/A 🇫🇷 FR 154ms
+      - 🇫🇷 configfa 🔓 VL-GRPC-N/A 🇫🇷 FR down
+      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 165ms
+      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 261ms
+      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 277ms
+      - 🇫🇷 v2ray1_ng 🔓 VL-TCP-N/A 🇫🇷 FR 234ms
+      - 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 162ms
+      - 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 164ms
+      - 🇫🇷 vless_config 🔓 VL-TCP-N/A 🇫🇷 FR 239ms
+      - 🇫🇷 vpnserverrr 🔓 VL-GRPC-N/A 🇫🇷 FR 155ms
+      - 🇬🇧 ahwazigamingshop 🔒 SS-TCP-TLS 🇬🇧 GB 151ms
+      - 🇬🇧 capoit 🔓 VL-GRPC-N/A 🇬🇧 GB 143ms
+      - 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB 146ms
       - 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB 147ms
-      - 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB 148ms
-      - 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB down
-      - 🇬🇧 vpnserverrr 🔒 SS-TCP-TLS 🇬🇧 GB 171ms
       - 🇭🇰 ahwazigamingshop 🔒 TR-TCP-N/A 🇭🇰 HK down
-      - 🇭🇰 ahwazigamingshop 🔓 TR--N/A 🇭🇰 HK 153ms
+      - 🇭🇰 ahwazigamingshop 🔓 TR--N/A 🇭🇰 HK 158ms
       - 🇰🇷 ahwazigamingshop 🔒 TR-TCP-N/A 🇰🇷 KR down
-      - 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 157ms
-      - 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 189ms
+      - 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 217ms
+      - 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 226ms
       - 🇳🇱 configfa 🔒 TR-XHTTP-N/A 🇳🇱 NL down
-      - 🇳🇱 configfa 🔓 VL-GRPC-N/A 🇳🇱 NL 256ms
-      - 🇳🇱 configfa 🔓 VL-TCP-N/A 🇳🇱 NL 156ms
+      - 🇳🇱 configfa 🔓 VL-GRPC-N/A 🇳🇱 NL down
+      - 🇳🇱 configfa 🔓 VL-TCP-N/A 🇳🇱 NL 152ms
       - 🇳🇱 fr33c0nfig 🔒 VL-GRPC- 🇳🇱 NL down
-      - 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 151ms
-      - 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 262ms
-      - 🇳🇱 mrsoulb 🔓 VL-WS-N/A 🇳🇱 NL 155ms
-      - 🇳🇱 v2ray1_ng 🔓 VL-TCP-N/A 🇳🇱 NL 155ms
-      - 🇳🇱 vpnserverrr 🔒 SS-TCP-TLS 🇳🇱 NL down
-      - 🇳🇱 yebekhe 🔒 TR-WS-N/A 🇳🇱 NL 198ms
+      - 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 259ms
+      - 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 261ms
+      - 🇳🇱 mrsoulb 🔓 VL-WS-N/A 🇳🇱 NL 149ms
+      - 🇳🇱 vless_config 🔓 VL-WS-N/A 🇳🇱 NL 149ms
+      - 🇳🇱 yebekhe 🔒 TR-WS-N/A 🇳🇱 NL 183ms
       - 🇵🇱 ahwazigamingshop 🔓 VM-WS-N/A 🇵🇱 PL down
       - 🇵🇱 capoit 🔓 VL-GRPC-N/A 🇵🇱 PL down
-      - 🇵🇱 vpnserverrr 🔒 VL-TCP- 🇵🇱 PL 264ms
-      - 🇷🇺 v2ray1_ng 🔒 VL-TCP- 🇷🇺 RU 190ms
-      - 🇷🇺 v2ray1_ng 🔒 VL-TCP- 🇷🇺 RU 196ms
       - 🇺🇸 ahwazigamingshop 🔒 SS-TCP-TLS 🇺🇸 US down
       - 🇺🇸 ahwazigamingshop 🔒 TR-TCP-N/A 🇺🇸 US 9ms
-      - 🇺🇸 ahwazigamingshop 🔒 TR-WS-N/A 🇺🇸 US 25ms
+      - 🇺🇸 ahwazigamingshop 🔒 TR-WS-N/A 🇺🇸 US 23ms
       - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 10ms
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 10ms 2
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 12ms
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 13ms
       - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 1ms
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 28ms
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 4ms
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 beau_vpn 🔓 VL-WS-N/A 🇺🇸 US 8ms
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 1ms 2
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 8ms
+      - 🇺🇸 beau_vpn 🔓 VL-WS-N/A 🇺🇸 US 119ms
       - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
-      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 10ms 3
-      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 15ms
+      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 14ms
+      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 1ms
       - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 2ms
       - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 6ms
-      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 7ms
-      - 🇺🇸 canfing_vpn 🔓 VL-GRPC-N/A 🇺🇸 US 71ms
-      - 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 21ms
-      - 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 capoit 🔓 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 configfa 🔒 VL-GRPC-N/A 🇺🇸 US 295ms
-      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
-      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 11ms
+      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 8ms
+      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 9ms
+      - 🇺🇸 canfing_vpn 🔓 VL-GRPC-N/A 🇺🇸 US 76ms
+      - 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 10ms
+      - 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 23ms
+      - 🇺🇸 configfa 🔒 VL-GRPC-N/A 🇺🇸 US 301ms
+      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 1ms
       - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 configfa 🔓 VL-GRPC-N/A 🇺🇸 US 72ms
+      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 6ms
+      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 9ms
+      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 9ms 2
+      - 🇺🇸 configfa 🔓 VL-GRPC-N/A 🇺🇸 US 65ms
+      - 🇺🇸 fr33c0nfig 🔒 VL-WS-N/A 🇺🇸 US 1ms
       - 🇺🇸 fr33c0nfig 🔒 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 fr33c0nfig 🔒 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 156ms
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms 3
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms 4
-      - 🇺🇸 freeconfigsplus 🔒 SS-TCP-TLS 🇺🇸 US 75ms
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 10ms
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 10ms 2
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 27ms
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 9ms
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 9ms 2
+      - 🇺🇸 freeconfigsplus 🔒 SS-TCP-TLS 🇺🇸 US 74ms
       - 🇺🇸 freeconfigsplus 🔒 SS-TCP-TLS 🇺🇸 US down
       - 🇺🇸 freeconfigsplus 🔒 TR-TCP-N/A 🇺🇸 US 47ms
-      - 🇺🇸 freeconfigsplus 🔒 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 71ms
-      - 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 84ms
-      - 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 70ms
-      - 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 78ms
+      - 🇺🇸 freeconfigsplus 🔒 VL-WS-N/A 🇺🇸 US 1ms
+      - 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 66ms
+      - 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 79ms
+      - 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 71ms
+      - 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 80ms
       - 🇺🇸 madshopx 🔓 VL-WS-N/A 🇺🇸 US 13ms
-      - 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 22ms
-      - 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 9ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 115ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 121ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 122ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 12ms
+      - 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 11ms
+      - 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 20ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 10ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 10ms 3
       - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 14ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 15ms
       - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 29ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 3
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 4
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 5
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 3ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 9ms 2
-      - 🇺🇸 mrsoulb 🔓 VL-GRPC-N/A 🇺🇸 US 184ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 2
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 3
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 4
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 5
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 6
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 23ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 4ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 4ms 2
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 6ms
+      - 🇺🇸 mrsoulb 🔓 VL-GRPC-N/A 🇺🇸 US 186ms
       - 🇺🇸 v2ray1_ng 🔒 VL-GRPC-N/A 🇺🇸 US 10ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-GRPC-N/A 🇺🇸 US 11ms
+      - 🇺🇸 v2ray1_ng 🔒 VL-GRPC-N/A 🇺🇸 US 10ms 2
       - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 115ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 135ms
+      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
       - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 15ms
       - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 1ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 4ms
-      - 🇺🇸 v2ray1_ng 🔓 VL-GRPC-N/A 🇺🇸 US 85ms
-      - 🇺🇸 v2ray1_ng 🔓 VL-WS-N/A 🇺🇸 US 17ms
+      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 364ms
+      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 3ms
+      - 🇺🇸 v2ray1_ng 🔓 VL-GRPC-N/A 🇺🇸 US 72ms
+      - 🇺🇸 v2ray1_ng 🔓 VL-WS-N/A 🇺🇸 US 19ms
       - 🇺🇸 vpn4everyone 🔒 SS-TCP-TLS 🇺🇸 US 151ms
-      - 🇺🇸 vpn4everyone 🔒 SS-TCP-TLS 🇺🇸 US 152ms
-      - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
+      - 🇺🇸 vpn4everyone 🔒 SS-TCP-TLS 🇺🇸 US 151ms 2
+      - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 2ms
       - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 9ms
       - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 9ms 2
+      - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 9ms 3
+      - 🇺🇸 vpn4everyone 🔓 VL-GRPC-N/A 🇺🇸 US 65ms
       - 🇺🇸 vpn4everyone 🔓 VL-GRPC-N/A 🇺🇸 US 70ms
-      - 🇺🇸 vpn4everyone 🔓 VL-GRPC-N/A 🇺🇸 US 72ms
       - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 11ms
+      - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 10ms 2
       - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 1ms
       - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 vpnserverrr 🔓 VL-GRPC-N/A 🇺🇸 US 71ms
+      - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 3ms
+      - 🇺🇸 vpnserverrr 🔓 VL-GRPC-N/A 🇺🇸 US 70ms
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: http://cp.cloudflare.com/generate_204
     interval: 600
     proxies:
       - ahwazigamingshop 🔒 SS-TCP-TLS 🇧🇭 BH down
-      - ahwazigamingshop 🔒 VL-WS-N/A 🇮🇷 IR 335ms
+      - ahwazigamingshop 🔒 VL-WS-N/A 🇮🇷 IR 373ms
       - ahwazigamingshop 🔓 VL-TCP-N/A 🇮🇷 IR down
       - ahwazigamingshop 🔓 VL-TCP-N/A 🇮🇷 IR down 2
       - ahwazigamingshop 🔓 VL-TCP-N/A 🇮🇷 IR down 3
@@ -546,211 +526,201 @@ proxy-groups:
       - beau_vpn 🔓 VL-TCP-N/A 🇹🇷 TR down
       - beau_vpn 🔓 VL-TCP-N/A 🇹🇷 TR down 2
       - canfing_vpn 🔓 VL-WS-N/A ❔ XX down
-      - capoit 🔓 VL-GRPC-N/A 🇦🇹 AT 166ms
-      - capoit 🔓 VL-GRPC-N/A 🇷🇴 RO 181ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 312ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 313ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 314ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 314ms 2
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 315ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 321ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 321ms 2
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 321ms 3
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 321ms 4
-      - configfa 🔓 VL-TCP-N/A 🇮🇷 IR 268ms
-      - configfa 🔓 VL-TCP-N/A 🇮🇷 IR 404ms
+      - capoit 🔓 VL-GRPC-N/A 🇦🇹 AT 167ms
+      - capoit 🔓 VL-GRPC-N/A 🇷🇴 RO 178ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 284ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 289ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 291ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 292ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 295ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 295ms 2
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 301ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 301ms 2
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 341ms
+      - configfa 🔓 VL-TCP-N/A 🇮🇷 IR 250ms
+      - configfa 🔓 VL-TCP-N/A 🇮🇷 IR 260ms
       - fr33c0nfig 🔒 VL-TCP- 🇹🇷 TR down
       - fr33c0nfig 🔓 VL-TCP-N/A ❔ XX down
       - fr33c0nfig 🔓 VL-TCP-N/A 🇮🇷 IR down
-      - freeconfigsplus 🔒 VL-TCP- 🇦🇹 AT 152ms
+      - freeconfigsplus 🔒 VL-TCP- 🇦🇹 AT 151ms
       - freeconfigsplus 🔒 VM-- ❔ XX down
       - freeconfigsplus 🔓 VL-TCP-N/A ❔ XX down
-      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 291ms
-      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 305ms
-      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 328ms
-      - madshopx 🔓 VL-TCP-N/A 🇮🇷 IR 274ms
-      - mrsoulb 🔓 VL-GRPC-N/A 🇱🇹 LT 290ms
+      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 280ms
+      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 282ms
+      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT down
+      - madshopx 🔓 VL-TCP-N/A 🇮🇷 IR 304ms
+      - mrsoulb 🔓 VL-GRPC-N/A 🇱🇹 LT 210ms
       - mrsoulb 🔓 VL-TCP-N/A 🇫🇮 FI down
       - mrsoulb 🔓 VL-TCP-N/A 🇫🇮 FI down 2
       - mrsoulb 🔓 VL-TCP-N/A 🇫🇮 FI down 3
-      - vless_config 🔒 VL-TCP- 🇫🇮 FI 181ms
-      - vless_config 🔓 VL-TCP-N/A 🇮🇷 IR 394ms
+      - vless_config 🔒 VL-TCP- 🇫🇮 FI 179ms
+      - vless_config 🔓 VL-TCP-N/A 🇮🇷 IR 374ms
       - vpn4everyone 🔒 VL-WS-N/A ❔ XX down
       - vpn4everyone 🔓 VL-TCP-N/A 🇮🇷 IR down
-      - vpnserverrr 🔒 VL-TCP- 🇱🇻 LV 175ms
       - vpnserverrr 🔓 VL-TCP-N/A 🇫🇮 FI down
       - vpnserverrr 🔓 VL-TCP-N/A 🇫🇮 FI down 2
       - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE 157ms
-      - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE 160ms
+      - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE 157ms 2
       - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE down
       - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE down 2
       - 🇩🇪 astrovpn_official 🔒 TR-TCP-N/A 🇩🇪 DE 154ms
-      - 🇩🇪 astrovpn_official 🔒 TR-TCP-N/A 🇩🇪 DE 157ms
+      - 🇩🇪 astrovpn_official 🔒 TR-TCP-N/A 🇩🇪 DE 154ms 2
       - 🇩🇪 canfing_vpn 🔓 VL-TCP-N/A 🇩🇪 DE down
-      - 🇩🇪 canfing_vpn 🔓 VM-TCP-N/A 🇩🇪 DE 276ms
-      - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 160ms
-      - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 207ms
+      - 🇩🇪 canfing_vpn 🔓 VM-TCP-N/A 🇩🇪 DE 172ms
+      - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 154ms
+      - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 158ms
       - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down
       - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down 2
       - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down 3
       - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down 4
-      - 🇩🇪 configfa 🔒 VL-TCP- 🇩🇪 DE 161ms
+      - 🇩🇪 configfa 🔒 VL-TCP- 🇩🇪 DE 345ms
       - 🇩🇪 configfa 🔓 VL-GRPC-N/A 🇩🇪 DE down
-      - 🇩🇪 configfa 🔓 VL-TCP-N/A 🇩🇪 DE 457ms
-      - 🇩🇪 fr33c0nfig 🔒 VL-TCP- 🇩🇪 DE 162ms
+      - 🇩🇪 configfa 🔓 VL-TCP-N/A 🇩🇪 DE down
+      - 🇩🇪 fr33c0nfig 🔒 VL-TCP- 🇩🇪 DE down
       - 🇩🇪 fr33c0nfig 🔓 VL-TCP-N/A 🇩🇪 DE down
-      - 🇩🇪 fr33c0nfig 🔓 VM-TCP-N/A 🇩🇪 DE 171ms
-      - 🇩🇪 hacknashid 🔒 VL-TCP- 🇩🇪 DE 200ms
-      - 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 156ms
-      - 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 158ms
+      - 🇩🇪 fr33c0nfig 🔓 VM-TCP-N/A 🇩🇪 DE 562ms
+      - 🇩🇪 hacknashid 🔒 VL-TCP- 🇩🇪 DE 297ms
+      - 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 161ms
       - 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 164ms
-      - 🇩🇪 madshopx 🔒 VL-TCP- 🇩🇪 DE 430ms
+      - 🇩🇪 madshopx 🔒 VL-TCP- 🇩🇪 DE 493ms
+      - 🇩🇪 mrsoulb 🔓 VL-GRPC-N/A 🇩🇪 DE 168ms
+      - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE 168ms
       - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down
       - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 2
       - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 3
       - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 4
-      - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 5
-      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 162ms
-      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 175ms
-      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 277ms
-      - 🇩🇪 v2ray1_ng 🔓 VL-TCP-N/A 🇩🇪 DE 171ms
-      - 🇩🇪 vpn4everyone 🔓 VL-TCP-N/A 🇩🇪 DE 339ms
+      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 151ms
+      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 165ms
+      - 🇩🇪 v2ray1_ng 🔒 VM-WS-TLS 🇩🇪 DE 138ms
+      - 🇩🇪 v2ray1_ng 🔓 VL-TCP-N/A 🇩🇪 DE 199ms
       - 🇩🇪 vpn4everyone 🔓 VL-TCP-N/A 🇩🇪 DE down
+      - 🇩🇪 vpn4everyone 🔓 VL-TCP-N/A 🇩🇪 DE down 2
       - 🇩🇪 vpnserverrr 🔓 VL-TCP-N/A 🇩🇪 DE down
       - 🇩🇪 vpnserverrr 🔓 VL-TCP-N/A 🇩🇪 DE down 2
-      - 🇩🇪 vpnserverrr 🔓 VL-TCP-N/A 🇩🇪 DE down 3
-      - 🇪🇸 mrsoulb 🔓 VL-GRPC-N/A 🇪🇸 ES 356ms
-      - 🇫🇷 capoit 🔓 VL-GRPC-N/A 🇫🇷 FR 151ms
-      - 🇫🇷 configfa 🔓 VL-GRPC-N/A 🇫🇷 FR 268ms
-      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 170ms
-      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 265ms
-      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 280ms
-      - 🇫🇷 v2ray1_ng 🔒 VM-WS-TLS 🇫🇷 FR 276ms
-      - 🇫🇷 v2ray1_ng 🔓 VL-TCP-N/A 🇫🇷 FR 205ms
-      - 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 151ms
-      - 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 168ms
-      - 🇬🇧 ahwazigamingshop 🔒 SS-TCP-TLS 🇬🇧 GB 152ms
-      - 🇬🇧 capoit 🔓 VL-GRPC-N/A 🇬🇧 GB 148ms
+      - 🇪🇸 mrsoulb 🔓 VL-GRPC-N/A 🇪🇸 ES 512ms
+      - 🇫🇷 capoit 🔓 VL-GRPC-N/A 🇫🇷 FR 154ms
+      - 🇫🇷 configfa 🔓 VL-GRPC-N/A 🇫🇷 FR down
+      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 165ms
+      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 261ms
+      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 277ms
+      - 🇫🇷 v2ray1_ng 🔓 VL-TCP-N/A 🇫🇷 FR 234ms
+      - 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 162ms
+      - 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 164ms
+      - 🇫🇷 vless_config 🔓 VL-TCP-N/A 🇫🇷 FR 239ms
+      - 🇫🇷 vpnserverrr 🔓 VL-GRPC-N/A 🇫🇷 FR 155ms
+      - 🇬🇧 ahwazigamingshop 🔒 SS-TCP-TLS 🇬🇧 GB 151ms
+      - 🇬🇧 capoit 🔓 VL-GRPC-N/A 🇬🇧 GB 143ms
+      - 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB 146ms
       - 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB 147ms
-      - 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB 148ms
-      - 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB down
-      - 🇬🇧 vpnserverrr 🔒 SS-TCP-TLS 🇬🇧 GB 171ms
       - 🇭🇰 ahwazigamingshop 🔒 TR-TCP-N/A 🇭🇰 HK down
-      - 🇭🇰 ahwazigamingshop 🔓 TR--N/A 🇭🇰 HK 153ms
+      - 🇭🇰 ahwazigamingshop 🔓 TR--N/A 🇭🇰 HK 158ms
       - 🇰🇷 ahwazigamingshop 🔒 TR-TCP-N/A 🇰🇷 KR down
-      - 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 157ms
-      - 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 189ms
+      - 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 217ms
+      - 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 226ms
       - 🇳🇱 configfa 🔒 TR-XHTTP-N/A 🇳🇱 NL down
-      - 🇳🇱 configfa 🔓 VL-GRPC-N/A 🇳🇱 NL 256ms
-      - 🇳🇱 configfa 🔓 VL-TCP-N/A 🇳🇱 NL 156ms
+      - 🇳🇱 configfa 🔓 VL-GRPC-N/A 🇳🇱 NL down
+      - 🇳🇱 configfa 🔓 VL-TCP-N/A 🇳🇱 NL 152ms
       - 🇳🇱 fr33c0nfig 🔒 VL-GRPC- 🇳🇱 NL down
-      - 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 151ms
-      - 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 262ms
-      - 🇳🇱 mrsoulb 🔓 VL-WS-N/A 🇳🇱 NL 155ms
-      - 🇳🇱 v2ray1_ng 🔓 VL-TCP-N/A 🇳🇱 NL 155ms
-      - 🇳🇱 vpnserverrr 🔒 SS-TCP-TLS 🇳🇱 NL down
-      - 🇳🇱 yebekhe 🔒 TR-WS-N/A 🇳🇱 NL 198ms
+      - 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 259ms
+      - 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 261ms
+      - 🇳🇱 mrsoulb 🔓 VL-WS-N/A 🇳🇱 NL 149ms
+      - 🇳🇱 vless_config 🔓 VL-WS-N/A 🇳🇱 NL 149ms
+      - 🇳🇱 yebekhe 🔒 TR-WS-N/A 🇳🇱 NL 183ms
       - 🇵🇱 ahwazigamingshop 🔓 VM-WS-N/A 🇵🇱 PL down
       - 🇵🇱 capoit 🔓 VL-GRPC-N/A 🇵🇱 PL down
-      - 🇵🇱 vpnserverrr 🔒 VL-TCP- 🇵🇱 PL 264ms
-      - 🇷🇺 v2ray1_ng 🔒 VL-TCP- 🇷🇺 RU 190ms
-      - 🇷🇺 v2ray1_ng 🔒 VL-TCP- 🇷🇺 RU 196ms
       - 🇺🇸 ahwazigamingshop 🔒 SS-TCP-TLS 🇺🇸 US down
       - 🇺🇸 ahwazigamingshop 🔒 TR-TCP-N/A 🇺🇸 US 9ms
-      - 🇺🇸 ahwazigamingshop 🔒 TR-WS-N/A 🇺🇸 US 25ms
+      - 🇺🇸 ahwazigamingshop 🔒 TR-WS-N/A 🇺🇸 US 23ms
       - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 10ms
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 10ms 2
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 12ms
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 13ms
       - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 1ms
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 28ms
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 4ms
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 beau_vpn 🔓 VL-WS-N/A 🇺🇸 US 8ms
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 1ms 2
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 8ms
+      - 🇺🇸 beau_vpn 🔓 VL-WS-N/A 🇺🇸 US 119ms
       - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
-      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 10ms 3
-      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 15ms
+      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 14ms
+      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 1ms
       - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 2ms
       - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 6ms
-      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 7ms
-      - 🇺🇸 canfing_vpn 🔓 VL-GRPC-N/A 🇺🇸 US 71ms
-      - 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 21ms
-      - 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 capoit 🔓 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 configfa 🔒 VL-GRPC-N/A 🇺🇸 US 295ms
-      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
-      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 11ms
+      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 8ms
+      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 9ms
+      - 🇺🇸 canfing_vpn 🔓 VL-GRPC-N/A 🇺🇸 US 76ms
+      - 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 10ms
+      - 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 23ms
+      - 🇺🇸 configfa 🔒 VL-GRPC-N/A 🇺🇸 US 301ms
+      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 1ms
       - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 configfa 🔓 VL-GRPC-N/A 🇺🇸 US 72ms
+      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 6ms
+      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 9ms
+      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 9ms 2
+      - 🇺🇸 configfa 🔓 VL-GRPC-N/A 🇺🇸 US 65ms
+      - 🇺🇸 fr33c0nfig 🔒 VL-WS-N/A 🇺🇸 US 1ms
       - 🇺🇸 fr33c0nfig 🔒 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 fr33c0nfig 🔒 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 156ms
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms 3
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms 4
-      - 🇺🇸 freeconfigsplus 🔒 SS-TCP-TLS 🇺🇸 US 75ms
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 10ms
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 10ms 2
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 27ms
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 9ms
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 9ms 2
+      - 🇺🇸 freeconfigsplus 🔒 SS-TCP-TLS 🇺🇸 US 74ms
       - 🇺🇸 freeconfigsplus 🔒 SS-TCP-TLS 🇺🇸 US down
       - 🇺🇸 freeconfigsplus 🔒 TR-TCP-N/A 🇺🇸 US 47ms
-      - 🇺🇸 freeconfigsplus 🔒 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 71ms
-      - 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 84ms
-      - 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 70ms
-      - 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 78ms
+      - 🇺🇸 freeconfigsplus 🔒 VL-WS-N/A 🇺🇸 US 1ms
+      - 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 66ms
+      - 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 79ms
+      - 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 71ms
+      - 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 80ms
       - 🇺🇸 madshopx 🔓 VL-WS-N/A 🇺🇸 US 13ms
-      - 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 22ms
-      - 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 9ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 115ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 121ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 122ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 12ms
+      - 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 11ms
+      - 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 20ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 10ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 10ms 3
       - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 14ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 15ms
       - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 29ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 3
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 4
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 5
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 3ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 9ms 2
-      - 🇺🇸 mrsoulb 🔓 VL-GRPC-N/A 🇺🇸 US 184ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 2
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 3
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 4
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 5
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 6
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 23ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 4ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 4ms 2
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 6ms
+      - 🇺🇸 mrsoulb 🔓 VL-GRPC-N/A 🇺🇸 US 186ms
       - 🇺🇸 v2ray1_ng 🔒 VL-GRPC-N/A 🇺🇸 US 10ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-GRPC-N/A 🇺🇸 US 11ms
+      - 🇺🇸 v2ray1_ng 🔒 VL-GRPC-N/A 🇺🇸 US 10ms 2
       - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 115ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 135ms
+      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
       - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 15ms
       - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 1ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 4ms
-      - 🇺🇸 v2ray1_ng 🔓 VL-GRPC-N/A 🇺🇸 US 85ms
-      - 🇺🇸 v2ray1_ng 🔓 VL-WS-N/A 🇺🇸 US 17ms
+      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 364ms
+      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 3ms
+      - 🇺🇸 v2ray1_ng 🔓 VL-GRPC-N/A 🇺🇸 US 72ms
+      - 🇺🇸 v2ray1_ng 🔓 VL-WS-N/A 🇺🇸 US 19ms
       - 🇺🇸 vpn4everyone 🔒 SS-TCP-TLS 🇺🇸 US 151ms
-      - 🇺🇸 vpn4everyone 🔒 SS-TCP-TLS 🇺🇸 US 152ms
-      - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
+      - 🇺🇸 vpn4everyone 🔒 SS-TCP-TLS 🇺🇸 US 151ms 2
+      - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 2ms
       - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 9ms
       - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 9ms 2
+      - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 9ms 3
+      - 🇺🇸 vpn4everyone 🔓 VL-GRPC-N/A 🇺🇸 US 65ms
       - 🇺🇸 vpn4everyone 🔓 VL-GRPC-N/A 🇺🇸 US 70ms
-      - 🇺🇸 vpn4everyone 🔓 VL-GRPC-N/A 🇺🇸 US 72ms
       - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 11ms
+      - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 10ms 2
       - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 1ms
       - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 vpnserverrr 🔓 VL-GRPC-N/A 🇺🇸 US 71ms
+      - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 3ms
+      - 🇺🇸 vpnserverrr 🔓 VL-GRPC-N/A 🇺🇸 US 70ms
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: http://cp.cloudflare.com/generate_204
     interval: 600
     proxies:
       - ahwazigamingshop 🔒 SS-TCP-TLS 🇧🇭 BH down
-      - ahwazigamingshop 🔒 VL-WS-N/A 🇮🇷 IR 335ms
+      - ahwazigamingshop 🔒 VL-WS-N/A 🇮🇷 IR 373ms
       - ahwazigamingshop 🔓 VL-TCP-N/A 🇮🇷 IR down
       - ahwazigamingshop 🔓 VL-TCP-N/A 🇮🇷 IR down 2
       - ahwazigamingshop 🔓 VL-TCP-N/A 🇮🇷 IR down 3
@@ -759,204 +729,194 @@ proxy-groups:
       - beau_vpn 🔓 VL-TCP-N/A 🇹🇷 TR down
       - beau_vpn 🔓 VL-TCP-N/A 🇹🇷 TR down 2
       - canfing_vpn 🔓 VL-WS-N/A ❔ XX down
-      - capoit 🔓 VL-GRPC-N/A 🇦🇹 AT 166ms
-      - capoit 🔓 VL-GRPC-N/A 🇷🇴 RO 181ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 312ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 313ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 314ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 314ms 2
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 315ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 321ms
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 321ms 2
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 321ms 3
-      - configfa 🔒 VL-TCP- 🇮🇷 IR 321ms 4
-      - configfa 🔓 VL-TCP-N/A 🇮🇷 IR 268ms
-      - configfa 🔓 VL-TCP-N/A 🇮🇷 IR 404ms
+      - capoit 🔓 VL-GRPC-N/A 🇦🇹 AT 167ms
+      - capoit 🔓 VL-GRPC-N/A 🇷🇴 RO 178ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 284ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 289ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 291ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 292ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 295ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 295ms 2
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 301ms
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 301ms 2
+      - configfa 🔒 VL-TCP- 🇮🇷 IR 341ms
+      - configfa 🔓 VL-TCP-N/A 🇮🇷 IR 250ms
+      - configfa 🔓 VL-TCP-N/A 🇮🇷 IR 260ms
       - fr33c0nfig 🔒 VL-TCP- 🇹🇷 TR down
       - fr33c0nfig 🔓 VL-TCP-N/A ❔ XX down
       - fr33c0nfig 🔓 VL-TCP-N/A 🇮🇷 IR down
-      - freeconfigsplus 🔒 VL-TCP- 🇦🇹 AT 152ms
+      - freeconfigsplus 🔒 VL-TCP- 🇦🇹 AT 151ms
       - freeconfigsplus 🔒 VM-- ❔ XX down
       - freeconfigsplus 🔓 VL-TCP-N/A ❔ XX down
-      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 291ms
-      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 305ms
-      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 328ms
-      - madshopx 🔓 VL-TCP-N/A 🇮🇷 IR 274ms
-      - mrsoulb 🔓 VL-GRPC-N/A 🇱🇹 LT 290ms
+      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 280ms
+      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT 282ms
+      - madshopx 🔓 VL-GRPC-N/A 🇱🇹 LT down
+      - madshopx 🔓 VL-TCP-N/A 🇮🇷 IR 304ms
+      - mrsoulb 🔓 VL-GRPC-N/A 🇱🇹 LT 210ms
       - mrsoulb 🔓 VL-TCP-N/A 🇫🇮 FI down
       - mrsoulb 🔓 VL-TCP-N/A 🇫🇮 FI down 2
       - mrsoulb 🔓 VL-TCP-N/A 🇫🇮 FI down 3
-      - vless_config 🔒 VL-TCP- 🇫🇮 FI 181ms
-      - vless_config 🔓 VL-TCP-N/A 🇮🇷 IR 394ms
+      - vless_config 🔒 VL-TCP- 🇫🇮 FI 179ms
+      - vless_config 🔓 VL-TCP-N/A 🇮🇷 IR 374ms
       - vpn4everyone 🔒 VL-WS-N/A ❔ XX down
       - vpn4everyone 🔓 VL-TCP-N/A 🇮🇷 IR down
-      - vpnserverrr 🔒 VL-TCP- 🇱🇻 LV 175ms
       - vpnserverrr 🔓 VL-TCP-N/A 🇫🇮 FI down
       - vpnserverrr 🔓 VL-TCP-N/A 🇫🇮 FI down 2
       - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE 157ms
-      - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE 160ms
+      - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE 157ms 2
       - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE down
       - 🇩🇪 ahwazigamingshop 🔓 VL-TCP-N/A 🇩🇪 DE down 2
       - 🇩🇪 astrovpn_official 🔒 TR-TCP-N/A 🇩🇪 DE 154ms
-      - 🇩🇪 astrovpn_official 🔒 TR-TCP-N/A 🇩🇪 DE 157ms
+      - 🇩🇪 astrovpn_official 🔒 TR-TCP-N/A 🇩🇪 DE 154ms 2
       - 🇩🇪 canfing_vpn 🔓 VL-TCP-N/A 🇩🇪 DE down
-      - 🇩🇪 canfing_vpn 🔓 VM-TCP-N/A 🇩🇪 DE 276ms
-      - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 160ms
-      - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 207ms
+      - 🇩🇪 canfing_vpn 🔓 VM-TCP-N/A 🇩🇪 DE 172ms
+      - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 154ms
+      - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE 158ms
       - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down
       - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down 2
       - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down 3
       - 🇩🇪 capoit 🔓 VL-GRPC-N/A 🇩🇪 DE down 4
-      - 🇩🇪 configfa 🔒 VL-TCP- 🇩🇪 DE 161ms
+      - 🇩🇪 configfa 🔒 VL-TCP- 🇩🇪 DE 345ms
       - 🇩🇪 configfa 🔓 VL-GRPC-N/A 🇩🇪 DE down
-      - 🇩🇪 configfa 🔓 VL-TCP-N/A 🇩🇪 DE 457ms
-      - 🇩🇪 fr33c0nfig 🔒 VL-TCP- 🇩🇪 DE 162ms
+      - 🇩🇪 configfa 🔓 VL-TCP-N/A 🇩🇪 DE down
+      - 🇩🇪 fr33c0nfig 🔒 VL-TCP- 🇩🇪 DE down
       - 🇩🇪 fr33c0nfig 🔓 VL-TCP-N/A 🇩🇪 DE down
-      - 🇩🇪 fr33c0nfig 🔓 VM-TCP-N/A 🇩🇪 DE 171ms
-      - 🇩🇪 hacknashid 🔒 VL-TCP- 🇩🇪 DE 200ms
-      - 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 156ms
-      - 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 158ms
+      - 🇩🇪 fr33c0nfig 🔓 VM-TCP-N/A 🇩🇪 DE 562ms
+      - 🇩🇪 hacknashid 🔒 VL-TCP- 🇩🇪 DE 297ms
+      - 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 161ms
       - 🇩🇪 hacknashid 🔓 VL-TCP-N/A 🇩🇪 DE 164ms
-      - 🇩🇪 madshopx 🔒 VL-TCP- 🇩🇪 DE 430ms
+      - 🇩🇪 madshopx 🔒 VL-TCP- 🇩🇪 DE 493ms
+      - 🇩🇪 mrsoulb 🔓 VL-GRPC-N/A 🇩🇪 DE 168ms
+      - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE 168ms
       - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down
       - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 2
       - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 3
       - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 4
-      - 🇩🇪 mrsoulb 🔓 VL-TCP-N/A 🇩🇪 DE down 5
-      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 162ms
-      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 175ms
-      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 277ms
-      - 🇩🇪 v2ray1_ng 🔓 VL-TCP-N/A 🇩🇪 DE 171ms
-      - 🇩🇪 vpn4everyone 🔓 VL-TCP-N/A 🇩🇪 DE 339ms
+      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 151ms
+      - 🇩🇪 v2ray1_ng 🔒 VL-TCP- 🇩🇪 DE 165ms
+      - 🇩🇪 v2ray1_ng 🔒 VM-WS-TLS 🇩🇪 DE 138ms
+      - 🇩🇪 v2ray1_ng 🔓 VL-TCP-N/A 🇩🇪 DE 199ms
       - 🇩🇪 vpn4everyone 🔓 VL-TCP-N/A 🇩🇪 DE down
+      - 🇩🇪 vpn4everyone 🔓 VL-TCP-N/A 🇩🇪 DE down 2
       - 🇩🇪 vpnserverrr 🔓 VL-TCP-N/A 🇩🇪 DE down
       - 🇩🇪 vpnserverrr 🔓 VL-TCP-N/A 🇩🇪 DE down 2
-      - 🇩🇪 vpnserverrr 🔓 VL-TCP-N/A 🇩🇪 DE down 3
-      - 🇪🇸 mrsoulb 🔓 VL-GRPC-N/A 🇪🇸 ES 356ms
-      - 🇫🇷 capoit 🔓 VL-GRPC-N/A 🇫🇷 FR 151ms
-      - 🇫🇷 configfa 🔓 VL-GRPC-N/A 🇫🇷 FR 268ms
-      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 170ms
-      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 265ms
-      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 280ms
-      - 🇫🇷 v2ray1_ng 🔒 VM-WS-TLS 🇫🇷 FR 276ms
-      - 🇫🇷 v2ray1_ng 🔓 VL-TCP-N/A 🇫🇷 FR 205ms
-      - 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 151ms
-      - 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 168ms
-      - 🇬🇧 ahwazigamingshop 🔒 SS-TCP-TLS 🇬🇧 GB 152ms
-      - 🇬🇧 capoit 🔓 VL-GRPC-N/A 🇬🇧 GB 148ms
+      - 🇪🇸 mrsoulb 🔓 VL-GRPC-N/A 🇪🇸 ES 512ms
+      - 🇫🇷 capoit 🔓 VL-GRPC-N/A 🇫🇷 FR 154ms
+      - 🇫🇷 configfa 🔓 VL-GRPC-N/A 🇫🇷 FR down
+      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 165ms
+      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 261ms
+      - 🇫🇷 mrsoulb 🔓 VL-GRPC-N/A 🇫🇷 FR 277ms
+      - 🇫🇷 v2ray1_ng 🔓 VL-TCP-N/A 🇫🇷 FR 234ms
+      - 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 162ms
+      - 🇫🇷 vless_config 🔓 VL-GRPC-N/A 🇫🇷 FR 164ms
+      - 🇫🇷 vless_config 🔓 VL-TCP-N/A 🇫🇷 FR 239ms
+      - 🇫🇷 vpnserverrr 🔓 VL-GRPC-N/A 🇫🇷 FR 155ms
+      - 🇬🇧 ahwazigamingshop 🔒 SS-TCP-TLS 🇬🇧 GB 151ms
+      - 🇬🇧 capoit 🔓 VL-GRPC-N/A 🇬🇧 GB 143ms
+      - 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB 146ms
       - 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB 147ms
-      - 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB 148ms
-      - 🇬🇧 mrsoulb 🔓 VL-WS-N/A 🇬🇧 GB down
-      - 🇬🇧 vpnserverrr 🔒 SS-TCP-TLS 🇬🇧 GB 171ms
       - 🇭🇰 ahwazigamingshop 🔒 TR-TCP-N/A 🇭🇰 HK down
-      - 🇭🇰 ahwazigamingshop 🔓 TR--N/A 🇭🇰 HK 153ms
+      - 🇭🇰 ahwazigamingshop 🔓 TR--N/A 🇭🇰 HK 158ms
       - 🇰🇷 ahwazigamingshop 🔒 TR-TCP-N/A 🇰🇷 KR down
-      - 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 157ms
-      - 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 189ms
+      - 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 217ms
+      - 🇳🇱 configfa 🔒 TR-WS-N/A 🇳🇱 NL 226ms
       - 🇳🇱 configfa 🔒 TR-XHTTP-N/A 🇳🇱 NL down
-      - 🇳🇱 configfa 🔓 VL-GRPC-N/A 🇳🇱 NL 256ms
-      - 🇳🇱 configfa 🔓 VL-TCP-N/A 🇳🇱 NL 156ms
+      - 🇳🇱 configfa 🔓 VL-GRPC-N/A 🇳🇱 NL down
+      - 🇳🇱 configfa 🔓 VL-TCP-N/A 🇳🇱 NL 152ms
       - 🇳🇱 fr33c0nfig 🔒 VL-GRPC- 🇳🇱 NL down
-      - 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 151ms
-      - 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 262ms
-      - 🇳🇱 mrsoulb 🔓 VL-WS-N/A 🇳🇱 NL 155ms
-      - 🇳🇱 v2ray1_ng 🔓 VL-TCP-N/A 🇳🇱 NL 155ms
-      - 🇳🇱 vpnserverrr 🔒 SS-TCP-TLS 🇳🇱 NL down
-      - 🇳🇱 yebekhe 🔒 TR-WS-N/A 🇳🇱 NL 198ms
+      - 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 259ms
+      - 🇳🇱 mrsoulb 🔓 VL-GRPC-N/A 🇳🇱 NL 261ms
+      - 🇳🇱 mrsoulb 🔓 VL-WS-N/A 🇳🇱 NL 149ms
+      - 🇳🇱 vless_config 🔓 VL-WS-N/A 🇳🇱 NL 149ms
+      - 🇳🇱 yebekhe 🔒 TR-WS-N/A 🇳🇱 NL 183ms
       - 🇵🇱 ahwazigamingshop 🔓 VM-WS-N/A 🇵🇱 PL down
       - 🇵🇱 capoit 🔓 VL-GRPC-N/A 🇵🇱 PL down
-      - 🇵🇱 vpnserverrr 🔒 VL-TCP- 🇵🇱 PL 264ms
-      - 🇷🇺 v2ray1_ng 🔒 VL-TCP- 🇷🇺 RU 190ms
-      - 🇷🇺 v2ray1_ng 🔒 VL-TCP- 🇷🇺 RU 196ms
       - 🇺🇸 ahwazigamingshop 🔒 SS-TCP-TLS 🇺🇸 US down
       - 🇺🇸 ahwazigamingshop 🔒 TR-TCP-N/A 🇺🇸 US 9ms
-      - 🇺🇸 ahwazigamingshop 🔒 TR-WS-N/A 🇺🇸 US 25ms
+      - 🇺🇸 ahwazigamingshop 🔒 TR-WS-N/A 🇺🇸 US 23ms
       - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 10ms
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 10ms 2
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 12ms
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 13ms
       - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 1ms
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 28ms
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 4ms
-      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 beau_vpn 🔓 VL-WS-N/A 🇺🇸 US 8ms
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 1ms 2
+      - 🇺🇸 ahwazigamingshop 🔓 VL-WS-N/A 🇺🇸 US 8ms
+      - 🇺🇸 beau_vpn 🔓 VL-WS-N/A 🇺🇸 US 119ms
       - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
-      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 10ms 3
-      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 15ms
+      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 14ms
+      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 1ms
       - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 2ms
       - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 6ms
-      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 7ms
-      - 🇺🇸 canfing_vpn 🔓 VL-GRPC-N/A 🇺🇸 US 71ms
-      - 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 21ms
-      - 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 capoit 🔓 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 configfa 🔒 VL-GRPC-N/A 🇺🇸 US 295ms
-      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
-      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 11ms
+      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 8ms
+      - 🇺🇸 canfing_vpn 🔒 VL-WS-N/A 🇺🇸 US 9ms
+      - 🇺🇸 canfing_vpn 🔓 VL-GRPC-N/A 🇺🇸 US 76ms
+      - 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 10ms
+      - 🇺🇸 canfing_vpn 🔓 VL-WS-N/A 🇺🇸 US 23ms
+      - 🇺🇸 configfa 🔒 VL-GRPC-N/A 🇺🇸 US 301ms
+      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 1ms
       - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 configfa 🔓 VL-GRPC-N/A 🇺🇸 US 72ms
+      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 6ms
+      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 9ms
+      - 🇺🇸 configfa 🔒 VL-WS-N/A 🇺🇸 US 9ms 2
+      - 🇺🇸 configfa 🔓 VL-GRPC-N/A 🇺🇸 US 65ms
+      - 🇺🇸 fr33c0nfig 🔒 VL-WS-N/A 🇺🇸 US 1ms
       - 🇺🇸 fr33c0nfig 🔒 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 fr33c0nfig 🔒 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 156ms
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms 3
-      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 2ms 4
-      - 🇺🇸 freeconfigsplus 🔒 SS-TCP-TLS 🇺🇸 US 75ms
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 10ms
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 10ms 2
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 27ms
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 9ms
+      - 🇺🇸 fr33c0nfig 🔓 VL-WS-N/A 🇺🇸 US 9ms 2
+      - 🇺🇸 freeconfigsplus 🔒 SS-TCP-TLS 🇺🇸 US 74ms
       - 🇺🇸 freeconfigsplus 🔒 SS-TCP-TLS 🇺🇸 US down
       - 🇺🇸 freeconfigsplus 🔒 TR-TCP-N/A 🇺🇸 US 47ms
-      - 🇺🇸 freeconfigsplus 🔒 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 71ms
-      - 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 84ms
-      - 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 70ms
-      - 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 78ms
+      - 🇺🇸 freeconfigsplus 🔒 VL-WS-N/A 🇺🇸 US 1ms
+      - 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 66ms
+      - 🇺🇸 freeconfigsplus 🔓 VL-GRPC-N/A 🇺🇸 US 79ms
+      - 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 71ms
+      - 🇺🇸 madshopx 🔓 VL-GRPC-N/A 🇺🇸 US 80ms
       - 🇺🇸 madshopx 🔓 VL-WS-N/A 🇺🇸 US 13ms
-      - 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 22ms
-      - 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 9ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 115ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 121ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 122ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 12ms
+      - 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 11ms
+      - 🇺🇸 mrsoulb 🔒 VL-GRPC-N/A 🇺🇸 US 20ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 10ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 10ms 3
       - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 14ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 15ms
       - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 29ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 3
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 4
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 2ms 5
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 3ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 9ms 2
-      - 🇺🇸 mrsoulb 🔓 VL-GRPC-N/A 🇺🇸 US 184ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 2
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 3
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 4
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 5
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 1ms 6
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 23ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 4ms
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 4ms 2
+      - 🇺🇸 mrsoulb 🔒 VL-WS-N/A 🇺🇸 US 6ms
+      - 🇺🇸 mrsoulb 🔓 VL-GRPC-N/A 🇺🇸 US 186ms
       - 🇺🇸 v2ray1_ng 🔒 VL-GRPC-N/A 🇺🇸 US 10ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-GRPC-N/A 🇺🇸 US 11ms
+      - 🇺🇸 v2ray1_ng 🔒 VL-GRPC-N/A 🇺🇸 US 10ms 2
       - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 115ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 135ms
+      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
       - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 15ms
       - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 1ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 2ms 2
-      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 4ms
-      - 🇺🇸 v2ray1_ng 🔓 VL-GRPC-N/A 🇺🇸 US 85ms
-      - 🇺🇸 v2ray1_ng 🔓 VL-WS-N/A 🇺🇸 US 17ms
+      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 364ms
+      - 🇺🇸 v2ray1_ng 🔒 VL-WS-N/A 🇺🇸 US 3ms
+      - 🇺🇸 v2ray1_ng 🔓 VL-GRPC-N/A 🇺🇸 US 72ms
+      - 🇺🇸 v2ray1_ng 🔓 VL-WS-N/A 🇺🇸 US 19ms
       - 🇺🇸 vpn4everyone 🔒 SS-TCP-TLS 🇺🇸 US 151ms
-      - 🇺🇸 vpn4everyone 🔒 SS-TCP-TLS 🇺🇸 US 152ms
-      - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 10ms 2
+      - 🇺🇸 vpn4everyone 🔒 SS-TCP-TLS 🇺🇸 US 151ms 2
+      - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 2ms
       - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 9ms
       - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 9ms 2
+      - 🇺🇸 vpn4everyone 🔒 VL-WS-N/A 🇺🇸 US 9ms 3
+      - 🇺🇸 vpn4everyone 🔓 VL-GRPC-N/A 🇺🇸 US 65ms
       - 🇺🇸 vpn4everyone 🔓 VL-GRPC-N/A 🇺🇸 US 70ms
-      - 🇺🇸 vpn4everyone 🔓 VL-GRPC-N/A 🇺🇸 US 72ms
       - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 10ms
-      - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 11ms
+      - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 10ms 2
       - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 1ms
       - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 2ms
-      - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 9ms
-      - 🇺🇸 vpnserverrr 🔓 VL-GRPC-N/A 🇺🇸 US 71ms
+      - 🇺🇸 vpn4everyone 🔓 VL-WS-N/A 🇺🇸 US 3ms
+      - 🇺🇸 vpnserverrr 🔓 VL-GRPC-N/A 🇺🇸 US 70ms
   - name: تلگرام 💬
     type: select
     proxies:
