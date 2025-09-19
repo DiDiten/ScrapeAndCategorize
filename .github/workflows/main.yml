@@ -6,50 +6,44 @@ on:
       - main
     paths:
       - output_configs/**
-  workflow_dispatch: # Allows manual triggering of the workflow
+  workflow_dispatch: 
   schedule:
-    - cron: '29 * * * *'
+    - cron: '0 */8 * * *' 
 
 jobs:
   build:
-    runs-on: ubuntu-latest # Uses the latest Ubuntu environment for the job
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4 # Checks out your repository code
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # این خط برای دریافت کامل تاریخچه گیت است که برای pull/rebase نیاز است.
+          fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v5 # Sets up a Python environment
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10' # Specifies Python version 3.10
+          python-version: '3.13'
 
       - name: Install Dependencies
-        run: pip install pyyaml requests # Installs necessary Python packages
+        run: pip install pyyaml requests
 
       - name: Fetch and Pull latest changes
-        # این مرحله برای همگام‌سازی شاخه لوکال با ریموت قبل از تولید فایل‌های جدید است.
-        # این کار از خطای "non-fast-forward" جلوگیری می‌کند.
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-          git pull --rebase origin main # تغییرات از origin/main را دریافت و rebase می‌کند.
+          git config user.name "NET Sentinel Bot"
+          git config user.email "224584266+NetSentinel-Bot@users.noreply.github.com"
+          git pull --rebase origin main
 
       - name: Run Config Generator
-        # مسیر صحیح به اسکریپت پایتون شما بر اساس ساختار مخزن:
-        # https://github.com/DiDiten/ScrapeAndCategorize/blob/main/Clash/scripts/generator.py
         run: python Clash/scripts/generator.py
         env:
-          GITHUB_REPOSITORY: ${{ github.repository }} # نام مخزن را به عنوان یک متغیر محیطی ارسال می‌کند.
+          GITHUB_REPOSITORY: ${{ github.repository }}
 
       - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v5 # اکشن برای کامیت خودکار تغییرات
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: auto-generate configs via updated format" # پیام کامیت
-          # الگوهای فایل برای کامیت - همه باید به مسیرهای داخل دایرکتوری 'Clash' اشاره کنند.
-          # استفاده مستقیم از "Clash/" برای همه فایل‌ها.
+          commit_message: "chore: auto-generate configs via updated format"
           file_pattern: "Clash/output/*.yaml Clash/providers/*.txt Clash/README.md Clash/*.txt Clash/*.yaml"
-          commit_user_name: GitHub Actions Bot
-          commit_user_email: actions@github.com
-          commit_author: GitHub Actions Bot <actions@github.com>
-          # pull_strategy: "rebase" # این خط در نسخه v5 معتبر نیست و حذف شد.
+          commit_user_name: NET Sentinel Bot
+          commit_user_email: 217420093+DiDiten@users.noreply.github.com
+          commit_author: DiDiten <217420093+DiDiten@users.noreply.github.com>
+
