@@ -1,1 +1,0 @@
-trojan://4mZzfWMLGz@5.255.102.41:10979?type=xhttp&path=%2Fdictator232&host=mooshali.arshiacomplus.dpdns.org&mode=packet-up&security=tls&fp=firefox&alpn=http%2F1.1&sni=mooshali.arshiacomplus.dpdns.org#TR-xhttp-0ed6l7ws

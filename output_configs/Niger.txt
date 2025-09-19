@@ -99,12 +99,14 @@ ss://93382dc3-a897-402f-8f6a-261f867f1e43@m45a.vip784.com:33801?security=none&en
 ss://962bfec5-ef89-4180-8f5b-9209a7207668@51.195.31.95:80?path=/wslinws?ed&security=none&encryption=none&host=wWw.speEDtEST.NeT&type=ws#Channel
 ss://9cd93450-6100-4dcd-99f3-6c86b8c5431e@91.98.139.132:44016?flow=&type=tcp&headerType=none&security=none#tChannel
 ss://9cd93450-6100-4dcd-99f3-6c86b8c5431e@91.98.139.132:44016?security=none&encryption=none&headerType=none&type=tcp#tChannel
+ss://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=/?ed&security=none&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO&type=ws#Channel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40nepo_v2ray%20%5B19%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QXZ3R3ZhVmgxNG9yNndEVXpIQ3dy@51.142.185.195:48359#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40nepo_v2ray%20%5B17%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40nepo_v2ray%20%5B14%5D
 ss://a0aff3a9-b700-4ff3-8f22-b1de6c07d08e@91.98.143.67:59372?security=none&encryption=none&headerType=none&type=tcp#Channel
 ss://a1a9906c-f387-4092-b73c-576dc510bad8@91.98.139.130:55873?flow=&type=tcp&headerType=none&security=none#Channel
 ss://a1a9906c-f387-4092-b73c-576dc510bad8@91.98.139.130:55873?security=none&encryption=none&headerType=none&type=tcp#Channel
+ss://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel
 ss://a4b17aa4-8723-4f12-945d-9e3bdf926bf7@104.26.6.89:443?path=/hajmi?ed&security=tls&alpn=http/1.1&encryption=none&host=nb-fi.77777788.xyz&fp=chrome&type=ws&sni=77777788.xyz#Channel
 ss://aa077dd1-0a53-4313-8800-c9ac79a97003@sss72246.tas-bazi.com:443?mode=stream-one&path=/sef&security=&encryption=none&type=xhttp#Channel
 ss://aa077dd1-0a53-4313-8800-c9ac79a97003@sss72246.tas-bazi.com:443?mode=stream-one&path=/sef&security=none&encryption=none&type=xhttp#Channel
@@ -302,9 +304,11 @@ vless://93382dc3-a897-402f-8f6a-261f867f1e43@m45a.vip784.com:33801?security=none
 vless://962bfec5-ef89-4180-8f5b-9209a7207668@51.195.31.95:80?path=/wslinws?ed&security=none&encryption=none&host=wWw.speEDtEST.NeT&type=ws#Channel
 vless://9cd93450-6100-4dcd-99f3-6c86b8c5431e@91.98.139.132:44016?flow=&type=tcp&headerType=none&security=none#tChannel
 vless://9cd93450-6100-4dcd-99f3-6c86b8c5431e@91.98.139.132:44016?security=none&encryption=none&headerType=none&type=tcp#tChannel
+vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=/?ed&security=none&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO&type=ws#Channel
 vless://a0aff3a9-b700-4ff3-8f22-b1de6c07d08e@91.98.143.67:59372?security=none&encryption=none&headerType=none&type=tcp#Channel
 vless://a1a9906c-f387-4092-b73c-576dc510bad8@91.98.139.130:55873?flow=&type=tcp&headerType=none&security=none#Channel
 vless://a1a9906c-f387-4092-b73c-576dc510bad8@91.98.139.130:55873?security=none&encryption=none&headerType=none&type=tcp#Channel
+vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel
 vless://a4b17aa4-8723-4f12-945d-9e3bdf926bf7@104.26.6.89:443?path=/hajmi?ed&security=tls&alpn=http/1.1&encryption=none&host=nb-fi.77777788.xyz&fp=chrome&type=ws&sni=77777788.xyz#Channel
 vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss72246.tas-bazi.com:443?mode=stream-one&path=/sef&security=&encryption=none&type=xhttp#Channel
 vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss72246.tas-bazi.com:443?mode=stream-one&path=/sef&security=none&encryption=none&type=xhttp#Channel
