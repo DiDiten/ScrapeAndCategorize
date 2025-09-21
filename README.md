@@ -1,9 +1,13 @@
-# Configs (آخرین به‌روزرسانی: 2025-09-21 10:39:54 +0330)
+# Scrapper
+
+<div markdown='1' align='center'>
+
+**Last update: 2025-09-21 10:39:54 IRN**
 
 ## دسته‌بندی بر اساس پروتکل
 
-| پروتکل | تعداد | لینک دانلود |
-|---|---|---|
+| **پروتکل** | **تعداد** |    **لینک اشتراک**    |
+|----|-----|-------------------------|
 | Hysteria2 | 7 | [`Hysteria2.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt) |
 | ShadowSocks | 14552 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
 | ShadowSocksR | 24 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocksR.txt) |
@@ -131,3 +135,5 @@
 | <img src="https://flagcdn.com/w20/ua.png" width="20"> Ukraine (اوکراین) | 6 | [`Ukraine.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Ukraine.txt) | [`Ukraine.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Ukraine.txt) |
 | <img src="https://flagcdn.com/w20/va.png" width="20"> VaticanCity (واتیکان) | 4 | [`VaticanCity.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/VaticanCity.txt) | [`VaticanCity.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/VaticanCity.txt) |
 | <img src="https://flagcdn.com/w20/vn.png" width="20"> Vietnam (ویتنام) | 51 | [`Vietnam.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Vietnam.txt) | [`Vietnam.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Vietnam.txt) |
+
+</div>
