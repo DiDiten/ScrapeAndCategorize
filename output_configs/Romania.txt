@@ -6,7 +6,8 @@ ss://468578e5-3080-4a85-8ca2-b8bce182b964@howdy-mst.highposhako.ir:38347?securit
 ss://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#proxy
 ss://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?encryption=none&security=tls&sni=ula347.tiri-viri.com&type=ws&host=ula347.tiri-viri.com&path=%2F#%40skypro_vpn
 ss://687d303c-32d5-4ee7-da86-b66528e3894b@www.forcepower.monster:8081?security=none&encryption=none&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy48%20%5B15%5D
-ss://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&security=tls&encryption=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B10%5D
+ss://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&security=tls&encryption=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B7%5D
+ss://97acac4a-6a14-48b2-9f15-d22d8c0728bf@92.63.106.144:10300?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2trayproxy%20%5B17%5D
 ss://97acac4a-6a14-48b2-9f15-d22d8c0728bf@92.63.106.144:10300?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2trayproxy%20%5B20%5D
 ss://9915fa3b-f228-46a2-ab4f-5a67a12aa5db@13.48.26.23:443?security=reality&encryption=none&pbk=ZupmU0Um3S4mdzBkGMFjBa76n_h1i6P6i3LMYk5Iex0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxyfn%20%5B10%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#proxy
@@ -39,7 +40,8 @@ vless://468578e5-3080-4a85-8ca2-b8bce182b964@howdy-mst.highposhako.ir:38347?secu
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#proxy
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@45.45.218.166:21275?encryption=none&security=tls&sni=ula347.tiri-viri.com&type=ws&host=ula347.tiri-viri.com&path=%2F#%40skypro_vpn
 vless://687d303c-32d5-4ee7-da86-b66528e3894b@www.forcepower.monster:8081?security=none&encryption=none&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxy48%20%5B15%5D
-vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&security=tls&encryption=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B10%5D
+vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=%2Flkjdasws&security=tls&encryption=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B7%5D
+vless://97acac4a-6a14-48b2-9f15-d22d8c0728bf@92.63.106.144:10300?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2trayproxy%20%5B17%5D
 vless://97acac4a-6a14-48b2-9f15-d22d8c0728bf@92.63.106.144:10300?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2trayproxy%20%5B20%5D
 vless://9915fa3b-f228-46a2-ab4f-5a67a12aa5db@13.48.26.23:443?security=reality&encryption=none&pbk=ZupmU0Um3S4mdzBkGMFjBa76n_h1i6P6i3LMYk5Iex0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxyfn%20%5B10%5D
 vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?mode=gun&security=reality&encryption=none&pbk=rsoZpDByMW3Ukcj68I5vw_-k-CivE6CV6TPJxyPl6WY&fp=chrome&spx=%2Fstorage&type=grpc&serviceName=&sni=mega.io&sid=07a9a22b#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxyfn%20%5B13%5D
