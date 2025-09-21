@@ -45,7 +45,6 @@ def encode_and_save_base64(directory: str, filename: str, configs: set, logger: 
         logger.error(f"خطا در نوشتن فایل Base64 در {file_path}: {e}")
 
 def generate_readme(protocol_counts: dict, country_counts: dict, all_keywords: dict, logger: Logger):
-    """فایل README.md و فایل‌های متنی حاوی لینک‌ها را تولید می‌کند."""
     tz = pytz.timezone('Asia/Tehran')
     now = datetime.now(tz)
     timestamp = now.strftime("%Y-%m-%d %H:%M:%S %Z")
@@ -57,43 +56,51 @@ def generate_readme(protocol_counts: dict, country_counts: dict, all_keywords: d
     all_normal_links = []
     all_base64_links = []
 
-    md_content = f"# Scrapper  \n\n"
-    md_content += f"> [!WARNING] \n"
-    md_content += f"> "
-    md_content += f"> **Last update:** {timestamp})\n"
-    md_content += f"> لینک اشتراک مورد نظر را کپی و در کلاینت دلخواه وارد کنید.\n"
-    md_content += f"> "
-    md_content += f"> لینک‌ها هر 6 ساعت یکبار بروزرسانی می‌شوند.\n"
-    md_content += f"> <br><br/> \n\n"
-    md_content += '<div markdown="1" align="right">\n
-    md_content += "## دسته‌بندی بر اساس پروتکل\n\n"
-    md_content += "| **پروتکل** | **تعداد** | **لینک اشتراک** |\n|---------|:-----:|:-------------:|\n"
+    md_content = f"""# Scrapper
+
+> [!WARNING]
+>
+> **Last update:** {timestamp}
+> 
+> - لینک اشتراک مورد نظر را کپی و در کلاینت دلخواه وارد کنید.
+>
+> - لینک‌ها هر 6 ساعت یکبار بروزرسانی می‌شوند.
+> 
+> <br><br/>
+
+<div markdown="1" align="right">
+
+## دسته‌بندی بر اساس پروتکل
+
+| **پروتکل** | **تعداد** | **لینک اشتراک** |
+|:---------|:-------:|:---------------:|
+"""
     for category, count in sorted(protocol_counts.items()):
         file_link = f"{normal_configs_url}/{category}.txt"
         all_normal_links.append(file_link)
         md_content += f"| {category} | {count} | [`{category}.txt`]({file_link}) |\n"
     
-    md_content += "\n## دسته‌بندی بر اساس کشور\n\n"
-    md_content += "| **کشور** | **تعداد** | **لینک نرمال** | **لینک بیس۶۴** |\n|---------|:----:|---------|:--------:|\n"
-    md_content += "\n</div>\n"
+    md_content += """
+## دسته‌بندی بر اساس کشور
+
+| **کشور** | **تعداد** | **لینک نرمال** | **لینک بیس۶۴** |
+|:--------|:-------:|:--------------|:---------------:|
+"""
+
     for country, count in sorted(country_counts.items()):
         keywords_list = all_keywords.get(country, [])
         iso_code = next((k.lower() for k in keywords_list if len(k) == 2 and k.isalpha()), None)
         persian_name = next((k for k in keywords_list if is_persian_like(k)), "")
         
         flag_md = f'<img src="https://flagcdn.com/w20/{iso_code}.png" width="20">' if iso_code else ""
-        country_display = f"{flag_md} {country} ({persian_name})" if persian_name else f"{flag_md} {country}"
+        country_display = f"{flag_md} {country} ({persian_name})" if persian_name and country != persian_name else f"{flag_md} {country}"
+
+        normal_link = f"{normal_configs_url}/{country}.txt"
+        base64_link = f"{base64_configs_url}/{country}.txt"
         
-        normal_link_url = f"{normal_configs_url}/{country}.txt"
-        base64_link_url = f"{base64_configs_url}/{country}.txt"
-        
-        all_normal_links.append(normal_link_url)
-        all_base64_links.append(base64_link_url) 
-        
-        normal_link_md = f"[`{country}.txt`]({normal_link_url})"
-        base64_link_md = f"[`{country}.txt`]({base64_link_url})"
-        
-        md_content += f"| {country_display.strip()} | {count} | {normal_link_md} | {base64_link_md} |\n"
+        md_content += f"| {country_display} | {count} | [`{country}.txt`]({normal_link}) | [`{country}.txt`]({base64_link}) |\n"
+        md_content += "\n</div>\n"
+
 
     try:
         with open(settings.README_FILE, 'w', encoding='utf-8') as f:
