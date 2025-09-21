@@ -1,5 +1,3 @@
-# مسیر: core/saver.py
-
 import os
 import shutil
 import base64
@@ -9,8 +7,6 @@ from logging import Logger
 from config import settings
 from utils.text_helpers import is_persian_like
 
-# توابع prepare_output_dirs, save_configs_to_file, encode_and_save_base64
-# بدون تغییر باقی می‌مانند.
 def prepare_output_dirs(dirs_to_clean: list, logger: Logger):
     for directory in dirs_to_clean:
         try:
@@ -48,7 +44,6 @@ def encode_and_save_base64(directory: str, filename: str, configs: set, logger: 
     except IOError as e:
         logger.error(f"خطا در نوشتن فایل Base64 در {file_path}: {e}")
 
-
 def generate_readme(protocol_counts: dict, country_counts: dict, all_keywords: dict, logger: Logger):
     """فایل README.md و فایل‌های متنی حاوی لینک‌ها را تولید می‌کند."""
     tz = pytz.timezone('Asia/Tehran')
@@ -59,20 +54,23 @@ def generate_readme(protocol_counts: dict, country_counts: dict, all_keywords: d
     normal_configs_url = f"{base_url}/{settings.OUTPUT_DIR}"
     base64_configs_url = f"{base_url}/{settings.BASE64_OUTPUT_DIR}"
     
-    # *** تغییر ۱: ایجاد دو لیست خالی برای جمع‌آوری لینک‌ها ***
     all_normal_links = []
     all_base64_links = []
 
-    md_content = f"# Configs (آخرین به‌روزرسانی: {timestamp})\n\n"
+    md_content = f"# Scrapper  \n\n"
+    md_content = f"> [!WARNING] \n"
+    md_content = f"> \n"
+    md_content = f"> **Last update:** {timestamp})\n"
+    md_content = f"> <br/> \n\n"
     md_content += "## دسته‌بندی بر اساس پروتکل\n\n"
-    md_content += "| پروتکل | تعداد | لینک دانلود |\n|---|---|---|\n"
+    md_content += "| **پروتکل** | **تعداد** | **لینک اشتراک** |\n|---------|:-----:|:-------------:|\n"
     for category, count in sorted(protocol_counts.items()):
         file_link = f"{normal_configs_url}/{category}.txt"
         all_normal_links.append(file_link) # *** افزودن لینک به لیست ***
         md_content += f"| {category} | {count} | [`{category}.txt`]({file_link}) |\n"
     
     md_content += "\n## دسته‌بندی بر اساس کشور\n\n"
-    md_content += "| کشور | تعداد | لینک نرمال | لینک بیس۶۴ |\n|---|---|---|---|\n"
+    md_content += "| **کشور** | **تعداد** | **لینک نرمال** | **لینک بیس۶۴** |\n|---------|:----:|---------|:--------:|\n"
     for country, count in sorted(country_counts.items()):
         keywords_list = all_keywords.get(country, [])
         iso_code = next((k.lower() for k in keywords_list if len(k) == 2 and k.isalpha()), None)
@@ -84,15 +82,14 @@ def generate_readme(protocol_counts: dict, country_counts: dict, all_keywords: d
         normal_link_url = f"{normal_configs_url}/{country}.txt"
         base64_link_url = f"{base64_configs_url}/{country}.txt"
         
-        all_normal_links.append(normal_link_url) # *** افزودن لینک به لیست ***
-        all_base64_links.append(base64_link_url) # *** افزودن لینک به لیست ***
+        all_normal_links.append(normal_link_url)
+        all_base64_links.append(base64_link_url) 
         
         normal_link_md = f"[`{country}.txt`]({normal_link_url})"
         base64_link_md = f"[`{country}.txt`]({base64_link_url})"
         
         md_content += f"| {country_display.strip()} | {count} | {normal_link_md} | {base64_link_md} |\n"
 
-    # نوشتن فایل README.md
     try:
         with open(settings.README_FILE, 'w', encoding='utf-8') as f:
             f.write(md_content)
@@ -100,10 +97,8 @@ def generate_readme(protocol_counts: dict, country_counts: dict, all_keywords: d
     except IOError as e:
         logger.error(f"خطا در نوشتن فایل {settings.README_FILE}: {e}")
         
-    # *** تغییر ۲: ذخیره کردن لینک‌های جمع‌آوری شده در فایل‌های متنی ***
     try:
         with open(settings.NORMAL_LINKS_FILE, 'w', encoding='utf-8') as f:
-            # استفاده از set برای حذف موارد تکراری و سپس مرتب‌سازی
             f.write("\n".join(sorted(list(set(all_normal_links)))))
         logger.info(f"فایل لینک‌های نرمال در {settings.NORMAL_LINKS_FILE} ذخیره شد.")
 
