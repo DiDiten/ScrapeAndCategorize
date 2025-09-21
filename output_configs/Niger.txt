@@ -96,12 +96,10 @@ ss://ba2970f1-7a57-4278-8c8d-2001788fe270@sss28357.tas-bazi.com:443?mode=stream-
 ss://ba2970f1-7a57-4278-8c8d-2001788fe270@sss28357.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel
 ss://bbb1ce8e-684b-427f-89a0-42b8980f85f3@164.92.157.143:37677?path=/&security=none&encryption=none&type=ws#Channel
 ss://c185d3d9-4263-440c-8d89-2888efddd45a@195.201.32.169:57276?type=grpc&serviceName=FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL&authority=&security=none#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
-ss://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
 ss://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@daniel-garoosis.rest:27774?security=none&encryption=none&headerType=none&type=tcp#Channel
 ss://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@william-siasookhte.info:27774?security=none&encryption=none&headerType=none&type=tcp#Channel
 ss://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=fegth.samsung-funder.info#Channel
 ss://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=hwnhp.samsung-funder.info#Channel
-ss://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=pkghr.alphabet-funder.info#Channel
 ss://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=telya.alphabet-funder.info#Channel
 ss://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.110:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#Channel
 ss://cc3afbee-5a0c-475e-85a0-fcb15236e2f7@m61a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
@@ -253,12 +251,10 @@ vless://ba2970f1-7a57-4278-8c8d-2001788fe270@sss28357.tas-bazi.com:443?mode=stre
 vless://ba2970f1-7a57-4278-8c8d-2001788fe270@sss28357.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel
 vless://bbb1ce8e-684b-427f-89a0-42b8980f85f3@164.92.157.143:37677?path=/&security=none&encryption=none&type=ws#Channel
 vless://c185d3d9-4263-440c-8d89-2888efddd45a@195.201.32.169:57276?type=grpc&serviceName=FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL&authority=&security=none#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
-vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@daniel-garoosis.rest:27774?security=none&encryption=none&headerType=none&type=tcp#Channel
 vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@william-siasookhte.info:27774?security=none&encryption=none&headerType=none&type=tcp#Channel
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=fegth.samsung-funder.info#Channel
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=hwnhp.samsung-funder.info#Channel
-vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=pkghr.alphabet-funder.info#Channel
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=telya.alphabet-funder.info#Channel
 vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.98.35.110:443?mode=stream-one&path=/rf&security=none&encryption=none&type=xhttp#Channel
 vless://cc3afbee-5a0c-475e-85a0-fcb15236e2f7@m61a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
