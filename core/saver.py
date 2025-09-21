@@ -58,19 +58,24 @@ def generate_readme(protocol_counts: dict, country_counts: dict, all_keywords: d
     all_base64_links = []
 
     md_content = f"# Scrapper  \n\n"
-    md_content = f"> [!WARNING] \n"
-    md_content = f"> \n"
-    md_content = f"> **Last update:** {timestamp})\n"
-    md_content = f"> <br/> \n\n"
+    md_content += f"> [!WARNING] \n"
+    md_content += f"> "
+    md_content += f"> **Last update:** {timestamp})\n"
+    md_content += f"> لینک اشتراک مورد نظر را کپی و در کلاینت دلخواه وارد کنید.\n"
+    md_content += f"> "
+    md_content += f"> لینک‌ها هر 6 ساعت یکبار بروزرسانی می‌شوند.\n"
+    md_content += f"> <br><br/> \n\n"
+    md_content += '<div markdown="1" align="right">\n
     md_content += "## دسته‌بندی بر اساس پروتکل\n\n"
     md_content += "| **پروتکل** | **تعداد** | **لینک اشتراک** |\n|---------|:-----:|:-------------:|\n"
     for category, count in sorted(protocol_counts.items()):
         file_link = f"{normal_configs_url}/{category}.txt"
-        all_normal_links.append(file_link) # *** افزودن لینک به لیست ***
+        all_normal_links.append(file_link)
         md_content += f"| {category} | {count} | [`{category}.txt`]({file_link}) |\n"
     
     md_content += "\n## دسته‌بندی بر اساس کشور\n\n"
     md_content += "| **کشور** | **تعداد** | **لینک نرمال** | **لینک بیس۶۴** |\n|---------|:----:|---------|:--------:|\n"
+    md_content += "\n</div>\n"
     for country, count in sorted(country_counts.items()):
         keywords_list = all_keywords.get(country, [])
         iso_code = next((k.lower() for k in keywords_list if len(k) == 2 and k.isalpha()), None)
