@@ -47,7 +47,7 @@ def encode_and_save_base64(directory: str, filename: str, configs: set, logger: 
 def generate_readme(protocol_counts: dict, country_counts: dict, all_keywords: dict, logger: Logger):
     tz = pytz.timezone('Asia/Tehran')
     now = datetime.now(tz)
-    timestamp = now.strftime("%Y-%m-%d %H:%M:%S %Z")
+    timestamp = now.strftime("%Y-%m-%d %H:%M:%S")
     
     base_url = f"https://raw.githubusercontent.com/{settings.GITHUB_REPO_PATH}/refs/heads/{settings.GITHUB_BRANCH}"
     normal_configs_url = f"{base_url}/{settings.OUTPUT_DIR}"
@@ -60,7 +60,7 @@ def generate_readme(protocol_counts: dict, country_counts: dict, all_keywords: d
 
 > [!WARNING]
 >
-> **Last update:** {timestamp}
+> **Updated:** {timestamp} IRN
 > 
 > - لینک اشتراک مورد نظر را کپی و در کلاینت دلخواه وارد کنید.
 >
@@ -73,7 +73,7 @@ def generate_readme(protocol_counts: dict, country_counts: dict, all_keywords: d
 ## دسته‌بندی بر اساس پروتکل
 
 | **پروتکل** | **تعداد** | **لینک اشتراک** |
-|:---------|:-------:|:---------------:|
+|---------:|:-------:|:---------------:|
 """
     for category, count in sorted(protocol_counts.items()):
         file_link = f"{normal_configs_url}/{category}.txt"
@@ -84,7 +84,7 @@ def generate_readme(protocol_counts: dict, country_counts: dict, all_keywords: d
 ## دسته‌بندی بر اساس کشور
 
 | **کشور** | **تعداد** | **لینک نرمال** | **لینک بیس۶۴** |
-|:--------|:-------:|:--------------|:---------------:|
+|--------:|:-------:|:--------------|:---------------:|
 """
 
     for country, count in sorted(country_counts.items()):
@@ -99,7 +99,8 @@ def generate_readme(protocol_counts: dict, country_counts: dict, all_keywords: d
         base64_link = f"{base64_configs_url}/{country}.txt"
         
         md_content += f"| {country_display} | {count} | [`{country}.txt`]({normal_link}) | [`{country}.txt`]({base64_link}) |\n"
-        md_content += "\n</div>\n"
+
+    md_content += "\n</div>\n"
 
 
     try:
