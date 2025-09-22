@@ -1,4 +1,4 @@
-ss://400e64e9-50bd-4d98-acab-10bb07436c05@51.89.230.204:80?path=%2Fkvvuuws&security=none&encryption=none&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇬🇧%20GB%2090ms
+ss://400e64e9-50bd-4d98-acab-10bb07436c05@51.89.230.204:80?path=%2Fkvvuuws&security=none&encryption=none&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇬🇧%20GB%20122ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638938728943989934.esfahan-prx-dnraacl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
-vless://400e64e9-50bd-4d98-acab-10bb07436c05@51.89.230.204:80?path=%2Fkvvuuws&security=none&encryption=none&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇬🇧%20GB%2090ms
+vless://400e64e9-50bd-4d98-acab-10bb07436c05@51.89.230.204:80?path=%2Fkvvuuws&security=none&encryption=none&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇬🇧%20GB%20122ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938728943989934.esfahan-prx-dnraacl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3

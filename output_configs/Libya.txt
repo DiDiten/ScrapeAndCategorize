@@ -1,6 +1,2 @@
-ss://ac4c87df-f112-9469-2025-5eb79b227878@www.crehistory.org:2095?path=%2Fhu%3Fed%3D2095&security=none&encryption=none&host=www.dl3.crehistory.org&type=httpupgrade#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40flyv2ray%20%5B1%5D
-ss://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40flyv2ray%20%5B3%5D
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
-vless://ac4c87df-f112-9469-2025-5eb79b227878@www.crehistory.org:2095?path=%2Fhu%3Fed%3D2095&security=none&encryption=none&host=www.dl3.crehistory.org&type=httpupgrade#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40flyv2ray%20%5B1%5D
-vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40flyv2ray%20%5B3%5D
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
