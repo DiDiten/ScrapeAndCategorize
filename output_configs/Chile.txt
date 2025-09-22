@@ -14,7 +14,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp.in
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#%F0%9F%A5%8F5%40oneclickvpnkeys
 ss://e5979603-c215-4d5f-811a-316b45f6df17@167.71.8.192:23313/?type=ws&encryption=none&flow=&path=%2F#%E2%98%8E%EF%B8%8F1%40oneclickvpnkeys
 ss://e959d53c-91e9-459d-a332-d59ae89b3b4c@hdfynpv2d1.makingirangreatagain.com:443/?type=ws&encryption=none&flow=&path=%2FIyq035lnud9R8ruNNrqGxZZ2&security=tls&sni=hdfynpv2d1.makingirangreatagain.com#%F0%9F%92%BC54%40oneclickvpnkeys
-ss://f91e5d7f-ef6d-4efc-bae4-a88b41b19dfd@164.92.159.252:13110/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%A7%AC2%40oneclickvpnkeys
 ss://ff3685d5-f031-46d3-88c0-0b6b0d1f1558@64.227.41.160:57996?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ProxyCloud
 vless://3e3cec72-9eb4-4aa2-834d-b3c641ef1e6d@165.22.200.45:45323?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ProxyCloud%20DO%202
 vless://4bb35928-40bb-4bf3-95f1-9efdc4169147@159.223.209.139:46964?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20ProxyCloud%20DO
@@ -29,7 +28,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928668169310838.rasht-drc-tusabp
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880/?type=grpc&encryption=none&flow=&packetEncoding=xudp#%F0%9F%A5%8F5%40oneclickvpnkeys
 vless://e5979603-c215-4d5f-811a-316b45f6df17@167.71.8.192:23313/?type=ws&encryption=none&flow=&path=%2F#%E2%98%8E%EF%B8%8F1%40oneclickvpnkeys
 vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@hdfynpv2d1.makingirangreatagain.com:443/?type=ws&encryption=none&flow=&path=%2FIyq035lnud9R8ruNNrqGxZZ2&security=tls&sni=hdfynpv2d1.makingirangreatagain.com#%F0%9F%92%BC54%40oneclickvpnkeys
-vless://f91e5d7f-ef6d-4efc-bae4-a88b41b19dfd@164.92.159.252:13110/?type=ws&encryption=none&flow=&path=%2F#%F0%9F%A7%AC2%40oneclickvpnkeys
 vless://ff3685d5-f031-46d3-88c0-0b6b0d1f1558@64.227.41.160:57996?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20ProxyCloud
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiLwn5K8MzJAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJtdG5uLnB5ZGFyc2hvcC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibXRuLnB5ZGFyc2hvcC5pciIsImlkIjoiMzA3OTNjOTUtNmE4Mi00MGZkLTlhZjMtNjEzMGFjNDk4MzViIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiXC93c3M3MDAwP2VkPTIwNTYiLCJwb3J0IjoiODg4MCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6Ilx1Mjc1NCBYWCB8IFx1ZDgzZFx1ZGQxMyBWTUVTUyB8IEBweWRyaWNsdWIgWzRdIn0

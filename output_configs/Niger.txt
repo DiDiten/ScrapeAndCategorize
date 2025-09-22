@@ -27,7 +27,6 @@ ss://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun&se
 ss://432ee359-e9d6-4e69-be21-bda7bc28e7a3@152.42.129.207:45282?path=/&security=none&encryption=none&type=ws#Channel
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss11957.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss51454.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel
-ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss71706.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss94870.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel
 ss://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443/?type=ws&encryption=none&flow=&path=/wsss&security=tls&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#Channel
 ss://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?path=/wsss&security=tls&encryption=none&type=ws&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#Channel
@@ -40,7 +39,6 @@ ss://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d19.alaNhIaho.cOM&type=ws&sni=d19.alaNhIaho.cOM#Channel
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=D10.ALanHIAHo.cOm#Channel
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=D12.AlAnhiAHo.coM#Channel
-ss://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=D2.ALaNhIAhO.CoM#Channel
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=d15.alanhiAhO.cOm#Channel
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=d5.ALaNHiAHO.Com#Channel
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=/&security=tls&encryption=none&type=ws&sni=CFN06.ALaNHiaHo.COm#Channel
@@ -89,7 +87,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha
 ss://a0aff3a9-b700-4ff3-8f22-b1de6c07d08e@91.98.143.67:59372?security=none&encryption=none&headerType=none&type=tcp#Channel
 ss://a1a9906c-f387-4092-b73c-576dc510bad8@91.98.139.130:55873?flow=&type=tcp&headerType=none&security=none#Channel
 ss://a1a9906c-f387-4092-b73c-576dc510bad8@91.98.139.130:55873?security=none&encryption=none&headerType=none&type=tcp#Channel
-ss://aa077dd1-0a53-4313-8800-c9ac79a97003@sss72246.tas-bazi.com:443?mode=stream-one&path=/sef&security=&encryption=none&type=xhttp#Channel
 ss://aa650bee-b0c7-4ff0-a7d7-1c70fa13e678@95.216.154.179:45213?security=none&encryption=none&headerType=none&type=tcp#Channel
 ss://aac5267c-93e1-44d2-97a0-be936b98690a@m48a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
 ss://aac5267c-93e1-44d2-97a0-be936b98690a@m48a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
@@ -202,7 +199,6 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun
 vless://432ee359-e9d6-4e69-be21-bda7bc28e7a3@152.42.129.207:45282?path=/&security=none&encryption=none&type=ws#Channel
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss11957.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss51454.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss71706.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss94870.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel
 vless://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443/?type=ws&encryption=none&flow=&path=/wsss&security=tls&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#Channel
 vless://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?path=/wsss&security=tls&encryption=none&type=ws&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#Channel
@@ -215,7 +211,6 @@ vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=t
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d19.alaNhIaho.cOM&type=ws&sni=d19.alaNhIaho.cOM#Channel
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=D10.ALanHIAHo.cOm#Channel
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=D12.AlAnhiAHo.coM#Channel
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=D2.ALaNhIAhO.CoM#Channel
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=d15.alanhiAhO.cOm#Channel
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&type=ws&sni=d5.ALaNHiAHO.Com#Channel
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=/&security=tls&encryption=none&type=ws&sni=CFN06.ALaNHiaHo.COm#Channel
@@ -261,7 +256,6 @@ vless://9cd93450-6100-4dcd-99f3-6c86b8c5431e@91.98.139.132:44016?security=none&e
 vless://a0aff3a9-b700-4ff3-8f22-b1de6c07d08e@91.98.143.67:59372?security=none&encryption=none&headerType=none&type=tcp#Channel
 vless://a1a9906c-f387-4092-b73c-576dc510bad8@91.98.139.130:55873?flow=&type=tcp&headerType=none&security=none#Channel
 vless://a1a9906c-f387-4092-b73c-576dc510bad8@91.98.139.130:55873?security=none&encryption=none&headerType=none&type=tcp#Channel
-vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss72246.tas-bazi.com:443?mode=stream-one&path=/sef&security=&encryption=none&type=xhttp#Channel
 vless://aa650bee-b0c7-4ff0-a7d7-1c70fa13e678@95.216.154.179:45213?security=none&encryption=none&headerType=none&type=tcp#Channel
 vless://aac5267c-93e1-44d2-97a0-be936b98690a@m48a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
 vless://aac5267c-93e1-44d2-97a0-be936b98690a@m48a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
