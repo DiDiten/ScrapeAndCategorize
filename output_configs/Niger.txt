@@ -150,7 +150,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?mode=gun&security=no
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?encryption=none&security=none&fp=chrome&type=grpc#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 ss://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?path=/cdfighws&security=tls&encryption=none&type=ws#Channel
-ss://e323c1bf-9e9a-0336-961a-b813ac35fd4b@close-softmeto.ir:80?security=&encryption=none&type=ws#Channel
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v5.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh23v5.vetrkot.com#Channel
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh26v5.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh26v5.vetrkot.com#Channel
@@ -345,7 +344,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.163:8880?encryption=none&security=none&fp=chrome&type=grpc#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?path=/cdfighws&security=tls&encryption=none&type=ws#Channel
-vless://e323c1bf-9e9a-0336-961a-b813ac35fd4b@close-softmeto.ir:80?security=&encryption=none&type=ws#Channel
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v5.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh23v5.vetrkot.com#Channel
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh26v5.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh26v5.vetrkot.com#Channel
