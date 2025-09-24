@@ -235,6 +235,7 @@ ss://ed7f3703-29d7-42ca-b8bd-a4b291422921@www.speedtest.net:443?encryption=none&
 ss://ed7f3703-29d7-42ca-b8bd-a4b291422921@www.speedtest.net:443?encryption=none&security=tls&sni=spring-dream-2210.votapi4213.workers.dev&fp=randomized&type=ws&host=spring-dream-2210.votapi4213.workers.dev&path=%2Ftr----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join---EXPRESSVPN_420---Join----EXPRESSVPN_420---Join---EXPRESSVPN_420%2F%3Fed%3D2048#qoli_0459
 ss://ed87c882-17f3-491a-810c-c0000e4b279e@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#%40v2Meli
 ss://ed87c882-17f3-491a-810c-c0000e4b279e@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#%40v2Meli
+ss://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss21653.tas-bazi.com:443?mode=stream-one&path=%2Frty&security=&encryption=none&type=xhttp#@meli_proxyy
 ss://f2d24388-0231-4b66-b947-d22a2f7fdac0@blackpool-dashbord-fast-provider-net.varzesh313.ir:2083?security=none&encryption=none&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40meli_v2rayng%20%5B17%5D
 ss://f4b81795-2e5a-4584-ea25-44bc16e8fc2c@37.27.220.198:2001?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40v2Meli
 ss://f6f0196d-4484-4a17-9553-0c4b646cde7c@185.146.173.95:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40meli_v2rayng%20%5B26%5D
@@ -478,6 +479,7 @@ vless://ed7f3703-29d7-42ca-b8bd-a4b291422921@www.speedtest.net:443?encryption=no
 vless://ed7f3703-29d7-42ca-b8bd-a4b291422921@www.speedtest.net:443?encryption=none&security=tls&sni=spring-dream-2210.votapi4213.workers.dev&fp=randomized&type=ws&host=spring-dream-2210.votapi4213.workers.dev&path=%2Ftr----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join---EXPRESSVPN_420---Join----EXPRESSVPN_420---Join---EXPRESSVPN_420%2F%3Fed%3D2048#qoli_0459
 vless://ed87c882-17f3-491a-810c-c0000e4b279e@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#%40v2Meli
 vless://ed87c882-17f3-491a-810c-c0000e4b279e@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#%40v2Meli
+vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss21653.tas-bazi.com:443?mode=stream-one&path=%2Frty&security=&encryption=none&type=xhttp#@meli_proxyy
 vless://f2d24388-0231-4b66-b947-d22a2f7fdac0@blackpool-dashbord-fast-provider-net.varzesh313.ir:2083?security=none&encryption=none&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40meli_v2rayng%20%5B17%5D
 vless://f4b81795-2e5a-4584-ea25-44bc16e8fc2c@37.27.220.198:2001?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40v2Meli
 vless://f6f0196d-4484-4a17-9553-0c4b646cde7c@185.146.173.95:2095?path=%2F&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40meli_v2rayng%20%5B26%5D

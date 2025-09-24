@@ -141,7 +141,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYjYyY2FjYi01NjM3LTRlYTktYWQ2YS1mYTlmOTU4ZTUwZTE=@111.253.193.168:10122#@Dropcube⚡❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0294
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0299
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0303
 ss://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@dropcube
 ss://a34aad27-6d0e-43ab-8e18-0d50fd6a01cf@adf.ly:2052?path=?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=none&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-5.RaYaN-5.ClOuDnS.ClUb&fp=chrome&type=ws#@Dropcube
 ss://a3eb5fef-d11f-4bc4-a8eb-2b0069fb0b68@185.242.87.84:443?path=/jzonrlws?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=tls&encryption=none&fp=chrome&type=ws#@Dropcube⚡❤️‍🔥
@@ -200,9 +200,6 @@ ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443
 ss://f073c5a2-827c-473b-8ea1-0dcb83c8ebf0@amspanel6.hipay.su:443?security=reality&encryption=none&pbk=eamx5zeQt07skP5CVEMCuyFAwlOVmdXwnjAvhWjTlTQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ams6.hipay.su&sid=eb7fc73605f88074#@Dropcube
 ss://f282b878-8711-45a1-8c69-5564172123c1@104.21.42.42:80?path=/aioproxybot/146.190.192.43-80&security=none&encryption=none&host=aio.zipzap.biz.id&type=ws#@Dropcube
 ss://f3528ca9-bd6e-4e0e-c790-d85e75d3ba57@www.speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@Dropcube
-ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=none&encryption=none&fp=chrome&type=ws#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=none&encryption=none&host=%2F%3F%40Hddify&type=ws#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=none&encryption=none&type=ws#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=none&encryption=none&type=ws#@Dropcube⚡❤️‍🔥
 ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=none&encryption=none&type=ws#@Dropcube⚡❤️‍🔥
 ss://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=app.chandplus.com#@Dropcube⚡❤️‍🔥
@@ -399,9 +396,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8
 vless://f073c5a2-827c-473b-8ea1-0dcb83c8ebf0@amspanel6.hipay.su:443?security=reality&encryption=none&pbk=eamx5zeQt07skP5CVEMCuyFAwlOVmdXwnjAvhWjTlTQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ams6.hipay.su&sid=eb7fc73605f88074#@Dropcube
 vless://f282b878-8711-45a1-8c69-5564172123c1@104.21.42.42:80?path=/aioproxybot/146.190.192.43-80&security=none&encryption=none&host=aio.zipzap.biz.id&type=ws#@Dropcube
 vless://f3528ca9-bd6e-4e0e-c790-d85e75d3ba57@www.speedtest.net:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@Dropcube
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=none&encryption=none&fp=chrome&type=ws#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=none&encryption=none&host=%2F%3F%40Hddify&type=ws#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=none&encryption=none&type=ws#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=none&encryption=none&type=ws#@Dropcube⚡❤️‍🔥
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=none&encryption=none&type=ws#@Dropcube⚡❤️‍🔥
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=app.chandplus.com#@Dropcube⚡❤️‍🔥
