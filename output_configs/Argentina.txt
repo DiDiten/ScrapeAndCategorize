@@ -49,14 +49,13 @@ ss://Parsashonam-312@185.146.173.39:8880?type=httpupgrade&path=%2FParsashonam-Pa
 ss://Parsashonam-312@185.146.173.39:8880?type=httpupgrade&path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam
 ss://Parsashonam-312@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40parsashonam%20%5B11%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%40ParsiV2ray%20%D9%BE%D8%B1%20%D8%B3%D8%B1%D8%B9%D8%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dGFMNENueUczU0g1RUVzN1BFNzVj@190.103.176.123:8443#%F0%9F%87%A6%F0%9F%87%B7%20ShatakVPN%20536052
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dGFMNENueUczU0g1RUVzN1BFNzVj@190.103.176.123:8443#%F0%9F%87%A6%F0%9F%87%B7%20ShatakVPN%20560102
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%2C%2014%2C%20Poland%20%281%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcHplNGx5ajhGRmREaXhPa2YySzJvUTRySFg3VnE5eEM5dUt3Qmd2UVlETnhMZjg=@180.149.44.105:31348#Azarbaijan🇦🇿-@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTkdGd0Y0RkRhQTZVR1R1Snk1OWFP@moz-dozd.sbs:443#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE@89.223.93.176:41348#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%2C%2014%2C%20Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%F0%9F%87%A6%F0%9F%87%B7%20ShatakVPN%20890676
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%F0%9F%87%A6%F0%9F%87%B7%20ShatakVPN%20489046
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%F0%9F%87%A6%F0%9F%87%B7AR-38.54.45.129-0311
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%F0%9F%87%A6%F0%9F%87%B7AR-38.54.45.129-4942
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%40Arshiavpn12%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C`
 ss://ac93caa8-fc75-4bc8-bbb9-f09d964b5d69@updatem.faraservice.space:3209?mode=gun&security=reality&encryption=none&pbk=22YtANl_6-2LKrTdIfArHahVa1L0lo86Y8jhHVU-Iis&fp=chrome&spx=%2F&type=grpc&sni=dash.cloudflare.com&sid=3679c72c#ar14n24b%20🔒%20VL-GRPC-%20🇳🇱%20NL%20153ms
 ss://ac93caa8-fc75-4bc8-bbb9-f09d964b5d69@updatem.faraservice.space:3209?mode=gun&security=reality&encryption=none&pbk=22YtANl_6-2LKrTdIfArHahVa1L0lo86Y8jhHVU-Iis&fp=chrome&spx=%2F&type=grpc&sni=dash.cloudflare.com&sid=3679c72c#ar14n24b%20🔒%20VL-GRPC-%20🇳🇱%20NL%20173ms
