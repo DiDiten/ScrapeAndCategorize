@@ -1,5 +1,4 @@
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F&security=tls&encryption=none&type=ws&sni=CFn07.alanhIAhO.COM#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
-ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F&security=tls&encryption=none&type=ws&sni=Cfn13.aLAnhIahO.COM#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F&security=tls&encryption=none&type=ws&sni=gFN06.alanHiAho.Com#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 ss://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#mrsoulb%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20179ms
 ss://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-uae4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-uae4-cdn.fastfilecdn.org&fp=firefox&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇦🇪%20AE%20262ms
@@ -11,7 +10,6 @@ ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v2.vetrkot.com:8880?mode=gun&secu
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v2.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh24v2.vetrkot.com#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v7.vetrkot.com#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F&security=tls&encryption=none&type=ws&sni=CFn07.alanhIAhO.COM#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F&security=tls&encryption=none&type=ws&sni=Cfn13.aLAnhIahO.COM#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F&security=tls&encryption=none&type=ws&sni=gFN06.alanHiAho.Com#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#mrsoulb%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20179ms
 vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-uae4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-uae4-cdn.fastfilecdn.org&fp=firefox&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇦🇪%20AE%20262ms
