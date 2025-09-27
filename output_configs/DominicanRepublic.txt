@@ -15,8 +15,7 @@ ss://WomanLifeFreedomVPN@google.wlftest.xyz:80?type=tcp&path=%2F&host=www.google
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1JSZTd0VE5kVDU5Z2lma01xb2Yw@89.185.84.185:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%283%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#%F0%9F%87%AC%F0%9F%87%A7%20London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#%F0%9F%87%B2%F0%9F%87%B0%20Skopje%2C%20North%20Macedonia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40netfreedom0%20%5B18%5D
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40netfreedom0%20%5B20%5D
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40netfreedom0%20%5B19%5D
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.194:443#%40v2FreeHub%20%7C%20United%20Kingdom
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#%40v2FreeHub%20%7C%20United%20Kingdom
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.196:443#%F0%9F%87%AC%F0%9F%87%A7%20London%2C%20ENG%2C%20United%20Kingdom%20%285%29
@@ -61,5 +60,5 @@ vless://f23b820b-b88f-4c40-8b20-b4b36629f6b1@sss15894.tas-bazi.com:443?mode=stre
 vless://f23b820b-b88f-4c40-8b20-b4b36629f6b1@sss70053.tas-bazi.com:443?mode=stream-one&path=%2Fxhttp&security=&encryption=none&type=xhttp#mrsoulb%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 vless://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#mrsoulb%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20down
 vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&encryption=none&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=4476a3#fr33c0nfig%20🔒%20VL-TCP-%20🇹🇷%20TR%20down
-vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjE1IiwiYWlkIjoiMSIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJrYXQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgREUgfCBcdWQ4M2RcdWRkMTIgVk1FU1MgfCBAbmV0ZnJlZWRvbTAgWzE5XSJ9
+vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjE1IiwiYWlkIjoiMSIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJrYXQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgREUgfCBcdWQ4M2RcdWRkMTIgVk1FU1MgfCBAbmV0ZnJlZWRvbTAgWzE4XSJ9
 vmess://eyJhZGQiOiIyMDAxOjQxZDA6NzBlOmMxMDA6OiIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cFwvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoic2Vya2F0Lm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoidnBuc2VydmVycnIgXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdTI3NTQgWFggZG93biIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJrYXQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
