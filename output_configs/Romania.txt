@@ -26,7 +26,6 @@ ss://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-de4-cdn.fastfilecdn.org:2052?path=
 ss://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-fr4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-fr4-cdn.fastfilecdn.org&fp=chrome&type=ws#@V2RAYROZ
 ss://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-uae4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-uae4-cdn.fastfilecdn.org&fp=chrome&type=ws#@V2RAYROZ
 ss://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-uk4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-uk4-cdn.fastfilecdn.org&fp=chrome&type=ws#@V2RAYROZ
-ss://FreakConfig5@45.93.170.122:443?mode=auto&path=/&security=reality&encryption=none&pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&host=freakconfig.snapfood.org&fp=chrome&spx=/&type=xhttp&sni=refersion.com&sid=6993f143e90756#@V2RAYROZ
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206LzlwTGtHQWRsQ1VrQ0xHYjNOMVBESnh1K3hMY2ZXTEFMZHZoS2tvV0owMD06ZmxUcTB3OUQ3RzFqN2lUd2JXTVlDRDRhVDFMRlVKYmd2V0prenpjQ3ZHZz0@195.22.157.104:22577#ROSE%E2%80%931481
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206clczL2ljVjc0ei9nTk4xVmNwZ3IvRFgvVUxGcDh3OE9aZytoUFdHb2hodz06ZmxUcTB3OUQ3RzFqN2lUd2JXTVlDRDRhVDFMRlVKYmd2V0prenpjQ3ZHZz0@195.22.157.104:24754#ROSE%E2%80%93308
 ss://Parsashonam-310@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@V2RAYROZ
@@ -47,9 +46,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%E2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@exchange.gameaurela.click:52952#ROSE%E2%80%93454
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080#ROSE%E2%80%93L087
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080#ROSE%E2%80%93778
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMm9jSldab2hYckU=@77.83.245.169:443#%F0%9F%87%B7%F0%9F%87%B4RO%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSOU1vOTlWTWZkbXBiWGRGbnZKNHdj@45.95.232.236:4248#@V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#ROSE%E2%80%93L034
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%F0%9F%87%B7%F0%9F%87%B4RO-185.126.237.38-0238
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%F0%9F%87%B7%F0%9F%87%B4RO-185.126.237.38-0271
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%F0%9F%87%B7%F0%9F%87%B4RO-185.126.237.38-0283
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#ROSE%E2%80%93RO_80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#ROSE%E2%80%9352
@@ -201,13 +200,11 @@ ss://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&en
 ss://af4b661e-c280-4642-a820-df8d01bebc6b@Ger-server3-panyous.tap30.sbs:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=e41865e506628f44#@V2RAYROZ
 ss://b1b2586d-358d-45fe-b0b1-01861fe40eea@www.speedtest.net:80?path=/ali&security=none&encryption=none&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.&type=ws#@V2RAYROZ
 ss://b6977b89-c21a-46b3-ac1c-6e6dac52939a@141.227.134.24:12393?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@V2RAYROZ
-ss://ba4a9b9f-1bc5-4cd3-b5a2-a1245f69cf2f@FASTSHOVPNTELEGRAM2.vinamarketcenter.ir:80?path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#@V2RAYROZ
 ss://ba4c59a5-2e7d-4dc4-c115-27615c978e66@91.98.133.38:443?mode=stream-one&path=/dsf&security=reality&encryption=none&pbk=IbRZfIHJGx6UojlE1uoHJ-eBAXF92z5ST0DrQA7-mDw&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#@V2RAYROZ
 ss://bd610ee9-54fd-4f7c-b3e0-4b3114ee2c95@57.130.11.49:25365?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@V2RAYROZ
 ss://cf556419-247c-4d04-969e-8742b836f364@canadaa.motorbazan.com:8443?security=reality&encryption=none&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com#@V2RAYROZ
 ss://cf556419-247c-4d04-969e-8742b836f364@uka.motorbazan.com:8443?security=reality&encryption=none&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com#@V2RAYROZ
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.122:8080#ROSE%E2%80%93529
-ss://d317af4b-d13f-49f3-9fad-b62af1eb4054@tmz.ip4core.ir:80?mode=auto&path=/&security=none&encryption=none&host=uk.acanto.ir&type=xhttp#@V2RAYROZ
 ss://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#@V2RAYROZ
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@V2RAYROZ
@@ -215,7 +212,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638925841028493287.berlin-drc-dcrabj.i
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638932111805004627.rasht-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638936661878823466.ahvaz-drc-tusacae.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008237661.vienna-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&authority=skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%F0%9F%91%91%F0%9F%A4%8D%20%40skypro_vpn
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008242773.vienna-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&authority=skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---&type=grpc#%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF%D8%AF%D8%AF%D8%AF%F0%9F%AB%B6%F0%9F%A9%B5%20%40skypro_vpn
@@ -231,7 +227,6 @@ ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?mode=gun&security
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v7.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh24v7.vetrkot.com#@V2RAYROZ
-ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v2.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v5.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 ss://e6dd5a23-6e0e-4ad5-a06e-bff0f55ba217@151.101.3.8:80?mode=auto&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#@V2RAYROZ
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#@V2RAYROZ
@@ -240,7 +235,6 @@ ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#@V2RAYROZ
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#@V2RAYROZ
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#@V2RAYROZ
-ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#@V2RAYROZ
 ss://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:1010?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
 ss://edd716ae-7d5a-44f7-a0ed-a615eab0c766@141.94.168.171:32647?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@V2RAYROZ
 ss://ee4ef2b9-3493-48e8-f8c7-faa7026cb957@FASTSHOVPNTELEGRAM2.vinamarketcenter.ir:80?path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#@V2RAYROZ
@@ -296,7 +290,6 @@ vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-de4-cdn.fastfilecdn.org:2052?pa
 vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-fr4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-fr4-cdn.fastfilecdn.org&fp=chrome&type=ws#@V2RAYROZ
 vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-uae4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-uae4-cdn.fastfilecdn.org&fp=chrome&type=ws#@V2RAYROZ
 vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-uk4-cdn.fastfilecdn.org:2052?path=/&security=none&encryption=none&host=dl5-uk4-cdn.fastfilecdn.org&fp=chrome&type=ws#@V2RAYROZ
-vless://FreakConfig5@45.93.170.122:443?mode=auto&path=/&security=reality&encryption=none&pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&host=freakconfig.snapfood.org&fp=chrome&spx=/&type=xhttp&sni=refersion.com&sid=6993f143e90756#@V2RAYROZ
 vless://Parsashonam-310@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@V2RAYROZ
 vless://Telegram-v2ray_configs_pools-@91.107.129.66:2040?mode=gun&security=reality&encryption=none&authority=-@v2ray_configs_pools---@v2ray_configs_pools---@v2ray_configs_pools---@v2ray_configs_pools&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&fp=chrome&spx=/&type=grpc&sni=journalofbigdata.springeropen.com&sid=3078f8f691b6b4#@V2RAYROZ
 vless://a46c9433-3260-4a8f-aeda-ff24acb8d406@abc.imsurn.ir:443?security=reality&encryption=none&pbk=hgBH1Tu_N4Xh_uUmg3F_A3kzd3sV86kMn7SiXmbRBUw&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org#@V2RAYROZ
@@ -305,12 +298,10 @@ vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none
 vless://af4b661e-c280-4642-a820-df8d01bebc6b@Ger-server3-panyous.tap30.sbs:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=e41865e506628f44#@V2RAYROZ
 vless://b1b2586d-358d-45fe-b0b1-01861fe40eea@www.speedtest.net:80?path=/ali&security=none&encryption=none&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.&type=ws#@V2RAYROZ
 vless://b6977b89-c21a-46b3-ac1c-6e6dac52939a@141.227.134.24:12393?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@V2RAYROZ
-vless://ba4a9b9f-1bc5-4cd3-b5a2-a1245f69cf2f@FASTSHOVPNTELEGRAM2.vinamarketcenter.ir:80?path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#@V2RAYROZ
 vless://ba4c59a5-2e7d-4dc4-c115-27615c978e66@91.98.133.38:443?mode=stream-one&path=/dsf&security=reality&encryption=none&pbk=IbRZfIHJGx6UojlE1uoHJ-eBAXF92z5ST0DrQA7-mDw&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#@V2RAYROZ
 vless://bd610ee9-54fd-4f7c-b3e0-4b3114ee2c95@57.130.11.49:25365?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@V2RAYROZ
 vless://cf556419-247c-4d04-969e-8742b836f364@canadaa.motorbazan.com:8443?security=reality&encryption=none&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com#@V2RAYROZ
 vless://cf556419-247c-4d04-969e-8742b836f364@uka.motorbazan.com:8443?security=reality&encryption=none&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com#@V2RAYROZ
-vless://d317af4b-d13f-49f3-9fad-b62af1eb4054@tmz.ip4core.ir:80?mode=auto&path=/&security=none&encryption=none&host=uk.acanto.ir&type=xhttp#@V2RAYROZ
 vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?security=reality&encryption=none&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=latvia6.clearorbitllc.com&sid=81e0b568#@V2RAYROZ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@V2RAYROZ
@@ -318,7 +309,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638925841028493287.berlin-drc-dcrab
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932111805004627.rasht-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936661878823466.ahvaz-drc-tusacae.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008237661.vienna-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&authority=skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%F0%9F%91%91%F0%9F%A4%8D%20%40skypro_vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008242773.vienna-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&authority=skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---&type=grpc#%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%DB%8C%D8%AF%D8%AF%D8%AF%D8%AF%F0%9F%AB%B6%F0%9F%A9%B5%20%40skypro_vpn
@@ -334,7 +324,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?mode=gun&secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v7.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh24v7.vetrkot.com#@V2RAYROZ
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v2.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v5.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://e6dd5a23-6e0e-4ad5-a06e-bff0f55ba217@151.101.3.8:80?mode=auto&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#@V2RAYROZ
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#@V2RAYROZ
@@ -343,7 +332,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=t
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#@V2RAYROZ
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#@V2RAYROZ
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#@V2RAYROZ
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=S5eW9e55Sx.SoLeNtRaA.iNfO#@V2RAYROZ
 vless://ed82ccaa-4924-41a6-90a1-8facadf38841@93.127.180.123:1010?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
 vless://edd716ae-7d5a-44f7-a0ed-a615eab0c766@141.94.168.171:32647?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@V2RAYROZ
 vless://ee4ef2b9-3493-48e8-f8c7-faa7026cb957@FASTSHOVPNTELEGRAM2.vinamarketcenter.ir:80?path=/FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM?ed=2048&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#@V2RAYROZ

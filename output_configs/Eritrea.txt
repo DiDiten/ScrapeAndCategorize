@@ -16,6 +16,7 @@ ss://07f59e57-3856-4b82-b9d1-a11bef08cc4a@37.27.185.47:443?security=reality&encr
 ss://07f59e57-3856-4b82-b9d1-a11bef08cc4a@[2604:2dc0:101:200::2c69]:443?security=reality&encryption=none&pbk=sYwKWy1SJ3q9XzIpI-LrBPyMkueCc1NtjjMCht-LKSs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=a5837487270bc5c1#@vpnserverrr_Premium
 ss://07f59e57-3856-4b82-b9d1-a11bef08cc4a@[2a01:4f9:c012:80c::1]:443?security=reality&encryption=none&pbk=sYwKWy1SJ3q9XzIpI-LrBPyMkueCc1NtjjMCht-LKSs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=a5837487270bc5c1#@vpnserverrr_Premium
 ss://0c20e360-26cd-4212-9f85-e188d04d72ba@95.164.68.37:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=WuV0Uu4BXukDeBYQR2OtDgb_aKjs3u0tU-ENHSjtTmY&sni=google.com#VPNKEY-Germany
+ss://0e754968-e86c-4f1e-a6dd-80d4b73a1452@67.230.161.36:25110?security=none&encryption=none&headerType=none&type=tcp#@vpnserverrr
 ss://12471e51-fcd4-421c-a71f-2ef755c34fec@[2a01:4f9:c010:1ac8::1]:8443?path=%2F%40InterNet_Nor&security=none&encryption=none&type=ws#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40internet_nor%20%5B1%5D
 ss://1d5f8279-6324-438f-d331-5ce427c1bb35@ERFWPtelegram.vinamarketcenter.ir:8080?type=ws&path=/ERFWPtelegram-ERFWPtelegram-ERFWPtelegram-ERFWPtelegram-ERFWPtelegram-ERFWPtelegram?ed=2048&host=eng.vinamarketcenter.ir&security=none#@ERFWP
 ss://201c05a2-f76b-4088-bb1d-e4c8ee8909dd@germansana.kesslershop.ir:8997?type=tcp&security=reality&pbk=UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8&fp=firefox&sni=refersion.com&sid=f23d09&spx=%2FKesslerVPN&flow=xtls-rprx-vision#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40kesslervpn%20%5B3%5D
@@ -42,7 +43,6 @@ ss://6440eea2-19ac-4d64-91e7-7876a6ac5912@mci.itbookshop.dpdns.org:443?path=/&se
 ss://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#@vpnserverrr
 ss://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@vpnserverrr
 ss://6e305621-9c57-417a-aed1-95024bc5f6b2@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kingofilter%20%5B2%5D
-ss://6fae85ca-395a-4f27-9eb2-75123befc475@176.114.86.241:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@vpnserverrr
 ss://70f64a2a-6628-4191-b658-6791d801ea32@v-2rayngvpn1.ddns.net:56068?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mastervpnshop1%20%5B17%5D
 ss://75a4cc28-9b05-4338-8d22-10aa0fba1e90@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kingofilter%20%5B1%5D
 ss://764a13da-76a5-4bc0-a2c9-e2a02f62408f@[2a01:4f8:1c1b:7df::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#@Everyday_VPN
@@ -56,8 +56,6 @@ ss://965416e8-326c-49a5-94d9-f99daed20455@46.101.127.35:17168?security=none&encr
 ss://9a37131b-2b68-427f-a2fc-cc7381c2d575@glEefUL-ERror.sEoTOoLSfOrYou.cO.UK:80?path=%2F&security=none&encryption=none&type=ws#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40nofilter_v2rayng%20%5B4%5D
 ss://9c513d26-a5df-4c4e-a0b2-a0f81ca8dcf9@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-123
 ss://9e890db0-905d-41d2-8a69-0a35ff7d8ce3@[2a03:b0c0:3:d0::10ad:7001]:29360?type=tcp&security=reality&pbk=WeBcvXnjj4LbVsAT2lTbZ3JbvoqE4S_rON9h-7DjrHo&fp=firefox&sni=#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40kesslervpn%20%5B2%5D
-ss://Parsashonam-307@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@vpnserverrr
-ss://Parsashonam-307@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@vpnserverrr
 ss://SERVERNETT-SERVERNETT1@alo4.sernett.ir:8080?mode=auto&path=%2F&security=&encryption=none&type=xhttp#%3E%3E%40ServerNett%3A%3AXX
 ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05UcE5aMFZWT0hGVGJIZG1OVE0lM0Q6@83.217.9.64:443#vpnserverrr%20🔒%20SS-TCP-TLS%20🇹🇷%20TR%20120ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@ch03.giamping.com:8080#%F0%9F%87%A8%F0%9F%87%AD%20Zurich%2C%20ZH%2C%20Switzerland%20%285%29
@@ -74,7 +72,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@ltnl14.saint.ydns.eu:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%2852%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4d2hKS1FHVTZFQnRDUVd3U2Y0a09r@95.181.162.236:20904#vpnserverrr%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%20101ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4d2hKS1FHVTZFQnRDUVd3U2Y0a09r@95.181.162.236:20904#🇳🇱@vpnserverrr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40serverv2ray00%20%5B20%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40serverv2ray00%20%5B20%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@141.98.4.67:52952#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%2828%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNZ0VVOHFTbHdmNTM=@83.217.9.64:443#🇹🇷64@@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbXYxSlRXbERVQUJrQWJPbmFKNFRm@80.242.56.218:50042#vpnserverrr%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%2087ms
@@ -114,9 +112,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#%F0%9F%87%
 ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@45.145.42.70:25366#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40merdesert%20%5B3%5D
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.161:443#%40v2FreeHub%20%7C%20Switzerland
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#%40v2FreeHub%20%7C%20Switzerland`
-ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA==@45.129.2.145:20291#@vpnserverrr
 ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ==@195.58.49.100:1901#🇷🇺0@vpnserverrr
-ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ==@185.22.154.19:19010#@vpnserverrr
+ss://YWVzLTI1Ni1nY206blI1RDJaWk9Mcg==@67.230.161.36:57753#@vpnserverrr
 ss://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40filterk0sh%20%5B26%5D
 ss://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:8880?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40filterk0sh%20%5B27%5D
 ss://a1591bed-6c12-41cf-93c8-9bcb787ffd16@[2a01:4f9:c010:1ac8::1]:13269?security=none&encryption=none&headerType=none&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40internet_nor%20%5B2%5D
@@ -125,7 +122,6 @@ ss://a630a4c4-9472-4b9e-9a8f-f1e1fe8c26c2@salar.mohad.sbs:80?path=%2F&security=n
 ss://ac93caa8-fc75-4bc8-bbb9-f09d964b5d69@updatem.faraservice.space:3209?mode=gun&security=reality&encryption=none&pbk=22YtANl_6-2LKrTdIfArHahVa1L0lo86Y8jhHVU-Iis&fp=chrome&spx=/&type=grpc&sni=dash.cloudflare.com&sid=3679c72c#@vpnserverrr
 ss://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%203
 ss://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#%F0%9F%91%91%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-ss://b754b53a-aaf5-475c-eeed-46806c2aa63f@kifpool.me:443?path=/&security=tls&encryption=none&host=nkang2replace.airlineshoma.com&fp=chrome&type=ws&sni=nkang2replace.airlineshoma.com#@vpnserverrr
 ss://bbe40614-335f-47ea-9bf4-1ebb7eb29477@erfwp.fast.hosting-ip.com:80?type=xhttp&path=/erfwp?ed=2048&host=erfwp.com&mode=auto&security=none#@erfwp
 ss://bf9a82b2-00dc-45b6-8615-47d2a72c6c96@iran.nikirani.sfree.persianmemberiranmember.shop:8881?mode=gun&security=reality&encryption=none&pbk=-8EeqVrZ8S9R4yAoTrUx6F85-9bw7O-Hz_bYzcY0xBA&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=ghbi.ir&sid=64c204e5#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40persian_proxy6%20%5B3%5D
 ss://c34a9f73-3c11-4614-90ff-196add3fa4aa@157.230.28.73:23353?type=tcp&security=reality&pbk=OItbKB3XzCXKysSNBIUZ7fDAfASACK_ucLrU6NAAFAU&fp=firefox&sni=%2A.sourceforge.net&sid=a98a22e2&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40jokerv2ray%20%5B17%5D
@@ -146,9 +142,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=none&encryption=none&type=grpc#vpnserverrr%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2081ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048%40PLANB_PROXY&fp=chrome&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%E2%AD%90%20The%20Netherlands
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929320863717328.malayer-drc-tusabq.info:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931501605817853.lahijan-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942912656604786.malayer-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942912656604786.malayer-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#vpnserverrr%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20248ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
@@ -199,6 +192,7 @@ vless://07f59e57-3856-4b82-b9d1-a11bef08cc4a@37.27.185.47:443?security=reality&e
 vless://07f59e57-3856-4b82-b9d1-a11bef08cc4a@[2604:2dc0:101:200::2c69]:443?security=reality&encryption=none&pbk=sYwKWy1SJ3q9XzIpI-LrBPyMkueCc1NtjjMCht-LKSs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=a5837487270bc5c1#@vpnserverrr_Premium
 vless://07f59e57-3856-4b82-b9d1-a11bef08cc4a@[2a01:4f9:c012:80c::1]:443?security=reality&encryption=none&pbk=sYwKWy1SJ3q9XzIpI-LrBPyMkueCc1NtjjMCht-LKSs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=a5837487270bc5c1#@vpnserverrr_Premium
 vless://0c20e360-26cd-4212-9f85-e188d04d72ba@95.164.68.37:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=WuV0Uu4BXukDeBYQR2OtDgb_aKjs3u0tU-ENHSjtTmY&sni=google.com#VPNKEY-Germany
+vless://0e754968-e86c-4f1e-a6dd-80d4b73a1452@67.230.161.36:25110?security=none&encryption=none&headerType=none&type=tcp#@vpnserverrr
 vless://12471e51-fcd4-421c-a71f-2ef755c34fec@[2a01:4f9:c010:1ac8::1]:8443?path=%2F%40InterNet_Nor&security=none&encryption=none&type=ws#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40internet_nor%20%5B1%5D
 vless://1d5f8279-6324-438f-d331-5ce427c1bb35@ERFWPtelegram.vinamarketcenter.ir:8080?type=ws&path=/ERFWPtelegram-ERFWPtelegram-ERFWPtelegram-ERFWPtelegram-ERFWPtelegram-ERFWPtelegram?ed=2048&host=eng.vinamarketcenter.ir&security=none#@ERFWP
 vless://201c05a2-f76b-4088-bb1d-e4c8ee8909dd@germansana.kesslershop.ir:8997?type=tcp&security=reality&pbk=UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8&fp=firefox&sni=refersion.com&sid=f23d09&spx=%2FKesslerVPN&flow=xtls-rprx-vision#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40kesslervpn%20%5B3%5D
@@ -225,7 +219,6 @@ vless://6440eea2-19ac-4d64-91e7-7876a6ac5912@mci.itbookshop.dpdns.org:443?path=/
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#@vpnserverrr
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@vpnserverrr
 vless://6e305621-9c57-417a-aed1-95024bc5f6b2@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kingofilter%20%5B2%5D
-vless://6fae85ca-395a-4f27-9eb2-75123befc475@176.114.86.241:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@vpnserverrr
 vless://70f64a2a-6628-4191-b658-6791d801ea32@v-2rayngvpn1.ddns.net:56068?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mastervpnshop1%20%5B17%5D
 vless://75a4cc28-9b05-4338-8d22-10aa0fba1e90@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kingofilter%20%5B1%5D
 vless://764a13da-76a5-4bc0-a2c9-e2a02f62408f@[2a01:4f8:1c1b:7df::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#@Everyday_VPN
@@ -239,8 +232,6 @@ vless://965416e8-326c-49a5-94d9-f99daed20455@46.101.127.35:17168?security=none&e
 vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@glEefUL-ERror.sEoTOoLSfOrYou.cO.UK:80?path=%2F&security=none&encryption=none&type=ws#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40nofilter_v2rayng%20%5B4%5D
 vless://9c513d26-a5df-4c4e-a0b2-a0f81ca8dcf9@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-123
 vless://9e890db0-905d-41d2-8a69-0a35ff7d8ce3@[2a03:b0c0:3:d0::10ad:7001]:29360?type=tcp&security=reality&pbk=WeBcvXnjj4LbVsAT2lTbZ3JbvoqE4S_rON9h-7DjrHo&fp=firefox&sni=#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40kesslervpn%20%5B2%5D
-vless://Parsashonam-307@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@vpnserverrr
-vless://Parsashonam-307@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@vpnserverrr
 vless://SERVERNETT-SERVERNETT1@alo4.sernett.ir:8080?mode=auto&path=%2F&security=&encryption=none&type=xhttp#%3E%3E%40ServerNett%3A%3AXX
 vless://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:3030?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40filterk0sh%20%5B26%5D
 vless://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:8880?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40filterk0sh%20%5B27%5D
@@ -250,7 +241,6 @@ vless://a630a4c4-9472-4b9e-9a8f-f1e1fe8c26c2@salar.mohad.sbs:80?path=%2F&securit
 vless://ac93caa8-fc75-4bc8-bbb9-f09d964b5d69@updatem.faraservice.space:3209?mode=gun&security=reality&encryption=none&pbk=22YtANl_6-2LKrTdIfArHahVa1L0lo86Y8jhHVU-Iis&fp=chrome&spx=/&type=grpc&sni=dash.cloudflare.com&sid=3679c72c#@vpnserverrr
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Z%203
 vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#%F0%9F%91%91%20%F0%9F%87%A9%F0%9F%87%AA%20Germany
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@kifpool.me:443?path=/&security=tls&encryption=none&host=nkang2replace.airlineshoma.com&fp=chrome&type=ws&sni=nkang2replace.airlineshoma.com#@vpnserverrr
 vless://bbe40614-335f-47ea-9bf4-1ebb7eb29477@erfwp.fast.hosting-ip.com:80?type=xhttp&path=/erfwp?ed=2048&host=erfwp.com&mode=auto&security=none#@erfwp
 vless://bf9a82b2-00dc-45b6-8615-47d2a72c6c96@iran.nikirani.sfree.persianmemberiranmember.shop:8881?mode=gun&security=reality&encryption=none&pbk=-8EeqVrZ8S9R4yAoTrUx6F85-9bw7O-Hz_bYzcY0xBA&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=ghbi.ir&sid=64c204e5#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40persian_proxy6%20%5B3%5D
 vless://c34a9f73-3c11-4614-90ff-196add3fa4aa@157.230.28.73:23353?type=tcp&security=reality&pbk=OItbKB3XzCXKysSNBIUZ7fDAfASACK_ucLrU6NAAFAU&fp=firefox&sni=%2A.sourceforge.net&sid=a98a22e2&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40jokerv2ray%20%5B17%5D
@@ -271,9 +261,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?mode=gun&security=none&encryption=none&type=grpc#vpnserverrr%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2081ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048%40PLANB_PROXY&fp=chrome&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%E2%AD%90%20The%20Netherlands
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929320863717328.malayer-drc-tusabq.info:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931501605817853.lahijan-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942912656604786.malayer-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942912656604786.malayer-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#vpnserverrr%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20248ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
