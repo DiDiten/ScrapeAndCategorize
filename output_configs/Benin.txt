@@ -1,2 +1,0 @@
-ss://d2952db0-0379-4f1b-9c31-fe08c3ca1ea5@www.speedtest.net:443?encryption=none&security=tls&sni=config2.armin-host.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=config2.armin-host.com&path=%2Fmahdi_383ir#Vless%20Ws%20Tls%40ybjq6m9e```
-vless://d2952db0-0379-4f1b-9c31-fe08c3ca1ea5@www.speedtest.net:443?encryption=none&security=tls&sni=config2.armin-host.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=config2.armin-host.com&path=%2Fmahdi_383ir#Vless%20Ws%20Tls%40ybjq6m9e```
