@@ -1,5 +1,4 @@
 ss://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manstervpn%20%5B75%5D
-ss://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manstervpn%20%5B84%5D
 ss://02c5f531-bead-4c09-956a-ca51f7bb40c5@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-Test1407
 ss://033bb687-202b-40f1-81e0-400182ffb617@Filter5050.nabxcsjghjs2004.shop:22113?mode=gun&security=reality&encryption=none&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&fp=chrome&spx=/&type=grpc&serviceName=&sni=cdn.discordapp.com&sid=a7cf4983#Filter5050-Test1
 ss://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%97%BF
@@ -37,7 +36,6 @@ ss://536015cb-3588-44de-8b6e-f165102e7812@salar.mohad.sbs:80?path=%2F&security=n
 ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 ss://56b6c679-fc4f-4b9b-bea7-680f6128c0cd@94.131.111.195:443?security=reality&encryption=none&pbk=CA3Mhyhpt04cAfBM65vIBCN5MjfLm9PL6mWRWNiLP3Q&host=www.speedtest.net&headerType=http&fp=chrome&spx=%2Fads&type=tcp&sni=google.com&sid=61781e31#vpnserverrr%20🔒%20VL-TCP-%20🇩🇪%20DE%20130ms
 ss://56b6c679-fc4f-4b9b-bea7-680f6128c0cd@94.131.111.195:443?security=reality&encryption=none&pbk=CA3Mhyhpt04cAfBM65vIBCN5MjfLm9PL6mWRWNiLP3Q&host=www.speedtest.net&headerType=http&fp=chrome&spx=/ads&type=tcp&sni=google.com&sid=61781e31#🇩🇪@vpnserverrrکانال
-ss://56b6c679-fc4f-4b9b-bea7-680f6128c0cd@94.131.111.195:443?security=reality&encryption=none&pbk=CA3Mhyhpt04cAfBM65vIBCN5MjfLm9PL6mWRWNiLP3Q&host=www.speedtest.net&headerType=http&fp=chrome&spx=/ads&type=tcp&sni=google.com&sid=61781e31#🇩🇪®️Germany©️Frankfurt
 ss://624c4065-f2c9-49d9-9a9d-be0182ed4c25@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-Test
 ss://6440eea2-19ac-4d64-91e7-7876a6ac5912@mci.itbookshop.dpdns.org:443?path=/&security=none&encryption=none&type=ws#@vpnserverrr
 ss://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#@vpnserverrr
@@ -54,7 +52,6 @@ ss://9a37131b-2b68-427f-a2fc-cc7381c2d575@glEefUL-ERror.sEoTOoLSfOrYou.cO.UK:80?
 ss://9c513d26-a5df-4c4e-a0b2-a0f81ca8dcf9@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-123
 ss://9e890db0-905d-41d2-8a69-0a35ff7d8ce3@[2a03:b0c0:3:d0::10ad:7001]:29360?type=tcp&security=reality&pbk=WeBcvXnjj4LbVsAT2lTbZ3JbvoqE4S_rON9h-7DjrHo&fp=firefox&sni=#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40kesslervpn%20%5B2%5D
 ss://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#%3E%3E%40ServerNett%3A%3ADE
-ss://SERVERNETT-SERVERNETT1@alo4.sernett.ir:8080?mode=auto&path=%2F&security=&encryption=none&type=xhttp#%3E%3E%40ServerNett%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@ch03.giamping.com:8080#%F0%9F%87%A8%F0%9F%87%AD%20Zurich%2C%20ZH%2C%20Switzerland%20%285%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@fr09.giamping.com:8080#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%28Greenhost%20BV%29
@@ -77,7 +74,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.170:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%2841%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%2863%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTMlF1ZEJ4aTB2UnlTdzRZUkxsb1Bx@77.238.224.29:55702#🇳🇱@vpnserverrrکانال
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ%3D@208.67.105.196:42029#%40v2FreeHub%20%7C%20The%20Netherlands`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMm9jSldab2hYckU=@77.83.245.169:443#🇹🇷69@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.146:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%2861%29
@@ -163,7 +159,6 @@ ss://fef15ae1-cdc9-42ec-9c76-ea083550fd45@erfwp.fast.hosting-ip.com:80?type=xhtt
 ss://telegram-deli-servers@185.146.173.59:80?path=%2Ftel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers%3Fed%3D2048&security=none&encryption=none&host=kia%E6%9D%A5%E8%87%AA%E6%88%91%E4%BB%AC%E5%9B%A2%E9%98%9F%E7%9A%84%E7%88%B101%E6%88%91%E7%88%B1%E7%86%9F%E9%A3%9F%E5%BA%97lovedeli.speedtest.net.gOogle.com.Arvancloud.ir.realKiaa.ninjA.&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40deli_servers%20%5B3%5D
 trojan://xAcyz6Upzb@166.0.132.208:13191?mode=auto&path=/hot&security=reality&pbk=yYSRShehMjyLTUqGKyrI2yLBP42fouwUpYqB2VO2Ugo&host=vinahost.vn&fp=chrome&spx=/&type=xhttp&sni=vinahost.vn#p5g1tu1i@vpnserverrr
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manstervpn%20%5B75%5D
-vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manstervpn%20%5B84%5D
 vless://02c5f531-bead-4c09-956a-ca51f7bb40c5@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-Test1407
 vless://033bb687-202b-40f1-81e0-400182ffb617@Filter5050.nabxcsjghjs2004.shop:22113?mode=gun&security=reality&encryption=none&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&fp=chrome&spx=/&type=grpc&serviceName=&sni=cdn.discordapp.com&sid=a7cf4983#Filter5050-Test1
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%97%BF
@@ -201,7 +196,6 @@ vless://536015cb-3588-44de-8b6e-f165102e7812@salar.mohad.sbs:80?path=%2F&securit
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?security=reality&encryption=none&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://56b6c679-fc4f-4b9b-bea7-680f6128c0cd@94.131.111.195:443?security=reality&encryption=none&pbk=CA3Mhyhpt04cAfBM65vIBCN5MjfLm9PL6mWRWNiLP3Q&host=www.speedtest.net&headerType=http&fp=chrome&spx=%2Fads&type=tcp&sni=google.com&sid=61781e31#vpnserverrr%20🔒%20VL-TCP-%20🇩🇪%20DE%20130ms
 vless://56b6c679-fc4f-4b9b-bea7-680f6128c0cd@94.131.111.195:443?security=reality&encryption=none&pbk=CA3Mhyhpt04cAfBM65vIBCN5MjfLm9PL6mWRWNiLP3Q&host=www.speedtest.net&headerType=http&fp=chrome&spx=/ads&type=tcp&sni=google.com&sid=61781e31#🇩🇪@vpnserverrrکانال
-vless://56b6c679-fc4f-4b9b-bea7-680f6128c0cd@94.131.111.195:443?security=reality&encryption=none&pbk=CA3Mhyhpt04cAfBM65vIBCN5MjfLm9PL6mWRWNiLP3Q&host=www.speedtest.net&headerType=http&fp=chrome&spx=/ads&type=tcp&sni=google.com&sid=61781e31#🇩🇪®️Germany©️Frankfurt
 vless://624c4065-f2c9-49d9-9a9d-be0182ed4c25@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-Test
 vless://6440eea2-19ac-4d64-91e7-7876a6ac5912@mci.itbookshop.dpdns.org:443?path=/&security=none&encryption=none&type=ws#@vpnserverrr
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#@vpnserverrr
@@ -218,7 +212,6 @@ vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@glEefUL-ERror.sEoTOoLSfOrYou.cO.UK:
 vless://9c513d26-a5df-4c4e-a0b2-a0f81ca8dcf9@Filter5050.nabxcsjghjs2004.shop:22113?type=grpc&serviceName=&security=reality&fp=chrome&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&sni=cdn.discordapp.com&sid=a7cf4983&spx=/#Filter5050-123
 vless://9e890db0-905d-41d2-8a69-0a35ff7d8ce3@[2a03:b0c0:3:d0::10ad:7001]:29360?type=tcp&security=reality&pbk=WeBcvXnjj4LbVsAT2lTbZ3JbvoqE4S_rON9h-7DjrHo&fp=firefox&sni=#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40kesslervpn%20%5B2%5D
 vless://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#%3E%3E%40ServerNett%3A%3ADE
-vless://SERVERNETT-SERVERNETT1@alo4.sernett.ir:8080?mode=auto&path=%2F&security=&encryption=none&type=xhttp#%3E%3E%40ServerNett%3A%3AXX
 vless://a0c62a1e-2360-4586-81d8-e5db7ff0599e@45.136.5.84:8880?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40filterk0sh%20%5B26%5D
 vless://a1591bed-6c12-41cf-93c8-9bcb787ffd16@[2a01:4f9:c010:1ac8::1]:13269?security=none&encryption=none&headerType=none&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40internet_nor%20%5B2%5D
 vless://a1cbeb36-6619-4806-9836-0ae379244fb8@tt1.hennessypro.site:4001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpnfastservice%20%5B5%5D
