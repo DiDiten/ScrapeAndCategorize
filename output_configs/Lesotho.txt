@@ -1,9 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4d2hKS1FHVTZFQnRDUVd3U2Y0a09r@95.181.162.236:20904#v2ray_Extractor%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%2094ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSOU1vOTlWTWZkbXBiWGRGbnZKNHdj@45.95.232.236:4248#v2ray1_ng%20🔒%20SS-TCP-TLS%20🇨🇭%20CH%20112ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#v2ray_Extractor%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2081ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#v2ray_Extractor%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%2081ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#v2ray_Extractor%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%2082ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#v2ray_Extractor%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2080ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#v2ray_Extractor%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%20135ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#v2ray_Extractor%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20105ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#v2ray_Extractor%20🔒%20SS-TCP-TLS%20🇹🇷%20TR%20169ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#v2ray_Extractor%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%20104ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#v2ray_Extractor%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%20109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#v2ray_Extractor%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%20104ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#v2ray_Extractor%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20103ms
 ss://ad1357bd-a1ce-4977-ae09-47411d2d1eee@ems.irimcs.org:443?type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns&security=tls&fp=&alpn=&sni=deg.iranasanejesh.org#Test-Channel-TLS
 trojan://biOrJGlcfX@creativecommons.org:443?path=%2Fkos-madaret-khamneii&security=tls&alpn=h2%2Chttp%2F1.1&host=ghasem.kotlet.org&fp=firefox&type=ws&sni=ghasem.kotlet.org#tr-ws-tls-acp-pro
 vless://ad1357bd-a1ce-4977-ae09-47411d2d1eee@ems.irimcs.org:443?type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns&security=tls&fp=&alpn=&sni=deg.iranasanejesh.org#Test-Channel-TLS
