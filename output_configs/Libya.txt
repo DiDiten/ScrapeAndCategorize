@@ -1,4 +1,2 @@
-ss://b65f4df7-f6af-42b2-877a-cef33f21675e@185.193.31.32:2096?path=%2Fsnippets&security=tls&encryption=none&type=ws&sni=kejiland.freewarp.eu.org#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40flyv2ray%20%5B11%5D
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@185.193.31.32:2096?path=%2Fsnippets&security=tls&encryption=none&type=ws&sni=kejiland.freewarp.eu.org#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40flyv2ray%20%5B11%5D
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
