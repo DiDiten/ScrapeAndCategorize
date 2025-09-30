@@ -1,8 +1,6 @@
-ss://1a845c08-9e71-4f24-9b74-c6a6e1ea2be0@ardagulerturk.gojustore.site:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20197ms
 ss://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh28v6.hiddendom.shop#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3`
-ss://b65f4df7-f6af-42b2-877a-cef33f21675e@185.193.31.32:2096?path=%2Fsnippets&security=tls&encryption=none&type=ws&sni=kejiland.freewarp.eu.org#mrsoulb%20🔒%20VL-WS-N/A%20🇵🇱%20PL%2015ms
-ss://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=%2F&security=&encryption=none&host=filimo.com&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20186ms
-ss://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20190ms
+ss://b65f4df7-f6af-42b2-877a-cef33f21675e@185.193.31.32:2096?path=%2Fsnippets&security=tls&encryption=none&type=ws&sni=kejiland.freewarp.eu.org#mrsoulb%20🔒%20VL-WS-N/A%20🇵🇱%20PL%201ms
+ss://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20213ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638938728943989934.esfahan-prx-dnraacl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3`
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3`
@@ -13,11 +11,10 @@ ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v2.vetrkot.com:8880?mode=gun&secu
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v2.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh24v2.vetrkot.com#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v6.vetrkot.com:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v1.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh29v1.vetrkot.com#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
-vless://1a845c08-9e71-4f24-9b74-c6a6e1ea2be0@ardagulerturk.gojustore.site:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20197ms
+ss://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#mrsoulb%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20152ms
 vless://401374e6-df77-41fb-f638-dad8184f175b@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh28v6.hiddendom.shop#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3`
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@185.193.31.32:2096?path=%2Fsnippets&security=tls&encryption=none&type=ws&sni=kejiland.freewarp.eu.org#mrsoulb%20🔒%20VL-WS-N/A%20🇵🇱%20PL%2015ms
-vless://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=%2F&security=&encryption=none&host=filimo.com&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20186ms
-vless://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20190ms
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@185.193.31.32:2096?path=%2Fsnippets&security=tls&encryption=none&type=ws&sni=kejiland.freewarp.eu.org#mrsoulb%20🔒%20VL-WS-N/A%20🇵🇱%20PL%201ms
+vless://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20213ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938728943989934.esfahan-prx-dnraacl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3`
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3`
@@ -28,3 +25,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v2.vetrkot.com:8880?mode=gun&s
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v2.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh24v2.vetrkot.com#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v6.vetrkot.com:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v1.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh29v1.vetrkot.com#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
+vless://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#mrsoulb%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20152ms
