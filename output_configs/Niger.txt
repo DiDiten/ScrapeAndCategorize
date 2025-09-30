@@ -40,7 +40,6 @@ ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&type=ws&sni=GfN08.aLanHiAhO.com#Channel
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&type=ws&sni=Gfn10.AlAnhIAho.com#Channel
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&type=ws&sni=gFN02.alaNHiaho.CoM#Channel
-ss://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&type=ws&sni=gFn06.AlaNHIaHO.COM#Channel
 ss://54801305-3e0e-4d90-8996-b67065155465@sss92681.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel
 ss://586bb25e-30e7-4163-9d1b-79ffb263e090@167.71.137.233:80?path=/zmnnzws&security=none&encryption=none&type=ws#Channel
 ss://6309c796-6f44-4a84-8110-da6734da12ad@57.129.55.208:80?path=/nqzujws&security=none&encryption=none&type=ws#Channel
@@ -63,7 +62,6 @@ ss://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-uae4-cdn.fastfilecdn.org:2052?path
 ss://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd&security=&encryption=none&type=xhttp#Channel
 ss://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp#Channel
 ss://92b022a6-67f3-4406-840b-8fec2f4aace8@sss86489.tas-bazi.com:443?mode=stream-one&path=/awd&security=&encryption=none&type=xhttp#Channel
-ss://92b022a6-67f3-4406-840b-8fec2f4aace8@sss86489.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp#Channel
 ss://93382dc3-a897-402f-8f6a-261f867f1e43@m45a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#Channel
 ss://93382dc3-a897-402f-8f6a-261f867f1e43@m45a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
 ss://94ccd7a6-d1f0-414c-8add-eaa4d0b68770@sss11651.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel
@@ -76,7 +74,6 @@ ss://b65f4df7-f6af-42b2-877a-cef33f21675e@166.62.106.32:2096?path=/snippets&secu
 ss://b65f4df7-f6af-42b2-877a-cef33f21675e@185.193.31.32:2096?path=/snippets&security=tls&encryption=none&type=ws&sni=kejiland.freewarp.eu.org#Channel
 ss://ba2970f1-7a57-4278-8c8d-2001788fe270@sss28357.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel
 ss://ba2970f1-7a57-4278-8c8d-2001788fe270@sss28357.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel
-ss://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=/&security=&encryption=none&host=filimo.com&type=ws#Channel
 ss://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#Channel
 ss://c3aae626-b57c-4c24-b388-039385758713@141.227.174.230:36886?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#none```
 ss://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=svrgd.bmw-funder.info#Channel
@@ -112,7 +109,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638945203009150639.gorgan-drc-tusacaf.
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638945203009151794.gorgan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127875.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 ss://e277ac9b-3225-4381-a9fb-3585419f7142@o3.pictour.info:443?path=/cmyklws&security=tls&encryption=none&fp=chrome&type=ws&sni=o3.pictour.info#Channel
@@ -189,7 +185,6 @@ vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&type=ws&sni=GfN08.aLanHiAhO.com#Channel
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&type=ws&sni=Gfn10.AlAnhIAho.com#Channel
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&type=ws&sni=gFN02.alaNHiaho.CoM#Channel
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&type=ws&sni=gFn06.AlaNHIaHO.COM#Channel
 vless://54801305-3e0e-4d90-8996-b67065155465@sss92681.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel
 vless://586bb25e-30e7-4163-9d1b-79ffb263e090@167.71.137.233:80?path=/zmnnzws&security=none&encryption=none&type=ws#Channel
 vless://6309c796-6f44-4a84-8110-da6734da12ad@57.129.55.208:80?path=/nqzujws&security=none&encryption=none&type=ws#Channel
@@ -212,7 +207,6 @@ vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-uae4-cdn.fastfilecdn.org:2052?p
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd&security=&encryption=none&type=xhttp#Channel
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp#Channel
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss86489.tas-bazi.com:443?mode=stream-one&path=/awd&security=&encryption=none&type=xhttp#Channel
-vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss86489.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp#Channel
 vless://93382dc3-a897-402f-8f6a-261f867f1e43@m45a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#Channel
 vless://93382dc3-a897-402f-8f6a-261f867f1e43@m45a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
 vless://94ccd7a6-d1f0-414c-8add-eaa4d0b68770@sss11651.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel
@@ -225,7 +219,6 @@ vless://b65f4df7-f6af-42b2-877a-cef33f21675e@166.62.106.32:2096?path=/snippets&s
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@185.193.31.32:2096?path=/snippets&security=tls&encryption=none&type=ws&sni=kejiland.freewarp.eu.org#Channel
 vless://ba2970f1-7a57-4278-8c8d-2001788fe270@sss28357.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel
 vless://ba2970f1-7a57-4278-8c8d-2001788fe270@sss28357.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel
-vless://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=/&security=&encryption=none&host=filimo.com&type=ws#Channel
 vless://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#Channel
 vless://c3aae626-b57c-4c24-b388-039385758713@141.227.174.230:36886?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#none```
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=svrgd.bmw-funder.info#Channel
@@ -261,7 +254,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945203009150639.gorgan-drc-tusac
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945203009151794.gorgan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127875.yasuj-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946072491006050.hamedan-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.142:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://e277ac9b-3225-4381-a9fb-3585419f7142@o3.pictour.info:443?path=/cmyklws&security=tls&encryption=none&fp=chrome&type=ws&sni=o3.pictour.info#Channel
