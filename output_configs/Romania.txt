@@ -38,6 +38,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080#ROSE%E2%80%93778
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSOU1vOTlWTWZkbXBiWGRGbnZKNHdj@45.95.232.236:4248#@V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#ROSE%E2%80%93L034
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%F0%9F%87%B7%F0%9F%87%B4RO-185.126.237.38-0263
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%F0%9F%87%B7%F0%9F%87%B4RO-185.126.237.38-0283
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#ROSE%E2%80%93RO_80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#ROSE%E2%80%9352
@@ -210,6 +211,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=n
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?mode=gun&security=none&encryption=none&authority=configfars.great-site.net&type=grpc#@V2RAYROZ
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
+ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v5.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 ss://e6dd5a23-6e0e-4ad5-a06e-bff0f55ba217@151.101.3.8:80?mode=auto&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#@V2RAYROZ
@@ -289,6 +291,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?mode=gun&security=none&encryption=none&authority=configfars.great-site.net&type=grpc#@V2RAYROZ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v5.avoipok.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://e6dd5a23-6e0e-4ad5-a06e-bff0f55ba217@151.101.3.8:80?mode=auto&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#@V2RAYROZ
@@ -307,6 +310,7 @@ vless://telegram-id-Arfilter@www.speedtest.net:443?path=/telegram-ArV2ray,telegr
 vless://telegram-id-Arfilter@www.speedtest.net:443?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=www.pdri.blog&fp=chrome&type=ws&sni=www.pdri.blog#@V2RAYROZ
 vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjIxMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoieWljaHVlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYyUkFZUk9aIiwic2N5IjoiYXV0byIsInNuaSI6InlpY2h1ZW5nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYyUkFZUk9aIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmthdC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJAVjJSQVlST1oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI5MS4xMzQuOC4xMDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6InNlcmthdC5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAVjJSQVlST1oiLCJzY3kiOiJhdXRvIiwic25pIjoic2Vya2F0Lm9yZyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ5aWNodWVuZy5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBWMlJBWVJPWiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ5aWNodWVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJKb2luLS0taTEwVlBOLS0tSm9pbi0tLWkxMFZQTi0tLUpvaW4tLS1pMTBWUE4tLS1Kb2luLS0taTEwVlBOIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYyUkFZUk9aIiwic2N5IjoiYXV0byIsInNuaSI6ImZhcGVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
