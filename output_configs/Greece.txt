@@ -7,7 +7,6 @@ ss://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=t
 ss://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#v2ray_Extractor%20🔒%20VL-GRPC-N/A%20🇬🇧%20GB%2019ms
 ss://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?security=reality&encryption=none&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=958639bf55e679#v2ray_Extractor%20🔒%20VL-TCP-%20🇬🇷%20GR%20161ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.100-0337
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.100-0338
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-3674
 ss://ca2bbc0a-3139-4a1c-bc93-049ad63c1d95@ucj3xy12fic116ixrq0m.appcity-download.ir:64286?encryption=none&security=none&type=grpc#Vless%20Grpc-yzbqzmds```
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&type=grpc#v2ray_Extractor%20🔓%20VL-GRPC-N/A%20🇳🇱%20NL%20129ms
@@ -47,3 +46,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441858146.malayer-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819770.dezful-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#mrsoulb%20🔓%20VL-GRPC-N/A%20🇬🇧%20GB%20271ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=none&encryption=none&type=grpc#v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇳🇱%20NL%20136ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=none&encryption=none&type=grpc#v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇳🇱%20NL%20168ms
+vmess://ewogICAgImFkZCI6ICJjdS5hd3NsY24uaW5mbyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImN1LmF3c2xjbi5pbmZvIiwKICAgICJpZCI6ICI5M2VjNzI2MS0xYzkyLTQxNDktODQ4YS0yNmI2ZmI5ZmM0Y2UiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjUyMjgsCiAgICAicHMiOiAi8J+HrPCfh7dHUi00Ni4yMC4xMDkuMTEzLTc5MzkiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
