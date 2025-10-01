@@ -68,7 +68,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.252.5.234:989#%F0%9F%87%AA%F0%9
 ss://YWVzLTI1Ni1nY206QUp0VjRWQ0xhVlFVS0dINGcxQURTeXF2ekNBMG1TcE40NmFuMTJaZUlLaHg@216.132.112.116:34958#@Geek_Spot
 ss://a2eda8e1-4452-481b-9a71-aab18d3ed17e@37.27.178.186:8880/?encryption=none&host=eN.TwiTtER.cOM.:8880&type=tcp&headerType=http#@Geek_Spot
 ss://aac76e15-76e8-df0c-41a3-74d2d5450043@lightning2025.top:606/?type=ws&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&path=/ws?ed=2048#@Geek_Spot
-ss://abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d@ae1-5.9966662.xyz:20223?allowInsecure=0&sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#AE_speednode_0001
 ss://ac6db4ff-9c6e-4d88-b578-43435f1f8d98@62.60.132.138:8096?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40freevpn3327%20%5B5%5D
 ss://ae5a0404-af2d-482a-9d81-44156c6a3a98@ispeedtop.serantek.site:29563?type=xhttp&mode=auto&host=www.ups.com&path=/@iSpeedTopVPN&security=none#@iSpeedtopVPN-@iSpeedTopVpN
 ss://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@Geek_Spot
@@ -91,7 +90,6 @@ ss://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2095
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?security=none&encryption=none&type=grpc#%3E%3E%40free_v2rayyy%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇨🇵@Free_VPN02
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008244100.vienna-drc-tusacaf.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇩🇪@Free_vpn02
-ss://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free1_vpn%20%5B11%5D
 ss://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%3E%3E%40V2RAY_VMESS_free%3A%3ATR
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?type=grpc&mode=gun&security=none#@FREE_VPN02
 ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=&encryption=none&host=%2F%3F%40&type=ws#%3E%3E%40free_v2rayyy%3A%3ADE
@@ -145,7 +143,6 @@ vless://9dcdc6d7-1243-4550-afa5-773910f259c8@simonil.zarghamportal.ir:80?path=/@
 vless://FreakConfig5@FreakConfig.snapfood.org:443?type=xhttp&mode=auto&host=freakconfig.snapfood.org&path=/&security=reality&fp=chrome&sni=refersion.com&pbk=vrloCSqsCVu25b3CHtyJ5RWo_nsUxp0PK-3LdLaKJFs&sid=6993f143e90756&spx=/#🇳🇱-@FREE_VPN02
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@37.27.178.186:8880/?encryption=none&host=eN.TwiTtER.cOM.:8880&type=tcp&headerType=http#@Geek_Spot
 vless://aac76e15-76e8-df0c-41a3-74d2d5450043@lightning2025.top:606/?type=ws&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&path=/ws?ed=2048#@Geek_Spot
-vless://abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d@ae1-5.9966662.xyz:20223?allowInsecure=0&sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#AE_speednode_0001
 vless://ac6db4ff-9c6e-4d88-b578-43435f1f8d98@62.60.132.138:8096?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40freevpn3327%20%5B5%5D
 vless://ae5a0404-af2d-482a-9d81-44156c6a3a98@ispeedtop.serantek.site:29563?type=xhttp&mode=auto&host=www.ups.com&path=/@iSpeedTopVPN&security=none#@iSpeedtopVPN-@iSpeedTopVpN
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@Geek_Spot
@@ -168,13 +165,12 @@ vless://dc44076c-fb1a-48ba-8e79-ec913f345576@mtn.venzo.com.tr:2095?path=/hu?ed=2
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?security=none&encryption=none&type=grpc#%3E%3E%40free_v2rayyy%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959016671.dezful-drc-tusabq.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇨🇵@Free_VPN02
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008244100.vienna-drc-tusacaf.info:8880?encryption=none&type=grpc&mode=gun&security=none#🇩🇪@Free_vpn02
-vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40free1_vpn%20%5B11%5D
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#%3E%3E%40V2RAY_VMESS_free%3A%3ATR
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?type=grpc&mode=gun&security=none#@FREE_VPN02
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=%2F&security=&encryption=none&host=%2F%3F%40&type=ws#%3E%3E%40free_v2rayyy%3A%3ADE
 vless://f6583e0a-5403-4cf5-a1b5-c4a861e92a8b@185.113.10.132:8650?encryption=none&type=xhttp&mode=auto&path=/&security=reality&fp=chrome&sni=cloudflare.com&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&sid=354b9cbe48&spx=/#@FREE_VPN02
 vless://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?type=tcp&headerType=http&host=varzesh3.ir&security=none#@FREE_VPN02-@FREE_VPN02
-vmess://ewogICAgImFkZCI6ICIxNzYuMTEyLjE0Ni4xOTAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eq8J+HqkVFLTE3Ni4xMTIuMTQ2LjE5MC0wNTQ0IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vmess://ewogICAgImFkZCI6ICIxNzYuMTEyLjE0Ni4xOTAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImY5MjQ3ZGY0LTAyZDUtNGIzMS1hY2M1LTQwMjI2NTJjNTk1MyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eq8J+HqkVFLTE3Ni4xMTIuMTQ2LjE5MC0wNTI2IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://eyJ2IjoiMiIsImFkZCI6ImdzMDMtMS5ndW9zaGkxNTIwLmNvbSIsInBvcnQiOjQ0MywiaWQiOiI4MmZmNmQzMC0yOTIwLTRlYmQtYjk1Yy1iMDE2ZWRlMWE4NDEiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6ImdzMDMtMS5ndW9zaGkxNTIwLmNvbSIsInBhdGgiOiJcLzgyZmY2ZDMwIiwiaG9zdCI6ImdzMDMtMS5ndW9zaGkxNTIwLmNvbSIsInBzIjoiXHUyNzU0IFhYIHwgXHVkODNkXHVkZDEzIFZNRVNTIHwgQGZyZWV2MnJheXMgWzE4XSJ9
 vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTguMTQ3IiwgInYiOiAiMiIsICJwcyI6ICJcdTUzMTdcdTdmOGVcdTU3MzBcdTUzM2EgdjJyYXlmcmVlLmV1Lm9yZyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImlubmEuY2ZkIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
 vmess://eyJhZGQiOiI0NS4xMi4xMjkuMTA2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjZG4uemlmZnN0YXRpYy5jb20iLCJpZCI6IjVjMWJiMGY5LWFhYmUtNGUyZC05YTVmLTAzYzYwMGViMjYwNyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwMDAiLCJwcyI6Ilvwn4ex8J+HuUxUXSBAR2Vla19TcG90Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
