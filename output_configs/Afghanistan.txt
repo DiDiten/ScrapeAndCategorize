@@ -6,7 +6,6 @@ ss://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?security=none&type=ws&
 ss://SERVERNETT-SERVERNETT1@alo09.sernett.ir:80?encryption=none&type=xhttp&mode=auto&path=%2F#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B14%5D
 ss://YWVzLTI1Ni1nY206NjZlZDIxNTktMjhkZC00ZDc2LWE0MTItMTQ1YTI0OGU1MDM1@192.142.18.127:443#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa
 ss://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&host=vless8-ekh.pages.dev&fp=random&type=ws&sni=vless8-ekh.pages.dev#Telegram%3A%20%40proxy_kafee
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.98:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&authority=/@sinavm&type=grpc#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Zafra🅿️ping:71.93ms
 ss://eb42c1ce-5ab3-41f0-95ad-80fa467607d9@5.253.41.237:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=pq-japan3.09vpn.com#Channel%20id%3A%20%40proxy_kafee%20%F0%9F%87%AF%F0%9F%87%B5
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?encryption=none&type=ws&host=crazy-identity.oneeat.co&path=%2F&security=none#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40kafing_2%20%5B12%5D
