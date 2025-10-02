@@ -54,8 +54,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.clouda
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#%F0%9F%87%B2%F0%9F%87%B0%20Skopje%2C%20North%20Macedonia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#soskeynet%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%20down
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40netfreedom0%20%5B18%5D
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.194:443#%40v2FreeHub%20%7C%20United%20Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#%40v2FreeHub%20%7C%20United%20Kingdom
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.196:443#%F0%9F%87%AC%F0%9F%87%A7%20London%2C%20ENG%2C%20United%20Kingdom%20%285%29
 ss://b3f13f34-8efc-40d4-a27c-ec8002c0fc07@91.107.179.250:40079?note=--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--bia--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--skypro_vpn--&security=none&encryption=none&headerType=none&type=tcp#soskeynet%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://bbb1ce8e-684b-427f-89a0-42b8980f85f3@164.92.157.143:37677?path=%2F&security=none&encryption=none&host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree%26&type=ws#soskeynet%20🔓%20VL-WS-N/A%20🇳🇱%20NL%20down
