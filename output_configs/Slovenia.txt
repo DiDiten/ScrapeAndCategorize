@@ -5,7 +5,9 @@ ss://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#sia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#sia
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AESI-192.71.244.150-0348
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AESI-192.71.244.150-5599
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@91.132.94.200:989#%F0%9F%87%B8%F0%9F%87%AESI-91.132.94.200-0345
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@91.132.94.200:989#%F0%9F%87%B8%F0%9F%87%AESI-91.132.94.200-5138
 ss://a83efd52-7d6b-453d-e22f-7303b759ffd0@www.speedtest.net:443?path=/mahdi_383ir&security=tls&alpn=http/1.1&encryption=none&host=0ue2ft8cwbt8pzhdxgk9.armin-website.com&fp=chrome&type=httpupgrade&sni=0ue2ft8cwbt8pzhdxgk9.armin-website.com#siaaaa
 ss://d2952db0-0379-4f1b-9c31-fe08c3ca1ea5@www.speedtest.net:443?path=/mahdi_383ir&security=tls&alpn=h2,http/1.1&encryption=none&host=xwhk2wb2055aqe7hb6tp.armin-host.com&fp=chrome&type=ws&sni=xwhk2wb2055aqe7hb6tp.armin-host.com#siaaaa
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@xn--ktff-jt6hr36l.tencentapp.cn:443?path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560&security=tls&encryption=none&host=What.The.Fxxk.cloudns.org&type=ws&sni=What.The.Fxxk.cloudns.org#sia

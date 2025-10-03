@@ -55,7 +55,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#soskeynet%20🔒%20SS-TCP-TLS%20🇸🇪%20SE%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1JSZTd0VE5kVDU5Z2lma01xb2Yw@89.185.84.185:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%283%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaWl0WHM2QkhaZ1NObGl0@c1.nastuh.link:443#soskeynet%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#%F0%9F%87%AC%F0%9F%87%A7%20London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMkVKdWNvbkM0NjBLbGxO@azjnac1.uksouth.cloudapp.azure.com:443#soskeynet%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#%F0%9F%87%B2%F0%9F%87%B0%20Skopje%2C%20North%20Macedonia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#soskeynet%20🔒%20SS-TCP-TLS%20🇳🇱%20NL%20down
@@ -80,7 +79,6 @@ ss://dfa6d4e8-6448-c007-d480-0ce73c7461a5@185.49.105.26:39822?security=none&type
 ss://dfa6d4e8-6448-c007-d480-0ce73c7461a5@moshkel-dari.com.studentcp.ir:49371?security=none&type=tcp&headerType=http&path=%2F&host=aparat.com#fr33c0nfig%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 ss://e8a19247-cb95-4f9c-9c77-ea0355268762@sss55168.tas-bazi.com:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#vpn4everyone%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20X
-ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
 ss://ed54c3c7-0181-41e6-8101-ea9d5a3abf82@91.107.186.177:8880?encryption=none&security=reality&sni=capcut.com&fp=chrome&pbk=z0rowMnJhwgfz7e6Uv9QUgsy1YWRrU8tOe2X6KBcLi4&spx=%2F&type=xhttp&host=splithttp.channel.digicyber.click&path=%2Fmelo&mode=auto#soskeynet%20🔒%20VL-XHTTP-%20🇩🇪%20DE%20down
 ss://ee4ef2b9-3493-48e8-f8c7-faa7026cb957@FASTSHOVPNTELEGRAM2.vinamarketcenter.ir:80?path=%2FFASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM%3Fed%3D2048&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#soskeynet%20🔓%20VL-WS-N/A%20❔%20XX%20down
 ss://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.83.179:443?mode=stream-one&path=%2Frty&security=none&encryption=none&type=xhttp#soskeynet%20🔓%20VL-XHTTP-N/A%20🇩🇪%20DE%20down
@@ -167,7 +165,6 @@ vless://dfa6d4e8-6448-c007-d480-0ce73c7461a5@185.49.105.26:39822?security=none&t
 vless://dfa6d4e8-6448-c007-d480-0ce73c7461a5@moshkel-dari.com.studentcp.ir:49371?security=none&type=tcp&headerType=http&path=%2F&host=aparat.com#fr33c0nfig%20🔓%20VL-TCP-N/A%20❔%20XX%20down
 vless://e8a19247-cb95-4f9c-9c77-ea0355268762@sss55168.tas-bazi.com:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#vpn4everyone%20🔓%20VL-XHTTP-N/A%20❔%20XX%20down
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20X
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
 vless://ed54c3c7-0181-41e6-8101-ea9d5a3abf82@91.107.186.177:8880?encryption=none&security=reality&sni=capcut.com&fp=chrome&pbk=z0rowMnJhwgfz7e6Uv9QUgsy1YWRrU8tOe2X6KBcLi4&spx=%2F&type=xhttp&host=splithttp.channel.digicyber.click&path=%2Fmelo&mode=auto#soskeynet%20🔒%20VL-XHTTP-%20🇩🇪%20DE%20down
 vless://ee4ef2b9-3493-48e8-f8c7-faa7026cb957@FASTSHOVPNTELEGRAM2.vinamarketcenter.ir:80?path=%2FFASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM-FASTSHOVPNTELEGRAM%3Fed%3D2048&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#soskeynet%20🔓%20VL-WS-N/A%20❔%20XX%20down
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.83.179:443?mode=stream-one&path=%2Frty&security=none&encryption=none&type=xhttp#soskeynet%20🔓%20VL-XHTTP-N/A%20🇩🇪%20DE%20down
