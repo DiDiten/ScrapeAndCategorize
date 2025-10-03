@@ -6,6 +6,7 @@ ss://0bdb1407-0554-4834-97cd-ba3487af59b5@join-zedmodeon.servehalflife.com:2095?
 ss://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?path=/eJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026.zanddynastyofpersia.org#Channel
 ss://115e0e05-2820-4ae9-bf62-4142ce058574@m63a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#Channel
 ss://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#Channel
+ss://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#Channel
 ss://13363f83-f3a2-4ae5-b62a-ed5ed81193bf@haji.paliss.ir:6666?security=none&encryption=none&headerType=none&type=tcp#Channel
 ss://13363f83-f3a2-4ae5-b62a-ed5ed81193bf@haji.paliss.ir:6666?security=none&encryption=none&host=paliss.ir&headerType=none&type=tcp#Channel
 ss://13c10b21-6211-4d43-856f-2e54ef2ac2e2@m7a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
@@ -16,6 +17,7 @@ ss://1b5f6283-4872-4048-bb9b-308bc305cb0c@91.98.22.20:22933?security=none&encryp
 ss://1ede815e-b941-4232-9a43-57821d473ec4@141.227.164.187:57923?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#none
 ss://1f41c4cd-8d0f-47ed-b3a9-b90f5e2419b5@157.90.247.32:57276?type=grpc&encryption=none&serviceName=FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL&authority=&security=none#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 ss://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#Channel
+ss://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity-download.ir:17337?security=none&encryption=none&headerType=none&type=tcp#Channel
 ss://21441ba7-8364-496c-d43b-39fc7f9cb8d7@ucj3xy12fic116ixrq0m.appcity-download.ir:17337?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 ss://21441ba7-8364-496c-d43b-39fc7f9cb8d7@ucj3xy12fic116ixrq0m.appcity-download.ir:17337?security=none&encryption=none&headerType=none&type=tcp#Channel
 ss://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
@@ -59,6 +61,7 @@ ss://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?encryption=none&secur
 ss://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#Channel
 ss://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 ss://661f6f25-1b51-4782-b2d2-994c6b97c158@91.98.70.156:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#Channel
+ss://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=/lkjdasws&security=tls&encryption=none&type=ws#Channel
 ss://7318ab2b-ae6e-469d-be65-de95190f274a@axe.soyet2j.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 ss://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 ss://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
@@ -67,6 +70,7 @@ ss://7606bb75-416a-4f99-ba20-019cb25543cf@sss32513.tas-bazi.com:443?mode=stream-
 ss://7606bb75-416a-4f99-ba20-019cb25543cf@sss57281.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel
 ss://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel
 ss://807b0166-9e81-45fe-bac9-e14b7f67e8bf@91.99.185.197:443?path=/linkws?ed&security=none&encryption=none&host=91.99.185.197&type=ws#Channel
+ss://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=chrome&spx=/@vpnserverrr&type=tcp&flow=xtls-rprx-vision&sni=tr.eu-ffast.com&sid=50#Channel
 ss://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 ss://8523c3f2-d5c7-4cce-9342-5c48a1afb3b9@m59a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#Channel
 ss://85ef33fe-5f5b-4a8f-9e1e-cbf2738ae96a@180.149.44.216:999?security=reality&encryption=none&pbk=-d7gZw19wFxZcnqRsf0L8gin2NcQC8Quub0Y-NUnaR4&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e1ac6d894342c318#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
@@ -220,12 +224,15 @@ ss://f5e384e0-676a-4f48-aaa1-7e2c83df7127@m62a.vip784.com:33801?security=none&en
 ss://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?path=/vpnjantit&security=none&encryption=none&type=ws#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 ss://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
 ss://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
+ss://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=app.chandplus.com#Channel
 ss://fae631da-0b95-4ad9-9806-94c49e299b44@157.90.247.32:10138?type=grpc&encryption=none&serviceName=/@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&authority=&security=none#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 ss://fcec2ee6-c96b-4873-95ba-eced3a2e12c5@168.119.158.122:443?path=/linkws?ed&security=none&encryption=none&host=168.119.158.122&type=ws#Channel
 ss://fcec2ee6-c96b-4873-95ba-eced3a2e12c5@168.119.158.122:443?path=/linkws?ed&security=none&encryption=none&host=168.119.158.122&type=ws#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 ss://fd416657-c985-4fd7-972f-9f0c2b4a6724@138.199.237.30:443?path=/linkws?ed&security=none&encryption=none&host=138.199.237.30&type=ws#Channel
 ss://fd416657-c985-4fd7-972f-9f0c2b4a6724@138.199.237.30:443?path=/linkws?ed&security=none&encryption=none&host=138.199.237.30&type=ws#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 ss://fdc4e100-9979-47f2-b683-421fb19f7227@93.127.180.124:3030?security=none&encryption=none&headerType=none&type=tcp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
+trojan://02XtoczO7V@creativecommons.org:443?path=/hishhhh123&security=tls&alpn=http/1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#Channel
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=/aioproxybot/129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#Channel
 vless://01996d6c-ca12-a514-1884-58805e80e2c9@104.26.12.31:443?encryption=none&security=tls&sni=000091gm0s8g08211s2q.rjp.3jrlr9edbfkg.s0add.dl24k.ghz.krcipuw0kx.vztx9qx.1luaw5rro.4sztyya.guarx48okfdavgn0i245is5g86r359.neib.cn&fp=chrome&type=ws&host=000091gm0s8g08211s2q.rjp.3jrlr9edbfkg.s0add.dl24k.ghz.krcipuw0kx.vztx9qx.1luaw5rro.4sztyya.guarx48okfdavgn0i245is5g86r359.neib.cn&path=/snippets?ip=proxyip:port(443)&nat64=6to4#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://01997b9d-a1f7-e188-981a-c665b723cfef@91.209.253.43:2096?path=/snippets&security=tls&encryption=none&host=kejiland.freewarp.eu.org&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#Channel
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#Channel
@@ -234,6 +241,7 @@ vless://0bdb1407-0554-4834-97cd-ba3487af59b5@join-zedmodeon.servehalflife.com:20
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?path=/eJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026.zanddynastyofpersia.org#Channel
 vless://115e0e05-2820-4ae9-bf62-4142ce058574@m63a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#Channel
 vless://12345678-1234-1234-1234-123456789123@45.80.108.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#Channel
+vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=/snippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#Channel
 vless://13363f83-f3a2-4ae5-b62a-ed5ed81193bf@haji.paliss.ir:6666?security=none&encryption=none&headerType=none&type=tcp#Channel
 vless://13363f83-f3a2-4ae5-b62a-ed5ed81193bf@haji.paliss.ir:6666?security=none&encryption=none&host=paliss.ir&headerType=none&type=tcp#Channel
 vless://13c10b21-6211-4d43-856f-2e54ef2ac2e2@m7a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
@@ -244,6 +252,7 @@ vless://1b5f6283-4872-4048-bb9b-308bc305cb0c@91.98.22.20:22933?security=none&enc
 vless://1ede815e-b941-4232-9a43-57821d473ec4@141.227.164.187:57923?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#none
 vless://1f41c4cd-8d0f-47ed-b3a9-b90f5e2419b5@157.90.247.32:57276?type=grpc&encryption=none&serviceName=FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL&authority=&security=none#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#Channel
+vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@direct-jde6zos4zet26b15zzd1.appcity-download.ir:17337?security=none&encryption=none&headerType=none&type=tcp#Channel
 vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@ucj3xy12fic116ixrq0m.appcity-download.ir:17337?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://21441ba7-8364-496c-d43b-39fc7f9cb8d7@ucj3xy12fic116ixrq0m.appcity-download.ir:17337?security=none&encryption=none&headerType=none&type=tcp#Channel
 vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
@@ -287,6 +296,7 @@ vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?encryption=none&se
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@172.66.156.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#Channel
 vless://66185905-e3f9-4822-ba31-f46d3e6539f3@panelaf.dnsline.top:55522?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://661f6f25-1b51-4782-b2d2-994c6b97c158@91.98.70.156:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#Channel
+vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=/lkjdasws&security=tls&encryption=none&type=ws#Channel
 vless://7318ab2b-ae6e-469d-be65-de95190f274a@axe.soyet2j.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
@@ -295,6 +305,7 @@ vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss32513.tas-bazi.com:443?mode=stre
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss57281.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#Channel
 vless://807b0166-9e81-45fe-bac9-e14b7f67e8bf@91.99.185.197:443?path=/linkws?ed&security=none&encryption=none&host=91.99.185.197&type=ws#Channel
+vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&headerType=none&fp=chrome&spx=/@vpnserverrr&type=tcp&flow=xtls-rprx-vision&sni=tr.eu-ffast.com&sid=50#Channel
 vless://8496c102-4094-4dd3-ad63-7bb7a35cbaee@94.182.137.12:20532?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://8523c3f2-d5c7-4cce-9342-5c48a1afb3b9@m59a.vip784.com:33801?flow=&type=tcp&headerType=http&host=varzesh3.ir&path=&security=none#Channel
 vless://85ef33fe-5f5b-4a8f-9e1e-cbf2738ae96a@180.149.44.216:999?security=reality&encryption=none&pbk=-d7gZw19wFxZcnqRsf0L8gin2NcQC8Quub0Y-NUnaR4&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e1ac6d894342c318#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
@@ -422,6 +433,7 @@ vless://f5e384e0-676a-4f48-aaa1-7e2c83df7127@m62a.vip784.com:33801?security=none
 vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?path=/vpnjantit&security=none&encryption=none&type=ws#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
 vless://f9f1ed42-9943-4121-9408-8fbe766343ae@m5a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
+vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=app.chandplus.com#Channel
 vless://fae631da-0b95-4ad9-9806-94c49e299b44@157.90.247.32:10138?type=grpc&encryption=none&serviceName=/@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&authority=&security=none#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://fcec2ee6-c96b-4873-95ba-eced3a2e12c5@168.119.158.122:443?path=/linkws?ed&security=none&encryption=none&host=168.119.158.122&type=ws#Channel
 vless://fcec2ee6-c96b-4873-95ba-eced3a2e12c5@168.119.158.122:443?path=/linkws?ed&security=none&encryption=none&host=168.119.158.122&type=ws#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
