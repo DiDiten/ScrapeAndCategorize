@@ -1,3 +1,2 @@
 ss://7a3d2e42-3823-4b00-9818-293f7c6742ca@zonex.md.zopli.ir:21275?security=reality&encryption=none&pbk=dNkjYxE5YiKram-ccPm9s8bGwYVakt0M-Y3I8EQKLQ4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e9797abf0202a439#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40ehsawn8%20%5B10%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@4.250.177.127:443#sai
 vless://7a3d2e42-3823-4b00-9818-293f7c6742ca@zonex.md.zopli.ir:21275?security=reality&encryption=none&pbk=dNkjYxE5YiKram-ccPm9s8bGwYVakt0M-Y3I8EQKLQ4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e9797abf0202a439#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40ehsawn8%20%5B10%5D
