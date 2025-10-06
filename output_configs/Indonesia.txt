@@ -1,5 +1,6 @@
 ss://53f40fb5-1217-4dd7-8b8d-2cb0f5e9c3e5@134.112.26.0:80?mode=auto&path=/@LUNAVO_VPN&security=none&encryption=none&host=fast.com&type=xhttp#🇮🇩
 ss://53f40fb5-1217-4dd7-8b8d-2cb0f5e9c3e5@134.112.26.0:80?mode=auto&path=/@LUNAVO_VPN&security=none&encryption=none&host=fast.com&type=xhttp#🇮🇩اشتراک
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%87%AE%F0%9F%87%A9ID-154.205.159.100-0357
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%87%AE%F0%9F%87%A9ID-154.205.159.100-5084
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#%F0%9F%87%AE%F0%9F%87%A9%20ID_64
 vless://53f40fb5-1217-4dd7-8b8d-2cb0f5e9c3e5@134.112.26.0:80?mode=auto&path=/@LUNAVO_VPN&security=none&encryption=none&host=fast.com&type=xhttp#🇮🇩
