@@ -5,4 +5,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989#%F0%9F%87%BA%F0%9F%8
 trojan://@Geek_Spot@176.97.210.2:12882/?type=tcp#🇺🇦
 vless://387d6d9a-5594-4b2a-a60d-5b2cb1f57638@185.126.255.180:443?security=reality&encryption=none&pbk=AdkdFL1GILtsxWSOcwdB-budJOiw2cXac8eIPxYIokw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.speedtest.net#🇺🇦
 vless://@Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#🇺🇦
-vmess://ewogICAgImFkZCI6ICIxNDEuMTEuMjUyLjY0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJiN2IyMzJkMS03OWFlLTRmYjEtOGZkYi02ZjBiZGM4YTQxZWUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYjdiMjMyZDEiLAogICAgInBvcnQiOiAyMDYzMCwKICAgICJwcyI6ICLwn4e68J+HplVBLTE0MS4xMS4yNTIuNjQtNzc2NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
