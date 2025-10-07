@@ -1,2 +1,2 @@
-ss://turboo-server@95.111.204.150:8443?path=%2FTurboo-Server&security=none&encryption=none&type=ws#v2ray_Extractor%20🔓%20VL-WS-N/A%20🇸🇪%20SE%20124ms
-vless://turboo-server@95.111.204.150:8443?path=%2FTurboo-Server&security=none&encryption=none&type=ws#v2ray_Extractor%20🔓%20VL-WS-N/A%20🇸🇪%20SE%20124ms
+ss://turboo-server@95.111.204.150:8443?path=%2FTurboo-Server&security=none&encryption=none&type=ws#v2ray_Extractor%20🔓%20VL-WS-N/A%20🇸🇪%20SE%20137ms
+vless://turboo-server@95.111.204.150:8443?path=%2FTurboo-Server&security=none&encryption=none&type=ws#v2ray_Extractor%20🔓%20VL-WS-N/A%20🇸🇪%20SE%20137ms
