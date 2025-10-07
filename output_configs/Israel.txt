@@ -8,7 +8,6 @@ ss://7fe2935c-0b1a-4bff-a392-79081b23d820@141.227.140.55:51079/?type=grpc&encryp
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=nareni.rtxiran.info#%3E%3E%40DailyV2RY%3A%3AXX
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=angor.rtxiran.info&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=angor.rtxiran.info&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=nareni.rtxiran.info&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=nareni.rtxiran.info&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
-ss://9e728936-8015-41a1-a0ab-80997c084465@2margate.superip.ir:3041?security=reality&encryption=none&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&host=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--BYA--KANAL--JKVPN&type=tcp&sni=www.refersion.com&sid=4c14#%3E%3E%40DailyV2RY%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTF6YnpvRWVjOGpHNWhraVZJeUlW@103.76.182.157:8443#ss-Thailand
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#%3E%3E%40DailyV2RY%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#%3E%3E%40DailyV2RY%3A%3AXX
@@ -16,11 +15,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#%3E%3E%40DailyV2RY%3A%3AXX
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#%3E%3E%40DailyV2RY%3A%3AXX
 ss://b754b53a-aaf5-475c-eeed-46806c2aa63f@nkang2replace.airlineshoma.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nkang2replace.airlineshoma.com#%3E%3E%40DailyV2RY%3A%3ASE
-ss://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?encryption=none&security=tls&sni=pxkfy.meta-funder.info&type=ws&alpn=&host=pxkfy.meta-funder.info&path=/majara#%3E%3E%40DailyV2RY%3A%3AXX
-ss://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?encryption=none&security=tls&sni=qgcow.bmw-funder.info&type=ws&alpn=&host=qgcow.bmw-funder.info&path=/majara#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.76:8880?encryption=none&security=none&fp=chrome&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?encryption=none&security=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
@@ -35,16 +31,13 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-dnra
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638942912656604786.malayer-prx-dnraacm.info:8880?encryption=none&security=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638943444955050447.birjand-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060330315.warsaw-prx-dnraacp.info:8880/?type=grpc&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638943941066258806.belgrade-prx-dnraacp.info:8880/?type=grpc&encryption=none&flow=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638944337658439808.dezful-prx-dnraacp.info:8880/?type=grpc&encryption=none&flow=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638944337658439808.dezful-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127875.yasuj-prx-dnraacp.info:8880/?type=grpc&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017445584.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017449913.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017453779.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359327481.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
@@ -53,8 +46,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359333933.birjand-drc-tusaas.
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359334556.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359338436.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441853305.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441854448.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441856326.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441856775.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441857235.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
@@ -72,7 +63,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378508794.mashhad-drc-tusacaf
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378509240.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510115.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510543.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378511390.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378513079.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378516088.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378516508.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
@@ -91,7 +81,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342844927.esfahan-drc-tusaas.
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434423505.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434430524.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434430922.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434431325.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434431838.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434432431.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
@@ -115,7 +104,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316596208.hamedan-drc-tusaas.
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316597416.hamedan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381272914.rasht-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381278790.rasht-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381286131.rasht-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381287935.rasht-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381290495.rasht-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116427871.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
@@ -135,7 +123,6 @@ ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096/?type=ws&encryption=
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%3E%3E%40DailyV2RY%3A%3AXX
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%3E%3E%40DailyV2RY%3A%3AXX
 ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?security=tls&encryption=none&type=ws&host=S5eW9e55Sx.SoLeNtRaA.iNfO&path=/&sni=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&alpn=h2,h3#%3E%3E%40DailyV2RY%3A%3AXX
-ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?encryption=none&security=none&type=ws&host=%2F%3F&path=%2F#%3E%3E%40DailyV2RY%3A%3AXX
 vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@45.144.51.23:8080/?type=tcp&encryption=none&flow=&sni=yandex.com&fp=chrome&security=reality&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&sid=27cfa05000c23cc4#%3E%3E%40DailyV2RY%3A%3APL
 vless://2e532561-7a61-4fdf-a534-706682c2e209@nl.iskra-connect.xyz:443?security=reality&encryption=none&pbk=V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2d46a79deebf50fd#%3E%3E%40DailyV2RY%3A%3ANL
 vless://34393e91-834d-4a3d-a901-bbfde643c4e0@206.189.83.23:25288/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com&fp=chrome&security=reality&pbk=kGb4d8KXEtQ3ayLLBMs5N2dz5__9aH7wdk0QEwl6f2Q&sid=#%3E%3E%40DailyV2RY%3A%3ASG
@@ -146,13 +133,9 @@ vless://7fe2935c-0b1a-4bff-a392-79081b23d820@141.227.140.55:51079/?type=grpc&enc
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=nareni.rtxiran.info#%3E%3E%40DailyV2RY%3A%3AXX
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=angor.rtxiran.info&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=angor.rtxiran.info&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&sni=nareni.rtxiran.info&alpn=h2,http/1.1&fp=chrome&type=ws&path=/&host=nareni.rtxiran.info&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
-vless://9e728936-8015-41a1-a0ab-80997c084465@2margate.superip.ir:3041?security=reality&encryption=none&pbk=uHj-YSliobSCte9w83Jm1VWpOnXl64sKghSSNVdFvVw&host=%2FJoin----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--BYA--KANAL--JKVPN&type=tcp&sni=www.refersion.com&sid=4c14#%3E%3E%40DailyV2RY%3A%3AGB
 vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@nkang2replace.airlineshoma.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nkang2replace.airlineshoma.com#%3E%3E%40DailyV2RY%3A%3ASE
-vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?encryption=none&security=tls&sni=pxkfy.meta-funder.info&type=ws&alpn=&host=pxkfy.meta-funder.info&path=/majara#%3E%3E%40DailyV2RY%3A%3AXX
-vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?encryption=none&security=tls&sni=qgcow.bmw-funder.info&type=ws&alpn=&host=qgcow.bmw-funder.info&path=/majara#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.76:8880?encryption=none&security=none&fp=chrome&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.89:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.235:8880?encryption=none&security=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
@@ -167,16 +150,13 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-d
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942912656604786.malayer-prx-dnraacm.info:8880?encryption=none&security=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943444955050447.birjand-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060330315.warsaw-prx-dnraacp.info:8880/?type=grpc&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943941066258806.belgrade-prx-dnraacp.info:8880/?type=grpc&encryption=none&flow=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944337658439808.dezful-prx-dnraacp.info:8880/?type=grpc&encryption=none&flow=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944337658439808.dezful-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638945271259127875.yasuj-prx-dnraacp.info:8880/?type=grpc&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017445584.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017449913.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017453779.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851076125.hamedan-drc-tusabl.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359327481.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
@@ -185,8 +165,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359333933.birjand-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359334556.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359338436.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359339820.birjand-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441853305.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441854448.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441856326.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441856775.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441857235.malayer-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
@@ -204,7 +182,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378508794.mashhad-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378509240.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510115.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378510543.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378511390.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378513079.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378516088.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378516508.mashhad-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
@@ -223,7 +200,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342844927.esfahan-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342845493.esfahan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434423505.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434430524.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434430922.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434431325.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434431838.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434432431.neyshabur-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
@@ -247,7 +223,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316596208.hamedan-drc-tusa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316597416.hamedan-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381272914.rasht-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381278790.rasht-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381286131.rasht-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381287935.rasht-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778381290495.rasht-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952903116427871.tabriz-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
@@ -267,7 +242,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096/?type=ws&encrypti
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F%3FTELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy%3Fed%3D512&security=tls&alpn=h3%2Ch2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%3E%3E%40DailyV2RY%3A%3AXX
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=%2F&security=tls&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#%3E%3E%40DailyV2RY%3A%3AXX
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?security=tls&encryption=none&type=ws&host=S5eW9e55Sx.SoLeNtRaA.iNfO&path=/&sni=S5eW9e55Sx.SoLeNtRaA.iNfO&fp=chrome&alpn=h2,h3#%3E%3E%40DailyV2RY%3A%3AXX
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?encryption=none&security=none&type=ws&host=%2F%3F&path=%2F#%3E%3E%40DailyV2RY%3A%3AXX
 vmess://eyJ2IjoiMiIsInBzIjoiPj5ARGFpbHlWMlJZOjpYWCIsImFkZCI6Ijg1LjE5NS4xMDEuMTIyIiwicG9ydCI6IjQwODc4IiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ
 vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMTU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsYW1tYWxhbmQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiPj5ARGFpbHlWMlJZOjpYWCIsInNjeSI6ImF1dG8iLCJzbmkiOiJsYW1tYWxhbmQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
 vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjEyIiwiYWlkIjoiMCIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDhiOTg2ZDgtN2RhMi00N2EyLTg1ZGUtMjMwNmM5MjU5OTUzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NTAiLCJwcyI6Ij4+QERhaWx5VjJSWTo6U0ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6InRjcCIsInYiOiIyIn0
