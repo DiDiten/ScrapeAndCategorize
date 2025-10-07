@@ -125,7 +125,6 @@ ss://b65f4df7-f6af-42b2-877a-cef33f21675e@199.34.229.32:2096?path=/snippetsfp&se
 ss://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#Channel
 ss://bdff9377-3c92-42a1-98e7-128e01f6cc61@188.245.112.146:443?path=/linkws?ed&security=none&encryption=none&host=188.245.112.146&type=ws#Channel
 ss://c6dca9d0-35b1-45d7-87f9-f0139bb0f184@5.75.200.155:20837?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#Channel
-ss://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&host=qgcow.bmw-funder.info&type=ws&sni=qgcow.bmw-funder.info#Channel
 ss://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=svrgd.bmw-funder.info#Channel
 ss://ca2ae03c-75a2-4956-b86c-8784484aa263@95.128.196.217:3232?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel
 ss://ca2bbc0a-3139-4a1c-bc93-049ad63c1d95@ucj3xy12fic116ixrq0m.appcity-download.ir:64286?mode=gun&security=none&encryption=none&type=grpc#Channel
@@ -308,7 +307,6 @@ vless://b65f4df7-f6af-42b2-877a-cef33f21675e@199.34.229.32:2096?path=/snippetsfp
 vless://babf3d3e-dc83-40ef-8a7e-a08550fdeed4@ardagulerturk.vtuix.online:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#Channel
 vless://bdff9377-3c92-42a1-98e7-128e01f6cc61@188.245.112.146:443?path=/linkws?ed&security=none&encryption=none&host=188.245.112.146&type=ws#Channel
 vless://c6dca9d0-35b1-45d7-87f9-f0139bb0f184@5.75.200.155:20837?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#Channel
-vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&host=qgcow.bmw-funder.info&type=ws&sni=qgcow.bmw-funder.info#Channel
 vless://c83014e0-ad3e-4ebd-9e8f-8f7a1f6088d6@whatismyipaddress.com:443?path=/majara&security=tls&encryption=none&type=ws&sni=svrgd.bmw-funder.info#Channel
 vless://ca2ae03c-75a2-4956-b86c-8784484aa263@95.128.196.217:3232?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel
 vless://ca2bbc0a-3139-4a1c-bc93-049ad63c1d95@ucj3xy12fic116ixrq0m.appcity-download.ir:64286?mode=gun&security=none&encryption=none&type=grpc#Channel
