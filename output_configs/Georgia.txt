@@ -1,7 +1,7 @@
 ss://4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ge2ray%20%5B3%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@166.88.130.112:808#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%2845%29
-ss://acdf1a94-393f-4b5a-86c2-65558b18e7b5@188.132.141.58:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40orange_vpns%20%5B13%5D
+ss://acdf1a94-393f-4b5a-86c2-65558b18e7b5@188.132.141.58:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40orange_vpns%20%5B11%5D
 ss://b52a81f3-7167-4064-9d09-d54fccf273bd@85000?path=%2FHHJ1feCQkdARo4ZzMOCSwT&security=none&alpn=http%2F1.1&encryption=none&host=#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ge2ray%20%5B5%5D
 vless://4f53514e-bf21-4d46-8c11-3ac9297927a6@ge2.soleymani.shop:9393?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ge2ray%20%5B3%5D
-vless://acdf1a94-393f-4b5a-86c2-65558b18e7b5@188.132.141.58:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40orange_vpns%20%5B13%5D
+vless://acdf1a94-393f-4b5a-86c2-65558b18e7b5@188.132.141.58:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40orange_vpns%20%5B11%5D
 vless://b52a81f3-7167-4064-9d09-d54fccf273bd@85000?path=%2FHHJ1feCQkdARo4ZzMOCSwT&security=none&alpn=http%2F1.1&encryption=none&host=#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ge2ray%20%5B5%5D

@@ -7,7 +7,7 @@ hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&sni=YAPC-1.afs
 hy2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Channel
 hy2://YwuvGJk36B@81.168.83.89:2083/?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko%40smad%40ret#%3E%3E%40shadowproxy66%3A%3AGB
 hy2://YwuvGJk36B@81.168.83.89:2083/?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret#Channel
-hy2://YwuvGJk36B@filtercheebyha.arshiacomplus.dpdns.org:2083/?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko%40smad%40ret#%3E%3E%40shadowproxy66%3A%3AGB
+hy2://YwuvGJk36B@filtercheebyha.arshiacomplus.dpdns.org:2083/?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko%40smad%40ret#%3E%3E%40shadowproxy66%3A%3AXX
 hy2://YwuvGJk36B@filtercheebyha.arshiacomplus.dpdns.org:2083/?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret#Channel
 hy2://abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d@358d29-330-2.9966661.xyz:3000/?sni=358d29-330.9966661.xyz#Channel
 hy2://abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d@af01e9-330-3.9966661.xyz:3000/?sni=af01e9-330.9966661.xyz#Channel
