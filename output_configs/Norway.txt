@@ -74,4 +74,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=none&encryption=none&type=grpc#VayNora
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=none&encryption=none&type=grpc#VayNora
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#VayNora
-vmess://ewogICAgImFkZCI6ICI0Ni4yOS4yMTguODQiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmN2E0NTZkYS05ODg2LTRkZDctYjE5My00YzU5YTcyNjIxOWMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Pwn4e0Tk8tNDYuMjkuMjE4Ljg0LTA1MjgiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
