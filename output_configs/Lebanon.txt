@@ -1,14 +1,10 @@
-ss://66cb0bf2-1413-4dcb-9cbb-d94e4df45f72@m46a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#mrsoulb%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20184ms
-ss://7ee4671c-6b18-4574-8498-d6d7979218e5@ardagulerturk.vtuix.space:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20202ms
-ss://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless8-ekh.pages.dev#mrsoulb%20🔒%20VL-WS-N/A%20🇭🇰%20HK%2018ms
+ss://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless8-ekh.pages.dev#mrsoulb%20🔒%20VL-WS-N/A%20🇭🇰%20HK%209ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108227.dublin-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638943040460362238.qazvin-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3`
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359334556.birjand-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638951859202353992.amsterdam-prx-dnraacs.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
-vless://66cb0bf2-1413-4dcb-9cbb-d94e4df45f72@m46a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#mrsoulb%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20184ms
-vless://7ee4671c-6b18-4574-8498-d6d7979218e5@ardagulerturk.vtuix.space:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#mrsoulb%20🔓%20VL-WS-N/A%20🇹🇷%20TR%20202ms
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless8-ekh.pages.dev#mrsoulb%20🔒%20VL-WS-N/A%20🇭🇰%20HK%2018ms
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless8-ekh.pages.dev#mrsoulb%20🔒%20VL-WS-N/A%20🇭🇰%20HK%209ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108227.dublin-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943040460362238.qazvin-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946986851068158.hamedan-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel%20%3A%20%40Mrsoulb%20%F0%9F%8F%B4%F0%9F%8F%B3`
