@@ -65,7 +65,7 @@ ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-
 ss://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇮🇷]t.me/Raiv2mmr
 ss://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#Irancell--@IRAN_V2RAY1
 ss://49aacdab-c9b9-4031-8e64-514e9cd72089@104.18.22.19:443?security=tls&encryption=none&type=ws&host=shAHaNShahi.pagES.deV&path=/Telegram@V2ray_Alpha/?ed=2048&sni=ShahANsHahi.paGEs.Dev&fp=chrome&alpn=h2,http/1.1#Awlix_ir
-ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=&encryption=none&headerType=none&type=tcp#v2ray_Extractor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20187ms
+ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=&encryption=none&headerType=none&type=tcp#v2ray_Extractor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20224ms
 ss://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&host=/?---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp#🇮🇷
 ss://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?path=/wsss&security=tls&encryption=none&type=ws&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#MCI-@IRAN_V2RAY1
 ss://4fd0c05c-3d20-4512-9628-0eeade38d4c4@all.vpncustomize.cam:2096?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=%40VPNCUSTOMIZE&sni=QvssvpfpV2ray-Soyosha-IranCCrl-mcisk-mtn-mciaoaovpn.SNAPP.monster#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxy_iranv2%20%5B2%5D
@@ -119,7 +119,8 @@ ss://85b5ac4c-364a-4703-90d3-158bace384cf@104.21.7.50:443?security=tls&encryptio
 ss://880adfbf-6098-5ed9-8e3d-7716caf63e72@104.17.147.22:2052?encryption=none&security=none&type=ws&host=sPeedtest2.sbs.lu.v2vless.sitespeedtest.net&path=/vless#@awlix_ir
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=6389113402676776505.rtxiran.info&type=ws&sni=6389113402676776505.rtxiran.info#@IRAN_V2RAY1
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776517.VtNeT.infO#@IRAN_V2RAY1
-ss://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&encryption=none&headerType=none&type=tcp#v2ray_Extractor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20177ms
+ss://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&encryption=none&headerType=none&type=tcp#v2ray_Extractor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20233ms
+ss://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encryption=none&headerType=none&type=tcp#v2ray_Extractor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20226ms
 ss://8c5ce1fb-db3d-4d72-94fb-2aa4eb36ab38@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷3
 ss://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.47.185:443?security=tls&encryption=none&type=ws&host=c1c569fc.irani-eub.pages.dev&path=/?ed=2048&sni=c1c569fc.irani-eub.pages.dev&fp=chrome#Awlix_ir
 ss://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.47.185:443?security=tls&encryption=none&type=ws&host=c1c569fc.irani-eub.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&sni=c1c569fc.irani-eub.pages.dev&fp=chrome#Awlix_ir
@@ -247,7 +248,6 @@ ss://c936567b-58a8-43c9-ba12-a91f6bfb8a6d@zula.ir:8080?security=none&encryption=
 ss://cbb4251b-9b20-4c42-b09d-df77666bda12@95.217.183.108:2087?security=reality&sni=www.target.com&fp=chrome&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&sid=bc6f0833&type=grpc&encryption=none#@awlix_ir
 ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#@IRAN_V2RAY1
 ss://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?security=tls&encryption=none&type=ws&host=vip1-romax-tiktok.hsjsak.ir&path=vless-ws/?ed&sni=vip1-romax-tiktok.hsjsak.ir&fp=chrome#Awlix_ir
-ss://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.shahinstore1.com:443?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B3%5D
 ss://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?security=tls&encryption=none&type=ws&host=fraud.chase&path=/?ed&sni=www.Arizona.edu&fp=chrome#Awlix_ir
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#@awlix_ir
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080#@awlix_ir
@@ -462,7 +462,7 @@ vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stre
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=none&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇮🇷]t.me/Raiv2mmr
 vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#Irancell--@IRAN_V2RAY1
 vless://49aacdab-c9b9-4031-8e64-514e9cd72089@104.18.22.19:443?security=tls&encryption=none&type=ws&host=shAHaNShahi.pagES.deV&path=/Telegram@V2ray_Alpha/?ed=2048&sni=ShahANsHahi.paGEs.Dev&fp=chrome&alpn=h2,http/1.1#Awlix_ir
-vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=&encryption=none&headerType=none&type=tcp#v2ray_Extractor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20187ms
+vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=&encryption=none&headerType=none&type=tcp#v2ray_Extractor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20224ms
 vless://4a0e3cf3-4a10-4a38-bba4-b17b592a0d2b@89.44.242.222:29495?security=none&encryption=none&host=/?---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp#🇮🇷
 vless://4b3d1517-204f-423a-8469-2d79444418a9@104.18.26.90:443?path=/wsss&security=tls&encryption=none&type=ws&sni=bLAZE-GErmanY-246.MEtIKaPps.COm#MCI-@IRAN_V2RAY1
 vless://4fd0c05c-3d20-4512-9628-0eeade38d4c4@all.vpncustomize.cam:2096?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=%40VPNCUSTOMIZE&sni=QvssvpfpV2ray-Soyosha-IranCCrl-mcisk-mtn-mciaoaovpn.SNAPP.monster#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40proxy_iranv2%20%5B2%5D
@@ -516,7 +516,8 @@ vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.21.7.50:443?security=tls&encryp
 vless://880adfbf-6098-5ed9-8e3d-7716caf63e72@104.17.147.22:2052?encryption=none&security=none&type=ws&host=sPeedtest2.sbs.lu.v2vless.sitespeedtest.net&path=/vless#@awlix_ir
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=6389113402676776505.rtxiran.info&type=ws&sni=6389113402676776505.rtxiran.info#@IRAN_V2RAY1
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776517.VtNeT.infO#@IRAN_V2RAY1
-vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&encryption=none&headerType=none&type=tcp#v2ray_Extractor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20177ms
+vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=&encryption=none&headerType=none&type=tcp#v2ray_Extractor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20233ms
+vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?security=none&encryption=none&headerType=none&type=tcp#v2ray_Extractor%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20226ms
 vless://8c5ce1fb-db3d-4d72-94fb-2aa4eb36ab38@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷3
 vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.47.185:443?security=tls&encryption=none&type=ws&host=c1c569fc.irani-eub.pages.dev&path=/?ed=2048&sni=c1c569fc.irani-eub.pages.dev&fp=chrome#Awlix_ir
 vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.47.185:443?security=tls&encryption=none&type=ws&host=c1c569fc.irani-eub.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&sni=c1c569fc.irani-eub.pages.dev&fp=chrome#Awlix_ir
@@ -557,7 +558,6 @@ vless://c936567b-58a8-43c9-ba12-a91f6bfb8a6d@zula.ir:8080?security=none&encrypti
 vless://cbb4251b-9b20-4c42-b09d-df77666bda12@95.217.183.108:2087?security=reality&sni=www.target.com&fp=chrome&pbk=6ezm4CcEWfvptuqvMaweZW5jTaX-M4SdZE2r8JkKsQ0&sid=bc6f0833&type=grpc&encryption=none#@awlix_ir
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#@IRAN_V2RAY1
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?security=tls&encryption=none&type=ws&host=vip1-romax-tiktok.hsjsak.ir&path=vless-ws/?ed&sni=vip1-romax-tiktok.hsjsak.ir&fp=chrome#Awlix_ir
-vless://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.shahinstore1.com:443?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B3%5D
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?security=tls&encryption=none&type=ws&host=fraud.chase&path=/?ed&sni=www.Arizona.edu&fp=chrome#Awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.197.1:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?d=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.43.169:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
@@ -683,7 +683,6 @@ vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=no
 vless://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@IRAN_V2RAY1
 vless://fb15affc-8cab-4c00-a8d0-b71bb85ab777@hetz-vl1.danims.sbs:8081?security=none&encryption=none&host=varzesh3.com--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--join--skypro_vpn--&headerType=none&type=tcp#ایرانسل
 vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?security=tls&encryption=none&type=ws&host=HovEYda-arIamehr-KINg.pAgES.dev&path=JOIN-Proxy_mtm/?ed=2048&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev&fp=chrome&alpn=h2,http/1.1#Awlix_ir
-vmess://ewogICAgImFkZCI6ICIxODUuMTQzLjIzMy4xMTQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxODUuMTQzLjIzMy4xMTQiLAogICAgImlkIjogImNmN2YyZDdjLWQ0ZjgtNDY5YS1iZmQ1LTk3NDg0YmI5OGQyYyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+Ht0lSLTE4NS4xNDMuMjMzLjExNC0xNTAyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxODUuMTQzLjIzMy4xMTQiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIyMTQuemlyb2dhbWUtNzkuc2l0ZSIsCiAgICAiaWQiOiAiY2Y3ZjJkN2MtZDRmOC00NjlhLWJmZDUtOTc0ODRiYjk4ZDJjIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh67wn4e3SVItMTg1LjE0My4yMzMuMTE0LTQ5OTUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICIxODUuMjQuMjU1LjI0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI4MGFiYjkwMy0yNGUwLTRkYmQtOWMyZi1hNTdlOWEyNjc1NTUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvd3MiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+Ht0lSLTE4NS4yNC4yNTUuMjQtMzAwMyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://eyJhZGQiOiI0Mi4yLjExMy4xMzYiLCJhaWQiOiIyIiwiaG9zdCI6IjA5ZDgxNjJhLXN2NmhzMC10NTk2M20tMWV4NWEuaGsucDVwdi5jb20iLCJpZCI6Ijk4ZDJiNjYwLTcyMTgtMTFlYy1iZDdjLWYyM2M5MTNjOGQyYiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkBhd2xpeF9pciIsInNjeSI6ImF1dG8iLCJzbmkiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
