@@ -1,2 +1,0 @@
-ss://726c2932-0d31-4b1a-a53f-66d805fbfee6@45.140.167.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=4sRkOVWmoTKl8EUOR8NAAgMEFj_iND_IHih6mPsOVFY&sid=309077b07755&type=tcp&headerType=none#v2ray_Extractor%20🔒%20VL-TCP-%20🇬🇧%20GB%20118ms
-vless://726c2932-0d31-4b1a-a53f-66d805fbfee6@45.140.167.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=4sRkOVWmoTKl8EUOR8NAAgMEFj_iND_IHih6mPsOVFY&sid=309077b07755&type=tcp&headerType=none#v2ray_Extractor%20🔒%20VL-TCP-%20🇬🇧%20GB%20118ms
