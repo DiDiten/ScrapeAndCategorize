@@ -1,2 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#V2_Open
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.229.28:989#%F0%9F%87%B5%F0%9F%87%AAPE-190.120.229.28-8324
+ss://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B14%5D
+vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B14%5D

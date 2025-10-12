@@ -2,13 +2,11 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638943040460374197.qazvin-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359334556.birjand-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434430524.neyshabur-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434435328.neyshabur-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316586254.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943040460374197.qazvin-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655359334556.birjand-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434430524.neyshabur-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280434435328.neyshabur-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316586254.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
