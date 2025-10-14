@@ -34,6 +34,7 @@ ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=/?ed=2560&secu
 ss://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=&encryption=none&host=t.me/v2line&type=ws#Channel
 ss://2de868a2-21e1-409c-b901-ac87779f57e4@m74a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
 ss://30115cd1-bdaa-4d08-8afb-4b511763252e@37.27.2.66:39871?flow=&type=tcp&headerType=none&security=none#Channel
+ss://3089070d-6901-4eae-a655-3a2c5a14d0ce@159.69.125.150:443?path=/linkws?ed&security=none&encryption=none&host=159.69.125.150&type=ws#Channel
 ss://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&host=--join--ShadowProxy66--&headerType=none&fp=chrome&spx=/@skypro_vpn&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#Channel
 ss://30dd2eea-fe78-4660-a04f-096a7dac41e3@yt.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#Channel
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?sni=carlotta.shoorekeeper.cloudns.org&host=carlotta.shoorekeeper.cloudns.org&security=tls&path=/proxyip=zani.yaemiko.ggff.net&encryption=none&fp=chrome&alpn=http/1.1&type=ws#Channel
@@ -171,6 +172,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637256694.london-blkaft-aaag.
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638958556051243448.kish-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638958761652098789.esfahan-blkaft-aaaj.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638959783653647289.lahijan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638960022058726038.birjand-blkaft-aaak.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#Channel
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
@@ -232,6 +234,7 @@ vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=/?ed=2560&s
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=&encryption=none&host=t.me/v2line&type=ws#Channel
 vless://2de868a2-21e1-409c-b901-ac87779f57e4@m74a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel
 vless://30115cd1-bdaa-4d08-8afb-4b511763252e@37.27.2.66:39871?flow=&type=tcp&headerType=none&security=none#Channel
+vless://3089070d-6901-4eae-a655-3a2c5a14d0ce@159.69.125.150:443?path=/linkws?ed&security=none&encryption=none&host=159.69.125.150&type=ws#Channel
 vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&host=--join--ShadowProxy66--&headerType=none&fp=chrome&spx=/@skypro_vpn&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#Channel
 vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@yt.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#Channel
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?sni=carlotta.shoorekeeper.cloudns.org&host=carlotta.shoorekeeper.cloudns.org&security=tls&path=/proxyip=zani.yaemiko.ggff.net&encryption=none&fp=chrome&alpn=http/1.1&type=ws#Channel
@@ -366,6 +369,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638957009637256694.london-blkaft-aa
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958556051243448.kish-drc-tusabl.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638958761652098789.esfahan-blkaft-aaaj.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959783653647289.lahijan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638960022058726038.birjand-blkaft-aaak.info:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#Channel
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.120:8880?mode=gun&security=none&encryption=none&type=grpc#Channel
