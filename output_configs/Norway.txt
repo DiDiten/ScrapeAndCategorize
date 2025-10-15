@@ -21,10 +21,6 @@ ss://a29a1ea2-98bc-4333-af5e-f3bb3ca6542c@wndisdkvwmqyod.curfuffled.com:443?type
 ss://c67f732f-418b-48a6-a68e-061048145d25@www.speedtest.net:8443?encryption=none&type=httpupgrade&host=de3.penubit.com&path=/VLSDECF&security=tls&fp=chrome&sni=de3.penubit.com&alpn=http/1.1&mux=8#VayNora
 ss://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.imlast.com:443?type=tcp&security=none#VayNora(1)
 ss://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.shahinstore1.com:443?type=tcp&security=none#VayNora(2)
-ss://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=android&type=tcp&sni=uk-09.allhubb.info#%40Noforcedheaven%F0%9F%87%AC%F0%9F%87%A7`
-ss://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=uk-09.allhubb.info#%40Noforcedheaven%F0%9F%87%AC%F0%9F%87%A7`
-ss://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=firefox&type=tcp&sni=uk-09.allhubb.info#%40Noforcedheaven%F0%9F%87%AC%F0%9F%87%A7`
-ss://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=random&type=tcp&sni=uk-09.allhubb.info#%40Noforcedheaven%F0%9F%87%AC%F0%9F%87%A7`
 ss://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#VayNora
 ss://d6873a1d-38bf-430d-a701-a874b9be3982@193.233.19.17:2053?type=xhttp&mode=auto&security=reality&fp=chrome&sni=refersion.com&pbk=liDJBs0Z831sti-z1AqSshl-QKcJqjxLAdADy1uXvzg&sid=96c58a92f1dd5eaa&spx=/#VayNora
 ss://dc648bc7-7884-4921-a65d-8eebbf4eb972@vaynora.imlast.com:443?type=tcp&security=none#VayNora(1)
@@ -56,10 +52,6 @@ vless://a29a1ea2-98bc-4333-af5e-f3bb3ca6542c@wndisdkvwmqyod.curfuffled.com:443?t
 vless://c67f732f-418b-48a6-a68e-061048145d25@www.speedtest.net:8443?encryption=none&type=httpupgrade&host=de3.penubit.com&path=/VLSDECF&security=tls&fp=chrome&sni=de3.penubit.com&alpn=http/1.1&mux=8#VayNora
 vless://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.imlast.com:443?type=tcp&security=none#VayNora(1)
 vless://ce32e82a-8115-452b-a2bf-a2b1672f83c4@vaynora.shahinstore1.com:443?type=tcp&security=none#VayNora(2)
-vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=android&type=tcp&sni=uk-09.allhubb.info#%40Noforcedheaven%F0%9F%87%AC%F0%9F%87%A7`
-vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=uk-09.allhubb.info#%40Noforcedheaven%F0%9F%87%AC%F0%9F%87%A7`
-vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=firefox&type=tcp&sni=uk-09.allhubb.info#%40Noforcedheaven%F0%9F%87%AC%F0%9F%87%A7`
-vless://d00ba617-8d04-4f7b-a952-8fa031b39879@51.68.215.27:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=random&type=tcp&sni=uk-09.allhubb.info#%40Noforcedheaven%F0%9F%87%AC%F0%9F%87%A7`
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#VayNora
 vless://d6873a1d-38bf-430d-a701-a874b9be3982@193.233.19.17:2053?type=xhttp&mode=auto&security=reality&fp=chrome&sni=refersion.com&pbk=liDJBs0Z831sti-z1AqSshl-QKcJqjxLAdADy1uXvzg&sid=96c58a92f1dd5eaa&spx=/#VayNora
 vless://dc648bc7-7884-4921-a65d-8eebbf4eb972@vaynora.imlast.com:443?type=tcp&security=none#VayNora(1)
@@ -75,3 +67,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=none&encryption=none&type=grpc#VayNora
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=none&encryption=none&type=grpc#VayNora
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#VayNora
+vmess://ewogICAgImFkZCI6ICI0Ni4yOS4yMTguODQiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmN2E0NTZkYS05ODg2LTRkZDctYjE5My00YzU5YTcyNjIxOWMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Pwn4e0Tk8tNDYuMjkuMjE4Ljg0LTA1NTkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
