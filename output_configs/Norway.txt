@@ -10,7 +10,7 @@ ss://83d8f105-1c48-4bde-baf5-4aa8900c81fe@vaynora.imlast.com:443?type=tcp&securi
 ss://83d8f105-1c48-4bde-baf5-4aa8900c81fe@vaynora.shahinstore1.com:443?type=tcp&security=none#VayNora
 ss://863b3a17-bb45-493b-ad98-898b490e540c@n0.asmdns.net:2082?path=/?ed=2590&security=none&encryption=none&host=n10.asmdns.net&type=ws#VayNora
 ss://8af733bd-c094-4e99-add3-95f380cda5e7@loadbalance.systemgamingirani.ir:443?security=reality&encryption=none&pbk=v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=b7859e878ab2fb#VayNora
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NUNYNWRGUnpRMjlYMUNUeEhDL3ZzQjM1aTdsTGU4MkhlbG9aM0xCQmJSdz06bFZXRDVqd0swWjJyN1NvZFBYNDFnaXViUGFEaTRJcmdrVGZRK2VqVWFGdz0=@adas-polo-ba-mahi.kotlet.org:2053#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40vpnowl%20%5B18%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NUNYNWRGUnpRMjlYMUNUeEhDL3ZzQjM1aTdsTGU4MkhlbG9aM0xCQmJSdz06bFZXRDVqd0swWjJyN1NvZFBYNDFnaXViUGFEaTRJcmdrVGZRK2VqVWFGdz0=@adas-polo-ba-mahi.kotlet.org:2053#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40vpnowl%20%5B17%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1QDQuMjIzLjEwMC4yNDg6NDgxNzI=#VayNora
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#%F0%9F%87%B3%F0%9F%87%B4NO-185.213.23.226-0248
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.162.146.85:8316#VayNora
@@ -67,4 +67,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?mode=gun&security=none&encryption=none&type=grpc#VayNora
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=none&encryption=none&type=grpc#VayNora
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#VayNora
-vmess://ewogICAgImFkZCI6ICI0Ni4yOS4yMTguODQiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmN2E0NTZkYS05ODg2LTRkZDctYjE5My00YzU5YTcyNjIxOWMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Pwn4e0Tk8tNDYuMjkuMjE4Ljg0LTA1NTkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICI0Ni4yOS4yMTguODQiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJmN2E0NTZkYS05ODg2LTRkZDctYjE5My00YzU5YTcyNjIxOWMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Pwn4e0Tk8tNDYuMjkuMjE4Ljg0LTA2MTEiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==

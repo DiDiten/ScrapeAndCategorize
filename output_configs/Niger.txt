@@ -42,12 +42,12 @@ ss://3089070d-6901-4eae-a655-3a2c5a14d0ce@159.69.125.150:443?path=/linkws?ed&sec
 ss://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&host=--join--ShadowProxy66--&headerType=none&fp=chrome&spx=/@skypro_vpn&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#Channel
 ss://30dd2eea-fe78-4660-a04f-096a7dac41e3@yt.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#Channel
 ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?sni=carlotta.shoorekeeper.cloudns.org&host=carlotta.shoorekeeper.cloudns.org&security=tls&path=/proxyip=zani.yaemiko.ggff.net&encryption=none&fp=chrome&alpn=http/1.1&type=ws#Channel
+ss://38ede7d1-5a7b-4263-b9b7-bc89b0695241@128.140.80.142:443?path=/linkws?ed&security=none&encryption=none&host=128.140.80.142&type=ws#Channel
 ss://3921ced2-19c6-476b-840f-988bfee49a30@65.109.8.76:35000?path=/&security=none&encryption=none&type=ws#Channel
 ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#Channel
 ss://44aa0da4-7ea3-4ad8-baeb-c63ff1311e66@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel
 ss://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=&encryption=none&headerType=none&type=tcp#Channel
 ss://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=/wlbywy8cCxbWMJZI&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#Channel
-ss://49d838d4-f3da-4537-9466-a4d103dfd622@91.98.175.72:42671?security=none&encryption=none&headerType=none&type=tcp#Channel
 ss://4a0ca197-b374-492e-9b78-b148e2ddb1e2@91.236.168.126:5151?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel
 ss://4a0ca197-b374-492e-9b78-b148e2ddb1e2@95.128.196.217:3232?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel
 ss://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.44.81:2083?path=/lzu7wqwidqc1jrn6?ed=2560&security=tls&encryption=none&type=ws&sni=azadnet05.pages.dev#Channel
@@ -145,6 +145,7 @@ ss://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&alpn=h
 ss://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=/&security=none&encryption=none&type=ws#Channel
 ss://b0fc9436-2dfd-4d16-9312-ff7a3e2aff5f@www.speedtest.net:8443?path=/@ShadowProxy66?ed&security=tls&alpn=http/1.1&encryption=none&host=root.dns-23.ir&fp=chrome&type=ws&sni=root.dns-23.ir#Channel
 ss://b1db6b35-f446-4c7f-bd7b-335147c7d7de@melodybuy.shop:47470?security=none&encryption=none&headerType=none&type=tcp#Channel
+ss://b3fc59f0-d018-45e7-f95c-87b3e494f692@159.89.0.160:443?mode=gun&security=none&encryption=none&type=grpc#Channel
 ss://b4f7b99a-85a4-4dd3-a25e-55e6fae0ad53@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=smart.domnewconfsob1.org#Channel
 ss://b65f4df7-f6af-42b2-877a-cef33f21675e@192.0.54.32:2096?path=/snippets&security=tls&encryption=none&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#Channel
 ss://b65f4df7-f6af-42b2-877a-cef33f21675e@199.34.229.32:2096?path=/snippetsfp&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#Channel
@@ -277,12 +278,12 @@ vless://3089070d-6901-4eae-a655-3a2c5a14d0ce@159.69.125.150:443?path=/linkws?ed&
 vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@tiktok.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&host=--join--ShadowProxy66--&headerType=none&fp=chrome&spx=/@skypro_vpn&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#Channel
 vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@yt.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=916a#Channel
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?sni=carlotta.shoorekeeper.cloudns.org&host=carlotta.shoorekeeper.cloudns.org&security=tls&path=/proxyip=zani.yaemiko.ggff.net&encryption=none&fp=chrome&alpn=http/1.1&type=ws#Channel
+vless://38ede7d1-5a7b-4263-b9b7-bc89b0695241@128.140.80.142:443?path=/linkws?ed&security=none&encryption=none&host=128.140.80.142&type=ws#Channel
 vless://3921ced2-19c6-476b-840f-988bfee49a30@65.109.8.76:35000?path=/&security=none&encryption=none&type=ws#Channel
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#Channel
 vless://44aa0da4-7ea3-4ad8-baeb-c63ff1311e66@91.98.22.20:22933?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel
 vless://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?security=&encryption=none&headerType=none&type=tcp#Channel
 vless://4971ac7d-376d-47b9-9b86-83a21adcedc4@104.21.64.1:443?path=/wlbywy8cCxbWMJZI&security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=Et3ch-007.Zed23.wEB1337.net#Channel
-vless://49d838d4-f3da-4537-9466-a4d103dfd622@91.98.175.72:42671?security=none&encryption=none&headerType=none&type=tcp#Channel
 vless://4a0ca197-b374-492e-9b78-b148e2ddb1e2@91.236.168.126:5151?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel
 vless://4a0ca197-b374-492e-9b78-b148e2ddb1e2@95.128.196.217:3232?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.44.81:2083?path=/lzu7wqwidqc1jrn6?ed=2560&security=tls&encryption=none&type=ws&sni=azadnet05.pages.dev#Channel
@@ -357,6 +358,7 @@ vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?security=tls&alp
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=/&security=none&encryption=none&type=ws#Channel
 vless://b0fc9436-2dfd-4d16-9312-ff7a3e2aff5f@www.speedtest.net:8443?path=/@ShadowProxy66?ed&security=tls&alpn=http/1.1&encryption=none&host=root.dns-23.ir&fp=chrome&type=ws&sni=root.dns-23.ir#Channel
 vless://b1db6b35-f446-4c7f-bd7b-335147c7d7de@melodybuy.shop:47470?security=none&encryption=none&headerType=none&type=tcp#Channel
+vless://b3fc59f0-d018-45e7-f95c-87b3e494f692@159.89.0.160:443?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://b4f7b99a-85a4-4dd3-a25e-55e6fae0ad53@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=smart.domnewconfsob1.org#Channel
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@192.0.54.32:2096?path=/snippets&security=tls&encryption=none&fp=chrome&type=ws&sni=kejiland.freewarp.eu.org#Channel
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@199.34.229.32:2096?path=/snippetsfp&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#Channel

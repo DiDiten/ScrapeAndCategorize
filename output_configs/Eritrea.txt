@@ -126,7 +126,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@ltnl17.saint.y
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkeFM3YU5tM3ZyOXpnZzlHYmgzbldL@h110vpnch.outlinekeys.net:4248#%F0%9F%87%A8%F0%9F%87%AD%20Zurich%2C%20ZH%2C%20Switzerland%20%286%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40filtershekan_channel%20%5B13%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#%F0%9F%87%B5%F0%9F%87%AA%20Lima%2C%20LMA%2C%20Peru
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2c5MjlCV2YxSzIyMGRH@azjnac1.uksouth.cloudapp.azure.com:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40manstervpn%20%5B64%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbnRmVmVpQjdjeTNIbTFP@c1.nastuh.link:443#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40manstervpn%20%5B66%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%2890%29
@@ -170,7 +169,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=n
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷@vpnserverrr
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40nofilter_v2rayng%20%5B9%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷@vpnserverrr
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.98:8880?mode=gun&security=none&encryption=none&authority=/@vpnserverrr&type=grpc#🇪🇸@vpnserverrr
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
@@ -208,7 +206,6 @@ ss://fe25fd7f-d035-4448-baaa-a67237a03cb7@Filter5050.nabxcsjghjs2004.shop:22113?
 ss://fef15ae1-cdc9-42ec-9c76-ea083550fd45@erfwp.fast.hosting-ip.com:80?type=xhttp&path=/erfwp?ed=2048&host=erfwp.com&mode=auto&security=none#@erfwp
 ss://telegram-deli-servers@185.146.173.59:80?path=%2Ftel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers%3Fed%3D2048&security=none&encryption=none&host=kia%E6%9D%A5%E8%87%AA%E6%88%91%E4%BB%AC%E5%9B%A2%E9%98%9F%E7%9A%84%E7%88%B101%E6%88%91%E7%88%B1%E7%86%9F%E9%A3%9F%E5%BA%97lovedeli.speedtest.net.gOogle.com.Arvancloud.ir.realKiaa.ninjA.&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40deli_servers%20%5B3%5D
 ss://turboo-server@91.99.224.53:60123?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#➪+@FILTERK0SH++منبع+کانفیگ+رایگان
-trojan://telegram-id-v2rayvpnchannel@3.120.122.197:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@freenettir📡🇩🇪®️Germany©️Frankfurt
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manstervpn%20%5B65%5D
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#@vpnserverrr
 vless://019984df-e8d5-10ee-435f-9143d7beb674@47.236.91.181:1443?path=/snippets?ip=ProxyIP.Oracle.cmliussss.net&security=tls&encryption=none&host=getsub.saas.classelivre.eu.org&type=ws&sni=getsub.saas.classelivre.eu.org#@vpnserverrr
@@ -329,7 +326,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷@vpnserverrr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc#@vpnserverrr
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.91:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40nofilter_v2rayng%20%5B9%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.92:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷@vpnserverrr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.98:8880?mode=gun&security=none&encryption=none&authority=/@vpnserverrr&type=grpc#🇪🇸@vpnserverrr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.120.178.9:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
@@ -367,7 +363,6 @@ vless://fe25fd7f-d035-4448-baaa-a67237a03cb7@Filter5050.nabxcsjghjs2004.shop:221
 vless://fef15ae1-cdc9-42ec-9c76-ea083550fd45@erfwp.fast.hosting-ip.com:80?type=xhttp&path=/erfwp?ed=2048&host=erfwp.com&mode=auto&security=none#@erfwp
 vless://telegram-deli-servers@185.146.173.59:80?path=%2Ftel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers+tel+%3A+deli_servers%3Fed%3D2048&security=none&encryption=none&host=kia%E6%9D%A5%E8%87%AA%E6%88%91%E4%BB%AC%E5%9B%A2%E9%98%9F%E7%9A%84%E7%88%B101%E6%88%91%E7%88%B1%E7%86%9F%E9%A3%9F%E5%BA%97lovedeli.speedtest.net.gOogle.com.Arvancloud.ir.realKiaa.ninjA.&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40deli_servers%20%5B3%5D
 vless://turboo-server@91.99.224.53:60123?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#➪+@FILTERK0SH++منبع+کانفیگ+رایگان
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6og5b635Zu9IEhldHpuZXIiLCJhZGQiOiI3OC40Ny4xMi45NCIsInBvcnQiOiI4MCIsInR5cGUiOiJub25lIiwiaWQiOiIwMDQ1MWI3YS1lMGE5LTRlMTktYTZlOS03ZTM4NjkzZTNmMWYiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 vmess://eyJhZGQiOiI0Ni4yNDYuMTI2LjE1NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjNWU0NmE2Yy0wYmI2LTRhYzMtYjM3NS00ZGMxM2Q2Y2RlOGQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQHZwbnNlcnZlcnJyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI1LjE4Mi4zOS40NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3ZDUyYTQwOS1hYTVhLTQ3MWYtYWNhNS1lNzYyMWJmMWI4MTMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0NCIsInBzIjoiQHZwbnNlcnZlcnJyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQHZwbnNlcnZlcnJyIPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmthdC5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
