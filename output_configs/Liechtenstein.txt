@@ -119,7 +119,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852258728.esfahan-blkaft-aaao
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852259960.esfahan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#limo
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852260413.esfahan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#limo
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852270917.esfahan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#limo
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.133:8880?mode=gun&security=none&encryption=none&type=grpc#limo
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=none&encryption=none&type=grpc#limo
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#limo
@@ -264,7 +263,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852258728.esfahan-blkaft-a
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852259960.esfahan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#limo
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852260413.esfahan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#limo
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959700852270917.esfahan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#limo
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.133:8880?mode=gun&security=none&encryption=none&type=grpc#limo
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?mode=gun&security=none&encryption=none&type=grpc#limo
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#limo

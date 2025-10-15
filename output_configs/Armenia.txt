@@ -43,6 +43,7 @@ ss://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&enc
 ss://1b368bf6-5aac-413c-a77c-229fb984d5ae@cloudgetservice.mcloudservice.site:443?path=/linkws&security=tls&encryption=none&host=maxnetvipap-cloud76.netkh3.site&type=ws#telegram
 ss://1b766abe-05da-46fa-973c-0d06d9605736@172.66.40.99:8880?path=/Telegram,@v2ray_configs_pools/Telegram,%4#telegram
 ss://1ba72f40-2c70-412f-b6c5-8da85eda7a2d@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=&encryption=none&host=fotofactory.pk&type=xhttp#tmConfigX2rayConfigX2rayTelegram---
+ss://1bd84b59-1f48-4dd1-854b-1ea07c0bc0f6@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=&encryption=none&host=fotofactory.pk&type=xhttp#44tConfigX2rayConfigX2rayTelegram---
 ss://1bdfdfd8-f7e7-4e15-b49d-7e17a36c8646@91.99.166.94:666?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#🇩🇪[Telegram:NetifyVpn]
 ss://1bdfdfd8-f7e7-4e15-b49d-7e17a36c8646@91.99.166.94:666?security=none&encryption=none&headerType=none&type=tcp#🇩🇪[Telegram:tik7net_vpn]
 ss://1d3b3c81-946a-4f64-8889-a16eb06f7690@Sd.mciickoir.ir:9620?security=none&encryption=none&headerType=http&type=tcp#@vmesskhodam
@@ -217,6 +218,7 @@ ss://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.26.226:443?type=xhttp&path=/&h
 ss://60ba0849-348a-4fe2-9b32-a6800232a357@www.speedtest.net:80?type=ws&path=/Telegram,@v2ray_configs_pools/Telegram,@v2ray_configs_pools?ed=2080&host=zZz.ZzZ.zZz.snap-Iranian-ali.Dai.sub420-mohamad.onlinE.&security=none#telegram
 ss://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#🇳🇱[Telegram:NetifyVPN]
 ss://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#🇳🇱[Telegram:tik7net_vpn]
+ss://65a792ae-a8a1-4892-9ca9-305886346f58@141.95.16.124:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#Telegram
 ss://661f6f25-1b51-4782-b2d2-994c6b97c158@91.98.70.156:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#Channel-@vmesskhodam
 ss://666a2803-43f2-4317-9661-dc978d869d47@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638895562760153914.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638895562760153914.amsterdam-prx-dnraaal.info&path=/dahstrws#telegram
 ss://666a2803-43f2-4317-9661-dc978d869d47@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638899136128783410.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638899136128783410.amsterdam-prx-dnraaal.info&path=/dahstrws#telegram
@@ -249,9 +251,11 @@ ss://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=/&sec
 ss://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#⚜️Telegram:
 ss://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#⚜️Telegram:
 ss://7f42d502-d3dc-4c0e-a0b6-da5a69dc9e97@63.250.61.157:443?type=xhttp&path=/xhttp&host=&mode=stream-one&security=none#telegram
+ss://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#🇩🇪[Telegram:NetifyVpn]
 ss://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Foqlixwai6lzpnumq&security=tls&encryption=none&host=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv&fp=random&type=ws&sni=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv#Telegram+%3A+%40V2rayEnglish`
 ss://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#@vmesskhodam
 ss://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.216.213:443?type=xhttp&path=/d&host=&mode=stream-one&security=none#telegram
+ss://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=tls&encryption=none&host=medrd.vtpmng.top&type=ws&sni=medrd.vtpmng.top#🇹🇷[Telegram:NetifyVPN]
 ss://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?path=%2F&security=tls&encryption=none&host=medrd.vtpmng.top&type=ws&sni=medrd.vtpmng.top#Telegram+%3A+%40V2rayEnglish`
 ss://83bafcc0-3639-443e-b14f-16ad8916629c@de.xn--mes34jx0kfx3c.com:11013?security=reality&encryption=none&pbk=AEd1CwrR3K18EcukiSZqBtFjh5OV9U8LsGZy45MD1V4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=download-installer.cdn.mozilla.net&sid=f2a496f4#DE-telegram-@ISVvpn
 ss://83bafcc0-3639-443e-b14f-16ad8916629c@de.xn--mes34jx0kfx3c.com:11013?security=reality&encryption=none&pbk=AEd1CwrR3K18EcukiSZqBtFjh5OV9U8LsGZy45MD1V4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=download-installer.cdn.mozilla.net&sid=f2a496f4#DE-telegram-@vpnserverrr
@@ -366,7 +370,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.163.204.94:990#🇭🇰Telegram:tik7net_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#🇪🇸[Telegram:tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.125.161:990?note=--Telegram--@tik7net_vpn--#🇱🇺[Telegram:tik7net_vpn]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990?note=--Telegram--@NetifyVPN--#🇮🇹[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.113.143.186:990?note=--Telegram--@NetifyVPN--#🇵🇹[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.163.204.94:990?note=--Telegram--@tik7net_vpn--#🇭🇺[Telegram:tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@192.71.249.108:990?note=--Telegram--@tik7net_vpn--#🇧🇪[Telegram:tik7net_vpn]
@@ -379,11 +382,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.247.151:990?note=--Telegram--@tik7net_vpn--#🇧🇬[Telegram:tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@46.183.185.37:990?note=--Telegram--@tik7net_vpn--#🇲🇰[Telegram:tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@89.46.239.231:990?note=--Telegram--@tik7net_vpn--#🇮🇱[Telegram:tik7net_vpn]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUA0NS4xNTkuMjUwLjE5MDo5OTA=#🇷🇺[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDMHNGNjQ1RjF1TTJzdnA1RU9JUlgz@91.194.160.151:1235?note=--Telegram--@NetifyVPN--#🇯🇵[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIbVpmZEduZjJMQmRraWRpdks0VjM5@81.90.31.219:443?note=--Telegram--@NetifyVPN--#🇮🇶[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVHpqd05hOEE4YWppcXRENnNkeXRQ@147.45.51.30:443?note=--Telegram--@NetifyVPN--#🇮🇹[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWUpkMm9TQzViMVJMS2dJdjc0eld4@2.56.204.171:8443#🇦🇲71@vpnserverr
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMkpsWg@45.82.254.131:8139?note=--Telegram--@NetifyVPN--#🇨🇭[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#Samourai
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR2oyckZPc0piTnhUaHJFaklYRDFq@212.113.106.76:29149?note=---Telegram---@NetifyVPN---#🇦🇹[Telegram:NetifyVpn]
@@ -407,7 +410,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#Te
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppemlsMEdGa0hOeWVYbWNVaEI5cTVw@103.6.170.220:8443#🇦🇺[Telegram:@tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppemlsMEdGa0hOeWVYbWNVaEI5cTVw@103.6.170.220:8443?note=--Telegram--@NetifyVPN--#🇦🇺[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqODg3TTlEeFd6ZDVKcTk3MWUzWTFC@94.159.96.245:11902#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20am%20Main%2C%20HE%2C%20Germany
-ss://YWVzLTEyOC1nY206bElOYUFMbkhJaUg0Y1NqOHBKbjZUUT09@202.182.98.223:9443?note=--Telegram--@NetifyVPN--#🇯🇵[Telegram:NetifyVpn]
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989#%F0%9F%87%A6%F0%9F%87%B2AM-146.185.248.22-8638
 ss://YWVzLTI1Ni1nY206N2Y5MTJlYmYtMDA5NC00NjFmLWI2NWUtZmM5ZDkzMWJmMDEy@45.134.13.75:443?note=--Telegram--@NetifyVPN--#🇦🇪[Telegram:NetifyVpn]
 ss://YWVzLTI1Ni1nY206QUp0VjRWQ0xhVlFVS0dINGcxQURTeXF2ekNBMG1TcE40NmFuMTJaZUlLaHg=@216.132.112.116:34958#Telegram+%3A+%40V2rayEnglish
@@ -462,6 +464,7 @@ ss://bd1ccdd4-a1fe-4f37-c3dd-eaab85923eb8@91.99.70.212:443?type=grpc&serviceName
 ss://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@MODERN-pRomISe.SEOtOolSForyOU.co.Uk:80?path=/&security=&encryption=none&type=ws#telegram
 ss://be288b40-1403-4343-a048-1815f8c8ff8c@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=&encryption=none&host=fotofactory.pk&type=xhttp#1ConfigX2rayConfigX2rayTelegram---
 ss://bf06cc13-9df0-4e99-a41f-8170fcdd6945@64.225.94.198:53340?mode=auto&path=/v2ray_configs_pools&security=reality&encryption=none&pbk=FPy4G6lfNODBdO-cMHxWDWR1TgDhRG0m-1HlosFQoHI&fp=chrome&spx=/&type=xhttp&sni=zhaket.com&sid=d3eb8c0fa0b61e36#telegram
+ss://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@38.180.27.182:5901?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&encryption=none&flow=#🇦🇪[Telegram:NetifyVPN]
 ss://c338c927-32d0-476c-a65d-6b632ee1d08d@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=DaNgerOus-InsTruMent.oneeat.CO&type=ws#telegram
 ss://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.177.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram
 ss://c39d53d9-bcc7-48ee-a8a9-c08987b61263@15.204.75.105:443?type=tcp&security=reality&pbk=UVhwRVjACeQugwdCeoM3isxOY8bDErxgXL-suDg6v14&fp=chrome&sni=store.steampowered.com&sid=3ae250a89443&spx=/#telegram
@@ -665,7 +668,6 @@ trojan://19ZDV7mNAW@91.107.177.122:443?type=tcp&path=/@ISVvpn&host=fonts.gstatic
 trojan://8T7egv3W4T@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://Aimer@188.164.159.43:2083?path=/?ed?ed=2048@v2ray_configs_pools--@v2ray_configs_pools--@v2ray_configs_pools--@v2ray_configs_pools&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#telegram
 trojan://DJprIqUa4b@mashti.isvcloud2.ir:1010?security=none&headerType=&type=tcp#telegram-@ISVvpn
-trojan://NeA9Y8cXve@flopr.isvcloud2.ir:36022?security=none&headerType=&type=tcp#telegram@ISVvpn
 trojan://OSXRComila@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://PKsmz7W2sx@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
 trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40teamvpnpro%20%5B7%5D
@@ -675,6 +677,7 @@ trojan://mXP68BRNvU@66.59.208.7:17136?security=none&headerType=&type=tcp#⚜️T
 trojan://n611CzPX8k@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
 trojan://on4fCamU2E@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://wb6368@92.243.75.49:2087?path=/&security=tls&host=hsdgbuys.pages.dev&type=ws&sni=hsdgbuys.pages.dev#Telegram:@tik7net_vpn
+trojan://wb6368@92.243.75.49:2087?path=/&security=tls&host=hsdgbuys.pages.dev&type=ws&sni=hsdgbuys.pages.dev#👉🆔@v2ray_configs_pool📡🇰🇭®️Cambodia©️Phnom
 trojan://x0plLSzZZI@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@vmesskhodam
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@sss31842.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@vmesskhodam
@@ -721,6 +724,7 @@ vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&
 vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@cloudgetservice.mcloudservice.site:443?path=/linkws&security=tls&encryption=none&host=maxnetvipap-cloud76.netkh3.site&type=ws#telegram
 vless://1b766abe-05da-46fa-973c-0d06d9605736@172.66.40.99:8880?path=/Telegram,@v2ray_configs_pools/Telegram,%4#telegram
 vless://1ba72f40-2c70-412f-b6c5-8da85eda7a2d@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=&encryption=none&host=fotofactory.pk&type=xhttp#tmConfigX2rayConfigX2rayTelegram---
+vless://1bd84b59-1f48-4dd1-854b-1ea07c0bc0f6@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=&encryption=none&host=fotofactory.pk&type=xhttp#44tConfigX2rayConfigX2rayTelegram---
 vless://1bdfdfd8-f7e7-4e15-b49d-7e17a36c8646@91.99.166.94:666?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#🇩🇪[Telegram:NetifyVpn]
 vless://1bdfdfd8-f7e7-4e15-b49d-7e17a36c8646@91.99.166.94:666?security=none&encryption=none&headerType=none&type=tcp#🇩🇪[Telegram:tik7net_vpn]
 vless://1d3b3c81-946a-4f64-8889-a16eb06f7690@Sd.mciickoir.ir:9620?security=none&encryption=none&headerType=http&type=tcp#@vmesskhodam
@@ -895,6 +899,7 @@ vless://606ca99f-93ec-4fcb-b45d-86d0d3fb149d@172.105.26.226:443?type=xhttp&path=
 vless://60ba0849-348a-4fe2-9b32-a6800232a357@www.speedtest.net:80?type=ws&path=/Telegram,@v2ray_configs_pools/Telegram,@v2ray_configs_pools?ed=2080&host=zZz.ZzZ.zZz.snap-Iranian-ali.Dai.sub420-mohamad.onlinE.&security=none#telegram
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#🇳🇱[Telegram:NetifyVPN]
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#🇳🇱[Telegram:tik7net_vpn]
+vless://65a792ae-a8a1-4892-9ca9-305886346f58@141.95.16.124:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#Telegram
 vless://661f6f25-1b51-4782-b2d2-994c6b97c158@91.98.70.156:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#Channel-@vmesskhodam
 vless://666a2803-43f2-4317-9661-dc978d869d47@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638895562760153914.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638895562760153914.amsterdam-prx-dnraaal.info&path=/dahstrws#telegram
 vless://666a2803-43f2-4317-9661-dc978d869d47@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638899136128783410.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638899136128783410.amsterdam-prx-dnraaal.info&path=/dahstrws#telegram
@@ -927,9 +932,11 @@ vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=/&
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#⚜️Telegram:
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#⚜️Telegram:
 vless://7f42d502-d3dc-4c0e-a0b6-da5a69dc9e97@63.250.61.157:443?type=xhttp&path=/xhttp&host=&mode=stream-one&security=none#telegram
+vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=edc32e3b.bpb-panel-en-87s.pages.dev#🇩🇪[Telegram:NetifyVpn]
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Foqlixwai6lzpnumq&security=tls&encryption=none&host=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv&fp=random&type=ws&sni=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv#Telegram+%3A+%40V2rayEnglish`
 vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#@vmesskhodam
 vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.216.213:443?type=xhttp&path=/d&host=&mode=stream-one&security=none#telegram
+vless://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=tls&encryption=none&host=medrd.vtpmng.top&type=ws&sni=medrd.vtpmng.top#🇹🇷[Telegram:NetifyVPN]
 vless://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@medrd.vtpmng.top:8443?path=%2F&security=tls&encryption=none&host=medrd.vtpmng.top&type=ws&sni=medrd.vtpmng.top#Telegram+%3A+%40V2rayEnglish`
 vless://83bafcc0-3639-443e-b14f-16ad8916629c@de.xn--mes34jx0kfx3c.com:11013?security=reality&encryption=none&pbk=AEd1CwrR3K18EcukiSZqBtFjh5OV9U8LsGZy45MD1V4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=download-installer.cdn.mozilla.net&sid=f2a496f4#DE-telegram-@ISVvpn
 vless://83bafcc0-3639-443e-b14f-16ad8916629c@de.xn--mes34jx0kfx3c.com:11013?security=reality&encryption=none&pbk=AEd1CwrR3K18EcukiSZqBtFjh5OV9U8LsGZy45MD1V4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=download-installer.cdn.mozilla.net&sid=f2a496f4#DE-telegram-@vpnserverrr
@@ -1073,6 +1080,7 @@ vless://bd1ccdd4-a1fe-4f37-c3dd-eaab85923eb8@91.99.70.212:443?type=grpc&serviceN
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@MODERN-pRomISe.SEOtOolSForyOU.co.Uk:80?path=/&security=&encryption=none&type=ws#telegram
 vless://be288b40-1403-4343-a048-1815f8c8ff8c@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=&encryption=none&host=fotofactory.pk&type=xhttp#1ConfigX2rayConfigX2rayTelegram---
 vless://bf06cc13-9df0-4e99-a41f-8170fcdd6945@64.225.94.198:53340?mode=auto&path=/v2ray_configs_pools&security=reality&encryption=none&pbk=FPy4G6lfNODBdO-cMHxWDWR1TgDhRG0m-1HlosFQoHI&fp=chrome&spx=/&type=xhttp&sni=zhaket.com&sid=d3eb8c0fa0b61e36#telegram
+vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@38.180.27.182:5901?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&encryption=none&flow=#🇦🇪[Telegram:NetifyVPN]
 vless://c338c927-32d0-476c-a65d-6b632ee1d08d@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=DaNgerOus-InsTruMent.oneeat.CO&type=ws#telegram
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.177.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#telegram
 vless://c39d53d9-bcc7-48ee-a8a9-c08987b61263@15.204.75.105:443?type=tcp&security=reality&pbk=UVhwRVjACeQugwdCeoM3isxOY8bDErxgXL-suDg6v14&fp=chrome&sni=store.steampowered.com&sid=3ae250a89443&spx=/#telegram
@@ -1270,11 +1278,12 @@ vless://telegram-id-Arfilter@172.66.40.99:443?path=/telegram-ArV2ray,telegram-Ar
 vless://telegram-id-Arfilter@172.66.40.99:443?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=fBs.SpEeDtEsT2029.CoM&fp=chrome&type=ws&sni=fBs.SpEeDtEsT2029.CoM#🇩🇪Telegram
 vless://telegram-id-Arfilter@172.66.40.99:443?path=/telegram-v2ray_configs_pools?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=eDg.SpEeDtEsT2029.CoM&fp=chrome&type=ws&sni=eDg.SpEeDtEsT2029.CoM#telegram
 vless://telegram-id-Arfilter@www.speedtest.net:443?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=wd.pdri.blog&fp=chrome&type=ws&sni=wd.pdri.blog#@ConfigX2rayTLS3TLShttps://t.me/ConfigX2ray5@ConfigX2rayConfigX2rayTelegram---
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNTcuMTI5LjI1LjIyIiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwiaG9zdCI6Im8ubWV0dWppLmNvbSIsInBhdGgiOiJcL2xpbmt2d3MifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNTcuMTI5LjI0LjEyNCIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsImhvc3QiOiJhdmVpcm9yLmNvbSIsInBhdGgiOiJcL2xpbmt2d3MifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNTcuMTI5LjI1LjI1IiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwiaG9zdCI6ImYua2hpbGVpLmNvbSIsInBhdGgiOiJcL2xpbmt2d3MifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNTcuMTI5LjI4LjY5IiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwiaG9zdCI6ImJhcmFkaWhhLmNvbSIsInBhdGgiOiJcL2xpbmt2d3MifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoic2VyaWJ1cy5vcmciLCJwb3J0IjoiNDQzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOiIxIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoic2VyaWJ1cy5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6InNlcmlidXMub3JnIiwiYWxwbiI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiZmFwZW5nLm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJmYXBlbmcub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJmYXBlbmcub3JnIiwiYWxwbiI6IiJ9
 vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjE3Mi4xMTEuMTQ2LjY0IiwicG9ydCI6ODAsImlkIjoiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiXC92bWVzc1wvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9
-vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjQ3LjIzOS4xNDEuNzQiLCJwb3J0IjoxMTg4NiwiaWQiOiIwZDM2YjAxNy02ZDdjLTQ5M2QtYmIxMi01NWMzNGZhZjZlZmMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiJcLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6InNlcmthdC5vcmciLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJzZXJrYXQub3JnIiwiYWxwbiI6bnVsbCwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZXJrYXQub3JnIiwiZnAiOm51bGx9
 vmess://eyJhZGQiOiI0MC4xNjAuMTYuMjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJrYXQub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HuvCfh7JUZWxlZ3JhbTp0aWs3bmV0X3ZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZXJrYXQub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI0NS42Ny4yMzAuNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzE0MTg1ZjctOTMxZC00NjU2LTkyMmQtMDg1N2U3YWZkMjI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMTA1MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmEgUlUgfCBcdWQ4M2RcdWRkMTMgVk1FU1MgfCBATmFtaXJhQ29uZmlncyBbNzBdIn0
 vmess://eyJhZGQiOiI1LjE4OC4yMDAuMjI0IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6ImVlLTEuc3R1bm5lbC5jYyIsImlkIjoiMzUzMTIwMzUtMzMyMC00OTM5LWEwMzUtMzcyMDMxMzAzMjIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6Ijg0NDMiLCJwcyI6InRlbGVncmFtLUBJU1Z2cG4iLCJzY3kiOiJub25lIiwic25pIjoiZWUtMS5zdHVubmVsLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=

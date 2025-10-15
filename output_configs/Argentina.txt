@@ -19,8 +19,10 @@ ss://0f2e0501-5a4f-45b7-bd5e-209169cd34f9@37.152.173.139:8464?security=none&encr
 ss://10377e13-ba4e-4b86-ad26-08ac573bfa29@57.130.29.231:46393?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@TEHRANARGO
 ss://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?encryption=none&security=tls&sni=sni.aizrf.com&type=ws&host=sni.aizrf.com&path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#@Daily_Configs
 ss://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?encryption=none&security=tls&sni=sni.aizrf.com&type=ws&host=sni.aizrf.com&path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#Tel:
+ss://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@V2RAYROZ
 ss://12345678-1234-1234-1234-123456789123@185.251.80.54:2096?path=/snippets#/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@Daily_Configs
 ss://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?encryption=none&security=tls&sni=sni.aizrf.com&type=ws&host=sni.aizrf.com&path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#@Daily_Configs
+ss://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@V2RAYROZ
 ss://13363f83-f3a2-4ae5-b62a-ed5ed81193bf@haji.paliss.ir:6666?security=&encryption=none&headerType=&type=tcp#surfboardv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20191ms
 ss://13dea011-7fe6-43db-a0cb-e9661cd86b25@srv7.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#pardazeshVPN
 ss://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#🇳🇱@AZARBAYJAB1
@@ -234,10 +236,10 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷@AZARBAYJAB1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#🇩🇪@AZARBAYJAB1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇫🇷®️France©️Paris🅿️ping:75.0ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@freenettir📡🇫🇷®️France©️Paris🅿️ping:86.44ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.154:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇫🇷®️France©️Paris🅿️ping:72.31ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇫🇷®️France©️Paris🅿️ping:75.54ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷®️France©️Paris🅿️ping:77.43ms
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?encryption=none&security=none&fp=chrome&type=grpc#👉🆔@freenettir📡🇫🇷®️France©️Paris🅿️ping:73.92ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=grpc#@TEHRANARGO
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷®️France©️Paris🅿️ping:79.44ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷®️France©️Paris🅿️ping:75.92ms
@@ -251,7 +253,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.in
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#@AZARBAYJAB1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷@AZARBAYJAB1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638937544595891094.madrid-prx-dnraacl.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷®️France©️Paris🅿️ping:88.9ms
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008237661.vienna-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc#👉🆔@freenettir📡🇫🇷®️France©️Paris🅿️ping:74.68ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@638937994136550920.prague-prx-dnraacl.info:8880?security=&encryption=none&type=grpc#👉🆔@freenettir📡🇫🇷®️France©️Paris🅿️ping:74.35ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407106987.copenhagen-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱@AZARBAYJAB1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638940560407106987.copenhagen-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#surfboardv2ray%20🔓%20VL-GRPC-N/A%20🇳🇱%20NL%20108ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638940926058862147.stockholm-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷®️France©️Paris🅿️ping:112.6ms
@@ -269,7 +271,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=n
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#l📡🇫🇷®️France©️Paris🅿️ping:90.09ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇫🇷®️France©️Paris🅿️ping:80.46ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=&type=grpc&encryption=none#👉🆔@freenettir📡🇫🇷®️France©️Paris🅿️ping:74.53ms
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.118.98:8880?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&security=&type=grpc&encryption=none#👉🆔@freenettir📡🇫🇷®️France©️Paris🅿️ping:74.53ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#@AZARBAYJAB1
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2aryng_vpn%20%5B13%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&fp=chrome&type=grpc#@AZARBAYJAB1
@@ -339,8 +340,10 @@ vless://0f2e0501-5a4f-45b7-bd5e-209169cd34f9@37.152.173.139:8464?security=none&e
 vless://10377e13-ba4e-4b86-ad26-08ac573bfa29@57.130.29.231:46393?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@TEHRANARGO
 vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?encryption=none&security=tls&sni=sni.aizrf.com&type=ws&host=sni.aizrf.com&path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#@Daily_Configs
 vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?encryption=none&security=tls&sni=sni.aizrf.com&type=ws&host=sni.aizrf.com&path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#Tel:
+vless://12345678-1234-1234-1234-123456789123@154.198.173.54:2096?path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@V2RAYROZ
 vless://12345678-1234-1234-1234-123456789123@185.251.80.54:2096?path=/snippets#/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@Daily_Configs
 vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?encryption=none&security=tls&sni=sni.aizrf.com&type=ws&host=sni.aizrf.com&path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#@Daily_Configs
+vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096?path=/snippets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#@V2RAYROZ
 vless://13363f83-f3a2-4ae5-b62a-ed5ed81193bf@haji.paliss.ir:6666?security=&encryption=none&headerType=&type=tcp#surfboardv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20191ms
 vless://13dea011-7fe6-43db-a0cb-e9661cd86b25@srv7.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#pardazeshVPN
 vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#🇳🇱@AZARBAYJAB1
@@ -526,6 +529,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷@AZARBAYJAB1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#🇩🇪@AZARBAYJAB1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇫🇷®️France©️Paris🅿️ping:75.0ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=none&encryption=none&type=grpc#👉🆔@freenettir📡🇫🇷®️France©️Paris🅿️ping:86.44ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.154:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇫🇷®️France©️Paris🅿️ping:72.31ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.160:8880?mode=gun&security=none&encryption=none&type=grpc#📡🇫🇷®️France©️Paris🅿️ping:75.54ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷®️France©️Paris🅿️ping:77.43ms

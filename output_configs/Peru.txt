@@ -1,4 +1,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#V2_Open
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UUVwZ2gwQUpXVHM1OE5tUmZzVmFR@102.130.49.69:8443#%F0%9F%87%BF%F0%9F%87%A6%20ZA%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40v2rayopen%20%5B16%5D
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.229.28:989#%F0%9F%87%B5%F0%9F%87%AAPE-190.120.229.28-8324
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B14%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B15%5D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B14%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B15%5D
