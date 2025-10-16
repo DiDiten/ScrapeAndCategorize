@@ -16,7 +16,6 @@ ss://79af4327-5a52-4f16-8084-89a4c796c667@www.speedtest.net:2095?path=/@ZedBaz_v
 ss://844df730-9b60-4f5f-a28f-d3fa9d456117@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn
 ss://85d87a58-1406-4050-aec8-1c16487fad38@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn
 ss://8e4a9e11-177c-47c5-8894-2e5ac0b84ec5@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn2
-ss://9f09dfa5-1b93-ba74-31b4-9101ccf5dad9@185.75.135.174:9954?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#@V2rayBaaz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eVhjN042MWRTVTlmaXR4M3QzeDhG@185.140.14.113:443#@V2rayBaaz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#%F0%9F%87%A7%F0%9F%87%B7%20ROSE%E2%80%93%20Brazil%20%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.93.173.218:990#%F0%9F%87%A7%F0%9F%87%B4%20La%20Paz%2C%20L%2C%20Bolivia
@@ -55,7 +54,6 @@ vless://79af4327-5a52-4f16-8084-89a4c796c667@www.speedtest.net:2095?path=/@ZedBa
 vless://844df730-9b60-4f5f-a28f-d3fa9d456117@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn
 vless://85d87a58-1406-4050-aec8-1c16487fad38@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn
 vless://8e4a9e11-177c-47c5-8894-2e5ac0b84ec5@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn2
-vless://9f09dfa5-1b93-ba74-31b4-9101ccf5dad9@185.75.135.174:9954?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#@V2rayBaaz
 vless://a6c64faf-33da-4cd4-b851-29a755e3698a@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn
 vless://ab5816eb-900f-425e-87a7-9e2ff6ff2984@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn&host=mx.mmadvip8563.ir&security=none#@ZedBaz_vpn
 vless://ab5816eb-900f-425e-87a7-9e2ff6ff2984@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn&host=mx.mmadvip8563.ir&security=none#@ZedBaz_vpn2
