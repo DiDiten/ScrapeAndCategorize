@@ -1,8 +1,6 @@
-ss://0a153e35-72db-4860-8da5-4b02ff13d698@46.8.229.85:41262?security=reality&encryption=none&pbk=qw6Eb9essNGXPtKYRQTX61DD9dCS2LJ-myCMjsxenBU&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=google.com&sid=ada95ed32013#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40flyv2ray%20%5B15%5D
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316586254.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638959783653647289.lahijan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
-vless://0a153e35-72db-4860-8da5-4b02ff13d698@46.8.229.85:41262?security=reality&encryption=none&pbk=qw6Eb9essNGXPtKYRQTX61DD9dCS2LJ-myCMjsxenBU&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=google.com&sid=ada95ed32013#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40flyv2ray%20%5B15%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638952778316586254.hamedan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638953873686412975.lahijan-drc-tusaas.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959783653647289.lahijan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40flyv2ray%3A%3AXX

@@ -3,6 +3,7 @@ ss://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.190.183:443?type=tcp&encryption=
 ss://2cf21f7f-9f29-44b0-893d-08a6e2e09704@109.123.229.205:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=dash.cloudflare.com&pbk=ci7VwV3lQURNI2oRR3GDdkBbHXh0zbSeqciL7tiKO10&fp=chrome#%3E%3E%40DailyV2RY%3A%3AJP
 ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?security=tls&sni=smart.topfornnow.org&alpn=h3%2Ch2&fp=chrome&type=ws&path=/&host=smart.topfornnow.org&encryption=none#%3E%3E%40DailyV2RY%3A%3AXX
 ss://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&sid=be8a0c77d5ff88d5&type=grpc&serviceName=aec69a9d2944dd7468412f47#%3E%3E%40DailyV2RY%3A%3ACH
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%20%281%29
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108687.dublin-drc-tusaas.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638946804017448326.kerman-drc-tusacaf.info:8880?encryption=none&security=&sni=&type=grpc&alpn=&host=&path=#%3E%3E%40DailyV2RY%3A%3AXX
