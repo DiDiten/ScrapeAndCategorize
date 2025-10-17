@@ -21,7 +21,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.133:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.133-0200
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.142-0190
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.152:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.152-0201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.137:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.137-0203
 ss://d80325a2-def3-4a3b-af6a-8cf64f8e4fea@89.46.217.160:153?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#🇦🇪
 vless://7bb86065-7ff2-4d94-b59f-b50b414efc99@93.127.180.178:443?security=none&encryption=none&headerType=none&type=tcp#r♡ya🇦🇪
 vless://7bb86065-7ff2-4d94-b59f-b50b414efc99@93.127.180.178:443?security=none&encryption=none&headerType=none&type=tcp#🇦🇪🇦🇪جدید
