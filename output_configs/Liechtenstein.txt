@@ -19,6 +19,7 @@ ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
 ss://3d9f9671-a9c0-4f05-bf9b-0ab1f1b44654@109.237.99.63:54899?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40v2Meli
 ss://40090834-1406-4c25-9c51-326d897e9aab@sir.serverpower657.fun:26810?type=tcp&security=none#%40v2Meli
 ss://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh31v7.hiddendom.shop#@meli_proxyy
+ss://44cd6985-0949-45ec-b795-8be60cde5ac2@pic2.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#%40meli_proxyy
 ss://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40v2Meli
 ss://4bcb875b-bc40-4455-b242-cc32e58ae871@104.18.26.90:2096?encryption=none&security=tls&sni=638874929583386193.zagreb-prx-dnraaad.info&type=ws&alpn=h3h2&host=638874929583386193.zagreb-prx-dnraaad.info&path=/nodudrws#@meli_proxyy
 ss://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#%40v2Meli
@@ -168,6 +169,7 @@ vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://3d9f9671-a9c0-4f05-bf9b-0ab1f1b44654@109.237.99.63:54899?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40v2Meli
 vless://40090834-1406-4c25-9c51-326d897e9aab@sir.serverpower657.fun:26810?type=tcp&security=none#%40v2Meli
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh31v7.hiddendom.shop#@meli_proxyy
+vless://44cd6985-0949-45ec-b795-8be60cde5ac2@pic2.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#%40meli_proxyy
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40v2Meli
 vless://4bcb875b-bc40-4455-b242-cc32e58ae871@104.18.26.90:2096?encryption=none&security=tls&sni=638874929583386193.zagreb-prx-dnraaad.info&type=ws&alpn=h3h2&host=638874929583386193.zagreb-prx-dnraaad.info&path=/nodudrws#@meli_proxyy
 vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#%40v2Meli
