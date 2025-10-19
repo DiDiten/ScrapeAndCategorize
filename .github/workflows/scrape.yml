@@ -2,11 +2,11 @@ name: Scrape V2Ray Configs
 
 on:
   push:
-    branches:
-      - main
-  workflow_dispatch: 
-  schedule:
-    - cron: '0 */6 * * *' 
+  workflow_dispatch:
+#    branches:
+#      - main
+#  schedule:
+#    - cron: '0 */6 * * *' 
 
 jobs:
   build-and-commit:
