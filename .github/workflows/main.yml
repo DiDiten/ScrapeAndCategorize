@@ -2,13 +2,13 @@ name: Generate Clash Configs
 
 on:
   push:
-    branches:
-      - main
-    paths:
-      - output_configs/**
-  workflow_dispatch: 
-  schedule:
-    - cron: '0 */8 * * *' 
+  workflow_dispatch:
+#    branches:
+#      - main
+#    paths:
+#      - output_configs/**
+#  schedule:
+#    - cron: '0 */8 * * *' 
 
 jobs:
   build:
